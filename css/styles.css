@@ -361,6 +361,26 @@ section:nth-child(even) {
   line-height: 1.5;
 }
 
+/* Collapsed state — hide items 4 and beyond */
+.timeline-collapsed .timeline-item:nth-child(n+4) {
+  display: none;
+}
+
+.timeline-toggle {
+  background: none;
+  border: none;
+  padding: 12px 0 0;
+  font-size: 13px;
+  color: #2a5298;
+  cursor: pointer;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  font-weight: 500;
+}
+
+.timeline-toggle:hover {
+  text-decoration: underline;
+}
+
 /* ─── Links ─────────────────────────────────────────────────────────────────── */
 
 .links-list {

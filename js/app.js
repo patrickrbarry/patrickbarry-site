@@ -212,6 +212,16 @@ async function loadSpotify() {
   }
 }
 
+// ── Career Timeline ───────────────────────────────────────────────────────────
+
+function toggleTimeline() {
+  const timeline = document.getElementById('careerTimeline');
+  const btn = document.getElementById('timelineToggle');
+  if (!timeline || !btn) return;
+  const expanded = timeline.classList.toggle('timeline-collapsed');
+  btn.textContent = expanded ? 'Show full timeline ↓' : 'Show less ↑';
+}
+
 // ── Init ─────────────────────────────────────────────────────────────────────
 
 function init() {
