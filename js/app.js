@@ -90,10 +90,96 @@ async function loadLinks() {
   }
 }
 
+// ── Spotify ───────────────────────────────────────────────────────────────────
+
+/**
+ * Return a human-readable "X hours ago" string from an ISO timestamp.
+ */
+function timeAgo(isoStr) {
+  if (!isoStr) return null;
+  const diff = Math.floor((Date.now() - new Date(isoStr)) / 1000);
+  if (diff < 60)       return 'just now';
+  if (diff < 3600)     return `${Math.floor(diff / 60)}m ago`;
+  if (diff < 86400)    return `${Math.floor(diff / 3600)}h ago`;
+  return `${Math.floor(diff / 86400)}d ago`;
+}
+
+/**
+ * Render the Spotify section from spotify.json data.
+ */
+function renderSpotify(data) {
+  const container = document.getElementById('spotifyData');
+  if (!container) return;
+
+  const { top_tracks = [], top_artists = [], updated_at } = data;
+
+  if (!updated_at && top_tracks.length === 0) {
+    container.innerHTML = '<p class="spotify-pending">Spotify data will appear once the first sync runs.</p>';
+    return;
+  }
+
+  const tracksHtml = top_tracks.map((t, i) => `
+    <a class="spotify-track" href="${escapeHtml(t.url)}" target="_blank" rel="noopener noreferrer">
+      <span class="track-num">${i + 1}</span>
+      ${t.image ? `<img class="track-art" src="${escapeHtml(t.image)}" alt="" loading="lazy">` : '<div class="track-art"></div>'}
+      <span class="track-info">
+        <span class="track-name">${escapeHtml(t.name)}</span>
+        <span class="track-artist">${escapeHtml(t.artist)}</span>
+      </span>
+    </a>
+  `).join('');
+
+  const artistsHtml = top_artists.map(a => `
+    <a class="spotify-artist" href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">
+      ${a.image ? `<img class="artist-photo" src="${escapeHtml(a.image)}" alt="${escapeHtml(a.name)}" loading="lazy">` : '<div class="artist-photo"></div>'}
+      <span class="artist-name">${escapeHtml(a.name)}</span>
+    </a>
+  `).join('');
+
+  const ago = timeAgo(updated_at);
+
+  container.innerHTML = `
+    <div class="spotify-tracks">${tracksHtml}</div>
+    ${top_artists.length ? `
+      <p class="spotify-artists-label">Top Artists</p>
+      <div class="spotify-artists">${artistsHtml}</div>
+    ` : ''}
+    <div class="spotify-footer">
+      ${ago ? `<span class="spotify-updated">Updated ${ago}</span>` : ''}
+      <a class="spotify-logo" href="https://open.spotify.com" target="_blank" rel="noopener noreferrer">
+        ♫ Spotify
+      </a>
+    </div>
+  `;
+}
+
+/**
+ * Load and render spotify.json.
+ */
+async function loadSpotify() {
+  const container = document.getElementById('spotifyData');
+  if (!container) return;
+
+  try {
+    const res = await fetch('./data/spotify.json');
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    renderSpotify(data);
+  } catch (err) {
+    console.error('Failed to load Spotify data:', err);
+    container.innerHTML = '<p class="spotify-loading">Could not load listening data.</p>';
+  }
+}
+
 // ── Init ─────────────────────────────────────────────────────────────────────
 
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', loadLinks);
-} else {
+function init() {
   loadLinks();
+  loadSpotify();
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', init);
+} else {
+  init();
 }
