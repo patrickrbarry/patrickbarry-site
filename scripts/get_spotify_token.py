@@ -22,7 +22,7 @@ except ImportError:
 
 # ── You can use ANY redirect URI as long as it matches what's in your Spotify app.
 # ── We recommend https://localhost — add exactly this to your Spotify app settings.
-REDIRECT_URI = "https://localhost"
+REDIRECT_URI = "http://localhost:8080"
 SCOPES = "user-read-recently-played user-top-read"
 
 print("\n── Spotify Token Setup ──────────────────────────")
@@ -44,7 +44,7 @@ webbrowser.open(auth_url)
 
 print("\n─────────────────────────────────────────────────")
 print("After you click 'Agree', your browser will redirect to a URL that")
-print("starts with:  https://localhost/?code=...")
+print("starts with:  http://localhost:8080/?code=...")
 print("")
 print("The page may show a 'connection refused' error — that's fine.")
 print("Just copy the full URL from your browser's address bar and paste it below.")
