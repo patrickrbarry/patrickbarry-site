@@ -1,5 +1,99 @@
 {
-  "updated_at": null,
-  "top_tracks": [],
-  "top_artists": []
+  "updated_at": "2026-03-11T23:22:13Z",
+  "top_tracks": [
+    {
+      "name": "Madison",
+      "artist": "Drugdealer",
+      "album": "Hiding in Plain Sight",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+      "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
+    },
+    {
+      "name": "Von dutch",
+      "artist": "Charli xcx",
+      "album": "BRAT",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f88b43d15fd14e9525338b59",
+      "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
+    },
+    {
+      "name": "Trinidad",
+      "artist": "Geese",
+      "album": "Getting Killed",
+      "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+      "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
+    },
+    {
+      "name": "Baby",
+      "artist": "Drugdealer, Tim Presley",
+      "album": "Hiding in Plain Sight",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+      "url": "https://open.spotify.com/track/1Pmr9vJtaEvgq8iyHQdoWa"
+    },
+    {
+      "name": "Someone to Love",
+      "artist": "Drugdealer",
+      "album": "Hiding in Plain Sight",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+      "url": "https://open.spotify.com/track/2d6qSYAHWRgzRFSyrodwgB"
+    },
+    {
+      "name": "Reality TV Argument Bleeds",
+      "artist": "Wednesday",
+      "album": "Bleeds",
+      "image": "https://i.scdn.co/image/ab67616d00001e0279cc56467c944a260be5c2a9",
+      "url": "https://open.spotify.com/track/50RLmAQv8YOGDi5iexOjH3"
+    },
+    {
+      "name": "Profane Prophecy",
+      "artist": "The Black Crowes",
+      "album": "Profane Prophecy and Pharmacy Chronicles",
+      "image": "https://i.scdn.co/image/ab67616d00001e0233182f233198da066f21e882",
+      "url": "https://open.spotify.com/track/5EIMb9DtKFDvq9JSHgmVbs"
+    },
+    {
+      "name": "The Bird",
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f8e77075414234fd77fce32b",
+      "url": "https://open.spotify.com/track/7pamxApUs3CE8t7tKmUJ6Z"
+    }
+  ],
+  "top_artists": [
+    {
+      "name": "Drugdealer",
+      "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+      "genres": [],
+      "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+    },
+    {
+      "name": "Anderson .Paak",
+      "image": "https://i.scdn.co/image/ab6761610000517496287bd47570ff13f0c01496",
+      "genres": [],
+      "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+    },
+    {
+      "name": "Geese",
+      "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+      "genres": [],
+      "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+    },
+    {
+      "name": "Wednesday",
+      "image": "https://i.scdn.co/image/ab67616100005174cbf22720296d758d8b373a85",
+      "genres": [],
+      "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+    },
+    {
+      "name": "The Black Crowes",
+      "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+      "genres": [],
+      "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+    },
+    {
+      "name": "MJ Lenderman",
+      "image": "https://i.scdn.co/image/ab6761610000517427fa0080c12d5330cf5562b8",
+      "genres": [],
+      "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+    }
+  ]
 }
