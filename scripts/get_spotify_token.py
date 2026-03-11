@@ -20,9 +20,8 @@ except ImportError:
     subprocess.check_call([sys.executable, "-m", "pip", "install", "requests", "-q"])
     import requests
 
-# ── You can use ANY redirect URI as long as it matches what's in your Spotify app.
-# ── We recommend https://localhost — add exactly this to your Spotify app settings.
-REDIRECT_URI = "http://localhost:8080"
+# ── Redirect URI must match exactly what's saved in your Spotify app settings.
+REDIRECT_URI = "https://patrickbarry.netlify.app"
 SCOPES = "user-read-recently-played user-top-read"
 
 print("\n── Spotify Token Setup ──────────────────────────")
@@ -43,11 +42,10 @@ print(auth_url)
 webbrowser.open(auth_url)
 
 print("\n─────────────────────────────────────────────────")
-print("After you click 'Agree', your browser will redirect to a URL that")
-print("starts with:  http://localhost:8080/?code=...")
+print("After you click 'Agree', your browser will redirect to patrickbarry.netlify.app")
+print("with a long '?code=...' at the end of the URL.")
 print("")
-print("The page may show a 'connection refused' error — that's fine.")
-print("Just copy the full URL from your browser's address bar and paste it below.")
+print("Copy the FULL URL from your browser's address bar and paste it below.")
 print("─────────────────────────────────────────────────\n")
 
 redirect_url = input("Paste the full redirect URL here: ").strip()
