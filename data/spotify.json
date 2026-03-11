@@ -1,99 +1,297 @@
 {
-  "updated_at": "2026-03-11T23:28:51Z",
-  "top_tracks": [
-    {
-      "name": "Madison",
-      "artist": "Drugdealer",
-      "album": "Hiding in Plain Sight",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-      "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
-    },
-    {
-      "name": "Von dutch",
-      "artist": "Charli xcx",
-      "album": "BRAT",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f88b43d15fd14e9525338b59",
-      "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
-    },
-    {
-      "name": "Trinidad",
-      "artist": "Geese",
-      "album": "Getting Killed",
-      "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
-      "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
-    },
-    {
-      "name": "Baby",
-      "artist": "Drugdealer, Tim Presley",
-      "album": "Hiding in Plain Sight",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-      "url": "https://open.spotify.com/track/1Pmr9vJtaEvgq8iyHQdoWa"
-    },
-    {
-      "name": "Someone to Love",
-      "artist": "Drugdealer",
-      "album": "Hiding in Plain Sight",
-      "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-      "url": "https://open.spotify.com/track/2d6qSYAHWRgzRFSyrodwgB"
-    },
-    {
-      "name": "Reality TV Argument Bleeds",
-      "artist": "Wednesday",
-      "album": "Bleeds",
-      "image": "https://i.scdn.co/image/ab67616d00001e0279cc56467c944a260be5c2a9",
-      "url": "https://open.spotify.com/track/50RLmAQv8YOGDi5iexOjH3"
-    },
-    {
-      "name": "Profane Prophecy",
-      "artist": "The Black Crowes",
-      "album": "Profane Prophecy and Pharmacy Chronicles",
-      "image": "https://i.scdn.co/image/ab67616d00001e0233182f233198da066f21e882",
-      "url": "https://open.spotify.com/track/5EIMb9DtKFDvq9JSHgmVbs"
-    },
-    {
-      "name": "The Bird",
-      "artist": "Anderson .Paak",
-      "album": "Malibu",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f8e77075414234fd77fce32b",
-      "url": "https://open.spotify.com/track/7pamxApUs3CE8t7tKmUJ6Z"
-    }
-  ],
-  "top_artists": [
-    {
-      "name": "Drugdealer",
-      "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
-      "genres": [],
-      "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-    },
-    {
-      "name": "Anderson .Paak",
-      "image": "https://i.scdn.co/image/ab6761610000517496287bd47570ff13f0c01496",
-      "genres": [],
-      "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-    },
-    {
-      "name": "Geese",
-      "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-      "genres": [],
-      "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-    },
-    {
-      "name": "Wednesday",
-      "image": "https://i.scdn.co/image/ab67616100005174cbf22720296d758d8b373a85",
-      "genres": [],
-      "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-    },
-    {
-      "name": "The Black Crowes",
-      "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
-      "genres": [],
-      "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-    },
-    {
-      "name": "MJ Lenderman",
-      "image": "https://i.scdn.co/image/ab6761610000517427fa0080c12d5330cf5562b8",
-      "genres": [],
-      "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-    }
-  ]
+  "updated_at": "2026-03-11T23:37:49Z",
+  "short_term": {
+    "top_tracks": [
+      {
+        "name": "Madison",
+        "artist": "Drugdealer",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
+      },
+      {
+        "name": "Von dutch",
+        "artist": "Charli xcx",
+        "album": "BRAT",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f88b43d15fd14e9525338b59",
+        "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
+      },
+      {
+        "name": "Trinidad",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
+      },
+      {
+        "name": "Baby",
+        "artist": "Drugdealer, Tim Presley",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/1Pmr9vJtaEvgq8iyHQdoWa"
+      },
+      {
+        "name": "Someone to Love",
+        "artist": "Drugdealer",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/2d6qSYAHWRgzRFSyrodwgB"
+      },
+      {
+        "name": "Reality TV Argument Bleeds",
+        "artist": "Wednesday",
+        "album": "Bleeds",
+        "image": "https://i.scdn.co/image/ab67616d00001e0279cc56467c944a260be5c2a9",
+        "url": "https://open.spotify.com/track/50RLmAQv8YOGDi5iexOjH3"
+      },
+      {
+        "name": "Profane Prophecy",
+        "artist": "The Black Crowes",
+        "album": "Profane Prophecy and Pharmacy Chronicles",
+        "image": "https://i.scdn.co/image/ab67616d00001e0233182f233198da066f21e882",
+        "url": "https://open.spotify.com/track/5EIMb9DtKFDvq9JSHgmVbs"
+      },
+      {
+        "name": "The Bird",
+        "artist": "Anderson .Paak",
+        "album": "Malibu",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f8e77075414234fd77fce32b",
+        "url": "https://open.spotify.com/track/7pamxApUs3CE8t7tKmUJ6Z"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "Drugdealer",
+        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      {
+        "name": "Anderson .Paak",
+        "image": "https://i.scdn.co/image/ab6761610000517496287bd47570ff13f0c01496",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+      },
+      {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+      },
+      {
+        "name": "Wednesday",
+        "image": "https://i.scdn.co/image/ab67616100005174cbf22720296d758d8b373a85",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+      },
+      {
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+      },
+      {
+        "name": "MJ Lenderman",
+        "image": "https://i.scdn.co/image/ab6761610000517427fa0080c12d5330cf5562b8",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+      }
+    ]
+  },
+  "medium_term": {
+    "top_tracks": [
+      {
+        "name": "Trinidad",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
+      },
+      {
+        "name": "Cobra",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
+      },
+      {
+        "name": "mangetout",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+      },
+      {
+        "name": "Manning Fireworks",
+        "artist": "MJ Lenderman",
+        "album": "Manning Fireworks",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
+        "url": "https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut"
+      },
+      {
+        "name": "Taxes",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI"
+      },
+      {
+        "name": "Islands of Men",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV"
+      },
+      {
+        "name": "Spangled",
+        "artist": "Fust",
+        "album": "Big Ugly",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255b5530887633286514c8140",
+        "url": "https://open.spotify.com/track/0w3ptVGmlBJLWqwsrnrGnO"
+      },
+      {
+        "name": "Husbands",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+      },
+      {
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+      },
+      {
+        "name": "2 Chainz",
+        "image": "https://i.scdn.co/image/ab67616100005174f556662d187b9191c421be1c",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+      },
+      {
+        "name": "MJ Lenderman",
+        "image": "https://i.scdn.co/image/ab6761610000517427fa0080c12d5330cf5562b8",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+      },
+      {
+        "name": "Peter Cat Recording Co.",
+        "image": "https://i.scdn.co/image/ab6761610000517441bacc5ba605dfcc88c25733",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+      },
+      {
+        "name": "Anderson .Paak",
+        "image": "https://i.scdn.co/image/ab6761610000517496287bd47570ff13f0c01496",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+      }
+    ]
+  },
+  "long_term": {
+    "top_tracks": [
+      {
+        "name": "Bedside Manners",
+        "artist": "The Black Crowes",
+        "album": "Happiness Bastards",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
+        "url": "https://open.spotify.com/track/0GeUNFCcTsfFGSW1IjTPJ8"
+      },
+      {
+        "name": "wacced out murals",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
+        "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
+      },
+      {
+        "name": "Ice Cream Piano",
+        "artist": "Vampire Weekend",
+        "album": "Only God Was Above Us",
+        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
+        "url": "https://open.spotify.com/track/19aa6Goj4OAsZUX8hSt6nW"
+      },
+      {
+        "name": "Teleharmonic",
+        "artist": "The Smile",
+        "album": "Wall Of Eyes",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
+        "url": "https://open.spotify.com/track/6o2yIQVzajJjRrgICzcfAf"
+      },
+      {
+        "name": "Read The Room",
+        "artist": "The Smile",
+        "album": "Wall Of Eyes",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
+        "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
+      },
+      {
+        "name": "Wanting and Waiting",
+        "artist": "The Black Crowes",
+        "album": "Happiness Bastards",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
+        "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"
+      },
+      {
+        "name": "luther (with sza)",
+        "artist": "Kendrick Lamar, SZA",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
+        "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+      },
+      {
+        "name": "squabble up",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
+        "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+      }
+    ],
+    "top_artists": [
+      {
+        "name": "Kendrick Lamar",
+        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      {
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+      },
+      {
+        "name": "The Rolling Stones",
+        "image": "https://i.scdn.co/image/ab67616100005174e4cea917b68726aadb4854b8",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+      },
+      {
+        "name": "The Smile",
+        "image": "https://i.scdn.co/image/ab67616100005174b43db49ce029948457972352",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+      },
+      {
+        "name": "Vampire Weekend",
+        "image": "https://i.scdn.co/image/ab676161000051740bb49b0b71ab3f5871860617",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+      }
+    ]
+  }
 }
