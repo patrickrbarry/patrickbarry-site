@@ -84,7 +84,7 @@ def main():
         {
             "name":   a["name"],
             "image":  best_image(a["images"]),
-            "genres": a["genres"][:2],
+            "genres": a.get("genres", [])[:2],
             "url":    a["external_urls"]["spotify"],
         }
         for a in raw_artists.get("items", [])
