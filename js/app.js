@@ -92,6 +92,12 @@ async function loadLinks() {
 
 // ── Spotify ───────────────────────────────────────────────────────────────────
 
+const SPOTIFY_RANGES = [
+  { key: 'short_term',  label: 'This Month' },
+  { key: 'medium_term', label: '6 Months'   },
+  { key: 'long_term',   label: 'All Time'   },
+];
+
 /**
  * Return a human-readable "X hours ago" string from an ISO timestamp.
  */
@@ -105,18 +111,10 @@ function timeAgo(isoStr) {
 }
 
 /**
- * Render the Spotify section from spotify.json data.
+ * Render tracks + artists for one time range into the existing containers.
  */
-function renderSpotify(data) {
-  const container = document.getElementById('spotifyData');
-  if (!container) return;
-
-  const { top_tracks = [], top_artists = [], updated_at } = data;
-
-  if (!updated_at && top_tracks.length === 0) {
-    container.innerHTML = '<p class="spotify-pending">Spotify data will appear once the first sync runs.</p>';
-    return;
-  }
+function renderRange(rangeData) {
+  const { top_tracks = [], top_artists = [] } = rangeData;
 
   const tracksHtml = top_tracks.map((t, i) => `
     <a class="spotify-track" href="${escapeHtml(t.url)}" target="_blank" rel="noopener noreferrer">
@@ -136,14 +134,44 @@ function renderSpotify(data) {
     </a>
   `).join('');
 
-  const ago = timeAgo(updated_at);
+  document.getElementById('spotify-tracks-inner').innerHTML = tracksHtml;
+  document.getElementById('spotify-artists-inner').innerHTML = top_artists.length ? `
+    <p class="spotify-artists-label">Top Artists</p>
+    <div class="spotify-artists">${artistsHtml}</div>
+  ` : '';
+}
+
+/**
+ * Render the Spotify section from spotify.json data.
+ */
+function renderSpotify(data) {
+  const container = document.getElementById('spotifyData');
+  if (!container) return;
+
+  const hasRanges = data.short_term !== undefined;
+
+  if (!hasRanges && (!data.updated_at || (data.top_tracks || []).length === 0)) {
+    container.innerHTML = '<p class="spotify-pending">Spotify data will appear once the first sync runs.</p>';
+    return;
+  }
+
+  const ago = timeAgo(data.updated_at);
+  let activeRange = 'short_term';
+
+  const tabsHtml = hasRanges ? `
+    <div class="spotify-tabs">
+      ${SPOTIFY_RANGES.map(r => `
+        <button class="spotify-tab${r.key === activeRange ? ' active' : ''}" data-range="${r.key}">
+          ${escapeHtml(r.label)}
+        </button>
+      `).join('')}
+    </div>
+  ` : '';
 
   container.innerHTML = `
-    <div class="spotify-tracks">${tracksHtml}</div>
-    ${top_artists.length ? `
-      <p class="spotify-artists-label">Top Artists</p>
-      <div class="spotify-artists">${artistsHtml}</div>
-    ` : ''}
+    ${tabsHtml}
+    <div class="spotify-tracks" id="spotify-tracks-inner"></div>
+    <div id="spotify-artists-inner"></div>
     <div class="spotify-footer">
       ${ago ? `<span class="spotify-updated">Updated ${ago}</span>` : ''}
       <a class="spotify-logo" href="https://open.spotify.com" target="_blank" rel="noopener noreferrer">
@@ -151,6 +179,19 @@ function renderSpotify(data) {
       </a>
     </div>
   `;
+
+  renderRange(hasRanges ? data[activeRange] : data);
+
+  if (hasRanges) {
+    container.querySelectorAll('.spotify-tab').forEach(btn => {
+      btn.addEventListener('click', () => {
+        activeRange = btn.dataset.range;
+        container.querySelectorAll('.spotify-tab').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        renderRange(data[activeRange]);
+      });
+    });
+  }
 }
 
 /**

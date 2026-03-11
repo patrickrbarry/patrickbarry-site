@@ -515,6 +515,38 @@ section:nth-child(even) {
 
 /* ─── Listening / Spotify ──────────────────────────────────────────────────── */
 
+/* Time-range tabs */
+.spotify-tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 28px;
+  border-bottom: 1px solid #e8e8e8;
+  max-width: 560px;
+}
+
+.spotify-tab {
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: 8px 18px 10px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #aaa;
+  cursor: pointer;
+  margin-bottom: -1px;
+  transition: color 0.15s, border-color 0.15s;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+}
+
+.spotify-tab:hover {
+  color: #555;
+}
+
+.spotify-tab.active {
+  color: #2a5298;
+  border-bottom-color: #2a5298;
+}
+
 .spotify-loading,
 .spotify-pending {
   font-size: 14px;
