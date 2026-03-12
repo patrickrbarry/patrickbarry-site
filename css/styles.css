@@ -217,6 +217,66 @@ section:nth-child(even) {
   text-decoration: none;
 }
 
+.btn-qr {
+  background: transparent;
+  color: #2a5298;
+  border: 1px dashed #2a5298;
+  font-family: inherit;
+}
+
+.btn-qr:hover {
+  background: #2a5298;
+  color: #ffffff;
+  border-style: solid;
+}
+
+/* ─── QR Modal ───────────────────────────────────────────────────────────────── */
+
+.qr-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.qr-overlay[hidden] { display: none; }
+
+.qr-modal {
+  background: #fff;
+  border-radius: 12px;
+  padding: 28px 32px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  position: relative;
+  box-shadow: 0 16px 48px rgba(0,0,0,0.22);
+}
+
+.qr-close {
+  position: absolute;
+  top: 10px;
+  right: 14px;
+  background: none;
+  border: none;
+  font-size: 16px;
+  color: #aaa;
+  cursor: pointer;
+  line-height: 1;
+  padding: 4px;
+}
+
+.qr-close:hover { color: #333; }
+
+.qr-label {
+  font-size: 13px;
+  color: #888;
+  letter-spacing: 0.02em;
+}
+
 /* ─── About ─────────────────────────────────────────────────────────────────── */
 
 #about p {

@@ -40,8 +40,9 @@
             LinkedIn
           </a>
           <a class="btn btn-outline" href="https://www.orrick.com/en/tech-studio/greenhouse" target="_blank" rel="noopener noreferrer">
-            Greenhouse Program
+            Greenhouse
           </a>
+          <button class="btn btn-qr" id="qrBtn" aria-label="Show QR code">QR Me</button>
         </div>
       </div>
     </div>
@@ -256,6 +257,16 @@
     </div>
   </footer>
 
+  <!-- QR code modal -->
+  <div class="qr-overlay" id="qrOverlay" hidden>
+    <div class="qr-modal">
+      <button class="qr-close" id="qrClose" aria-label="Close">✕</button>
+      <div id="qrCanvas"></div>
+      <p class="qr-label">patrickbarry.netlify.app</p>
+    </div>
+  </div>
+
+  <script src="js/vendor/qrcode.min.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>

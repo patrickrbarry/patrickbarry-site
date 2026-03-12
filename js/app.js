@@ -222,11 +222,46 @@ function toggleTimeline() {
   btn.textContent = expanded ? 'Show full timeline ↓' : 'Show less ↑';
 }
 
+// ── QR Code Modal ─────────────────────────────────────────────────────────────
+
+function initQR() {
+  const btn     = document.getElementById('qrBtn');
+  const overlay = document.getElementById('qrOverlay');
+  const closeBtn = document.getElementById('qrClose');
+  const canvas  = document.getElementById('qrCanvas');
+  if (!btn || !overlay || !canvas) return;
+
+  let generated = false;
+
+  function openQR() {
+    overlay.hidden = false;
+    if (!generated) {
+      new QRCode(canvas, {
+        text:         'https://patrickbarry.netlify.app',
+        width:        200,
+        height:       200,
+        colorDark:    '#2a5298',
+        colorLight:   '#ffffff',
+        correctLevel: QRCode.CorrectLevel.H
+      });
+      generated = true;
+    }
+  }
+
+  function closeQR() { overlay.hidden = true; }
+
+  btn.addEventListener('click', openQR);
+  closeBtn.addEventListener('click', closeQR);
+  overlay.addEventListener('click', (e) => { if (e.target === overlay) closeQR(); });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeQR(); });
+}
+
 // ── Init ─────────────────────────────────────────────────────────────────────
 
 function init() {
   loadLinks();
   loadSpotify();
+  initQR();
 }
 
 if (document.readyState === 'loading') {
