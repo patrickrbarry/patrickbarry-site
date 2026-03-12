@@ -9,7 +9,9 @@
 <body>
   <div class="header">
     <span class="logo">Patrick Barry</span>
-    <span class="header-label">Save Link</span>
+    <div class="header-actions">
+      <button class="header-btn" id="manageBtn" title="Manage saved links">Manage</button>
+    </div>
   </div>
 
   <!-- First-run setup: enter GitHub token once -->
@@ -22,6 +24,7 @@
     <button class="save-btn" id="saveTokenBtn">Save Token</button>
   </div>
 
+  <!-- Save form -->
   <div class="form" id="form" hidden>
     <div class="field">
       <label for="title">Title</label>
@@ -52,12 +55,21 @@
     <button class="save-btn" id="saveBtn">Save</button>
   </div>
 
+  <!-- Manage view -->
+  <div class="manage" id="manage" hidden>
+    <div class="manage-list" id="manageList">
+      <p class="manage-loading">Loading…</p>
+    </div>
+  </div>
+
+  <!-- Success state -->
   <div class="success" id="success" hidden>
     <div class="success-icon">✓</div>
     <div class="success-text">Saved!</div>
     <div class="success-sub">Your site will update in ~30 seconds.</div>
   </div>
 
+  <!-- Error (shared) -->
   <div class="error" id="error" hidden></div>
 
   <script src="popup.js"></script>
