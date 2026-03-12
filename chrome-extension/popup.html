@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Save Link</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="header">
+    <span class="logo">Patrick Barry</span>
+    <span class="header-label">Save Link</span>
+  </div>
+
+  <div class="form" id="form">
+    <div class="field">
+      <label for="title">Title</label>
+      <input type="text" id="title" placeholder="Article title">
+    </div>
+
+    <div class="field">
+      <label for="url">URL</label>
+      <input type="text" id="url" readonly class="url-input">
+    </div>
+
+    <div class="field">
+      <label for="description">Description <span class="optional">(optional)</span></label>
+      <textarea id="description" placeholder="Why is this worth reading?" rows="3"></textarea>
+    </div>
+
+    <div class="field">
+      <label for="tag">Tag</label>
+      <select id="tag">
+        <option value="reading">Reading</option>
+        <option value="startup">Startup</option>
+        <option value="work">Work</option>
+        <option value="tools">Tools</option>
+        <option value="misc">Misc</option>
+      </select>
+    </div>
+
+    <button class="save-btn" id="saveBtn">Save</button>
+  </div>
+
+  <div class="success" id="success" hidden>
+    <div class="success-icon">✓</div>
+    <div class="success-text">Saved!</div>
+    <div class="success-sub">Your site will update in ~30 seconds.</div>
+  </div>
+
+  <div class="error" id="error" hidden></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
