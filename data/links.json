@@ -1,9 +1,17 @@
 [
   {
+    "id": 3,
+    "title": "The Claude-Native Law Firm",
+    "url": "https://x.com/zackbshapiro/article/2027389987444957625",
+    "description": "",
+    "date": "2026-03-12",
+    "tag": "reading"
+  },
+  {
     "id": 1,
     "title": "Greenhouse @ Orrick Tech Studio",
     "url": "https://www.orrick.com/en/tech-studio/greenhouse",
-    "description": "Practical, affordable legal support for high-growth startups — the program I run at Orrick.",
+    "description": "Practical, affordable legal support for high-growth startups â the program I run at Orrick.",
     "date": "2026-03-11",
     "tag": "work"
   },
@@ -11,7 +19,7 @@
     "id": 2,
     "title": "My Book Library",
     "url": "https://bookish-public.netlify.app",
-    "description": "Browse my full reading collection — physical, Kindle, and Audible.",
+    "description": "Browse my full reading collection â physical, Kindle, and Audible.",
     "date": "2026-03-11",
     "tag": "reading"
   }
