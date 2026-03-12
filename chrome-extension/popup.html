@@ -12,7 +12,17 @@
     <span class="header-label">Save Link</span>
   </div>
 
-  <div class="form" id="form">
+  <!-- First-run setup: enter GitHub token once -->
+  <div class="setup" id="setup" hidden>
+    <p class="setup-text">Paste your GitHub Personal Access Token to get started (stored locally, never shared).</p>
+    <div class="field">
+      <label for="tokenInput">GitHub Token</label>
+      <input type="password" id="tokenInput" placeholder="ghp_…">
+    </div>
+    <button class="save-btn" id="saveTokenBtn">Save Token</button>
+  </div>
+
+  <div class="form" id="form" hidden>
     <div class="field">
       <label for="title">Title</label>
       <input type="text" id="title" placeholder="Article title">

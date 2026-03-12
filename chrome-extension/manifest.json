@@ -3,7 +3,8 @@
   "name": "Save to Patrick's Site",
   "version": "1.0",
   "description": "Save the current page as a recommended read.",
-  "permissions": ["activeTab"],
+  "permissions": ["activeTab", "storage"],
+  "host_permissions": ["https://api.github.com/*"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
