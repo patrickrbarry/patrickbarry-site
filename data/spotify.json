@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-12T18:51:47Z",
+  "updated_at": "2026-03-13T01:55:13Z",
   "short_term": {
     "top_tracks": [
       {
@@ -234,13 +234,6 @@
         "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
       },
       {
-        "name": "Wanting and Waiting",
-        "artist": "The Black Crowes",
-        "album": "Happiness Bastards",
-        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
-        "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"
-      },
-      {
         "name": "luther (with sza)",
         "artist": "Kendrick Lamar, SZA",
         "album": "GNX",
@@ -253,6 +246,13 @@
         "album": "GNX",
         "image": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
         "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+      },
+      {
+        "name": "Wanting and Waiting",
+        "artist": "The Black Crowes",
+        "album": "Happiness Bastards",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
+        "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"
       }
     ],
     "top_artists": [
