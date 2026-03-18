@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T18:59:50Z",
+  "updated_at": "2026-03-18T02:02:21Z",
   "short_term": {
     "top_tracks": [
       {
@@ -73,16 +73,16 @@
         "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
       },
       {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-      },
-      {
         "name": "Wednesday",
         "image": "https://i.scdn.co/image/ab67616100005174cbf22720296d758d8b373a85",
         "genres": [],
         "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+      },
+      {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
         "name": "Kendrick Lamar",
