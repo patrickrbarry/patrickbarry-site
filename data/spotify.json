@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T12:55:42Z",
+  "updated_at": "2026-03-20T18:45:30Z",
   "short_term": {
     "top_tracks": [
       {
@@ -15,6 +15,13 @@
         "album": "Tiki Torches",
         "image": "https://i.scdn.co/image/ab67616d00001e02c2cfcd247c43c865b5d10eb6",
         "url": "https://open.spotify.com/track/12OjPJBiIrDjaQi45SQ3xN"
+      },
+      {
+        "name": "man at the garden",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
+        "url": "https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz"
       },
       {
         "name": "Trinidad",
@@ -50,13 +57,6 @@
         "album": "Hiding in Plain Sight",
         "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
         "url": "https://open.spotify.com/track/2d6qSYAHWRgzRFSyrodwgB"
-      },
-      {
-        "name": "Von dutch",
-        "artist": "Charli xcx",
-        "album": "BRAT",
-        "image": "https://i.scdn.co/image/ab67616d00001e02f88b43d15fd14e9525338b59",
-        "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
       }
     ],
     "top_artists": [
