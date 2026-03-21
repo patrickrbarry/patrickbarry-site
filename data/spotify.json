@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-21T12:43:32Z",
+  "updated_at": "2026-03-21T18:33:52Z",
   "short_term": {
     "top_tracks": [
       {
@@ -220,18 +220,18 @@
         "url": "https://open.spotify.com/track/19aa6Goj4OAsZUX8hSt6nW"
       },
       {
-        "name": "Teleharmonic",
-        "artist": "The Smile",
-        "album": "Wall Of Eyes",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
-        "url": "https://open.spotify.com/track/6o2yIQVzajJjRrgICzcfAf"
-      },
-      {
         "name": "Read The Room",
         "artist": "The Smile",
         "album": "Wall Of Eyes",
         "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
         "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
+      },
+      {
+        "name": "Teleharmonic",
+        "artist": "The Smile",
+        "album": "Wall Of Eyes",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
+        "url": "https://open.spotify.com/track/6o2yIQVzajJjRrgICzcfAf"
       },
       {
         "name": "luther (with sza)",
