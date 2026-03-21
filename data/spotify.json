@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T18:45:30Z",
+  "updated_at": "2026-03-21T01:51:10Z",
   "short_term": {
     "top_tracks": [
       {
@@ -115,13 +115,6 @@
         "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
       },
       {
-        "name": "mangetout",
-        "artist": "Wet Leg",
-        "album": "moisturizer",
-        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
-      },
-      {
         "name": "Manning Fireworks",
         "artist": "MJ Lenderman",
         "album": "Manning Fireworks",
@@ -134,6 +127,13 @@
         "album": "Getting Killed",
         "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
         "url": "https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI"
+      },
+      {
+        "name": "mangetout",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
       },
       {
         "name": "Islands of Men",
@@ -165,12 +165,6 @@
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-      },
-      {
         "name": "2 Chainz",
         "image": "https://i.scdn.co/image/ab67616100005174f556662d187b9191c421be1c",
         "genres": [],
@@ -189,10 +183,16 @@
         "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
       },
       {
-        "name": "Anderson .Paak",
-        "image": "https://i.scdn.co/image/ab6761610000517496287bd47570ff13f0c01496",
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
         "genres": [],
-        "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+      },
+      {
+        "name": "Radiohead",
+        "image": "https://i.scdn.co/image/ab676161000051744104fbd80f1f795728abbd59",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
       }
     ]
   },
