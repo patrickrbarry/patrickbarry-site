@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T13:05:45Z",
+  "updated_at": "2026-03-25T18:53:47Z",
   "short_term": {
     "top_tracks": [
       {
@@ -73,16 +73,16 @@
         "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
       },
       {
-        "name": "Anderson .Paak",
-        "image": "https://i.scdn.co/image/ab6761610000517496287bd47570ff13f0c01496",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-      },
-      {
         "name": "Geese",
         "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
         "genres": [],
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+      },
+      {
+        "name": "Anderson .Paak",
+        "image": "https://i.scdn.co/image/ab6761610000517496287bd47570ff13f0c01496",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
       },
       {
         "name": "Peter Cat Recording Co.",
