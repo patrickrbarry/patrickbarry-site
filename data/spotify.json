@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T02:09:16Z",
+  "updated_at": "2026-03-31T07:10:42Z",
   "short_term": {
     "top_tracks": [
       {
@@ -8,6 +8,13 @@
         "album": "Hiding in Plain Sight",
         "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
         "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
+      },
+      {
+        "name": "Cobra",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
       },
       {
         "name": "luther (with sza)",
@@ -45,21 +52,20 @@
         "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
       },
       {
-        "name": "Someone to Love",
-        "artist": "Drugdealer",
+        "name": "Pictures of You",
+        "artist": "Drugdealer, Kate Bollinger",
         "album": "Hiding in Plain Sight",
         "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/2d6qSYAHWRgzRFSyrodwgB"
-      },
-      {
-        "name": "Ddoje Facce",
-        "artist": "Nu Genea",
-        "album": "Nuova Napoli",
-        "image": "https://i.scdn.co/image/ab67616d00001e02cc9c8da874cc0aa82d67f7b2",
-        "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
+        "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT"
       }
     ],
     "top_artists": [
+      {
+        "name": "Peter Cat Recording Co.",
+        "image": "https://i.scdn.co/image/ab6761610000517441bacc5ba605dfcc88c25733",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+      },
       {
         "name": "Drugdealer",
         "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
@@ -83,12 +89,6 @@
         "image": "https://i.scdn.co/image/ab6761610000517496287bd47570ff13f0c01496",
         "genres": [],
         "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-      },
-      {
-        "name": "Peter Cat Recording Co.",
-        "image": "https://i.scdn.co/image/ab6761610000517441bacc5ba605dfcc88c25733",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
       },
       {
         "name": "Wednesday",
