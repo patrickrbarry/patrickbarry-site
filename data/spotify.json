@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T07:05:11Z",
+  "updated_at": "2026-04-03T12:59:46Z",
   "short_term": {
     "top_tracks": [
       {
@@ -183,16 +183,16 @@
         "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
       },
       {
+        "name": "Drugdealer",
+        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      {
         "name": "Wet Leg",
         "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
         "genres": [],
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-      },
-      {
-        "name": "Anderson .Paak",
-        "image": "https://i.scdn.co/image/ab6761610000517496287bd47570ff13f0c01496",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
       }
     ]
   },
