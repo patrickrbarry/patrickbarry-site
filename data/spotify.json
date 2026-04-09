@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-04-08T19:13:08Z",
+  "updated_at": "2026-04-09T02:04:06Z",
   "short_term": {
     "top_tracks": [
+      {
+        "name": "Madison",
+        "artist": "Drugdealer",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
+      },
       {
         "name": "Cobra",
         "artist": "Geese",
@@ -10,11 +17,11 @@
         "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
       },
       {
-        "name": "Madison",
-        "artist": "Drugdealer",
+        "name": "Pictures of You",
+        "artist": "Drugdealer, Kate Bollinger",
         "album": "Hiding in Plain Sight",
         "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
+        "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT"
       },
       {
         "name": "Golden Wingship",
@@ -29,13 +36,6 @@
         "album": "GNX",
         "image": "https://i.scdn.co/image/ab67616d00001e0209d6ed214f03fbb663e46531",
         "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
-      },
-      {
-        "name": "Pictures of You",
-        "artist": "Drugdealer, Kate Bollinger",
-        "album": "Hiding in Plain Sight",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT"
       },
       {
         "name": "Memory Box",
@@ -67,16 +67,16 @@
         "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
       },
       {
-        "name": "Drugdealer",
-        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-      },
-      {
         "name": "Father John Misty",
         "image": "https://i.scdn.co/image/ab676161000051748a78e4e37d117b9cc90a6363",
         "genres": [],
         "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+      },
+      {
+        "name": "Drugdealer",
+        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       {
         "name": "Flea",
