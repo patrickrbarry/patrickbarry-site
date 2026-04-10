@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T13:05:11Z",
+  "updated_at": "2026-04-10T18:54:04Z",
   "short_term": {
     "top_tracks": [
       {
@@ -38,13 +38,6 @@
         "url": "https://open.spotify.com/track/6C5xm2roWdAIda9WJmu1jG"
       },
       {
-        "name": "SelfSame",
-        "artist": "Squidhouse",
-        "album": "Tiki Torches",
-        "image": "https://i.scdn.co/image/ab67616d00001e02c2cfcd247c43c865b5d10eb6",
-        "url": "https://open.spotify.com/track/12OjPJBiIrDjaQi45SQ3xN"
-      },
-      {
         "name": "Traffic Lights (feat. Thom Yorke)",
         "artist": "Flea, Thom Yorke",
         "album": "Honora",
@@ -57,6 +50,13 @@
         "album": "Bismillah",
         "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
         "url": "https://open.spotify.com/track/4xy57dr5jglPfRqAZn0wiw"
+      },
+      {
+        "name": "Nuova Napoli",
+        "artist": "Nu Genea",
+        "album": "Nuova Napoli",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cc9c8da874cc0aa82d67f7b2",
+        "url": "https://open.spotify.com/track/0uRqRurUALc3zMnQbFokpe"
       }
     ],
     "top_artists": [
