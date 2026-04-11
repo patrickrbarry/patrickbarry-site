@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T06:59:00Z",
+  "updated_at": "2026-04-11T12:53:32Z",
   "short_term": {
     "top_tracks": [
       {
@@ -108,18 +108,18 @@
         "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
       },
       {
-        "name": "Trinidad",
-        "artist": "Geese",
-        "album": "Getting Killed",
-        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
-        "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
-      },
-      {
         "name": "Madison",
         "artist": "Drugdealer",
         "album": "Hiding in Plain Sight",
         "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
         "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
+      },
+      {
+        "name": "Trinidad",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
       },
       {
         "name": "Manning Fireworks",
@@ -136,11 +136,11 @@
         "url": "https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI"
       },
       {
-        "name": "mangetout",
-        "artist": "Wet Leg",
-        "album": "moisturizer",
-        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+        "name": "Spangled",
+        "artist": "Fust",
+        "album": "Big Ugly",
+        "image": "https://i.scdn.co/image/ab67616d00001e0255b5530887633286514c8140",
+        "url": "https://open.spotify.com/track/0w3ptVGmlBJLWqwsrnrGnO"
       },
       {
         "name": "Islands of Men",
@@ -150,11 +150,11 @@
         "url": "https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV"
       },
       {
-        "name": "Spangled",
-        "artist": "Fust",
-        "album": "Big Ugly",
-        "image": "https://i.scdn.co/image/ab67616d00001e0255b5530887633286514c8140",
-        "url": "https://open.spotify.com/track/0w3ptVGmlBJLWqwsrnrGnO"
+        "name": "Riot",
+        "artist": "2 Chainz",
+        "album": "Based On A T.R.U. Story (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a0e6aff34e828392e1df7d0",
+        "url": "https://open.spotify.com/track/4gd29fPdIIIU7cHJXwtycl"
       }
     ],
     "top_artists": [
@@ -169,12 +169,6 @@
         "image": "https://i.scdn.co/image/ab6761610000517441bacc5ba605dfcc88c25733",
         "genres": [],
         "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-      },
-      {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
         "name": "MJ Lenderman",
@@ -193,6 +187,12 @@
         "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
         "genres": [],
         "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      {
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       }
     ]
   },
