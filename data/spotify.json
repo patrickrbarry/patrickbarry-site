@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T18:57:36Z",
+  "updated_at": "2026-04-18T02:09:34Z",
   "short_term": {
     "top_tracks": [
       {
@@ -38,6 +38,13 @@
         "url": "https://open.spotify.com/track/29f3rVyBT120LccglgfwK6"
       },
       {
+        "name": "Mustt Mustt",
+        "artist": "Nusrat Fateh Ali Khan",
+        "album": "Mustt Mustt (Real World Gold)",
+        "image": "https://i.scdn.co/image/ab67616d00001e029aac0495780234a55314a11f",
+        "url": "https://open.spotify.com/track/3xSz5q0i3aTVD446ucans3"
+      },
+      {
         "name": "Roman Holiday",
         "artist": "Fontaines D.C.",
         "album": "Skinty Fia",
@@ -50,13 +57,6 @@
         "album": "Room On Fire",
         "image": "https://i.scdn.co/image/ab67616d00001e020f35726025e0f025da4c688f",
         "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
-      },
-      {
-        "name": "Portrait of a Time",
-        "artist": "Peter Cat Recording Co.",
-        "album": "Portrait of a Time: 2010-2016",
-        "image": "https://i.scdn.co/image/ab67616d00001e02c5441ebc8d00c48e3ab530b0",
-        "url": "https://open.spotify.com/track/5BQhROkl8tCv9tTEvTt8TZ"
       }
     ],
     "top_artists": [
@@ -79,6 +79,12 @@
         "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       {
+        "name": "Nusrat Fateh Ali Khan",
+        "image": "https://i.scdn.co/image/ab6761610000517446444c5c2069fe5470bec996",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+      },
+      {
         "name": "Flea",
         "image": "https://i.scdn.co/image/ab676161000051741d3d1629faf335838faeafa3",
         "genres": [],
@@ -89,12 +95,6 @@
         "image": "https://i.scdn.co/image/ab676161000051748db45600764fd4ecf7f9b7cb",
         "genres": [],
         "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-      },
-      {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       }
     ]
   },
