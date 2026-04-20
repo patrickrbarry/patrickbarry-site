@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T18:47:08Z",
+  "updated_at": "2026-04-20T02:30:38Z",
   "short_term": {
     "top_tracks": [
       {
@@ -24,11 +24,11 @@
         "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT"
       },
       {
-        "name": "Freezing",
+        "name": "Floated By",
         "artist": "Peter Cat Recording Co.",
         "album": "Bismillah",
         "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
-        "url": "https://open.spotify.com/track/4xy57dr5jglPfRqAZn0wiw"
+        "url": "https://open.spotify.com/track/7IAKxhI1z8Sas7iLcX8YF5"
       },
       {
         "name": "Golden Wingship",
@@ -45,26 +45,26 @@
         "url": "https://open.spotify.com/track/3xSz5q0i3aTVD446ucans3"
       },
       {
+        "name": "favorite place",
+        "artist": "strongboi",
+        "album": "ep 1",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d28f8f3062c2c570681270be",
+        "url": "https://open.spotify.com/track/3OoEy74Z2neKejptWR4RIy"
+      },
+      {
         "name": "Roman Holiday",
         "artist": "Fontaines D.C.",
         "album": "Skinty Fia",
         "image": "https://i.scdn.co/image/ab67616d00001e02b23737878e75582c2e255029",
         "url": "https://open.spotify.com/track/4GKJALTXTwhZgLPp0usd5C"
-      },
-      {
-        "name": "Reptilia",
-        "artist": "The Strokes",
-        "album": "Room On Fire",
-        "image": "https://i.scdn.co/image/ab67616d00001e020f35726025e0f025da4c688f",
-        "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
       }
     ],
     "top_artists": [
       {
-        "name": "Peter Cat Recording Co.",
-        "image": "https://i.scdn.co/image/ab6761610000517441bacc5ba605dfcc88c25733",
+        "name": "Drugdealer",
+        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
         "genres": [],
-        "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       {
         "name": "Father John Misty",
@@ -73,10 +73,10 @@
         "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
       },
       {
-        "name": "Drugdealer",
-        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+        "name": "Peter Cat Recording Co.",
+        "image": "https://i.scdn.co/image/ab6761610000517441bacc5ba605dfcc88c25733",
         "genres": [],
-        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
       },
       {
         "name": "Nusrat Fateh Ali Khan",
@@ -91,10 +91,10 @@
         "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
       },
       {
-        "name": "Nu Genea",
-        "image": "https://i.scdn.co/image/ab676161000051748db45600764fd4ecf7f9b7cb",
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
         "genres": [],
-        "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       }
     ]
   },
