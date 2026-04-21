@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T13:21:51Z",
+  "updated_at": "2026-04-21T19:08:40Z",
   "short_term": {
     "top_tracks": [
       {
@@ -45,18 +45,18 @@
         "url": "https://open.spotify.com/track/3xSz5q0i3aTVD446ucans3"
       },
       {
+        "name": "The Less I Know The Better",
+        "artist": "Tame Impala",
+        "album": "Currents",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+        "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+      },
+      {
         "name": "favorite place",
         "artist": "strongboi",
         "album": "ep 1",
         "image": "https://i.scdn.co/image/ab67616d00001e02d28f8f3062c2c570681270be",
         "url": "https://open.spotify.com/track/3OoEy74Z2neKejptWR4RIy"
-      },
-      {
-        "name": "Roman Holiday",
-        "artist": "Fontaines D.C.",
-        "album": "Skinty Fia",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b23737878e75582c2e255029",
-        "url": "https://open.spotify.com/track/4GKJALTXTwhZgLPp0usd5C"
       }
     ],
     "top_artists": [
