@@ -208,7 +208,7 @@ def main():
             "1.0/library",
             num_results=1000,
             response_groups=(
-                "product_desc,product_attrs,product_images,"
+                "product_desc,product_attrs,"
                 "media,listening_status,relationships"
             ),
         )
