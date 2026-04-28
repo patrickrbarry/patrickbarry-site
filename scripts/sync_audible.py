@@ -16,6 +16,7 @@ import os
 import sys
 import json
 import base64
+import re
 import time
 import random
 import string
@@ -107,13 +108,11 @@ def map_genre(categories):
 
 
 def listening_status_to_bookish(item):
-    """Derive Bookish status from Audible listening data."""
+    """Derive Bookish status from Audible listening data.
+    Only "read" (finished) or "unread" — never "reading", which the user sets manually."""
     ls = item.get("listening_status") or {}
     if ls.get("is_finished"):
         return "read"
-    pct = ls.get("percent_complete") or 0
-    if pct >= 5:
-        return "reading"
     return "unread"
 
 
@@ -129,6 +128,21 @@ def get_author(item):
     authors = item.get("authors") or []
     names = [a.get("name", "") for a in authors if a.get("name")]
     return ", ".join(names) or "Unknown Author"
+
+
+def strip_roles(author):
+    """Remove translator/editor/narrator credits: ', Name - role' → ''"""
+    return re.sub(r'[,;]\s+[^,;]+ - [A-Za-z].*?(?=[,;]\s+[^,;]+ - |$)', '', author).strip().rstrip(';,').strip()
+
+
+def norm_for_lookup(s):
+    """Normalize for matching: strip roles, unify author separators (; and ,), collapse whitespace/dots/credentials."""
+    s = strip_roles(s)
+    s = re.sub(r'\s+[A-Z]{2,4}(?=\s|$)', '', s)   # strip trailing credentials: USN, MD, PhD
+    s = re.sub(r'\s+\(.*?\)', '', s)                # strip parenthetical: (trans.), (ed.)
+    s = re.sub(r'[;,]+', ' ', s)                    # treat ; and , as equivalent author separators
+    s = re.sub(r'[\s.]+', ' ', s)                   # collapse whitespace and dots
+    return s.strip().lower()
 
 
 # ── Supabase operations ────────────────────────────────────────────────────────
@@ -219,9 +233,10 @@ def main():
     # 2. Fetch existing Bookish books
     print("Fetching existing Bookish records…")
     existing = fetch_all_books()
-    # Build lookup: (lower_title, lower_author) → book record
+    # Build lookup: (norm_title, norm_author_stripped) → book record
+    # norm_for_lookup strips roles (translators etc.) so Audible's extra credits don't cause false misses
     lookup = {
-        (b["title"].strip().lower(), b["author"].strip().lower()): b
+        (norm_for_lookup(b["title"]), norm_for_lookup(strip_roles(b["author"]))): b
         for b in existing
     }
     print(f"  → {len(existing)} books in Bookish\n")
@@ -237,7 +252,7 @@ def main():
         if not title or not author:
             continue
 
-        key = (title.lower(), author.lower())
+        key = (norm_for_lookup(title), norm_for_lookup(strip_roles(author)))
         existing_book = lookup.get(key)
 
         if existing_book:
