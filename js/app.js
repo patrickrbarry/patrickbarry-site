@@ -222,6 +222,45 @@ function toggleTimeline() {
   btn.textContent = expanded ? 'Show full timeline ↓' : 'Show less ↑';
 }
 
+// ── Books ─────────────────────────────────────────────────────────────────────
+
+async function loadBooks() {
+  const container = document.getElementById('booksList');
+  if (!container) return;
+
+  try {
+    const res = await fetch('./data/books.json');
+    if (!res.ok) throw new Error('Failed to load books');
+    const data = await res.json();
+    const books = data.reading || [];
+
+    if (!books.length) {
+      container.innerHTML = '<p class="links-empty">Nothing on the nightstand right now.</p>';
+      return;
+    }
+
+    container.innerHTML = books.map((b) => `
+      <div class="book-item">
+        <div class="book-cover-wrap">
+          ${b.cover_url
+            ? `<img src="${escapeHtml(b.cover_url)}" alt="${escapeHtml(b.title)}" loading="lazy">`
+            : `<div class="book-cover-placeholder">📖</div>`
+          }
+        </div>
+        <div class="book-info">
+          <div class="book-title">${escapeHtml(b.title)}</div>
+          <div class="book-author">${escapeHtml(b.author)}</div>
+          ${b.genre ? `<div class="book-genre">${escapeHtml(b.genre)}</div>` : ''}
+        </div>
+      </div>
+    `).join('');
+
+  } catch (err) {
+    console.error('Failed to load books:', err);
+    container.innerHTML = '<p class="links-empty">Could not load reading list.</p>';
+  }
+}
+
 // ── QR Code Modal ─────────────────────────────────────────────────────────────
 
 function initQR() {
@@ -261,6 +300,7 @@ function initQR() {
 function init() {
   loadLinks();
   loadSpotify();
+  loadBooks();
   initQR();
 }
 
