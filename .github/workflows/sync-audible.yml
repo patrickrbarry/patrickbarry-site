@@ -1,0 +1,26 @@
+name: Sync Audible Library to Bookish
+
+on:
+  schedule:
+    - cron: '0 9 * * *'    # Every day at 9am UTC (after books.json update at 8am)
+  workflow_dispatch:         # Allow manual trigger from GitHub UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests audible
+
+      - name: Sync Audible → Bookish
+        env:
+          AUDIBLE_AUTH: ${{ secrets.AUDIBLE_AUTH }}
+        run: python3 scripts/sync_audible.py

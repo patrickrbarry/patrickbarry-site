@@ -1,0 +1,9 @@
+# Auth files — never commit these
+audible_auth.json
+
+# macOS
+.DS_Store
+
+# Local dev
+.claude/
+node_modules/
