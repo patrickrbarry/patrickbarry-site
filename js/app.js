@@ -239,8 +239,10 @@ async function loadBooks() {
       return;
     }
 
-    container.innerHTML = books.map((b) => `
-      <div class="book-item">
+    container.innerHTML = books.map((b) => {
+      const amazonUrl = `https://www.amazon.com/s?k=${encodeURIComponent(b.title + ' ' + b.author)}`;
+      return `
+      <a class="book-item" href="${amazonUrl}" target="_blank" rel="noopener noreferrer">
         <div class="book-cover-wrap">
           ${b.cover_url
             ? `<img src="${escapeHtml(b.cover_url)}" alt="${escapeHtml(b.title)}" loading="lazy">`
@@ -252,8 +254,8 @@ async function loadBooks() {
           <div class="book-author">${escapeHtml(b.author)}</div>
           ${b.genre ? `<div class="book-genre">${escapeHtml(b.genre)}</div>` : ''}
         </div>
-      </div>
-    `).join('');
+      </a>
+    `}).join('');
 
   } catch (err) {
     console.error('Failed to load books:', err);

@@ -532,6 +532,8 @@ section:nth-child(even) {
   display: flex;
   flex-direction: column;
   gap: 8px;
+  text-decoration: none;
+  color: inherit;
 }
 
 .book-cover-wrap {
