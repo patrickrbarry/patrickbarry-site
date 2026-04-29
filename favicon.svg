@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+
+  <!-- ── FLAME ── -->
+  <!-- Outer flame: slightly organic teardrop -->
+  <path d="M50 7 C46 13 41 20 42 29 C43 36 48 39 50 39 C52 39 57 36 58 29 C59 20 54 13 50 7 Z"
+        fill="white" stroke="black" stroke-width="2.8" stroke-linejoin="round"/>
+  <!-- Flame inner dark core — lower half of flame -->
+  <path d="M50 22 C47 26 46 30 47 33 C48 36 52 36 53 33 C54 30 53 26 50 22 Z"
+        fill="black"/>
+  <!-- Tiny highlight flick inside flame -->
+  <path d="M48 24 C47 27 47 30 48 31" fill="none" stroke="white" stroke-width="1.2" stroke-linecap="round"/>
+
+  <!-- ── WICK ── -->
+  <path d="M50 39 C49.5 41 49 43 49 45" fill="none" stroke="black" stroke-width="2.2" stroke-linecap="round"/>
+
+  <!-- ── MELT POOL ── -->
+  <ellipse cx="50" cy="45" rx="14" ry="3" fill="white" stroke="black" stroke-width="2"/>
+
+  <!-- ── CANDLE BODY ── -->
+  <!-- Main body: slightly organic rectangle -->
+  <path d="M36 45 L36 82 Q36 83 37 83 L63 83 Q64 83 64 82 L64 45 Z"
+        fill="white" stroke="black" stroke-width="2.8" stroke-linejoin="round"/>
+
+  <!-- Cross-hatching on right side (shadow/roundness) clipped to body -->
+  <clipPath id="body-clip">
+    <path d="M36 45 L36 82 Q36 83 37 83 L63 83 Q64 83 64 82 L64 45 Z"/>
+  </clipPath>
+  <g clip-path="url(#body-clip)" stroke="black" stroke-width="0.85">
+    <!-- Diagonal hatching lines — right third -->
+    <line x1="51" y1="45" x2="64" y2="58"/>
+    <line x1="51" y1="52" x2="64" y2="65"/>
+    <line x1="51" y1="59" x2="64" y2="72"/>
+    <line x1="51" y1="66" x2="64" y2="79"/>
+    <line x1="51" y1="73" x2="64" y2="83"/>
+    <line x1="57" y1="45" x2="64" y2="52"/>
+    <line x1="51" y1="79" x2="58" y2="83"/>
+    <!-- Cross-hatch (opposite diagonal) -->
+    <line x1="51" y1="58" x2="64" y2="45"/>
+    <line x1="51" y1="65" x2="64" y2="52"/>
+    <line x1="51" y1="72" x2="64" y2="59"/>
+    <line x1="51" y1="79" x2="64" y2="66"/>
+    <line x1="55" y1="83" x2="64" y2="74"/>
+  </g>
+  <!-- Solid black shadow strip on far right edge -->
+  <path d="M60 45 C62 55 63 70 62 83 L64 83 L64 45 Z"
+        fill="black" stroke="none" clip-path="url(#body-clip)"/>
+
+  <!-- ── WAX DRIP left side ── -->
+  <path d="M36 54 C33 59 33 65 36 66" fill="none" stroke="black" stroke-width="2.2" stroke-linecap="round"/>
+  <!-- Drip blob -->
+  <path d="M36 53 C33 57 32 63 34 67 C35 68.5 36 68 36 67 Z"
+        fill="white" stroke="black" stroke-width="1.6" stroke-linejoin="round"/>
+
+  <!-- ── BASE / SAUCER ── -->
+  <!-- Plate top edge -->
+  <path d="M24 83 L76 83 L74 93 L26 93 Z"
+        fill="white" stroke="black" stroke-width="2.8" stroke-linejoin="round"/>
+  <!-- Shadow on right of base -->
+  <path d="M68 83 L74 93 L70 93 L64 83 Z" fill="black" stroke="none"/>
+  <!-- Small line detail on base face -->
+  <line x1="28" y1="89" x2="68" y2="89" stroke="black" stroke-width="0.9" opacity="0.6"/>
+</svg>
