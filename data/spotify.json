@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T08:18:04Z",
+  "updated_at": "2026-04-30T13:49:41Z",
   "short_term": {
     "top_tracks": [
       {
@@ -129,18 +129,18 @@
         "url": "https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut"
       },
       {
-        "name": "Taxes",
-        "artist": "Geese",
-        "album": "Getting Killed",
-        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
-        "url": "https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI"
-      },
-      {
         "name": "Pictures of You",
         "artist": "Drugdealer, Kate Bollinger",
         "album": "Hiding in Plain Sight",
         "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
         "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT"
+      },
+      {
+        "name": "Taxes",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI"
       },
       {
         "name": "Islands of Men",
