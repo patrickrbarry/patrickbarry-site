@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T19:26:13Z",
+  "updated_at": "2026-05-05T02:33:53Z",
   "short_term": {
     "top_tracks": [
       {
@@ -67,22 +67,10 @@
         "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
       },
       {
-        "name": "Father John Misty",
-        "image": "https://i.scdn.co/image/ab676161000051748a78e4e37d117b9cc90a6363",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-      },
-      {
         "name": "Nusrat Fateh Ali Khan",
         "image": "https://i.scdn.co/image/ab6761610000517446444c5c2069fe5470bec996",
         "genres": [],
         "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
-      },
-      {
-        "name": "Drugdealer",
-        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       {
         "name": "Wet Leg",
@@ -91,10 +79,22 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
-        "name": "Flea",
-        "image": "https://i.scdn.co/image/ab676161000051741d3d1629faf335838faeafa3",
+        "name": "Drugdealer",
+        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
         "genres": [],
-        "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      {
+        "name": "Father John Misty",
+        "image": "https://i.scdn.co/image/ab676161000051748a78e4e37d117b9cc90a6363",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+      },
+      {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       }
     ]
   },
