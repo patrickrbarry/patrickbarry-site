@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T08:36:23Z",
+  "updated_at": "2026-05-12T14:19:11Z",
   "short_term": {
     "top_tracks": [
       {
@@ -115,13 +115,6 @@
         "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
       },
       {
-        "name": "Trinidad",
-        "artist": "Geese",
-        "album": "Getting Killed",
-        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
-        "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
-      },
-      {
         "name": "Manning Fireworks",
         "artist": "MJ Lenderman",
         "album": "Manning Fireworks",
@@ -129,18 +122,18 @@
         "url": "https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut"
       },
       {
+        "name": "Trinidad",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
+      },
+      {
         "name": "Pictures of You",
         "artist": "Drugdealer, Kate Bollinger",
         "album": "Hiding in Plain Sight",
         "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
         "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT"
-      },
-      {
-        "name": "Taxes",
-        "artist": "Geese",
-        "album": "Getting Killed",
-        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
-        "url": "https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI"
       },
       {
         "name": "Spangled",
@@ -155,20 +148,27 @@
         "album": "Getting Killed",
         "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
         "url": "https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV"
+      },
+      {
+        "name": "Riot",
+        "artist": "2 Chainz",
+        "album": "Based On A T.R.U. Story (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d00001e022a0e6aff34e828392e1df7d0",
+        "url": "https://open.spotify.com/track/4gd29fPdIIIU7cHJXwtycl"
       }
     ],
     "top_artists": [
-      {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-      },
       {
         "name": "Peter Cat Recording Co.",
         "image": "https://i.scdn.co/image/ab6761610000517441bacc5ba605dfcc88c25733",
         "genres": [],
         "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+      },
+      {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
         "name": "MJ Lenderman",
