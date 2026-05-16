@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T02:42:53Z",
+  "updated_at": "2026-05-16T08:01:02Z",
   "short_term": {
     "top_tracks": [
       {
@@ -67,12 +67,6 @@
         "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
       },
       {
-        "name": "Nusrat Fateh Ali Khan",
-        "image": "https://i.scdn.co/image/ab6761610000517446444c5c2069fe5470bec996",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
-      },
-      {
         "name": "Geese",
         "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
         "genres": [],
@@ -95,6 +89,12 @@
         "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
         "genres": [],
         "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      {
+        "name": "Tame Impala",
+        "image": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       }
     ]
   },
