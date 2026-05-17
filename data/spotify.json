@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T19:01:28Z",
+  "updated_at": "2026-05-17T02:51:53Z",
   "short_term": {
     "top_tracks": [
       {
@@ -73,16 +73,16 @@
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "strongboi",
-        "image": "https://i.scdn.co/image/ab67616100005174c48096451ba1cab7617fb85f",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-      },
-      {
         "name": "Thee Sacred Souls",
         "image": "https://i.scdn.co/image/ab676161000051741a99219498d5119b0e742b19",
         "genres": [],
         "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+      },
+      {
+        "name": "strongboi",
+        "image": "https://i.scdn.co/image/ab67616100005174c48096451ba1cab7617fb85f",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
       },
       {
         "name": "Drugdealer",
