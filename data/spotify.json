@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T14:57:47Z",
+  "updated_at": "2026-05-20T20:11:18Z",
   "short_term": {
     "top_tracks": [
       {
@@ -85,16 +85,16 @@
         "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
       },
       {
-        "name": "Drake",
-        "image": "https://i.scdn.co/image/ab676161000051744293385d324db8558179afd9",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      },
-      {
         "name": "LCD Soundsystem",
         "image": "https://i.scdn.co/image/ab676161000051746a0838a408f8c9cf82915ac8",
         "genres": [],
         "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+      },
+      {
+        "name": "Drake",
+        "image": "https://i.scdn.co/image/ab676161000051744293385d324db8558179afd9",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ]
   },
