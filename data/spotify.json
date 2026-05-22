@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T19:51:07Z",
+  "updated_at": "2026-05-22T03:27:46Z",
   "short_term": {
     "top_tracks": [
       {
@@ -45,18 +45,18 @@
         "url": "https://open.spotify.com/track/0NH4E6UL2DUGMBtvsylm1O"
       },
       {
+        "name": "North American Scum",
+        "artist": "LCD Soundsystem",
+        "album": "Sound of Silver",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6272ad26e7a55bc342a6dd0",
+        "url": "https://open.spotify.com/track/29ufIwomYfLbWBxPMdaUZm"
+      },
+      {
         "name": "Foolmuse",
         "artist": "Peter Cat Recording Co.",
         "album": "BETA",
         "image": "https://i.scdn.co/image/ab67616d00001e023db57df610057ad23fd54de1",
         "url": "https://open.spotify.com/track/7ab0HieXGKChMstA42bn69"
-      },
-      {
-        "name": "Ratchet Happy Birthday",
-        "artist": "Drake",
-        "album": "Scorpion",
-        "image": "https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5",
-        "url": "https://open.spotify.com/track/4SUwJA3eUVNHExxMPEUhQe"
       }
     ],
     "top_artists": [
@@ -65,6 +65,18 @@
         "image": "https://i.scdn.co/image/ab6761610000517441bacc5ba605dfcc88c25733",
         "genres": [],
         "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+      },
+      {
+        "name": "LCD Soundsystem",
+        "image": "https://i.scdn.co/image/ab676161000051746a0838a408f8c9cf82915ac8",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+      },
+      {
+        "name": "The Beths",
+        "image": "https://i.scdn.co/image/ab67616100005174eb26b0d0de46b77e23675281",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
       },
       {
         "name": "Geese",
@@ -79,22 +91,10 @@
         "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
       },
       {
-        "name": "LCD Soundsystem",
-        "image": "https://i.scdn.co/image/ab676161000051746a0838a408f8c9cf82915ac8",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-      },
-      {
         "name": "Olivia Dean",
         "image": "https://i.scdn.co/image/ab676161000051745c7577ad44daeb7ce4b941a1",
         "genres": [],
         "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-      },
-      {
-        "name": "Drake",
-        "image": "https://i.scdn.co/image/ab676161000051744293385d324db8558179afd9",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ]
   },
