@@ -109,10 +109,24 @@ def map_genre(categories):
 
 def listening_status_to_bookish(item):
     """Derive Bookish status from Audible listening data.
-    Only "read" (finished) or "unread" — never "reading", which the user sets manually."""
+    - "read"    → is_finished is true
+    - "reading" → 5%–95% complete (actively in progress)
+    - "unread"  → everything else (not started, or <5% / >95% without is_finished)
+    Status is only applied to newly inserted books; existing records are never overwritten.
+    """
     ls = item.get("listening_status") or {}
+
     if ls.get("is_finished"):
         return "read"
+
+    # percent_complete may be a decimal (0.0–1.0) or an integer (0–100)
+    pct = ls.get("percent_complete") or 0
+    if 0 < pct <= 1.0:
+        pct = pct * 100  # normalise to 0–100
+
+    if 5 <= pct < 95:
+        return "reading"
+
     return "unread"
 
 

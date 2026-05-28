@@ -2,7 +2,7 @@ name: Sync Audible Library to Bookish
 
 on:
   schedule:
-    - cron: '0 9 * * *'    # Every day at 9am UTC (after books.json update at 8am)
+    - cron: '0 */3 * * *'  # Every 3 hours — catches purchases/progress without delay
   workflow_dispatch:         # Allow manual trigger from GitHub UI
 
 jobs:
