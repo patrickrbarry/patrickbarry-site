@@ -202,6 +202,17 @@ def update_formats(book_id, new_formats):
         raise RuntimeError(f"Update failed ({r.status_code}): {r.text}")
 
 
+def update_status(book_id, new_status):
+    r = requests.patch(
+        f"{SUPABASE_URL}/rest/v1/bookslist",
+        headers={**HEADERS, "Prefer": "return=minimal"},
+        params={"id": f"eq.{book_id}"},
+        json={"status": new_status},
+    )
+    if not r.ok:
+        raise RuntimeError(f"Status update failed ({r.status_code}): {r.text}")
+
+
 # ── Main ───────────────────────────────────────────────────────────────────────
 
 def load_auth():
@@ -272,10 +283,23 @@ def main():
         if existing_book:
             # Already in Bookish — ensure "audible" is in formats
             formats = existing_book.get("formats") or []
+            changed = False
             if "audible" not in formats:
                 new_formats = formats + ["audible"]
                 update_formats(existing_book["id"], new_formats)
-                print(f"  ↺  Updated formats: {title}")
+                changed = True
+
+            # Promote status from "unread" → "reading"/"read" based on Audible progress.
+            # Never overwrite a status the user has manually set to "reading" or "read".
+            current_status = existing_book.get("status") or "unread"
+            if current_status == "unread":
+                audible_status = listening_status_to_bookish(item)
+                if audible_status != "unread":
+                    update_status(existing_book["id"], audible_status)
+                    print(f"  ↑  Status → [{audible_status}]: {title}")
+                    changed = True
+
+            if changed:
                 updated += 1
             else:
                 skipped += 1
