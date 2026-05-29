@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T20:03:47Z",
+  "updated_at": "2026-05-29T20:05:46Z",
   "reading": [
     {
       "title": "A History of Japan",
@@ -37,6 +37,13 @@
       "fiction_type": "Nonfiction"
     },
     {
+      "title": "Lincoln in the Bardo",
+      "author": "George Saunders",
+      "cover_url": "https://m.media-amazon.com/images/I/61ojNLyfNDL._SL500_.jpg",
+      "genre": "Uncategorized",
+      "fiction_type": "Nonfiction"
+    },
+    {
       "title": "Maintenance of Everything",
       "author": "Stewart Brand",
       "cover_url": "http://books.google.com/books/content?id=gbHO0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -48,6 +55,20 @@
       "author": "Walter Dening",
       "cover_url": "http://books.google.com/books/content?id=SrUxnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "genre": "Biography/Memoir",
+      "fiction_type": "Nonfiction"
+    },
+    {
+      "title": "The MANIAC",
+      "author": "Benjamin Labatut",
+      "cover_url": "https://m.media-amazon.com/images/I/31iMO8B5YBL._SL500_.jpg",
+      "genre": "Uncategorized",
+      "fiction_type": "Nonfiction"
+    },
+    {
+      "title": "Ubik",
+      "author": "Philip K. Dick",
+      "cover_url": "https://m.media-amazon.com/images/I/51hO3siMCuL._SL500_.jpg",
+      "genre": "Uncategorized",
       "fiction_type": "Nonfiction"
     },
     {
