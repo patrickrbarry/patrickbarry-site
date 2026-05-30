@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T08:25:04Z",
+  "updated_at": "2026-05-30T13:24:21Z",
   "short_term": {
     "top_tracks": [
       {
@@ -38,25 +38,25 @@
         "url": "https://open.spotify.com/track/0Js2YzgccsgS7QTV8jJRVl"
       },
       {
+        "name": "Straight Line Was A Lie",
+        "artist": "The Beths",
+        "album": "Straight Line Was A Lie",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e424e18a3aae3eb22b1159da",
+        "url": "https://open.spotify.com/track/1KpAjuTO2M9eYnaGz6uoTc"
+      },
+      {
+        "name": "Man I Need",
+        "artist": "Olivia Dean",
+        "album": "Man I Need",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3d69e17dde129037a1f09e2",
+        "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+      },
+      {
         "name": "The Spins",
         "artist": "Mac Miller, Empire Of The Sun",
         "album": "K.I.D.S. (Deluxe)",
         "image": "https://i.scdn.co/image/ab67616d00001e027414c28a11a87cbfd91dce10",
         "url": "https://open.spotify.com/track/3iEUDvanZwQhLCIqUmCR7N"
-      },
-      {
-        "name": "So Easy (To Fall In Love)",
-        "artist": "Olivia Dean",
-        "album": "The Art of Loving",
-        "image": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
-        "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-      },
-      {
-        "name": "Drunk Girls",
-        "artist": "LCD Soundsystem",
-        "album": "This Is Happening",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e8a0df05a2eff185dabcd161",
-        "url": "https://open.spotify.com/track/0zsdKF0Cxd3IMvewfzqZL4"
       }
     ],
     "top_artists": [
@@ -150,11 +150,11 @@
         "url": "https://open.spotify.com/track/4gd29fPdIIIU7cHJXwtycl"
       },
       {
-        "name": "Islands of Men",
-        "artist": "Geese",
-        "album": "Getting Killed",
-        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
-        "url": "https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV"
+        "name": "Floated By",
+        "artist": "Peter Cat Recording Co.",
+        "album": "Bismillah",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
+        "url": "https://open.spotify.com/track/7IAKxhI1z8Sas7iLcX8YF5"
       }
     ],
     "top_artists": [
