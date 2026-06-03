@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T03:52:35Z",
+  "updated_at": "2026-06-03T10:54:19Z",
   "short_term": {
     "top_tracks": [
       {
@@ -171,6 +171,12 @@
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
+        "name": "Drugdealer",
+        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      {
         "name": "MJ Lenderman",
         "image": "https://i.scdn.co/image/ab6761610000517427fa0080c12d5330cf5562b8",
         "genres": [],
@@ -181,12 +187,6 @@
         "image": "https://i.scdn.co/image/ab67616100005174f556662d187b9191c421be1c",
         "genres": [],
         "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-      },
-      {
-        "name": "Drugdealer",
-        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       {
         "name": "Father John Misty",
