@@ -105,9 +105,9 @@ async function loadLinks() {
 // ── Spotify ───────────────────────────────────────────────────────────────────
 
 const SPOTIFY_RANGES = [
-  { key: 'short_term',  label: 'This Month' },
-  { key: 'medium_term', label: '6 Months'   },
-  { key: 'long_term',   label: 'All Time'   },
+  { key: 'recent',      label: 'Recently Played' },
+  { key: 'medium_term', label: '6 Months'        },
+  { key: 'long_term',   label: 'All Time'         },
 ];
 
 /**
@@ -160,7 +160,7 @@ function renderSpotify(data) {
   const container = document.getElementById('spotifyData');
   if (!container) return;
 
-  const hasRanges = data.short_term !== undefined;
+  const hasRanges = data.recent !== undefined || data.short_term !== undefined;
 
   if (!hasRanges && (!data.updated_at || (data.top_tracks || []).length === 0)) {
     container.innerHTML = '<p class="spotify-pending">Spotify data will appear once the first sync runs.</p>';

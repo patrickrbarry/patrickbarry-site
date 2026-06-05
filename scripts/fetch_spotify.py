@@ -30,7 +30,6 @@ REFRESH_TOKEN = os.environ["SPOTIFY_REFRESH_TOKEN"]
 API = "https://api.spotify.com/v1"
 
 TIME_RANGES = [
-    ("short_term",  "This Month"),   # ~4 weeks
     ("medium_term", "6 Months"),     # ~6 months
     ("long_term",   "All Time"),     # several years
 ]
@@ -65,6 +64,50 @@ def best_image(images, target_width=300):
     if above:
         return min(above, key=lambda i: i["width"])["url"]
     return min(images, key=lambda i: i.get("width", 9999))["url"]
+
+
+def fetch_recently_played(token, limit=20):
+    """Fetch recently played tracks, deduplicated by track ID (newest play wins)."""
+    raw = get("/me/player/recently-played", token, {"limit": 50})
+    seen = {}
+    for item in raw.get("items", []):
+        t = item["track"]
+        tid = t["id"]
+        if tid not in seen:
+            seen[tid] = {
+                "name":      t["name"],
+                "artist":    ", ".join(a["name"] for a in t["artists"]),
+                "album":     t["album"]["name"],
+                "image":     best_image(t["album"]["images"]),
+                "url":       t["external_urls"]["spotify"],
+                "played_at": item["played_at"],
+            }
+
+    # Unique tracks in chronological order (most recent first), capped at limit
+    top_tracks = list(seen.values())[:limit]
+
+    # Derive top artists from play frequency in the same batch
+    artist_counts = {}
+    for item in raw.get("items", []):
+        for a in item["track"]["artists"]:
+            aid = a["id"]
+            if aid not in artist_counts:
+                artist_counts[aid] = {"name": a["name"], "count": 0, "url": a["external_urls"]["spotify"]}
+            artist_counts[aid]["count"] += 1
+
+    # Fetch images for top 6 artists by play count
+    top_artist_ids = sorted(artist_counts, key=lambda x: -artist_counts[x]["count"])[:6]
+    top_artists = []
+    for aid in top_artist_ids:
+        a = artist_counts[aid]
+        try:
+            detail = get(f"/artists/{aid}", token)
+            image = best_image(detail.get("images", []))
+        except Exception:
+            image = None
+        top_artists.append({"name": a["name"], "image": image, "url": a["url"]})
+
+    return {"top_tracks": top_tracks, "top_artists": top_artists}
 
 
 def fetch_range(token, time_range):
@@ -102,6 +145,9 @@ def main():
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
     }
 
+    print("  → Recently Played")
+    data["recent"] = fetch_recently_played(token)
+
     for range_key, range_label in TIME_RANGES:
         print(f"  → {range_label} ({range_key})")
         data[range_key] = fetch_range(token, range_key)
@@ -109,7 +155,7 @@ def main():
     out = Path(__file__).parent.parent / "data" / "spotify.json"
     out.write_text(json.dumps(data, indent=2) + "\n")
 
-    total_tracks = sum(len(data[k]["top_tracks"]) for k, _ in TIME_RANGES)
+    total_tracks = len(data["recent"]["top_tracks"]) + sum(len(data[k]["top_tracks"]) for k, _ in TIME_RANGES)
     print(f"✅ {total_tracks} tracks across 3 ranges → {out}")
 
 
