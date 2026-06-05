@@ -79,11 +79,23 @@ async function loadLinks() {
       return 0;
     });
 
+    const showToggle = sorted.length > 4;
     container.innerHTML = `
-      <div class="links-list">
+      <div class="links-list${showToggle ? ' links-collapsed' : ''}" id="linksListInner">
         ${sorted.map(renderLinkItem).join('')}
       </div>
+      ${showToggle ? `<button class="links-toggle" id="linksToggle">Show all ${sorted.length} links ↓</button>` : ''}
     `;
+
+    if (showToggle) {
+      document.getElementById('linksToggle').addEventListener('click', function () {
+        const list = document.getElementById('linksListInner');
+        const collapsed = list.classList.toggle('links-collapsed');
+        this.textContent = collapsed
+          ? `Show all ${sorted.length} links ↓`
+          : 'Show less ↑';
+      });
+    }
   } catch (err) {
     console.error('Failed to load links:', err);
     container.innerHTML = '<p class="links-empty">Could not load links.</p>';

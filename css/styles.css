@@ -443,6 +443,25 @@ section:nth-child(even) {
 
 /* ─── Links ─────────────────────────────────────────────────────────────────── */
 
+.links-collapsed .link-item:nth-child(n+5) {
+  display: none;
+}
+
+.links-toggle {
+  background: none;
+  border: none;
+  padding: 12px 0 0;
+  font-size: 13px;
+  color: #2a5298;
+  cursor: pointer;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  font-weight: 500;
+}
+
+.links-toggle:hover {
+  text-decoration: underline;
+}
+
 .links-list {
   display: flex;
   flex-direction: column;
