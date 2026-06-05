@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T04:17:59Z",
+  "updated_at": "2026-06-05T04:23:29Z",
   "recent": {
     "top_tracks": [
       {
@@ -65,102 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02932b996af72dfeaf5a72ef58",
         "url": "https://open.spotify.com/track/1nT1WwzjraW3Iu8Pa8wXEi",
         "played_at": "2026-06-04T00:25:34.777Z"
-      },
-      {
-        "name": "Famous",
-        "artist": "Kanye West",
-        "album": "The Life Of Pablo",
-        "image": "https://i.scdn.co/image/ab67616d00001e022a7db835b912dc5014bd37f4",
-        "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8",
-        "played_at": "2026-06-03T23:10:55.715Z"
-      },
-      {
-        "name": "Pump It Up - 2021 Remaster",
-        "artist": "Elvis Costello & The Attractions",
-        "album": "This Year's Model (2021 Remaster)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02c39aa62b10cea6cd2c2c1ed8",
-        "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM",
-        "played_at": "2026-06-03T23:07:55.180Z"
-      },
-      {
-        "name": "CPR",
-        "artist": "Wet Leg",
-        "album": "moisturizer",
-        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO",
-        "played_at": "2026-06-03T23:04:16.758Z"
-      },
-      {
-        "name": "HIGHER!",
-        "artist": "Dijon",
-        "album": "Baby",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fd69099343fa7827e78cca4b",
-        "url": "https://open.spotify.com/track/0XnD9GJRD01wvXFLWJXiYx",
-        "played_at": "2026-06-03T23:01:46.144Z"
-      },
-      {
-        "name": "Roman Holiday",
-        "artist": "Fontaines D.C.",
-        "album": "Skinty Fia",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b23737878e75582c2e255029",
-        "url": "https://open.spotify.com/track/4GKJALTXTwhZgLPp0usd5C",
-        "played_at": "2026-06-03T14:41:41.601Z"
-      },
-      {
-        "name": "Cursed Diamond",
-        "artist": "The Black Crowes",
-        "album": "amorica.",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
-        "url": "https://open.spotify.com/track/17dZ56FmLmiTBaNJ7qWV7C",
-        "played_at": "2026-06-03T14:37:19.991Z"
-      },
-      {
-        "name": "I See Myself",
-        "artist": "Geese",
-        "album": "3D Country",
-        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
-        "url": "https://open.spotify.com/track/4gFFHAj5iwUEHwPpjZTdi5",
-        "played_at": "2026-06-03T14:31:23.527Z"
-      },
-      {
-        "name": "Pravda",
-        "artist": "Vampire Weekend",
-        "album": "Only God Was Above Us",
-        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
-        "url": "https://open.spotify.com/track/1vfG5VaQQzr7x7gCbVyQFF",
-        "played_at": "2026-06-03T14:28:49.312Z"
-      },
-      {
-        "name": "I Quit",
-        "artist": "The Smile",
-        "album": "Wall Of Eyes",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
-        "url": "https://open.spotify.com/track/1AwmHLaRPX4970KLkbetPb",
-        "played_at": "2026-06-03T14:24:37.999Z"
-      },
-      {
-        "name": "Summer In The City",
-        "artist": "Quincy Jones",
-        "album": "You've Got It Bad Girl",
-        "image": "https://i.scdn.co/image/ab67616d00001e028eebdab9c507b776cfb0298b",
-        "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu",
-        "played_at": "2026-06-03T01:20:25.243Z"
-      },
-      {
-        "name": "Assumptions",
-        "artist": "Sam Gellaitry",
-        "album": "Assumptions (Jengi Remix)",
-        "image": "https://i.scdn.co/image/ab67616d00001e022ecfdfe9c1e036f48ac9e87f",
-        "url": "https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh",
-        "played_at": "2026-06-03T01:15:20.502Z"
-      },
-      {
-        "name": "Sugar On My Tongue",
-        "artist": "Tyler, The Creator",
-        "album": "DON'T TAP THE GLASS",
-        "image": "https://i.scdn.co/image/ab67616d00001e024b7fbb849ed845ddedcce346",
-        "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj",
-        "played_at": "2026-06-03T01:11:39.189Z"
       }
     ],
     "top_artists": [
