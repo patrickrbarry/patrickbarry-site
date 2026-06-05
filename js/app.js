@@ -168,7 +168,7 @@ function renderSpotify(data) {
   }
 
   const ago = timeAgo(data.updated_at);
-  let activeRange = 'short_term';
+  let activeRange = SPOTIFY_RANGES[0].key;
 
   const tabsHtml = hasRanges ? `
     <div class="spotify-tabs">
