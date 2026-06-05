@@ -66,7 +66,7 @@ def best_image(images, target_width=300):
     return min(images, key=lambda i: i.get("width", 9999))["url"]
 
 
-def fetch_recently_played(token, limit=20):
+def fetch_recently_played(token, limit=8):
     """Fetch recently played tracks, deduplicated by track ID (newest play wins)."""
     raw = get("/me/player/recently-played", token, {"limit": 50})
     seen = {}
