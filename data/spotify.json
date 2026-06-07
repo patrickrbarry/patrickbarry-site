@@ -1,77 +1,82 @@
 {
-  "updated_at": "2026-06-07T03:39:45Z",
+  "updated_at": "2026-06-07T08:53:00Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "So Lonely",
-        "artist": "The Police",
-        "album": "Outlandos D'Amour (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e022043dd3544a339547d04b436",
-        "url": "https://open.spotify.com/track/2wnsBaxrmkthIFAm6vqCuX",
-        "played_at": "2026-06-07T03:36:15.423Z"
+        "name": "Way to be Loved",
+        "artist": "TOPS",
+        "album": "Picture You Staring",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f2f978160a43c037297075af",
+        "url": "https://open.spotify.com/track/3wO7lEbQYuxxEXmwfk335E",
+        "played_at": "2026-06-07T05:19:23.062Z"
       },
       {
-        "name": "Just What I Needed",
-        "artist": "The Cars",
-        "album": "The Cars",
-        "image": "https://i.scdn.co/image/ab67616d00001e02f725bc7907dcf15aa2c6e7b7",
-        "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN",
-        "played_at": "2026-06-07T03:31:25.847Z"
+        "name": "Hannah Hunt",
+        "artist": "Vampire Weekend",
+        "album": "Modern Vampires of the City",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bd5bca5a45474d8dc1e26588",
+        "url": "https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7",
+        "played_at": "2026-06-07T05:14:50.514Z"
       },
       {
-        "name": "Madison",
-        "artist": "Drugdealer",
-        "album": "Hiding in Plain Sight",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr",
-        "played_at": "2026-06-07T03:27:40.289Z"
+        "name": "Inside Out",
+        "artist": "Spoon",
+        "album": "They Want My Soul",
+        "image": "https://i.scdn.co/image/ab67616d00001e025126861ec7787b311b0f8a33",
+        "url": "https://open.spotify.com/track/7HKW2F9UqwMVPdByorotm1",
+        "played_at": "2026-06-07T05:08:53.097Z"
       },
       {
-        "name": "Down Under",
-        "artist": "Men At Work",
-        "album": "Business As Usual",
-        "image": "https://i.scdn.co/image/ab67616d00001e02aa5e4c9da271951ac0b31fa2",
-        "url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
-        "played_at": "2026-06-07T03:27:40.234Z"
+        "name": "Public Service Announcement (Interlude)",
+        "artist": "JA\u0178-Z",
+        "album": "The Black Album",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c528802c308a1e0e4d9945dd",
+        "url": "https://open.spotify.com/track/1WOwGVtrVWtV3WW7X4TZoB",
+        "played_at": "2026-06-07T05:03:43.184Z"
       },
       {
-        "name": "Give A Little Bit",
-        "artist": "Supertramp",
-        "album": "Even In The Quietest Moments... (Remastered 2026)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02be91795435584ccd90c2a76a",
-        "url": "https://open.spotify.com/track/1JI4nBu8CZjKYjyADy8kAv",
-        "played_at": "2026-06-07T03:23:43.173Z"
+        "name": "Feel Good Inc.",
+        "artist": "Gorillaz, De La Soul",
+        "album": "Demon Days",
+        "image": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
+        "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
+        "played_at": "2026-06-07T05:00:50.193Z"
       },
       {
-        "name": "You Can't Always Get What You Want",
-        "artist": "The Rolling Stones",
-        "album": "Let It Bleed",
-        "image": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99",
-        "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ",
-        "played_at": "2026-06-07T03:19:34.136Z"
+        "name": "Praise The Lord (Da Shine) (feat. Skepta)",
+        "artist": "A$AP Rocky, Skepta",
+        "album": "TESTING",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bfcb8d00cee4f8257a6b7fe1",
+        "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z",
+        "played_at": "2026-06-07T04:57:08.218Z"
       },
       {
-        "name": "Talk Down",
-        "artist": "Dijon",
-        "album": "Absolutely",
-        "image": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
-        "url": "https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO",
-        "played_at": "2026-06-07T03:12:05.418Z"
+        "name": "Dreams",
+        "artist": "Coco & Breezy, Hadiya George",
+        "album": "Free",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc30cee0366c73700f604584",
+        "url": "https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC",
+        "played_at": "2026-06-07T04:53:41.745Z"
       },
       {
-        "name": "As It Was",
-        "artist": "Harry Styles",
-        "album": "Harry's House",
-        "image": "https://i.scdn.co/image/ab67616d00001e0282ce362511fb3d9dda6578ee",
-        "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e",
-        "played_at": "2026-06-07T03:09:33.882Z"
+        "name": "NUEVAYoL",
+        "artist": "Bad Bunny",
+        "album": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+        "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
+        "played_at": "2026-06-07T04:50:26.053Z"
       }
     ],
     "top_artists": [
       {
-        "name": "Drugdealer",
-        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
-        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        "name": "TOPS",
+        "image": "https://i.scdn.co/image/ab67616100005174a834381ce3a40d5a4c831130",
+        "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+      },
+      {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
         "name": "Wet Leg",
@@ -79,19 +84,14 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
-        "name": "Kendrick Lamar",
-        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
-        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        "name": "Vampire Weekend",
+        "image": "https://i.scdn.co/image/ab676161000051740bb49b0b71ab3f5871860617",
+        "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
       },
       {
-        "name": "Jenny Lewis",
-        "image": "https://i.scdn.co/image/ab67616100005174283ede192772a95df45e1c91",
-        "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-      },
-      {
-        "name": "Dijon",
-        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
-        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        "name": "Drugdealer",
+        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       {
         "name": "Justin Bieber",
@@ -152,11 +152,11 @@
         "url": "https://open.spotify.com/track/7IAKxhI1z8Sas7iLcX8YF5"
       },
       {
-        "name": "Joker Lips",
+        "name": "Wristwatch",
         "artist": "MJ Lenderman",
         "album": "Manning Fireworks",
         "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
-        "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
+        "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR"
       }
     ],
     "top_artists": [
