@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026-06-08T10:48:50Z",
+  "updated_at": "2026-06-08T15:45:30Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "...At The Holiday Party",
+        "artist": "St. Vincent",
+        "album": "Daddy's Home",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bbd97562a9466a1883bc7229",
+        "url": "https://open.spotify.com/track/5LvNPnYoZA1XCMgUGgAges",
+        "played_at": "2026-06-08T14:53:48.365Z"
+      },
+      {
+        "name": "The Adults Are Talking",
+        "artist": "The Strokes",
+        "album": "The New Abnormal",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
+        "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
+        "played_at": "2026-06-08T14:50:11.444Z"
+      },
+      {
+        "name": "Piece Of Shit",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
+        "url": "https://open.spotify.com/track/6PGNpgfoGIpfZVJFHdK7bV",
+        "played_at": "2026-06-08T14:45:37.961Z"
+      },
+      {
+        "name": "The Surfer",
+        "artist": "Vampire Weekend",
+        "album": "Only God Was Above Us",
+        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
+        "url": "https://open.spotify.com/track/0tPOlAEXHaXXIJGNR9Ljiy",
+        "played_at": "2026-06-08T14:42:31.465Z"
+      },
+      {
+        "name": "Dive",
+        "artist": "Olivia Dean",
+        "album": "Messy",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cac9b52107643faf13a7587b",
+        "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2",
+        "played_at": "2026-06-08T14:36:34.157Z"
+      },
+      {
+        "name": "Take",
+        "artist": "The Beths",
+        "album": "Straight Line Was A Lie",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e424e18a3aae3eb22b1159da",
+        "url": "https://open.spotify.com/track/5bS7ajbQ4ZZDksu9ryAvXu",
+        "played_at": "2026-06-08T14:33:46.143Z"
+      },
+      {
+        "name": "Zero Sum",
+        "artist": "The Smile",
+        "album": "Cutouts",
+        "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
+        "url": "https://open.spotify.com/track/7tJ2ZPwHRrPTy1OW7jais0",
+        "played_at": "2026-06-08T14:30:07.053Z"
+      },
       {
         "name": "Way to be Loved",
         "artist": "TOPS",
         "album": "Picture You Staring",
         "image": "https://i.scdn.co/image/ab67616d00001e02f2f978160a43c037297075af",
         "url": "https://open.spotify.com/track/3wO7lEbQYuxxEXmwfk335E",
-        "played_at": "2026-06-07T05:19:23.062Z"
-      },
-      {
-        "name": "Hannah Hunt",
-        "artist": "Vampire Weekend",
-        "album": "Modern Vampires of the City",
-        "image": "https://i.scdn.co/image/ab67616d00001e02bd5bca5a45474d8dc1e26588",
-        "url": "https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7",
-        "played_at": "2026-06-07T05:14:50.514Z"
-      },
-      {
-        "name": "Inside Out",
-        "artist": "Spoon",
-        "album": "They Want My Soul",
-        "image": "https://i.scdn.co/image/ab67616d00001e025126861ec7787b311b0f8a33",
-        "url": "https://open.spotify.com/track/7HKW2F9UqwMVPdByorotm1",
-        "played_at": "2026-06-07T05:08:53.097Z"
-      },
-      {
-        "name": "Public Service Announcement (Interlude)",
-        "artist": "JA\u0178-Z",
-        "album": "The Black Album",
-        "image": "https://i.scdn.co/image/ab67616d00001e02c528802c308a1e0e4d9945dd",
-        "url": "https://open.spotify.com/track/1WOwGVtrVWtV3WW7X4TZoB",
-        "played_at": "2026-06-07T05:03:43.184Z"
-      },
-      {
-        "name": "Feel Good Inc.",
-        "artist": "Gorillaz, De La Soul",
-        "album": "Demon Days",
-        "image": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
-        "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
-        "played_at": "2026-06-07T05:00:50.193Z"
-      },
-      {
-        "name": "Praise The Lord (Da Shine) (feat. Skepta)",
-        "artist": "A$AP Rocky, Skepta",
-        "album": "TESTING",
-        "image": "https://i.scdn.co/image/ab67616d00001e02bfcb8d00cee4f8257a6b7fe1",
-        "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z",
-        "played_at": "2026-06-07T04:57:08.218Z"
-      },
-      {
-        "name": "Dreams",
-        "artist": "Coco & Breezy, Hadiya George",
-        "album": "Free",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fc30cee0366c73700f604584",
-        "url": "https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC",
-        "played_at": "2026-06-07T04:53:41.745Z"
-      },
-      {
-        "name": "NUEVAYoL",
-        "artist": "Bad Bunny",
-        "album": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "image": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
-        "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
-        "played_at": "2026-06-07T04:50:26.053Z"
+        "played_at": "2026-06-07T05:50:01.746Z"
       }
     ],
     "top_artists": [
@@ -94,9 +94,9 @@
         "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       {
-        "name": "Justin Bieber",
-        "image": "https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034",
-        "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        "name": "St. Vincent",
+        "image": "https://i.scdn.co/image/ab67616100005174bb8bc9aace3d4d39d7cfd6f1",
+        "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
       }
     ]
   },
