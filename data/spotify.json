@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T19:19:20Z",
+  "updated_at": "2026-06-08T03:45:31Z",
   "recent": {
     "top_tracks": [
       {
@@ -208,6 +208,13 @@
         "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
       },
       {
+        "name": "luther (with sza)",
+        "artist": "Kendrick Lamar, SZA",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
+        "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+      },
+      {
         "name": "Read The Room",
         "artist": "The Smile",
         "album": "Wall Of Eyes",
@@ -220,13 +227,6 @@
         "album": "Wall Of Eyes",
         "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
         "url": "https://open.spotify.com/track/6o2yIQVzajJjRrgICzcfAf"
-      },
-      {
-        "name": "luther (with sza)",
-        "artist": "Kendrick Lamar, SZA",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
-        "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
       },
       {
         "name": "squabble up",
