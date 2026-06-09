@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-06-09T09:38:51Z",
+  "updated_at": "2026-06-09T14:45:21Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Honey Bee",
+        "artist": "Tom Petty",
+        "album": "Wildflowers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0241be6d9cf0ec0067d095a072",
+        "url": "https://open.spotify.com/track/7bBJ2wBvhbCiNaZRqG3yTr",
+        "played_at": "2026-06-09T14:26:47.068Z"
+      },
+      {
+        "name": "St. Elmo",
+        "artist": "Geese",
+        "album": "3D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
+        "url": "https://open.spotify.com/track/4AL7eNtRrXQtP8xkmUR6mB",
+        "played_at": "2026-06-09T14:21:36.556Z"
+      },
+      {
+        "name": "High Head Blues",
+        "artist": "The Black Crowes",
+        "album": "amorica.",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
+        "url": "https://open.spotify.com/track/3ympAhWi3Oar3teB4VMnMm",
+        "played_at": "2026-06-09T14:18:03.488Z"
+      },
+      {
+        "name": "Black Cow",
+        "artist": "Steely Dan",
+        "album": "Aja",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf39e4261576717ff4737bb6",
+        "url": "https://open.spotify.com/track/1he20mKw1eq2OVp1BKBlpt",
+        "played_at": "2026-06-09T14:10:18.956Z"
+      },
+      {
+        "name": "Talk Down",
+        "artist": "Dijon",
+        "album": "Absolutely",
+        "image": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
+        "url": "https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO",
+        "played_at": "2026-06-09T14:05:32.051Z"
+      },
+      {
+        "name": "Family Business",
+        "artist": "Kanye West",
+        "album": "The College Dropout",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225b055377757b3cdd6f26b78",
+        "url": "https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116",
+        "played_at": "2026-06-09T14:03:07.653Z"
+      },
+      {
+        "name": "Many Times",
+        "artist": "Dijon",
+        "album": "Absolutely",
+        "image": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
+        "url": "https://open.spotify.com/track/63EUqnpcphhZh8SbXagArw",
+        "played_at": "2026-06-08T20:32:45.693Z"
+      },
       {
         "name": "...At The Holiday Party",
         "artist": "St. Vincent",
@@ -9,79 +65,23 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02bbd97562a9466a1883bc7229",
         "url": "https://open.spotify.com/track/5LvNPnYoZA1XCMgUGgAges",
         "played_at": "2026-06-08T14:53:48.365Z"
-      },
-      {
-        "name": "The Adults Are Talking",
-        "artist": "The Strokes",
-        "album": "The New Abnormal",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
-        "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
-        "played_at": "2026-06-08T14:50:11.444Z"
-      },
-      {
-        "name": "Piece Of Shit",
-        "artist": "Wet Leg",
-        "album": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
-        "url": "https://open.spotify.com/track/6PGNpgfoGIpfZVJFHdK7bV",
-        "played_at": "2026-06-08T14:45:37.961Z"
-      },
-      {
-        "name": "The Surfer",
-        "artist": "Vampire Weekend",
-        "album": "Only God Was Above Us",
-        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
-        "url": "https://open.spotify.com/track/0tPOlAEXHaXXIJGNR9Ljiy",
-        "played_at": "2026-06-08T14:42:31.465Z"
-      },
-      {
-        "name": "Dive",
-        "artist": "Olivia Dean",
-        "album": "Messy",
-        "image": "https://i.scdn.co/image/ab67616d00001e02cac9b52107643faf13a7587b",
-        "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2",
-        "played_at": "2026-06-08T14:36:34.157Z"
-      },
-      {
-        "name": "Take",
-        "artist": "The Beths",
-        "album": "Straight Line Was A Lie",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e424e18a3aae3eb22b1159da",
-        "url": "https://open.spotify.com/track/5bS7ajbQ4ZZDksu9ryAvXu",
-        "played_at": "2026-06-08T14:33:46.143Z"
-      },
-      {
-        "name": "Zero Sum",
-        "artist": "The Smile",
-        "album": "Cutouts",
-        "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
-        "url": "https://open.spotify.com/track/7tJ2ZPwHRrPTy1OW7jais0",
-        "played_at": "2026-06-08T14:30:07.053Z"
-      },
-      {
-        "name": "Way to be Loved",
-        "artist": "TOPS",
-        "album": "Picture You Staring",
-        "image": "https://i.scdn.co/image/ab67616d00001e02f2f978160a43c037297075af",
-        "url": "https://open.spotify.com/track/3wO7lEbQYuxxEXmwfk335E",
-        "played_at": "2026-06-07T05:50:01.746Z"
       }
     ],
     "top_artists": [
-      {
-        "name": "TOPS",
-        "image": "https://i.scdn.co/image/ab67616100005174a834381ce3a40d5a4c831130",
-        "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
-      },
       {
         "name": "Geese",
         "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        "name": "TOPS",
+        "image": "https://i.scdn.co/image/ab67616100005174a834381ce3a40d5a4c831130",
+        "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+      },
+      {
+        "name": "Dijon",
+        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
+        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
       },
       {
         "name": "Vampire Weekend",
@@ -89,14 +89,14 @@
         "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
       },
       {
-        "name": "Drugdealer",
-        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
-        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
-        "name": "St. Vincent",
-        "image": "https://i.scdn.co/image/ab67616100005174bb8bc9aace3d4d39d7cfd6f1",
-        "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        "name": "Steely Dan",
+        "image": "https://i.scdn.co/image/067bf3caa525edb4e97e19b2a630ccf361897350",
+        "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
       }
     ]
   },
