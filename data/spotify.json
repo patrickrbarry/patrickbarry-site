@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-10T15:28:40Z",
+  "updated_at": "2026-06-10T20:26:23Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Everything Is Peaceful Love",
+        "artist": "Bon Iver",
+        "album": "SABLE, fABLE",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230d93b9cce660d4f56770efb",
+        "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9",
+        "played_at": "2026-06-10T15:33:29.089Z"
+      },
+      {
+        "name": "The Adults Are Talking",
+        "artist": "The Strokes",
+        "album": "The New Abnormal",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
+        "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
+        "played_at": "2026-06-10T15:30:09.496Z"
+      },
       {
         "name": "Cochise",
         "artist": "Audioslave",
@@ -49,22 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
         "url": "https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO",
         "played_at": "2026-06-10T01:26:09.796Z"
-      },
-      {
-        "name": "Wristwatch",
-        "artist": "MJ Lenderman",
-        "album": "Manning Fireworks",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
-        "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR",
-        "played_at": "2026-06-10T01:23:18.943Z"
-      },
-      {
-        "name": "Wiser Time",
-        "artist": "The Black Crowes",
-        "album": "amorica.",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
-        "url": "https://open.spotify.com/track/2keMShjjogSGV9h3UMGyJe",
-        "played_at": "2026-06-10T01:19:36.479Z"
       }
     ],
     "top_artists": [
@@ -89,9 +89,9 @@
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "Vampire Weekend",
-        "image": "https://i.scdn.co/image/ab676161000051740bb49b0b71ab3f5871860617",
-        "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        "name": "The Strokes",
+        "image": "https://i.scdn.co/image/ab67616100005174c3b137793230f4043feb0089",
+        "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
       {
         "name": "Queens of the Stone Age",
