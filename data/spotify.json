@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-10T09:54:55Z",
+  "updated_at": "2026-06-10T15:28:40Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Cochise",
+        "artist": "Audioslave",
+        "album": "Audioslave",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a7292b6863258e889b78d787",
+        "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim",
+        "played_at": "2026-06-10T14:49:07.731Z"
+      },
+      {
+        "name": "No One Knows",
+        "artist": "Queens of the Stone Age",
+        "album": "Songs For The Deaf",
+        "image": "https://i.scdn.co/image/ab67616d00001e029b62c36a1f8ac00d60f460cc",
+        "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH",
+        "played_at": "2026-06-10T14:45:19.146Z"
+      },
       {
         "name": "Without Me",
         "artist": "Eminem",
@@ -49,22 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
         "url": "https://open.spotify.com/track/2keMShjjogSGV9h3UMGyJe",
         "played_at": "2026-06-10T01:19:36.479Z"
-      },
-      {
-        "name": "Sally, When The Wine Runs Out",
-        "artist": "ROLE MODEL",
-        "album": "Kansas Anymore (The Longest Goodbye)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ff9e807b292a861ded756d63",
-        "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ",
-        "played_at": "2026-06-10T01:13:56.635Z"
-      },
-      {
-        "name": "2122",
-        "artist": "Geese",
-        "album": "3D Country",
-        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
-        "url": "https://open.spotify.com/track/2XUQ0AYl4HPE0oK0qt70qw",
-        "played_at": "2026-06-10T01:10:17.984Z"
       }
     ],
     "top_artists": [
@@ -94,9 +94,9 @@
         "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
       },
       {
-        "name": "Bad Bunny",
-        "image": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
-        "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        "name": "Queens of the Stone Age",
+        "image": "https://i.scdn.co/image/ab6761610000517473edfbd970917913cfc647c7",
+        "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
       }
     ]
   },
