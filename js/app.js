@@ -290,7 +290,7 @@ function initQR() {
     overlay.hidden = false;
     if (!generated) {
       new QRCode(canvas, {
-        text:         'https://patrickbarry.netlify.app',
+        text:         'https://patrickrbarry.com',
         width:        200,
         height:       200,
         colorDark:    '#2a5298',

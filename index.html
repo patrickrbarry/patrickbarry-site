@@ -15,11 +15,10 @@
     <div class="nav-inner">
       <a href="#hero" class="nav-name">Patrick Barry</a>
       <ul class="nav-links">
-        <li><a href="#about">About</a></li>
-        <li><a href="#work">Work</a></li>
         <li><a href="#links">Links</a></li>
-        <li><a href="#listening">Listening</a></li>
         <li><a href="#books">Books</a></li>
+        <li><a href="#listening">Listening</a></li>
+        <li><a href="#about">About</a></li>
       </ul>
     </div>
   </nav>
@@ -49,6 +48,45 @@
     </div>
   </section>
 
+  <!-- ─── Links ────────────────────────────────────────────────────────────── -->
+  <section id="links">
+    <div class="container">
+      <p class="section-label">Links</p>
+      <h2 class="section-title">Things Worth Sharing</h2>
+      <div id="linksList">
+        <!-- Populated by js/app.js -->
+        <p class="links-empty">Loading…</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── Books ────────────────────────────────────────────────────────────── -->
+  <section id="books">
+    <div class="container">
+      <p class="section-label">Reading</p>
+      <h2 class="section-title">Currently Reading</h2>
+
+      <div id="booksList" class="books-grid">
+        <!-- populated by app.js -->
+      </div>
+
+      <a class="books-library-link" href="https://bookish.patrickrbarry.com" target="_blank" rel="noopener noreferrer">
+        Browse my full library →
+      </a>
+    </div>
+  </section>
+
+  <!-- ─── Listening ───────────────────────────────────────────────────────── -->
+  <section id="listening">
+    <div class="container">
+      <p class="section-label">Listening</p>
+      <h2 class="section-title">On Rotation</h2>
+      <div id="spotifyData">
+        <p class="spotify-loading">Loading…</p>
+      </div>
+    </div>
+  </section>
+
   <!-- ─── About ───────────────────────────────────────────────────────────── -->
   <section id="about">
     <div class="container">
@@ -56,65 +94,20 @@
       <h2 class="section-title">Background</h2>
 
       <p>
-        I started my career as a tech and media lawyer, but I was always drawn to the operating side
-        of the business. After more than two decades as an executive at companies like Yahoo!, Demandforce,
-        Intuit, Logikcull, and Zenoti — spanning roles as VP, CMO, and COO — I came back to the law firm
-        world to build something different.
+        I started in law — tech and media, San Francisco in the nineties — but the pull of building
+        things was too strong. Two decades of operating followed: VP roles at Yahoo!, CMO at
+        Demandforce through its acquisition by Intuit, COO at Logikcull. I was lucky enough to be
+        coached by Bill Campbell during some of that time, and it changed how I think about
+        leadership and teams permanently.
       </p>
       <p>
-        I was fortunate to be mentored by Bill Campbell, whose lessons about leadership, team-building,
-        and the power of coaching shape how I work every day. My belief is simple: the best startup teams
-        are the right kind of crazy, and their passion and belief is exhilarating.
+        Now I run Greenhouse at Orrick Tech Studio, where I work with early-stage founders on the
+        things that actually matter — team dynamics, decision-making under uncertainty, how to keep
+        moving when you don't have answers. It's the best job I've ever had.
       </p>
       <p>
-        Outside of work I spend time in nature, visiting galleries, and reading widely — fiction,
-        nonfiction, and everything in between.
+        Outside of work: books, music, galleries, and wherever a trail leads.
       </p>
-    </div>
-  </section>
-
-  <!-- ─── Current Work ─────────────────────────────────────────────────────── -->
-  <section id="work">
-    <div class="container">
-      <p class="section-label">Current Work</p>
-      <h2 class="section-title">Greenhouse @ Orrick</h2>
-
-      <div class="work-card">
-        <p class="work-card-title">Greenhouse</p>
-        <p class="work-card-subtitle">Orrick Tech Studio · Director</p>
-        <p class="work-card-body">
-          Orrick Greenhouse is a founder coaching and advisory program connecting Orrick's early-stage clients to the knowledge, resources, and human network they need to thrive.
-        </p>
-        <div class="work-stats">
-          <div class="stat">
-            <div class="stat-number">300+</div>
-            <div class="stat-label">Clients served</div>
-          </div>
-          <div class="stat">
-            <div class="stat-number">4.89</div>
-            <div class="stat-label">Client rating / 5</div>
-          </div>
-          <div class="stat">
-            <div class="stat-number">100</div>
-            <div class="stat-label">Net Promoter Score</div>
-          </div>
-          <div class="stat">
-            <div class="stat-number">71%</div>
-            <div class="stat-label">Repeat engagement</div>
-          </div>
-        </div>
-        <a class="btn btn-outline" href="https://www.orrick.com/en/tech-studio/greenhouse" target="_blank" rel="noopener noreferrer">
-          Learn about Greenhouse →
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <!-- ─── Career ───────────────────────────────────────────────────────────── -->
-  <section id="career">
-    <div class="container">
-      <p class="section-label">Career</p>
-      <h2 class="section-title">Timeline</h2>
 
       <div class="timeline timeline-collapsed" id="careerTimeline">
 
@@ -193,47 +186,46 @@
 
       </div>
       <button class="timeline-toggle" id="timelineToggle" onclick="toggleTimeline()">
-        Show full timeline ↓
+        Show full career ↓
       </button>
+
     </div>
   </section>
 
-  <!-- ─── Links ────────────────────────────────────────────────────────────── -->
-  <section id="links">
+  <!-- ─── Greenhouse ───────────────────────────────────────────────────────── -->
+  <section id="work">
     <div class="container">
-      <p class="section-label">Links</p>
-      <h2 class="section-title">Things Worth Sharing</h2>
-      <div id="linksList">
-        <!-- Populated by js/app.js -->
-        <p class="links-empty">Loading…</p>
+      <p class="section-label">Current Work</p>
+      <h2 class="section-title">Greenhouse @ Orrick</h2>
+
+      <div class="work-card">
+        <p class="work-card-title">Greenhouse</p>
+        <p class="work-card-subtitle">Orrick Tech Studio · Director</p>
+        <p class="work-card-body">
+          Greenhouse connects Orrick's early-stage clients to the coaching, resources, and network they need to build and grow.
+        </p>
+        <div class="work-stats">
+          <div class="stat">
+            <div class="stat-number">300+</div>
+            <div class="stat-label">Clients served</div>
+          </div>
+          <div class="stat">
+            <div class="stat-number">4.89</div>
+            <div class="stat-label">Client rating / 5</div>
+          </div>
+          <div class="stat">
+            <div class="stat-number">100</div>
+            <div class="stat-label">Net Promoter Score</div>
+          </div>
+          <div class="stat">
+            <div class="stat-number">71%</div>
+            <div class="stat-label">Repeat engagement</div>
+          </div>
+        </div>
+        <a class="btn btn-outline" href="https://www.orrick.com/en/tech-studio/greenhouse" target="_blank" rel="noopener noreferrer">
+          Learn about Greenhouse →
+        </a>
       </div>
-    </div>
-  </section>
-
-  <!-- ─── Listening ───────────────────────────────────────────────────────── -->
-  <section id="listening">
-    <div class="container">
-      <p class="section-label">Listening</p>
-      <h2 class="section-title">On Rotation</h2>
-      <div id="spotifyData">
-        <p class="spotify-loading">Loading…</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- ─── Books ────────────────────────────────────────────────────────────── -->
-  <section id="books">
-    <div class="container">
-      <p class="section-label">Reading</p>
-      <h2 class="section-title">Currently Reading</h2>
-
-      <div id="booksList" class="books-grid">
-        <!-- populated by app.js -->
-      </div>
-
-      <a class="books-library-link" href="https://bookish-public.netlify.app" target="_blank" rel="noopener noreferrer">
-        Browse my full library →
-      </a>
     </div>
   </section>
 
@@ -243,7 +235,7 @@
       <div class="footer-links">
         <a href="https://www.linkedin.com/in/patrickrbarry/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         <a href="https://www.orrick.com/en/tech-studio/greenhouse" target="_blank" rel="noopener noreferrer">Greenhouse</a>
-        <a href="https://bookish-public.netlify.app" target="_blank" rel="noopener noreferrer">Books</a>
+        <a href="https://bookish.patrickrbarry.com" target="_blank" rel="noopener noreferrer">Books</a>
       </div>
       <p class="footer-copy">© Patrick Barry</p>
     </div>
@@ -254,7 +246,7 @@
     <div class="qr-modal">
       <button class="qr-close" id="qrClose" aria-label="Close">✕</button>
       <div id="qrCanvas"></div>
-      <p class="qr-label">patrickbarry.netlify.app</p>
+      <p class="qr-label">patrickrbarry.com</p>
     </div>
   </div>
 
