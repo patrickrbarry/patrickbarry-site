@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-06-12T10:07:35Z",
+  "updated_at": "2026-06-12T14:53:25Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Public Service Announcement (Interlude)",
+        "artist": "JA\u0178-Z",
+        "album": "The Black Album",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c528802c308a1e0e4d9945dd",
+        "url": "https://open.spotify.com/track/1WOwGVtrVWtV3WW7X4TZoB",
+        "played_at": "2026-06-12T14:25:40.548Z"
+      },
+      {
+        "name": "squabble up",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
+        "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb",
+        "played_at": "2026-06-12T14:22:47.153Z"
+      },
+      {
+        "name": "Blockbuster Night Pt. 1",
+        "artist": "Run The Jewels, El-P, Killer Mike",
+        "album": "Run The Jewels 2",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a6e14ae4b6e2291817e03772",
+        "url": "https://open.spotify.com/track/7h893ZHzcQh6USDVXsyGsu",
+        "played_at": "2026-06-12T14:20:08.702Z"
+      },
+      {
+        "name": "DENIAL IS A RIVER",
+        "artist": "Doechii",
+        "album": "Alligator Bites Never Heal",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b245099fe26319344ddf6054",
+        "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB",
+        "played_at": "2026-06-12T14:17:35.983Z"
+      },
+      {
+        "name": "Cochise",
+        "artist": "Audioslave",
+        "album": "Audioslave",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a7292b6863258e889b78d787",
+        "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim",
+        "played_at": "2026-06-12T14:13:42.118Z"
+      },
       {
         "name": "She Cleans Up",
         "artist": "Father John Misty",
@@ -25,49 +65,14 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0241be6d9cf0ec0067d095a072",
         "url": "https://open.spotify.com/track/7bBJ2wBvhbCiNaZRqG3yTr",
         "played_at": "2026-06-12T00:52:59.973Z"
-      },
-      {
-        "name": "D'yer Mak'er - Remaster",
-        "artist": "Led Zeppelin",
-        "album": "Houses of the Holy (Remaster)",
-        "image": "https://i.scdn.co/image/ab67616d00001e021aa47e71c4edfeaddb65cd54",
-        "url": "https://open.spotify.com/track/5uUhS7XDkyycNa5FaNfPGT",
-        "played_at": "2026-06-12T00:48:02.042Z"
-      },
-      {
-        "name": "Classical",
-        "artist": "Vampire Weekend",
-        "album": "Only God Was Above Us",
-        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
-        "url": "https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL",
-        "played_at": "2026-06-12T00:43:38.652Z"
-      },
-      {
-        "name": "Talk Down",
-        "artist": "Dijon",
-        "album": "Absolutely",
-        "image": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
-        "url": "https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO",
-        "played_at": "2026-06-12T00:39:02.284Z"
-      },
-      {
-        "name": "As It Was",
-        "artist": "Harry Styles",
-        "album": "Harry's House",
-        "image": "https://i.scdn.co/image/ab67616d00001e0282ce362511fb3d9dda6578ee",
-        "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e",
-        "played_at": "2026-06-12T00:36:30.741Z"
-      },
-      {
-        "name": "Psychos",
-        "artist": "Jenny Lewis",
-        "album": "Joy'All",
-        "image": "https://i.scdn.co/image/ab67616d00001e020338a214b104dedb8e6e16e8",
-        "url": "https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M",
-        "played_at": "2026-06-12T00:33:43.532Z"
       }
     ],
     "top_artists": [
+      {
+        "name": "Kendrick Lamar",
+        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
       {
         "name": "Dijon",
         "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
@@ -79,14 +84,9 @@
         "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
       },
       {
-        "name": "Kendrick Lamar",
-        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
-        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-      },
-      {
-        "name": "Bon Iver",
-        "image": "https://i.scdn.co/image/ab67616100005174fa1d9471f2a10a3a5da1a646",
-        "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        "name": "Doechii",
+        "image": "https://i.scdn.co/image/ab67616100005174ca2fee52c41d3f58ceb6474b",
+        "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
       },
       {
         "name": "Harry Styles",
