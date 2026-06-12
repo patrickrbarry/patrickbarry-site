@@ -396,11 +396,34 @@ section:nth-child(even) {
   padding-top: 0;
 }
 
+.timeline-item {
+  cursor: pointer;
+}
+
+.timeline-header {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  margin-bottom: 2px;
+}
+
 .timeline-role {
   font-size: 15px;
   font-weight: 600;
   color: #1a1a1a;
-  margin-bottom: 2px;
+}
+
+.timeline-arrow {
+  font-size: 10px;
+  color: #bbb;
+  transition: transform 0.2s ease;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.timeline-item.open .timeline-arrow {
+  transform: rotate(90deg);
+  color: #2a5298;
 }
 
 .timeline-company {
@@ -412,17 +435,46 @@ section:nth-child(even) {
 .timeline-period {
   font-size: 13px;
   color: #aaa;
-  margin-bottom: 6px;
+  margin-bottom: 0;
+}
+
+.timeline-detail {
+  display: none;
+  margin-top: 8px;
+}
+
+.timeline-item.open .timeline-detail {
+  display: block;
 }
 
 .timeline-note {
   font-size: 14px;
   color: #777;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 
-/* Collapsed state — hide items 4 and beyond */
+/* Education section divider */
+.timeline-divider {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #bbb;
+  margin: 8px 0 24px 39px;
+}
+
+/* Education dots — lighter style */
+.timeline-dot-edu {
+  background: #ffffff;
+  border-color: #bbb;
+}
+
+/* Collapsed state — hide career items 4+ and all education */
 .timeline-collapsed .timeline-item:nth-child(n+4) {
+  display: none;
+}
+
+.timeline-collapsed .timeline-divider {
   display: none;
 }
 

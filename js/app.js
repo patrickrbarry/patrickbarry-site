@@ -230,8 +230,12 @@ function toggleTimeline() {
   const timeline = document.getElementById('careerTimeline');
   const btn = document.getElementById('timelineToggle');
   if (!timeline || !btn) return;
-  const expanded = timeline.classList.toggle('timeline-collapsed');
-  btn.textContent = expanded ? 'Show full timeline ↓' : 'Show less ↑';
+  const collapsed = timeline.classList.toggle('timeline-collapsed');
+  btn.textContent = collapsed ? 'Show full career ↓' : 'Show less ↑';
+}
+
+function toggleTimelineItem(item) {
+  item.classList.toggle('open');
 }
 
 // ── Books ─────────────────────────────────────────────────────────────────────
