@@ -1,82 +1,87 @@
 {
-  "updated_at": "2026-06-11T20:18:19Z",
+  "updated_at": "2026-06-12T03:42:01Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Killing In The Name",
-        "artist": "Rage Against The Machine",
-        "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e0254ab617bc2d4974ab6ffbece",
-        "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp",
-        "played_at": "2026-06-11T02:58:21.216Z"
+        "name": "She Cleans Up",
+        "artist": "Father John Misty",
+        "album": "Mahashmashana",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
+        "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3",
+        "played_at": "2026-06-12T02:00:37.563Z"
       },
       {
-        "name": "Pink Pony Club",
-        "artist": "Chappell Roan",
-        "album": "The Rise and Fall of a Midwest Princess",
-        "image": "https://i.scdn.co/image/ab67616d00001e0296fa88fb1789be437d5cb4b6",
-        "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc",
-        "played_at": "2026-06-11T01:58:10.853Z"
+        "name": "I See Myself",
+        "artist": "Geese",
+        "album": "3D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
+        "url": "https://open.spotify.com/track/4gFFHAj5iwUEHwPpjZTdi5",
+        "played_at": "2026-06-12T00:56:00.738Z"
       },
       {
-        "name": "Snooze",
-        "artist": "SZA",
-        "album": "SOS",
-        "image": "https://i.scdn.co/image/ab67616d00001e02bc18bdade69ec5ef0bb25b17",
-        "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2",
-        "played_at": "2026-06-11T01:53:43.883Z"
+        "name": "Honey Bee",
+        "artist": "Tom Petty",
+        "album": "Wildflowers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0241be6d9cf0ec0067d095a072",
+        "url": "https://open.spotify.com/track/7bBJ2wBvhbCiNaZRqG3yTr",
+        "played_at": "2026-06-12T00:52:59.973Z"
       },
       {
-        "name": "Late Night Talking",
+        "name": "D'yer Mak'er - Remaster",
+        "artist": "Led Zeppelin",
+        "album": "Houses of the Holy (Remaster)",
+        "image": "https://i.scdn.co/image/ab67616d00001e021aa47e71c4edfeaddb65cd54",
+        "url": "https://open.spotify.com/track/5uUhS7XDkyycNa5FaNfPGT",
+        "played_at": "2026-06-12T00:48:02.042Z"
+      },
+      {
+        "name": "Classical",
+        "artist": "Vampire Weekend",
+        "album": "Only God Was Above Us",
+        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
+        "url": "https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL",
+        "played_at": "2026-06-12T00:43:38.652Z"
+      },
+      {
+        "name": "Talk Down",
+        "artist": "Dijon",
+        "album": "Absolutely",
+        "image": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
+        "url": "https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO",
+        "played_at": "2026-06-12T00:39:02.284Z"
+      },
+      {
+        "name": "As It Was",
         "artist": "Harry Styles",
         "album": "Harry's House",
         "image": "https://i.scdn.co/image/ab67616d00001e0282ce362511fb3d9dda6578ee",
-        "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK",
-        "played_at": "2026-06-11T01:50:22.147Z"
+        "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e",
+        "played_at": "2026-06-12T00:36:30.741Z"
       },
       {
-        "name": "Slide (feat. Frank Ocean & Migos)",
-        "artist": "Calvin Harris, Frank Ocean, Migos, Funk Wav",
-        "album": "Funk Wav Bounces Vol.1",
-        "image": "https://i.scdn.co/image/ab67616d00001e024d3fa5ce7ba599f4fd7803ef",
-        "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl",
-        "played_at": "2026-06-11T01:47:10.194Z"
-      },
-      {
-        "name": "squabble up",
-        "artist": "Kendrick Lamar",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
-        "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb",
-        "played_at": "2026-06-11T01:42:47.312Z"
-      },
-      {
-        "name": "Peaches",
-        "artist": "The Presidents Of The United States Of America",
-        "album": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ec96ce38f636ef7b49460079",
-        "url": "https://open.spotify.com/track/750wm5pwuAQfnSLX8mxa5f",
-        "played_at": "2026-06-11T01:40:10.187Z"
-      },
-      {
-        "name": "Semi-Charmed Life",
-        "artist": "Third Eye Blind",
-        "album": "Third Eye Blind",
-        "image": "https://i.scdn.co/image/ab67616d00001e020c12ef918102b8d303dc9e9b",
-        "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl",
-        "played_at": "2026-06-11T01:37:02.896Z"
+        "name": "Psychos",
+        "artist": "Jenny Lewis",
+        "album": "Joy'All",
+        "image": "https://i.scdn.co/image/ab67616d00001e020338a214b104dedb8e6e16e8",
+        "url": "https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M",
+        "played_at": "2026-06-12T00:33:43.532Z"
       }
     ],
     "top_artists": [
       {
+        "name": "Dijon",
+        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
+        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+      },
+      {
+        "name": "Frank Ocean",
+        "image": "https://i.scdn.co/image/ab67616100005174ee3123e593174208f9754fab",
+        "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+      },
+      {
         "name": "Kendrick Lamar",
         "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
         "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-      },
-      {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
         "name": "Bon Iver",
@@ -87,11 +92,6 @@
         "name": "Harry Styles",
         "image": "https://i.scdn.co/image/ab67616100005174e309f8c3056a59f20d0968ca",
         "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-      },
-      {
-        "name": "The Strokes",
-        "image": "https://i.scdn.co/image/ab67616100005174c3b137793230f4043feb0089",
-        "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
       {
         "name": "Steely Dan",
