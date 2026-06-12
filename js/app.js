@@ -37,9 +37,7 @@ function escapeHtml(text) {
  * Render a single link item
  */
 function renderLinkItem(link) {
-  const tagLabel = TAG_LABELS[link.tag] || link.tag || '';
   const dateStr = formatDate(link.date);
-
   return `
     <div class="link-item">
       <div class="link-body">
@@ -50,18 +48,35 @@ function renderLinkItem(link) {
       </div>
       <div class="link-meta">
         ${dateStr ? `<span class="link-date">${escapeHtml(dateStr)}</span>` : ''}
-        ${tagLabel ? `<span class="link-tag">${escapeHtml(tagLabel)}</span>` : ''}
       </div>
     </div>
   `;
 }
 
+function renderLinkHero(link) {
+  const hero = document.getElementById('linkHero');
+  if (!hero || !link) return;
+  const dateStr = formatDate(link.date);
+  hero.innerHTML = `
+    <div class="link-hero">
+      <p class="link-hero-kicker">Just shared</p>
+      <h2 class="link-hero-title">
+        <a href="${escapeHtml(link.url)}" target="_blank" rel="noopener noreferrer">
+          ${escapeHtml(link.title)}
+        </a>
+      </h2>
+      ${link.description ? `<p class="link-hero-desc">${escapeHtml(link.description)}</p>` : ''}
+      ${dateStr ? `<p class="link-hero-meta">${escapeHtml(dateStr)}</p>` : ''}
+    </div>
+  `;
+}
+
 /**
- * Load links from JSON and render them into #linksList
+ * Load links: most recent becomes the editorial hero, rest go into the list.
  */
 async function loadLinks() {
-  const container = document.getElementById('linksList');
-  if (!container) return;
+  const listContainer = document.getElementById('linksList');
+  if (!listContainer) return;
 
   try {
     const res = await fetch('./data/links.json');
@@ -69,36 +84,37 @@ async function loadLinks() {
     const links = await res.json();
 
     if (!links || links.length === 0) {
-      container.innerHTML = '<p class="links-empty">No links yet.</p>';
+      listContainer.innerHTML = '<p class="links-empty">No links yet.</p>';
       return;
     }
 
-    // Sort newest first
-    const sorted = [...links].sort((a, b) => {
-      if (a.date && b.date) return b.date.localeCompare(a.date);
-      return 0;
-    });
+    const sorted = [...links].sort((a, b) =>
+      a.date && b.date ? b.date.localeCompare(a.date) : 0
+    );
 
-    const showToggle = sorted.length > 4;
-    container.innerHTML = `
+    // Hero = most recent
+    renderLinkHero(sorted[0]);
+
+    // List = everything after the hero
+    const rest = sorted.slice(1);
+    const showToggle = rest.length > 5;
+    listContainer.innerHTML = `
       <div class="links-list${showToggle ? ' links-collapsed' : ''}" id="linksListInner">
-        ${sorted.map(renderLinkItem).join('')}
+        ${rest.map(renderLinkItem).join('')}
       </div>
-      ${showToggle ? `<button class="links-toggle" id="linksToggle">Show all ${sorted.length} links ↓</button>` : ''}
+      ${showToggle ? `<button class="links-toggle" id="linksToggle">Show all ${rest.length} links ↓</button>` : ''}
     `;
 
     if (showToggle) {
       document.getElementById('linksToggle').addEventListener('click', function () {
         const list = document.getElementById('linksListInner');
         const collapsed = list.classList.toggle('links-collapsed');
-        this.textContent = collapsed
-          ? `Show all ${sorted.length} links ↓`
-          : 'Show less ↑';
+        this.textContent = collapsed ? `Show all ${rest.length} links ↓` : 'Show less ↑';
       });
     }
   } catch (err) {
     console.error('Failed to load links:', err);
-    container.innerHTML = '<p class="links-empty">Could not load links.</p>';
+    listContainer.innerHTML = '<p class="links-empty">Could not load links.</p>';
   }
 }
 
@@ -154,70 +170,80 @@ function renderRange(rangeData) {
 }
 
 /**
- * Render the Spotify section from spotify.json data.
+ * Render a 2×3 album art grid into #albumGrid, with a text range-switcher below.
  */
-function renderSpotify(data) {
-  const container = document.getElementById('spotifyData');
+function renderMusicColumn(data) {
+  const container = document.getElementById('albumGrid');
   if (!container) return;
 
   const hasRanges = data.recent !== undefined || data.short_term !== undefined;
-
-  if (!hasRanges && (!data.updated_at || (data.top_tracks || []).length === 0)) {
-    container.innerHTML = '<p class="spotify-pending">Spotify data will appear once the first sync runs.</p>';
+  if (!hasRanges && (!data.updated_at || !(data.top_tracks || []).length)) {
+    container.innerHTML = '<p class="spotify-loading">Listening data coming soon.</p>';
     return;
   }
 
-  const ago = timeAgo(data.updated_at);
-  let activeRange = SPOTIFY_RANGES[0].key;
+  let activeKey = SPOTIFY_RANGES[0].key;
 
-  const tabsHtml = hasRanges ? `
-    <div class="spotify-tabs">
-      ${SPOTIFY_RANGES.map(r => `
-        <button class="spotify-tab${r.key === activeRange ? ' active' : ''}" data-range="${r.key}">
-          ${escapeHtml(r.label)}
-        </button>
-      `).join('')}
-    </div>
-  ` : '';
+  function getTracks(key) {
+    const rangeData = data[key] || data;
+    return (rangeData.top_tracks || []).slice(0, 6);
+  }
 
-  container.innerHTML = `
-    ${tabsHtml}
-    <div class="spotify-tracks" id="spotify-tracks-inner"></div>
-    <div id="spotify-artists-inner"></div>
-    <div class="spotify-footer">
-      ${ago ? `<span class="spotify-updated">Updated ${ago}</span>` : ''}
-      <a class="spotify-logo" href="https://open.spotify.com" target="_blank" rel="noopener noreferrer">
-        ♫ Spotify
-      </a>
-    </div>
-  `;
+  function buildGrid(tracks) {
+    if (!tracks.length) return '<p class="spotify-loading">No tracks yet.</p>';
+    return `
+      <div class="album-art-grid">
+        ${tracks.map(t => `
+          <a class="album-art-cell" href="${escapeHtml(t.url)}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(t.name)} — ${escapeHtml(t.artist)}">
+            ${t.image
+              ? `<img src="${escapeHtml(t.image)}" alt="${escapeHtml(t.name)}" loading="lazy">`
+              : '<div class="album-art-placeholder">♫</div>'
+            }
+            <div class="album-art-hover">
+              <span class="album-art-track">${escapeHtml(t.name)}</span>
+              <span class="album-art-artist">${escapeHtml(t.artist)}</span>
+            </div>
+          </a>
+        `).join('')}
+      </div>
+    `;
+  }
 
-  renderRange(hasRanges ? data[activeRange] : data);
+  function render() {
+    const rangeLinks = SPOTIFY_RANGES.map(r => `
+      <button class="music-range-btn${r.key === activeKey ? ' active' : ''}" data-range="${r.key}">
+        ${escapeHtml(r.label)}
+      </button>
+    `).join('<span class="music-range-sep">·</span>');
 
-  if (hasRanges) {
-    container.querySelectorAll('.spotify-tab').forEach(btn => {
+    container.innerHTML = `
+      ${buildGrid(getTracks(activeKey))}
+      <div class="music-range-switcher">${rangeLinks}</div>
+    `;
+
+    container.querySelectorAll('.music-range-btn').forEach(btn => {
       btn.addEventListener('click', () => {
-        activeRange = btn.dataset.range;
-        container.querySelectorAll('.spotify-tab').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        renderRange(data[activeRange]);
+        activeKey = btn.dataset.range;
+        render();
       });
     });
   }
+
+  render();
 }
 
 /**
- * Load and render spotify.json.
+ * Load and render spotify.json into the music column.
  */
 async function loadSpotify() {
-  const container = document.getElementById('spotifyData');
+  const container = document.getElementById('albumGrid');
   if (!container) return;
 
   try {
     const res = await fetch('./data/spotify.json');
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-    renderSpotify(data);
+    renderMusicColumn(data);
   } catch (err) {
     console.error('Failed to load Spotify data:', err);
     container.innerHTML = '<p class="spotify-loading">Could not load listening data.</p>';

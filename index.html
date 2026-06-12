@@ -16,9 +16,9 @@
       <a href="#hero" class="nav-name">Patrick Barry</a>
       <ul class="nav-links">
         <li><a href="#about">About</a></li>
-        <li><a href="#links">Links</a></li>
-        <li><a href="#books">Books</a></li>
-        <li><a href="#listening">Listening</a></li>
+        <li><a href="#content-links">Links</a></li>
+        <li><a href="#content-music">Music</a></li>
+        <li><a href="#content-books">Books</a></li>
       </ul>
     </div>
   </nav>
@@ -232,41 +232,51 @@
     </div>
   </section>
 
-  <!-- ─── Links ────────────────────────────────────────────────────────────── -->
-  <section id="links">
+  <!-- ─── Content ─────────────────────────────────────────────────────────── -->
+  <section id="content">
     <div class="container">
-      <p class="section-label">Links</p>
-      <h2 class="section-title">Things Worth Sharing</h2>
-      <div id="linksList">
-        <!-- Populated by js/app.js -->
-        <p class="links-empty">Loading…</p>
-      </div>
-    </div>
-  </section>
 
-  <!-- ─── Books ────────────────────────────────────────────────────────────── -->
-  <section id="books">
-    <div class="container">
-      <p class="section-label">Reading</p>
-      <h2 class="section-title">Currently Reading</h2>
-
-      <div id="booksList" class="books-grid">
-        <!-- populated by app.js -->
+      <!-- Mobile section-jump pills -->
+      <div class="section-jump">
+        <a class="jump-pill jump-pill-links" href="#content-links">🗞 Links</a>
+        <a class="jump-pill" href="#content-music">🎵 Just Heard</a>
+        <a class="jump-pill" href="#content-books">📚 Night Table</a>
       </div>
 
-      <a class="books-library-link" href="https://bookish.patrickrbarry.com" target="_blank" rel="noopener noreferrer">
-        Browse my full library →
-      </a>
-    </div>
-  </section>
+      <!-- Featured article hero (most recent link) -->
+      <div id="linkHero"></div>
 
-  <!-- ─── Listening ───────────────────────────────────────────────────────── -->
-  <section id="listening">
-    <div class="container">
-      <p class="section-label">Listening</p>
-      <h2 class="section-title">On Rotation</h2>
-      <div id="spotifyData">
-        <p class="spotify-loading">Loading…</p>
+      <!-- Three-column grid -->
+      <div class="content-grid">
+
+        <!-- Links column -->
+        <div id="content-links">
+          <p class="section-label">Links</p>
+          <h3 class="section-title-sm">Things Worth Sharing</h3>
+          <div id="linksList">
+            <p class="links-empty">Loading…</p>
+          </div>
+        </div>
+
+        <!-- Music column -->
+        <div class="content-col-side" id="content-music">
+          <p class="section-label">Listening</p>
+          <h3 class="section-title-sm">Just Heard</h3>
+          <div id="albumGrid">
+            <p class="spotify-loading">Loading…</p>
+          </div>
+        </div>
+
+        <!-- Books column -->
+        <div class="content-col-side" id="content-books">
+          <p class="section-label">Reading</p>
+          <h3 class="section-title-sm">Night Table</h3>
+          <div id="booksList" class="books-grid"></div>
+          <a class="bookish-link" href="https://bookish.patrickrbarry.com" target="_blank" rel="noopener noreferrer">
+            Browse my full library →
+          </a>
+        </div>
+
       </div>
     </div>
   </section>
