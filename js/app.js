@@ -57,6 +57,14 @@ function renderLinkHero(link) {
   const hero = document.getElementById('linkHero');
   if (!hero || !link) return;
   const dateStr = formatDate(link.date);
+
+  // Always show something below the title: prefer the written description,
+  // fall back to the article's domain so there's always a snippet.
+  let snippet = link.description || '';
+  if (!snippet) {
+    try { snippet = new URL(link.url).hostname.replace(/^www\./, ''); } catch {}
+  }
+
   hero.innerHTML = `
     <div class="link-hero">
       <p class="link-hero-kicker">Just shared</p>
@@ -65,7 +73,7 @@ function renderLinkHero(link) {
           ${escapeHtml(link.title)}
         </a>
       </h2>
-      ${link.description ? `<p class="link-hero-desc">${escapeHtml(link.description)}</p>` : ''}
+      <p class="link-hero-desc">${escapeHtml(snippet)}</p>
       ${dateStr ? `<p class="link-hero-meta">${escapeHtml(dateStr)}</p>` : ''}
     </div>
   `;
