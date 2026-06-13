@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-12T20:06:56Z",
+  "updated_at": "2026-06-13T03:30:46Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Get Close",
+        "artist": "The Rolling Stones",
+        "album": "Hackney Diamonds",
+        "image": "https://i.scdn.co/image/ab67616d00001e02683680975bf153c97ea8ad8d",
+        "url": "https://open.spotify.com/track/0bL5tco8cV95q5FNFzxzUS",
+        "played_at": "2026-06-13T00:51:17.820Z"
+      },
+      {
+        "name": "Roman Holiday",
+        "artist": "Fontaines D.C.",
+        "album": "Skinty Fia",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b23737878e75582c2e255029",
+        "url": "https://open.spotify.com/track/4GKJALTXTwhZgLPp0usd5C",
+        "played_at": "2026-06-13T00:47:07.633Z"
+      },
+      {
+        "name": "Zero Sum",
+        "artist": "The Smile",
+        "album": "Cutouts",
+        "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
+        "url": "https://open.spotify.com/track/7tJ2ZPwHRrPTy1OW7jais0",
+        "played_at": "2026-06-13T00:43:11.404Z"
+      },
+      {
+        "name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",
+        "artist": "Kendrick Lamar, Wallie the Sensei, Siete7x, Roddy Ricch",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
+        "url": "https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83",
+        "played_at": "2026-06-13T00:39:36.111Z"
+      },
+      {
+        "name": "Let's Groove",
+        "artist": "Earth, Wind & Fire",
+        "album": "Raise!",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e691caf11b86a3729899a304",
+        "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
+        "played_at": "2026-06-13T00:37:13.377Z"
+      },
+      {
+        "name": "Summer In The City",
+        "artist": "Quincy Jones",
+        "album": "You've Got It Bad Girl",
+        "image": "https://i.scdn.co/image/ab67616d00001e028eebdab9c507b776cfb0298b",
+        "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu",
+        "played_at": "2026-06-12T21:12:45.137Z"
+      },
       {
         "name": "Bulls On Parade",
         "artist": "Rage Against The Machine",
@@ -17,54 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02c528802c308a1e0e4d9945dd",
         "url": "https://open.spotify.com/track/1WOwGVtrVWtV3WW7X4TZoB",
         "played_at": "2026-06-12T14:25:40.548Z"
-      },
-      {
-        "name": "squabble up",
-        "artist": "Kendrick Lamar",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
-        "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb",
-        "played_at": "2026-06-12T14:22:47.153Z"
-      },
-      {
-        "name": "Blockbuster Night Pt. 1",
-        "artist": "Run The Jewels, El-P, Killer Mike",
-        "album": "Run The Jewels 2",
-        "image": "https://i.scdn.co/image/ab67616d00001e02a6e14ae4b6e2291817e03772",
-        "url": "https://open.spotify.com/track/7h893ZHzcQh6USDVXsyGsu",
-        "played_at": "2026-06-12T14:20:08.702Z"
-      },
-      {
-        "name": "DENIAL IS A RIVER",
-        "artist": "Doechii",
-        "album": "Alligator Bites Never Heal",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b245099fe26319344ddf6054",
-        "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB",
-        "played_at": "2026-06-12T14:17:35.983Z"
-      },
-      {
-        "name": "Cochise",
-        "artist": "Audioslave",
-        "album": "Audioslave",
-        "image": "https://i.scdn.co/image/ab67616d00001e02a7292b6863258e889b78d787",
-        "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim",
-        "played_at": "2026-06-12T14:13:42.118Z"
-      },
-      {
-        "name": "She Cleans Up",
-        "artist": "Father John Misty",
-        "album": "Mahashmashana",
-        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
-        "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3",
-        "played_at": "2026-06-12T02:00:37.563Z"
-      },
-      {
-        "name": "I See Myself",
-        "artist": "Geese",
-        "album": "3D Country",
-        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
-        "url": "https://open.spotify.com/track/4gFFHAj5iwUEHwPpjZTdi5",
-        "played_at": "2026-06-12T00:56:00.738Z"
       }
     ],
     "top_artists": [
@@ -72,11 +72,6 @@
         "name": "Kendrick Lamar",
         "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
         "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-      },
-      {
-        "name": "Dijon",
-        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
-        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
       },
       {
         "name": "Frank Ocean",
@@ -92,6 +87,11 @@
         "name": "Doechii",
         "image": "https://i.scdn.co/image/ab67616100005174ca2fee52c41d3f58ceb6474b",
         "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+      },
+      {
+        "name": "Dijon",
+        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
+        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
       },
       {
         "name": "Harry Styles",
