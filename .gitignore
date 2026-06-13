@@ -7,3 +7,10 @@ audible_auth.json
 # Local dev
 .claude/
 node_modules/
+
+# Local Netlify folder
+.netlify
+
+# Dev / preview artifacts
+mockups.html
+favicon-preview.png
