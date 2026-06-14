@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-14T03:50:14Z",
+  "updated_at": "2026-06-14T09:29:48Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Blacklight Shine",
+        "artist": "The Mars Volta",
+        "album": "Blacklight Shine",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f547b1f77a078bcc291a518d",
+        "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0",
+        "played_at": "2026-06-14T05:55:37.780Z"
+      },
       {
         "name": "Someone Great",
         "artist": "LCD Soundsystem",
@@ -57,22 +65,9 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
         "url": "https://open.spotify.com/track/3ympAhWi3Oar3teB4VMnMm",
         "played_at": "2026-06-14T03:14:32.525Z"
-      },
-      {
-        "name": "Passionfruit",
-        "artist": "Drake",
-        "album": "More Life",
-        "image": "https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700",
-        "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz",
-        "played_at": "2026-06-14T03:10:30.300Z"
       }
     ],
     "top_artists": [
-      {
-        "name": "The Black Crowes",
-        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
-        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-      },
       {
         "name": "Doechii",
         "image": "https://i.scdn.co/image/ab67616100005174ca2fee52c41d3f58ceb6474b",
@@ -92,6 +87,11 @@
         "name": "Frank Ocean",
         "image": "https://i.scdn.co/image/ab67616100005174ee3123e593174208f9754fab",
         "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+      },
+      {
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
         "name": "The Smile",
