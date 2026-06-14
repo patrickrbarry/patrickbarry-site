@@ -1,87 +1,77 @@
 {
-  "updated_at": "2026-06-13T19:21:48Z",
+  "updated_at": "2026-06-14T03:50:14Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "I'm Different",
-        "artist": "2 Chainz",
-        "album": "Based On A T.R.U. Story (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d00001e022a0e6aff34e828392e1df7d0",
-        "url": "https://open.spotify.com/track/1odwi1SN3pJKENZe12U2OQ",
-        "played_at": "2026-06-13T04:18:00.276Z"
+        "name": "Someone Great",
+        "artist": "LCD Soundsystem",
+        "album": "Sound of Silver",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6272ad26e7a55bc342a6dd0",
+        "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW",
+        "played_at": "2026-06-14T03:47:04.186Z"
       },
       {
-        "name": "Get Close",
-        "artist": "The Rolling Stones",
-        "album": "Hackney Diamonds",
-        "image": "https://i.scdn.co/image/ab67616d00001e02683680975bf153c97ea8ad8d",
-        "url": "https://open.spotify.com/track/0bL5tco8cV95q5FNFzxzUS",
-        "played_at": "2026-06-13T00:51:17.820Z"
+        "name": "Over And Over",
+        "artist": "Hot Chip",
+        "album": "The Warning",
+        "image": "https://i.scdn.co/image/ab67616d00001e02827991a336e5a5860865921f",
+        "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA",
+        "played_at": "2026-06-14T03:40:34.179Z"
       },
       {
-        "name": "Roman Holiday",
-        "artist": "Fontaines D.C.",
-        "album": "Skinty Fia",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b23737878e75582c2e255029",
-        "url": "https://open.spotify.com/track/4GKJALTXTwhZgLPp0usd5C",
-        "played_at": "2026-06-13T00:47:07.633Z"
+        "name": "Dive",
+        "artist": "Olivia Dean",
+        "album": "Messy",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cac9b52107643faf13a7587b",
+        "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2",
+        "played_at": "2026-06-14T03:34:46.915Z"
       },
       {
-        "name": "Zero Sum",
-        "artist": "The Smile",
-        "album": "Cutouts",
-        "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
-        "url": "https://open.spotify.com/track/7tJ2ZPwHRrPTy1OW7jais0",
-        "played_at": "2026-06-13T00:43:11.404Z"
+        "name": "Nights",
+        "artist": "Frank Ocean",
+        "album": "Blonde",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526",
+        "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ",
+        "played_at": "2026-06-14T03:31:25.581Z"
       },
       {
-        "name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",
-        "artist": "Kendrick Lamar, Wallie the Sensei, Siete7x, Roddy Ricch",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
-        "url": "https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83",
-        "played_at": "2026-06-13T00:39:36.111Z"
+        "name": "Pictures of You",
+        "artist": "Drugdealer, Kate Bollinger",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT",
+        "played_at": "2026-06-14T03:23:33.609Z"
       },
       {
-        "name": "Let's Groove",
-        "artist": "Earth, Wind & Fire",
-        "album": "Raise!",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e691caf11b86a3729899a304",
-        "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
-        "played_at": "2026-06-13T00:37:13.377Z"
+        "name": "I Can Change",
+        "artist": "LCD Soundsystem",
+        "album": "This Is Happening",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee0d0dce888c6c8a70db6e8b",
+        "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP",
+        "played_at": "2026-06-14T03:20:24.095Z"
       },
       {
-        "name": "Summer In The City",
-        "artist": "Quincy Jones",
-        "album": "You've Got It Bad Girl",
-        "image": "https://i.scdn.co/image/ab67616d00001e028eebdab9c507b776cfb0298b",
-        "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu",
-        "played_at": "2026-06-12T21:12:45.137Z"
+        "name": "High Head Blues",
+        "artist": "The Black Crowes",
+        "album": "amorica.",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
+        "url": "https://open.spotify.com/track/3ympAhWi3Oar3teB4VMnMm",
+        "played_at": "2026-06-14T03:14:32.525Z"
       },
       {
-        "name": "Bulls On Parade",
-        "artist": "Rage Against The Machine",
-        "album": "Evil Empire",
-        "image": "https://i.scdn.co/image/ab67616d00001e02053f006079bce979e5fef1e1",
-        "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x",
-        "played_at": "2026-06-12T17:06:20.256Z"
+        "name": "Passionfruit",
+        "artist": "Drake",
+        "album": "More Life",
+        "image": "https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700",
+        "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz",
+        "played_at": "2026-06-14T03:10:30.300Z"
       }
     ],
     "top_artists": [
       {
-        "name": "Kendrick Lamar",
-        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
-        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-      },
-      {
-        "name": "Frank Ocean",
-        "image": "https://i.scdn.co/image/ab67616100005174ee3123e593174208f9754fab",
-        "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-      },
-      {
-        "name": "Rage Against The Machine",
-        "image": "https://i.scdn.co/image/ab67616100005174da4bd2b213cae330e2a4a901",
-        "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
         "name": "Doechii",
@@ -89,14 +79,24 @@
         "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
       },
       {
-        "name": "Dijon",
-        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
-        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        "name": "Comfort Fashion",
+        "image": "https://i.scdn.co/image/ab67616100005174d45beea2e94bda7ebbe38a13",
+        "url": "https://open.spotify.com/artist/4g0XsjFPRm0HC5aq05PksI"
       },
       {
-        "name": "Harry Styles",
-        "image": "https://i.scdn.co/image/ab67616100005174e309f8c3056a59f20d0968ca",
-        "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        "name": "LCD Soundsystem",
+        "image": "https://i.scdn.co/image/ab676161000051746a0838a408f8c9cf82915ac8",
+        "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+      },
+      {
+        "name": "Frank Ocean",
+        "image": "https://i.scdn.co/image/ab67616100005174ee3123e593174208f9754fab",
+        "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+      },
+      {
+        "name": "The Smile",
+        "image": "https://i.scdn.co/image/ab67616100005174b43db49ce029948457972352",
+        "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
       }
     ]
   },
