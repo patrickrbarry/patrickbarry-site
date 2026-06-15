@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T19:23:08Z",
+  "updated_at": "2026-06-15T04:02:13Z",
   "recent": {
     "top_tracks": [
       {
@@ -138,13 +138,6 @@
         "url": "https://open.spotify.com/track/0w3ptVGmlBJLWqwsrnrGnO"
       },
       {
-        "name": "Riot",
-        "artist": "2 Chainz",
-        "album": "Based On A T.R.U. Story (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d00001e022a0e6aff34e828392e1df7d0",
-        "url": "https://open.spotify.com/track/4gd29fPdIIIU7cHJXwtycl"
-      },
-      {
         "name": "Floated By",
         "artist": "Peter Cat Recording Co.",
         "album": "Bismillah",
@@ -157,6 +150,13 @@
         "album": "Manning Fireworks",
         "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
         "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR"
+      },
+      {
+        "name": "Joker Lips",
+        "artist": "MJ Lenderman",
+        "album": "Manning Fireworks",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
+        "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
       }
     ],
     "top_artists": [
@@ -185,16 +185,16 @@
         "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
       },
       {
-        "name": "2 Chainz",
-        "image": "https://i.scdn.co/image/ab67616100005174f556662d187b9191c421be1c",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-      },
-      {
         "name": "Father John Misty",
         "image": "https://i.scdn.co/image/ab676161000051748a78e4e37d117b9cc90a6363",
         "genres": [],
         "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+      },
+      {
+        "name": "Kendrick Lamar",
+        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       }
     ]
   },
