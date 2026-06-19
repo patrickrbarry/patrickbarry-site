@@ -1,92 +1,87 @@
 {
-  "updated_at": "2026-06-18T20:22:50Z",
+  "updated_at": "2026-06-19T04:04:12Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "She Cleans Up",
-        "artist": "Father John Misty",
-        "album": "Mahashmashana",
-        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
-        "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3",
-        "played_at": "2026-06-18T03:06:21.142Z"
+        "name": "Golden",
+        "artist": "Harry Styles",
+        "album": "Fine Line",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225180571abce9472f61bd722",
+        "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl",
+        "played_at": "2026-06-18T22:52:49.629Z"
       },
       {
-        "name": "Killing In The Name",
-        "artist": "Rage Against The Machine",
-        "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e0254ab617bc2d4974ab6ffbece",
-        "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp",
-        "played_at": "2026-06-17T00:43:42.159Z"
+        "name": "The Less I Know The Better",
+        "artist": "Tame Impala",
+        "album": "Currents",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+        "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ",
+        "played_at": "2026-06-18T22:52:49.629Z"
       },
       {
-        "name": "So Lonely",
-        "artist": "The Police",
-        "album": "Outlandos D'Amour (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e022043dd3544a339547d04b436",
-        "url": "https://open.spotify.com/track/2wnsBaxrmkthIFAm6vqCuX",
-        "played_at": "2026-06-16T15:28:02.250Z"
+        "name": "The Language",
+        "artist": "Drake",
+        "album": "Nothing Was The Same (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02adfb5909ec66db5fbb4d06c8",
+        "url": "https://open.spotify.com/track/5dHpbFmZjWucrol0M7aNGU",
+        "played_at": "2026-06-18T21:35:32.149Z"
       },
       {
-        "name": "Crazy On You",
-        "artist": "Heart",
-        "album": "Dreamboat Annie",
-        "image": "https://i.scdn.co/image/ab67616d00001e028e8c08ca2feb999bb84f05e6",
-        "url": "https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR",
-        "played_at": "2026-06-16T15:23:28.204Z"
+        "name": "Questo amore \u00e8 un motore",
+        "artist": "Pino D'Angi\u00f2",
+        "album": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 2",
+        "image": "https://i.scdn.co/image/ab67616d00001e0279f449b2c45f6ef0d0cc3cef",
+        "url": "https://open.spotify.com/track/6hob5XGGteZCcJZQoK06Fr",
+        "played_at": "2026-06-18T21:31:56.805Z"
       },
       {
-        "name": "Think I'm In Love",
-        "artist": "Beck",
-        "album": "The Information",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fa3dee3e3cc0aaef443f8e6e",
-        "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ",
-        "played_at": "2026-06-16T15:19:20.728Z"
+        "name": "Praise The Lord (Da Shine) (feat. Skepta)",
+        "artist": "A$AP Rocky, Skepta",
+        "album": "TESTING",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bfcb8d00cee4f8257a6b7fe1",
+        "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z",
+        "played_at": "2026-06-18T21:28:20.458Z"
       },
       {
-        "name": "Piece Of Shit",
-        "artist": "Wet Leg",
-        "album": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
-        "url": "https://open.spotify.com/track/6PGNpgfoGIpfZVJFHdK7bV",
-        "played_at": "2026-06-16T15:16:03.423Z"
+        "name": "Dance Yrself Clean",
+        "artist": "LCD Soundsystem",
+        "album": "This Is Happening",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee0d0dce888c6c8a70db6e8b",
+        "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ",
+        "played_at": "2026-06-18T21:25:13.149Z"
       },
       {
-        "name": "St. Elmo",
-        "artist": "Geese",
-        "album": "3D Country",
-        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
-        "url": "https://open.spotify.com/track/4AL7eNtRrXQtP8xkmUR6mB",
-        "played_at": "2026-06-16T15:13:26.957Z"
+        "name": "Roman Holiday",
+        "artist": "Fontaines D.C.",
+        "album": "Skinty Fia",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b23737878e75582c2e255029",
+        "url": "https://open.spotify.com/track/4GKJALTXTwhZgLPp0usd5C",
+        "played_at": "2026-06-18T21:16:27.037Z"
       },
       {
-        "name": "D'yer Mak'er - Remaster",
-        "artist": "Led Zeppelin",
-        "album": "Houses of the Holy (Remaster)",
-        "image": "https://i.scdn.co/image/ab67616d00001e021aa47e71c4edfeaddb65cd54",
-        "url": "https://open.spotify.com/track/5uUhS7XDkyycNa5FaNfPGT",
-        "played_at": "2026-06-16T15:10:01.434Z"
+        "name": "Girlfriend Is Better - 2005 Remaster",
+        "artist": "Talking Heads",
+        "album": "Speaking in Tongues (Deluxe Version)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e35e2e2a4bfa8a30a78fc532",
+        "url": "https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY",
+        "played_at": "2026-06-18T21:12:30.323Z"
       }
     ],
     "top_artists": [
-      {
-        "name": "Death Cab for Cutie",
-        "image": "https://i.scdn.co/image/ab676161000051745325c0e98f2975b4fe7847e2",
-        "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-      },
-      {
-        "name": "The Police",
-        "image": "https://i.scdn.co/image/72fe2cadb69ab59960ae3dbd29618549e4432699",
-        "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-      },
       {
         "name": "Wet Leg",
         "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
-        "name": "The Black Crowes",
-        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
-        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        "name": "Harry Styles",
+        "image": "https://i.scdn.co/image/ab67616100005174e309f8c3056a59f20d0968ca",
+        "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      {
+        "name": "Tame Impala",
+        "image": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
+        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
       {
         "name": "Drake",
@@ -94,21 +89,19 @@
         "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       },
       {
-        "name": "Thundercat",
-        "image": "https://i.scdn.co/image/ab676161000051746941830307896269157f7dd4",
-        "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+      },
+      {
+        "name": "Kendrick Lamar",
+        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       }
     ]
   },
   "medium_term": {
     "top_tracks": [
-      {
-        "name": "Cobra",
-        "artist": "Geese",
-        "album": "Getting Killed",
-        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
-        "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
-      },
       {
         "name": "Madison",
         "artist": "Drugdealer",
@@ -117,11 +110,11 @@
         "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
       },
       {
-        "name": "Manning Fireworks",
-        "artist": "MJ Lenderman",
-        "album": "Manning Fireworks",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
-        "url": "https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut"
+        "name": "Cobra",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
       },
       {
         "name": "Pictures of You",
@@ -138,6 +131,13 @@
         "url": "https://open.spotify.com/track/0w3ptVGmlBJLWqwsrnrGnO"
       },
       {
+        "name": "Manning Fireworks",
+        "artist": "MJ Lenderman",
+        "album": "Manning Fireworks",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
+        "url": "https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut"
+      },
+      {
         "name": "Floated By",
         "artist": "Peter Cat Recording Co.",
         "album": "Bismillah",
@@ -145,18 +145,18 @@
         "url": "https://open.spotify.com/track/7IAKxhI1z8Sas7iLcX8YF5"
       },
       {
-        "name": "Joker Lips",
-        "artist": "MJ Lenderman",
-        "album": "Manning Fireworks",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
-        "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
+        "name": "Freezing",
+        "artist": "Peter Cat Recording Co.",
+        "album": "Bismillah",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
+        "url": "https://open.spotify.com/track/4xy57dr5jglPfRqAZn0wiw"
       },
       {
-        "name": "Wristwatch",
-        "artist": "MJ Lenderman",
-        "album": "Manning Fireworks",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
-        "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR"
+        "name": "Memory Box",
+        "artist": "Peter Cat Recording Co.",
+        "album": "Bismillah",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
+        "url": "https://open.spotify.com/track/6C5xm2roWdAIda9WJmu1jG"
       }
     ],
     "top_artists": [
