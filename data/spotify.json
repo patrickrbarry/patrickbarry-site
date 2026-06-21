@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-21T09:45:57Z",
+  "updated_at": "2026-06-21T14:04:54Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Piece Of Shit",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
+        "url": "https://open.spotify.com/track/6PGNpgfoGIpfZVJFHdK7bV",
+        "played_at": "2026-06-21T06:38:31.693Z"
+      },
       {
         "name": "Semi-Charmed Life",
         "artist": "Third Eye Blind",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02bfcb8d00cee4f8257a6b7fe1",
         "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z",
         "played_at": "2026-06-18T21:28:20.458Z"
-      },
-      {
-        "name": "Dance Yrself Clean",
-        "artist": "LCD Soundsystem",
-        "album": "This Is Happening",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ee0d0dce888c6c8a70db6e8b",
-        "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ",
-        "played_at": "2026-06-18T21:25:13.149Z"
       }
     ],
     "top_artists": [
@@ -79,14 +79,14 @@
         "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
       },
       {
-        "name": "Tame Impala",
-        "image": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
-        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-      },
-      {
         "name": "Third Eye Blind",
         "image": "https://i.scdn.co/image/ab676161000051746b1e8135b0741308a3f38ded",
         "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+      },
+      {
+        "name": "Tame Impala",
+        "image": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
+        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
       {
         "name": "Harry Styles",
