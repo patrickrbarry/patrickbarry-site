@@ -1,14 +1,22 @@
 {
-  "updated_at": "2026-06-20T19:22:10Z",
+  "updated_at": "2026-06-21T03:57:44Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Golden",
-        "artist": "Harry Styles",
-        "album": "Fine Line",
-        "image": "https://i.scdn.co/image/ab67616d00001e0225180571abce9472f61bd722",
-        "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl",
-        "played_at": "2026-06-18T22:52:49.629Z"
+        "name": "Semi-Charmed Life",
+        "artist": "Third Eye Blind",
+        "album": "Third Eye Blind",
+        "image": "https://i.scdn.co/image/ab67616d00001e020c12ef918102b8d303dc9e9b",
+        "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl",
+        "played_at": "2026-06-21T00:35:18.653Z"
+      },
+      {
+        "name": "HIGHER!",
+        "artist": "Dijon",
+        "album": "Baby",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd69099343fa7827e78cca4b",
+        "url": "https://open.spotify.com/track/0XnD9GJRD01wvXFLWJXiYx",
+        "played_at": "2026-06-21T00:29:45.761Z"
       },
       {
         "name": "The Less I Know The Better",
@@ -16,6 +24,14 @@
         "album": "Currents",
         "image": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
         "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ",
+        "played_at": "2026-06-21T00:00:39.336Z"
+      },
+      {
+        "name": "Golden",
+        "artist": "Harry Styles",
+        "album": "Fine Line",
+        "image": "https://i.scdn.co/image/ab67616d00001e0225180571abce9472f61bd722",
+        "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl",
         "played_at": "2026-06-18T22:52:49.629Z"
       },
       {
@@ -49,22 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02ee0d0dce888c6c8a70db6e8b",
         "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ",
         "played_at": "2026-06-18T21:25:13.149Z"
-      },
-      {
-        "name": "Roman Holiday",
-        "artist": "Fontaines D.C.",
-        "album": "Skinty Fia",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b23737878e75582c2e255029",
-        "url": "https://open.spotify.com/track/4GKJALTXTwhZgLPp0usd5C",
-        "played_at": "2026-06-18T21:16:27.037Z"
-      },
-      {
-        "name": "Girlfriend Is Better - 2005 Remaster",
-        "artist": "Talking Heads",
-        "album": "Speaking in Tongues (Deluxe Version)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e35e2e2a4bfa8a30a78fc532",
-        "url": "https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY",
-        "played_at": "2026-06-18T21:12:30.323Z"
       }
     ],
     "top_artists": [
@@ -74,9 +74,9 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
-        "name": "Harry Styles",
-        "image": "https://i.scdn.co/image/ab67616100005174e309f8c3056a59f20d0968ca",
-        "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        "name": "Dijon",
+        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
+        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
       },
       {
         "name": "Tame Impala",
@@ -84,19 +84,19 @@
         "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
       {
+        "name": "Third Eye Blind",
+        "image": "https://i.scdn.co/image/ab676161000051746b1e8135b0741308a3f38ded",
+        "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+      },
+      {
+        "name": "Harry Styles",
+        "image": "https://i.scdn.co/image/ab67616100005174e309f8c3056a59f20d0968ca",
+        "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      {
         "name": "Drake",
         "image": "https://i.scdn.co/image/ab676161000051744293385d324db8558179afd9",
         "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      },
-      {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-      },
-      {
-        "name": "Kendrick Lamar",
-        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
-        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       }
     ]
   },
