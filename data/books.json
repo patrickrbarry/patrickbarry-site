@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-22T13:27:57Z",
+  "updated_at": "2026-06-23T10:55:54Z",
   "reading": [
+    {
+      "title": "12 Rules for Life",
+      "author": "Jordan B. Peterson, Ethan Van Sciver, Norman Doidge - introduction M.D.",
+      "cover_url": "https://m.media-amazon.com/images/I/412oEiiCeML._SL500_.jpg",
+      "genre": "Uncategorized",
+      "fiction_type": "Nonfiction"
+    },
     {
       "title": "How Emotions are Made",
       "author": "Lisa Feldman Barrett",
