@@ -1,102 +1,102 @@
 {
-  "updated_at": "2026-06-24T19:42:35Z",
+  "updated_at": "2026-06-25T02:57:44Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Big Poppa - 2005 Remaster",
-        "artist": "The Notorious B.I.G.",
-        "album": "Ready to Die (The Remaster)",
-        "image": "https://i.scdn.co/image/ab67616d00001e020f51e29700232d57fe8a0830",
-        "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww",
-        "played_at": "2026-06-24T05:37:26.295Z"
+        "name": "Let's Groove",
+        "artist": "Earth, Wind & Fire",
+        "album": "Raise!",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e691caf11b86a3729899a304",
+        "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
+        "played_at": "2026-06-25T01:34:11.161Z"
       },
       {
-        "name": "wacced out murals",
+        "name": "Feel Good Inc.",
+        "artist": "Gorillaz, De La Soul",
+        "album": "Demon Days",
+        "image": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
+        "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
+        "played_at": "2026-06-25T01:29:28.378Z"
+      },
+      {
+        "name": "Pump It Up - 2021 Remaster",
+        "artist": "Elvis Costello & The Attractions",
+        "album": "This Year's Model (2021 Remaster)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c39aa62b10cea6cd2c2c1ed8",
+        "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM",
+        "played_at": "2026-06-25T01:25:46.255Z"
+      },
+      {
+        "name": "Chaise Longue",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
+        "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7",
+        "played_at": "2026-06-25T01:22:29.117Z"
+      },
+      {
+        "name": "i",
         "artist": "Kendrick Lamar",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
-        "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT",
-        "played_at": "2026-06-24T04:35:31.868Z"
+        "album": "i",
+        "image": "https://i.scdn.co/image/ab67616d00001e026d89f336fbfbdf2089701da0",
+        "url": "https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz",
+        "played_at": "2026-06-25T01:19:12.286Z"
       },
       {
-        "name": "One To Grow On",
-        "artist": "The UMC's",
-        "album": "Fruits Of Nature",
-        "image": "https://i.scdn.co/image/ab67616d00001e0234ba2f037c9f57b03080dfee",
-        "url": "https://open.spotify.com/track/5xELy29v1SKxWaEtgFCjaM",
-        "played_at": "2026-06-24T04:30:14.825Z"
+        "name": "Dive",
+        "artist": "Olivia Dean",
+        "album": "Messy",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cac9b52107643faf13a7587b",
+        "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2",
+        "played_at": "2026-06-25T01:15:13.580Z"
       },
       {
-        "name": "Hold On (I Was Wrong)",
-        "artist": "Video Age",
-        "album": "Pop Therapy",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ea2fe4e85f78fa196d348094",
-        "url": "https://open.spotify.com/track/0K736ck7Fs09dh3Goew4mX",
-        "played_at": "2026-06-24T04:26:34.610Z"
+        "name": "Everything Is Peaceful Love",
+        "artist": "Bon Iver",
+        "album": "SABLE, fABLE",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230d93b9cce660d4f56770efb",
+        "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9",
+        "played_at": "2026-06-25T01:11:52.882Z"
       },
       {
-        "name": "Hunnybee",
-        "artist": "Unknown Mortal Orchestra",
-        "album": "Sex & Food",
-        "image": "https://i.scdn.co/image/ab67616d00001e028b1ea10ca54961e5e5d94244",
-        "url": "https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z",
-        "played_at": "2026-06-24T04:22:51.333Z"
-      },
-      {
-        "name": "Trip To Japan",
-        "artist": "The Shacks",
-        "album": "Big Crown Vaults Vol. 2",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b0434a045ff436996b95c115",
-        "url": "https://open.spotify.com/track/49eeuBxlSETl7WWL73drm4",
-        "played_at": "2026-06-24T04:18:23.707Z"
-      },
-      {
-        "name": "Inspiration Information",
-        "artist": "Shuggie Otis",
-        "album": "Inspiration Information/ Wings Of Love",
-        "image": "https://i.scdn.co/image/ab67616d00001e0260079d49347274db9e6c8155",
-        "url": "https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn",
-        "played_at": "2026-06-24T04:14:59.147Z"
-      },
-      {
-        "name": "Wild Motion",
-        "artist": "Drugdealer, Dougie Poole",
-        "album": "Raw Honey",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ce468a1ffdea6162fcdb106a",
-        "url": "https://open.spotify.com/track/0bRNQxQ8AfDXN7GAJ7ajXH",
-        "played_at": "2026-06-24T04:10:46.950Z"
+        "name": "The Adults Are Talking",
+        "artist": "The Strokes",
+        "album": "The New Abnormal",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
+        "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
+        "played_at": "2026-06-25T01:08:22.849Z"
       }
     ],
     "top_artists": [
-      {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-      },
       {
         "name": "Kendrick Lamar",
         "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
         "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       {
-        "name": "Drugdealer",
-        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
-        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        "name": "The Strokes",
+        "image": "https://i.scdn.co/image/ab67616100005174c3b137793230f4043feb0089",
+        "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
       {
-        "name": "Pearl Jam",
-        "image": "https://i.scdn.co/image/ab67616100005174e431fb8ba17cdee73e4ce08a",
-        "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        "name": "Vampire Weekend",
+        "image": "https://i.scdn.co/image/ab676161000051740bb49b0b71ab3f5871860617",
+        "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
       },
       {
-        "name": "The Black Crowes",
-        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
-        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "Beck",
-        "image": "https://i.scdn.co/image/ab67616100005174ca0e2c67ba619791fec07dfa",
-        "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        "name": "Audioslave",
+        "image": "https://i.scdn.co/image/ab676161000051745a865295befda9e060a72cb0",
+        "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+      },
+      {
+        "name": "Earth, Wind & Fire",
+        "image": "https://i.scdn.co/image/ab676161000051749722e16a886767adf1178f92",
+        "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
       }
     ]
   },
