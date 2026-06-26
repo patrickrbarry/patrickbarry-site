@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-06-25T19:56:55Z",
+  "updated_at": "2026-06-26T03:28:57Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Take the Skinheads Bowling",
+        "artist": "Camper Van Beethoven",
+        "album": "Popular Songs of Great Enduring Strength and Beauty",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf46624f9c0e4f9a33377353",
+        "url": "https://open.spotify.com/track/0Dg2K34KTQ2viClnTE8JDK",
+        "played_at": "2026-06-25T23:34:20.890Z"
+      },
+      {
+        "name": "Pictures Of Matchstick Men",
+        "artist": "Camper Van Beethoven",
+        "album": "Key Lime Pie",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278cea247e1dd55d49319ddf4",
+        "url": "https://open.spotify.com/track/5LPx6fu4vKk8FheRq2DAn0",
+        "played_at": "2026-06-25T23:29:27.272Z"
+      },
+      {
+        "name": "Flowers",
+        "artist": "Camper Van Beethoven",
+        "album": "Key Lime Pie",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278cea247e1dd55d49319ddf4",
+        "url": "https://open.spotify.com/track/7Am3vOOsn60RYJqTuhCyMH",
+        "played_at": "2026-06-25T23:25:17.077Z"
+      },
+      {
+        "name": "Interlude",
+        "artist": "Camper Van Beethoven",
+        "album": "Key Lime Pie",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278cea247e1dd55d49319ddf4",
+        "url": "https://open.spotify.com/track/3GhLE2w0DNoA6Yuf2vT1KC",
+        "played_at": "2026-06-25T23:22:17.464Z"
+      },
+      {
+        "name": "Lament",
+        "artist": "Nusrat Fateh Ali Khan, Michael Brook",
+        "album": "Night Song (Real World Gold)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229cdec7fc93dc978bbbc8a72",
+        "url": "https://open.spotify.com/track/3zthhGnvubjpItG1KDe3GU",
+        "played_at": "2026-06-25T23:16:02.625Z"
+      },
+      {
+        "name": "My Heart, My Life",
+        "artist": "Nusrat Fateh Ali Khan, Michael Brook",
+        "album": "Night Song (Real World Gold)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229cdec7fc93dc978bbbc8a72",
+        "url": "https://open.spotify.com/track/51kDnf9dngc5G01ncfKc9K",
+        "played_at": "2026-06-25T22:17:59.651Z"
+      },
+      {
+        "name": "Night Song",
+        "artist": "Nusrat Fateh Ali Khan, Michael Brook",
+        "album": "Night Song (Real World Gold)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229cdec7fc93dc978bbbc8a72",
+        "url": "https://open.spotify.com/track/64foKWiUqaZVaJjTOzfdNQ",
+        "played_at": "2026-06-25T22:12:27.701Z"
+      },
       {
         "name": "Let's Groove",
         "artist": "Earth, Wind & Fire",
@@ -9,65 +65,24 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02e691caf11b86a3729899a304",
         "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
         "played_at": "2026-06-25T01:34:11.161Z"
-      },
-      {
-        "name": "Feel Good Inc.",
-        "artist": "Gorillaz, De La Soul",
-        "album": "Demon Days",
-        "image": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
-        "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
-        "played_at": "2026-06-25T01:29:28.378Z"
-      },
-      {
-        "name": "Pump It Up - 2021 Remaster",
-        "artist": "Elvis Costello & The Attractions",
-        "album": "This Year's Model (2021 Remaster)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02c39aa62b10cea6cd2c2c1ed8",
-        "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM",
-        "played_at": "2026-06-25T01:25:46.255Z"
-      },
-      {
-        "name": "Chaise Longue",
-        "artist": "Wet Leg",
-        "album": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
-        "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7",
-        "played_at": "2026-06-25T01:22:29.117Z"
-      },
-      {
-        "name": "i",
-        "artist": "Kendrick Lamar",
-        "album": "i",
-        "image": "https://i.scdn.co/image/ab67616d00001e026d89f336fbfbdf2089701da0",
-        "url": "https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz",
-        "played_at": "2026-06-25T01:19:12.286Z"
-      },
-      {
-        "name": "Dive",
-        "artist": "Olivia Dean",
-        "album": "Messy",
-        "image": "https://i.scdn.co/image/ab67616d00001e02cac9b52107643faf13a7587b",
-        "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2",
-        "played_at": "2026-06-25T01:15:13.580Z"
-      },
-      {
-        "name": "Everything Is Peaceful Love",
-        "artist": "Bon Iver",
-        "album": "SABLE, fABLE",
-        "image": "https://i.scdn.co/image/ab67616d00001e0230d93b9cce660d4f56770efb",
-        "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9",
-        "played_at": "2026-06-25T01:11:52.882Z"
-      },
-      {
-        "name": "The Adults Are Talking",
-        "artist": "The Strokes",
-        "album": "The New Abnormal",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
-        "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
-        "played_at": "2026-06-25T01:08:22.849Z"
       }
     ],
     "top_artists": [
+      {
+        "name": "Camper Van Beethoven",
+        "image": "https://i.scdn.co/image/7d2b454bfc3b537789ed025f59d2eba96d3af072",
+        "url": "https://open.spotify.com/artist/1JXB7XQ9hjLB5pnr1eowKR"
+      },
+      {
+        "name": "Nusrat Fateh Ali Khan",
+        "image": "https://i.scdn.co/image/ab6761610000517446444c5c2069fe5470bec996",
+        "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+      },
+      {
+        "name": "Michael Brook",
+        "image": "https://i.scdn.co/image/ab6772690000dd22401e7e46598d171a69bb084e",
+        "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
+      },
       {
         "name": "Kendrick Lamar",
         "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
@@ -82,21 +97,6 @@
         "name": "Vampire Weekend",
         "image": "https://i.scdn.co/image/ab676161000051740bb49b0b71ab3f5871860617",
         "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-      },
-      {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-      },
-      {
-        "name": "Audioslave",
-        "image": "https://i.scdn.co/image/ab676161000051745a865295befda9e060a72cb0",
-        "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-      },
-      {
-        "name": "Earth, Wind & Fire",
-        "image": "https://i.scdn.co/image/ab676161000051749722e16a886767adf1178f92",
-        "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
       }
     ]
   },
