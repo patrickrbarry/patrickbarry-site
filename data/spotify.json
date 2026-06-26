@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-26T09:20:41Z",
+  "updated_at": "2026-06-26T14:19:58Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Good Guys and Bad Guys",
+        "artist": "Camper Van Beethoven",
+        "album": "Popular Songs of Great Enduring Strength and Beauty",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf46624f9c0e4f9a33377353",
+        "url": "https://open.spotify.com/track/6HNxpBcXrxrAT2lSHfSf3R",
+        "played_at": "2026-06-26T14:19:14.894Z"
+      },
       {
         "name": "Take the Skinheads Bowling",
         "artist": "Camper Van Beethoven",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0229cdec7fc93dc978bbbc8a72",
         "url": "https://open.spotify.com/track/64foKWiUqaZVaJjTOzfdNQ",
         "played_at": "2026-06-25T22:12:27.701Z"
-      },
-      {
-        "name": "Let's Groove",
-        "artist": "Earth, Wind & Fire",
-        "album": "Raise!",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e691caf11b86a3729899a304",
-        "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
-        "played_at": "2026-06-25T01:34:11.161Z"
       }
     ],
     "top_artists": [
