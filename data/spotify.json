@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T09:29:42Z",
+  "updated_at": "2026-06-30T14:13:35Z",
   "recent": {
     "top_tracks": [
       {
@@ -145,18 +145,18 @@
         "url": "https://open.spotify.com/track/7IAKxhI1z8Sas7iLcX8YF5"
       },
       {
-        "name": "Freezing",
-        "artist": "Peter Cat Recording Co.",
-        "album": "Bismillah",
-        "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
-        "url": "https://open.spotify.com/track/4xy57dr5jglPfRqAZn0wiw"
+        "name": "Shallow",
+        "artist": "Lady Gaga, Bradley Cooper",
+        "album": "A Star Is Born Soundtrack",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2d156fdc691f57900134342",
+        "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
       },
       {
-        "name": "Memory Box",
-        "artist": "Peter Cat Recording Co.",
-        "album": "Bismillah",
-        "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
-        "url": "https://open.spotify.com/track/6C5xm2roWdAIda9WJmu1jG"
+        "name": "luther (with sza)",
+        "artist": "Kendrick Lamar, SZA",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e027e5e269471fe4a43a42e2f15",
+        "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
       }
     ],
     "top_artists": [
@@ -185,16 +185,16 @@
         "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
       },
       {
-        "name": "Father John Misty",
-        "image": "https://i.scdn.co/image/ab676161000051748a78e4e37d117b9cc90a6363",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-      },
-      {
         "name": "Kendrick Lamar",
         "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
         "genres": [],
         "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      {
+        "name": "Father John Misty",
+        "image": "https://i.scdn.co/image/ab676161000051748a78e4e37d117b9cc90a6363",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
       }
     ]
   },
