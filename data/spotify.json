@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-07-01T14:29:38Z",
+  "updated_at": "2026-07-01T19:50:27Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "I Can Change",
+        "artist": "LCD Soundsystem",
+        "album": "This Is Happening",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ee0d0dce888c6c8a70db6e8b",
+        "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP",
+        "played_at": "2026-07-01T15:06:07.218Z"
+      },
+      {
+        "name": "3005",
+        "artist": "Childish Gambino",
+        "album": "Because the Internet",
+        "image": "https://i.scdn.co/image/ab67616d00001e0221b2b485aef32bcc96c1875c",
+        "url": "https://open.spotify.com/track/2X6b7zLdIxCejd6GqVcQ9M",
+        "played_at": "2026-07-01T15:00:31.113Z"
+      },
+      {
+        "name": "Fill In The Blank",
+        "artist": "Car Seat Headrest",
+        "album": "Teens Of Denial",
+        "image": "https://i.scdn.co/image/ab67616d00001e024094272fe172643edfdbba48",
+        "url": "https://open.spotify.com/track/0SVvyfRMFMRJzc0L2odX20",
+        "played_at": "2026-07-01T14:56:46.629Z"
+      },
+      {
+        "name": "Blockbuster Night Pt. 1",
+        "artist": "Run The Jewels, El-P, Killer Mike",
+        "album": "Run The Jewels 2",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a6e14ae4b6e2291817e03772",
+        "url": "https://open.spotify.com/track/7h893ZHzcQh6USDVXsyGsu",
+        "played_at": "2026-07-01T14:51:52.920Z"
+      },
+      {
+        "name": "HUMBLE.",
+        "artist": "Kendrick Lamar",
+        "album": "DAMN.",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+        "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS",
+        "played_at": "2026-07-01T14:49:33.196Z"
+      },
+      {
+        "name": "Angels (feat. Saba)",
+        "artist": "Chance the Rapper, Saba",
+        "album": "Coloring Book",
+        "image": "https://i.scdn.co/image/ab67616d00001e021e4ed4162e520e33be0bf3b0",
+        "url": "https://open.spotify.com/track/0jx8zY5JQsS4YEQcfkoc5C",
+        "played_at": "2026-07-01T14:46:47.121Z"
+      },
+      {
+        "name": "wacced out murals",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
+        "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT",
+        "played_at": "2026-07-01T14:43:22.741Z"
+      },
       {
         "name": "I Wanna Be Your Lover",
         "artist": "Prince",
@@ -9,62 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02d539ebc9ac4dc40946532580",
         "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj",
         "played_at": "2026-07-01T02:08:53.854Z"
-      },
-      {
-        "name": "Famous",
-        "artist": "Kanye West",
-        "album": "The Life Of Pablo",
-        "image": "https://i.scdn.co/image/ab67616d00001e022a7db835b912dc5014bd37f4",
-        "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8",
-        "played_at": "2026-07-01T02:04:02.891Z"
-      },
-      {
-        "name": "Many Times",
-        "artist": "Dijon",
-        "album": "Absolutely",
-        "image": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
-        "url": "https://open.spotify.com/track/63EUqnpcphhZh8SbXagArw",
-        "played_at": "2026-07-01T02:01:07.302Z"
-      },
-      {
-        "name": "Dance Yrself Clean",
-        "artist": "LCD Soundsystem",
-        "album": "This Is Happening",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ee0d0dce888c6c8a70db6e8b",
-        "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ",
-        "played_at": "2026-06-30T03:05:11.052Z"
-      },
-      {
-        "name": "mangetout",
-        "artist": "Wet Leg",
-        "album": "moisturizer",
-        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT",
-        "played_at": "2026-06-30T02:41:21.102Z"
-      },
-      {
-        "name": "North American Scum",
-        "artist": "LCD Soundsystem",
-        "album": "Sound of Silver",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6272ad26e7a55bc342a6dd0",
-        "url": "https://open.spotify.com/track/29ufIwomYfLbWBxPMdaUZm",
-        "played_at": "2026-06-30T02:37:09.302Z"
-      },
-      {
-        "name": "Talk Down",
-        "artist": "Dijon",
-        "album": "Absolutely",
-        "image": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
-        "url": "https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO",
-        "played_at": "2026-06-29T15:00:40.526Z"
-      },
-      {
-        "name": "squabble up",
-        "artist": "Kendrick Lamar",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
-        "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb",
-        "played_at": "2026-06-29T14:58:16.133Z"
       }
     ],
     "top_artists": [
@@ -79,6 +79,16 @@
         "url": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
       },
       {
+        "name": "LCD Soundsystem",
+        "image": "https://i.scdn.co/image/ab676161000051746a0838a408f8c9cf82915ac8",
+        "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+      },
+      {
+        "name": "Kendrick Lamar",
+        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      {
         "name": "Wednesday",
         "image": "https://i.scdn.co/image/ab67616100005174cbf22720296d758d8b373a85",
         "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
@@ -87,16 +97,6 @@
         "name": "Big Audio Dynamite",
         "image": "https://i.scdn.co/image/45cb5a9610987081727c1fff005db0e171c27017",
         "url": "https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI"
-      },
-      {
-        "name": "Kanye West",
-        "image": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a",
-        "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-      },
-      {
-        "name": "Dijon",
-        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
-        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
       }
     ]
   },
