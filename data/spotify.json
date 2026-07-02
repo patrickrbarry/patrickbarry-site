@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-01T19:50:27Z",
+  "updated_at": "2026-07-02T03:21:11Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Pictures Of Matchstick Men",
+        "artist": "Camper Van Beethoven",
+        "album": "Key Lime Pie",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278cea247e1dd55d49319ddf4",
+        "url": "https://open.spotify.com/track/5LPx6fu4vKk8FheRq2DAn0",
+        "played_at": "2026-07-01T22:54:42.478Z"
+      },
       {
         "name": "I Can Change",
         "artist": "LCD Soundsystem",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
         "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT",
         "played_at": "2026-07-01T14:43:22.741Z"
-      },
-      {
-        "name": "I Wanna Be Your Lover",
-        "artist": "Prince",
-        "album": "Prince",
-        "image": "https://i.scdn.co/image/ab67616d00001e02d539ebc9ac4dc40946532580",
-        "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj",
-        "played_at": "2026-07-01T02:08:53.854Z"
       }
     ],
     "top_artists": [
@@ -152,11 +152,11 @@
         "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
       },
       {
-        "name": "luther (with sza)",
-        "artist": "Kendrick Lamar, SZA",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e027e5e269471fe4a43a42e2f15",
-        "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+        "name": "Pictures Of Matchstick Men",
+        "artist": "Camper Van Beethoven",
+        "album": "Key Lime Pie",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278cea247e1dd55d49319ddf4",
+        "url": "https://open.spotify.com/track/5LPx6fu4vKk8FheRq2DAn0"
       }
     ],
     "top_artists": [
