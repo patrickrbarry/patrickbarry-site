@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-07-03T13:57:46Z",
+  "updated_at": "2026-07-03T19:17:12Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "She Cleans Up",
-        "artist": "Father John Misty",
-        "album": "Mahashmashana",
-        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
-        "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3",
-        "played_at": "2026-07-03T00:25:02.663Z"
+        "name": "I Wanna Be Your Lover",
+        "artist": "Prince",
+        "album": "Prince",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d539ebc9ac4dc40946532580",
+        "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj",
+        "played_at": "2026-07-03T18:43:46.593Z"
+      },
+      {
+        "name": "davina mccall",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/4KVYz4U1Vm3pvjhhhS1E6s",
+        "played_at": "2026-07-03T18:38:55.515Z"
+      },
+      {
+        "name": "DENIAL IS A RIVER",
+        "artist": "Doechii",
+        "album": "Alligator Bites Never Heal",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b245099fe26319344ddf6054",
+        "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB",
+        "played_at": "2026-07-03T18:35:16.983Z"
+      },
+      {
+        "name": "My Heart, My Life",
+        "artist": "Nusrat Fateh Ali Khan, Michael Brook",
+        "album": "Night Song (Real World Gold)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229cdec7fc93dc978bbbc8a72",
+        "url": "https://open.spotify.com/track/51kDnf9dngc5G01ncfKc9K",
+        "played_at": "2026-07-03T18:27:47.797Z"
       },
       {
         "name": "HIGHER!",
@@ -16,7 +40,15 @@
         "album": "Baby",
         "image": "https://i.scdn.co/image/ab67616d00001e02fd69099343fa7827e78cca4b",
         "url": "https://open.spotify.com/track/0XnD9GJRD01wvXFLWJXiYx",
-        "played_at": "2026-07-03T00:20:36.464Z"
+        "played_at": "2026-07-03T18:21:10.799Z"
+      },
+      {
+        "name": "She Cleans Up",
+        "artist": "Father John Misty",
+        "album": "Mahashmashana",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
+        "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3",
+        "played_at": "2026-07-03T00:25:02.663Z"
       },
       {
         "name": "Over And Over",
@@ -33,38 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0278cea247e1dd55d49319ddf4",
         "url": "https://open.spotify.com/track/5LPx6fu4vKk8FheRq2DAn0",
         "played_at": "2026-07-01T22:54:42.478Z"
-      },
-      {
-        "name": "I Can Change",
-        "artist": "LCD Soundsystem",
-        "album": "This Is Happening",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ee0d0dce888c6c8a70db6e8b",
-        "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP",
-        "played_at": "2026-07-01T15:06:07.218Z"
-      },
-      {
-        "name": "3005",
-        "artist": "Childish Gambino",
-        "album": "Because the Internet",
-        "image": "https://i.scdn.co/image/ab67616d00001e0221b2b485aef32bcc96c1875c",
-        "url": "https://open.spotify.com/track/2X6b7zLdIxCejd6GqVcQ9M",
-        "played_at": "2026-07-01T15:00:31.113Z"
-      },
-      {
-        "name": "Fill In The Blank",
-        "artist": "Car Seat Headrest",
-        "album": "Teens Of Denial",
-        "image": "https://i.scdn.co/image/ab67616d00001e024094272fe172643edfdbba48",
-        "url": "https://open.spotify.com/track/0SVvyfRMFMRJzc0L2odX20",
-        "played_at": "2026-07-01T14:56:46.629Z"
-      },
-      {
-        "name": "Blockbuster Night Pt. 1",
-        "artist": "Run The Jewels, El-P, Killer Mike",
-        "album": "Run The Jewels 2",
-        "image": "https://i.scdn.co/image/ab67616d00001e02a6e14ae4b6e2291817e03772",
-        "url": "https://open.spotify.com/track/7h893ZHzcQh6USDVXsyGsu",
-        "played_at": "2026-07-01T14:51:52.920Z"
       }
     ],
     "top_artists": [
@@ -74,14 +74,14 @@
         "url": "https://open.spotify.com/artist/1JXB7XQ9hjLB5pnr1eowKR"
       },
       {
-        "name": "Frank Black",
-        "image": "https://i.scdn.co/image/ab67616100005174073898fc874df2fda5624f89",
-        "url": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
-      },
-      {
         "name": "Dijon",
         "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
         "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+      },
+      {
+        "name": "Frank Black",
+        "image": "https://i.scdn.co/image/ab67616100005174073898fc874df2fda5624f89",
+        "url": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
       },
       {
         "name": "LCD Soundsystem",
@@ -94,9 +94,9 @@
         "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       {
-        "name": "Wednesday",
-        "image": "https://i.scdn.co/image/ab67616100005174cbf22720296d758d8b373a85",
-        "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        "name": "Prince",
+        "image": "https://i.scdn.co/image/ab67616100005174adf109a73dae96653131b023",
+        "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
       }
     ]
   },
