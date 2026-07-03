@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-02T19:20:23Z",
+  "updated_at": "2026-07-03T02:43:56Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "She Cleans Up",
+        "artist": "Father John Misty",
+        "album": "Mahashmashana",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
+        "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3",
+        "played_at": "2026-07-03T00:25:02.663Z"
+      },
+      {
+        "name": "HIGHER!",
+        "artist": "Dijon",
+        "album": "Baby",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd69099343fa7827e78cca4b",
+        "url": "https://open.spotify.com/track/0XnD9GJRD01wvXFLWJXiYx",
+        "played_at": "2026-07-03T00:20:36.464Z"
+      },
+      {
+        "name": "Over And Over",
+        "artist": "Hot Chip",
+        "album": "The Warning",
+        "image": "https://i.scdn.co/image/ab67616d00001e02827991a336e5a5860865921f",
+        "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA",
+        "played_at": "2026-07-03T00:20:36.459Z"
+      },
       {
         "name": "Pictures Of Matchstick Men",
         "artist": "Camper Van Beethoven",
@@ -41,30 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02a6e14ae4b6e2291817e03772",
         "url": "https://open.spotify.com/track/7h893ZHzcQh6USDVXsyGsu",
         "played_at": "2026-07-01T14:51:52.920Z"
-      },
-      {
-        "name": "HUMBLE.",
-        "artist": "Kendrick Lamar",
-        "album": "DAMN.",
-        "image": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
-        "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS",
-        "played_at": "2026-07-01T14:49:33.196Z"
-      },
-      {
-        "name": "Angels (feat. Saba)",
-        "artist": "Chance the Rapper, Saba",
-        "album": "Coloring Book",
-        "image": "https://i.scdn.co/image/ab67616d00001e021e4ed4162e520e33be0bf3b0",
-        "url": "https://open.spotify.com/track/0jx8zY5JQsS4YEQcfkoc5C",
-        "played_at": "2026-07-01T14:46:47.121Z"
-      },
-      {
-        "name": "wacced out murals",
-        "artist": "Kendrick Lamar",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
-        "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT",
-        "played_at": "2026-07-01T14:43:22.741Z"
       }
     ],
     "top_artists": [
@@ -77,6 +77,11 @@
         "name": "Frank Black",
         "image": "https://i.scdn.co/image/ab67616100005174073898fc874df2fda5624f89",
         "url": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
+      },
+      {
+        "name": "Dijon",
+        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
+        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
       },
       {
         "name": "LCD Soundsystem",
@@ -92,11 +97,6 @@
         "name": "Wednesday",
         "image": "https://i.scdn.co/image/ab67616100005174cbf22720296d758d8b373a85",
         "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-      },
-      {
-        "name": "Big Audio Dynamite",
-        "image": "https://i.scdn.co/image/45cb5a9610987081727c1fff005db0e171c27017",
-        "url": "https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI"
       }
     ]
   },
