@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-07-06T10:14:13Z",
+  "updated_at": "2026-07-06T15:26:24Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Domoto",
+        "artist": "Geese",
+        "album": "3D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
+        "url": "https://open.spotify.com/track/3QIeGR44ZkoPEIdXLoMg6e",
+        "played_at": "2026-07-06T14:54:28.917Z"
+      },
+      {
+        "name": "D'yer Mak'er - Remaster",
+        "artist": "Led Zeppelin",
+        "album": "Houses of the Holy (Remaster)",
+        "image": "https://i.scdn.co/image/ab67616d00001e021aa47e71c4edfeaddb65cd54",
+        "url": "https://open.spotify.com/track/5uUhS7XDkyycNa5FaNfPGT",
+        "played_at": "2026-07-06T14:50:49.811Z"
+      },
+      {
+        "name": "New Lands",
+        "artist": "Justice",
+        "album": "Audio, Video, Disco.",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9171c2b7bab0956cdfbd1fa",
+        "url": "https://open.spotify.com/track/6xi63rgWgcKkod0nXVnMMT",
+        "played_at": "2026-07-06T14:43:57.213Z"
+      },
+      {
+        "name": "Classical",
+        "artist": "Vampire Weekend",
+        "album": "Only God Was Above Us",
+        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
+        "url": "https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL",
+        "played_at": "2026-07-06T14:39:41.497Z"
+      },
+      {
+        "name": "Josh Tillman and the Accidental Dose",
+        "artist": "Father John Misty",
+        "album": "Mahashmashana",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
+        "url": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f",
+        "played_at": "2026-07-06T14:34:50.196Z"
+      },
       {
         "name": "Talk Down",
         "artist": "Dijon",
@@ -25,46 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
         "url": "https://open.spotify.com/track/4KVYz4U1Vm3pvjhhhS1E6s",
         "played_at": "2026-07-03T18:38:55.515Z"
-      },
-      {
-        "name": "DENIAL IS A RIVER",
-        "artist": "Doechii",
-        "album": "Alligator Bites Never Heal",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b245099fe26319344ddf6054",
-        "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB",
-        "played_at": "2026-07-03T18:35:16.983Z"
-      },
-      {
-        "name": "My Heart, My Life",
-        "artist": "Nusrat Fateh Ali Khan, Michael Brook",
-        "album": "Night Song (Real World Gold)",
-        "image": "https://i.scdn.co/image/ab67616d00001e0229cdec7fc93dc978bbbc8a72",
-        "url": "https://open.spotify.com/track/51kDnf9dngc5G01ncfKc9K",
-        "played_at": "2026-07-03T18:27:47.797Z"
-      },
-      {
-        "name": "HIGHER!",
-        "artist": "Dijon",
-        "album": "Baby",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fd69099343fa7827e78cca4b",
-        "url": "https://open.spotify.com/track/0XnD9GJRD01wvXFLWJXiYx",
-        "played_at": "2026-07-03T18:21:10.799Z"
-      },
-      {
-        "name": "She Cleans Up",
-        "artist": "Father John Misty",
-        "album": "Mahashmashana",
-        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
-        "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3",
-        "played_at": "2026-07-03T00:25:02.663Z"
-      },
-      {
-        "name": "Over And Over",
-        "artist": "Hot Chip",
-        "album": "The Warning",
-        "image": "https://i.scdn.co/image/ab67616d00001e02827991a336e5a5860865921f",
-        "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA",
-        "played_at": "2026-07-03T00:20:36.459Z"
       }
     ],
     "top_artists": [
@@ -79,9 +79,9 @@
         "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
       },
       {
-        "name": "Kendrick Lamar",
-        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
-        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        "name": "Father John Misty",
+        "image": "https://i.scdn.co/image/ab676161000051748a78e4e37d117b9cc90a6363",
+        "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
       },
       {
         "name": "Prince",
