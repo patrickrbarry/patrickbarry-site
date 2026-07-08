@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-07-08T13:58:42Z",
+  "updated_at": "2026-07-08T19:20:55Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Cobra",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf",
+        "played_at": "2026-07-08T15:03:13.252Z"
+      },
+      {
+        "name": "mangetout",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT",
+        "played_at": "2026-07-08T15:00:21.254Z"
+      },
+      {
+        "name": "Dirty Work",
+        "artist": "Steely Dan",
+        "album": "Can't Buy A Thrill",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ddd7e736f870994f4707947",
+        "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH",
+        "played_at": "2026-07-08T14:56:47.459Z"
+      },
+      {
+        "name": "The Less I Know The Better",
+        "artist": "Tame Impala",
+        "album": "Currents",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+        "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ",
+        "played_at": "2026-07-08T14:53:36.954Z"
+      },
+      {
+        "name": "HUMBLE.",
+        "artist": "Kendrick Lamar",
+        "album": "DAMN.",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+        "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS",
+        "played_at": "2026-07-08T14:50:07.505Z"
+      },
+      {
+        "name": "New Lands",
+        "artist": "Justice",
+        "album": "Audio, Video, Disco.",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9171c2b7bab0956cdfbd1fa",
+        "url": "https://open.spotify.com/track/6xi63rgWgcKkod0nXVnMMT",
+        "played_at": "2026-07-08T14:47:04.660Z"
+      },
+      {
+        "name": "Piece Of Shit",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
+        "url": "https://open.spotify.com/track/6PGNpgfoGIpfZVJFHdK7bV",
+        "played_at": "2026-07-08T14:41:36.213Z"
+      },
       {
         "name": "Do It Again",
         "artist": "Steely Dan",
@@ -9,62 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e020ddd7e736f870994f4707947",
         "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
         "played_at": "2026-07-07T08:36:33.884Z"
-      },
-      {
-        "name": "Hey, Hey, What Can I Do - Remaster",
-        "artist": "Led Zeppelin",
-        "album": "Coda (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e023b7bf70364c3f8643723398e",
-        "url": "https://open.spotify.com/track/16VhHtoaOjTU4AJBNSBNQ1",
-        "played_at": "2026-07-07T06:37:45.905Z"
-      },
-      {
-        "name": "Girls",
-        "artist": "The Dare",
-        "album": "What's Wrong With New York? (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d00001e021b863944fa4893515cd8f88e",
-        "url": "https://open.spotify.com/track/2qbkDNJy6yzAcwdM63yPVu",
-        "played_at": "2026-07-07T06:30:37.661Z"
-      },
-      {
-        "name": "Being In Love",
-        "artist": "Wet Leg",
-        "album": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
-        "url": "https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve",
-        "played_at": "2026-07-07T06:28:37.424Z"
-      },
-      {
-        "name": "Many Times",
-        "artist": "Dijon",
-        "album": "Absolutely",
-        "image": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
-        "url": "https://open.spotify.com/track/63EUqnpcphhZh8SbXagArw",
-        "played_at": "2026-07-07T06:26:34.988Z"
-      },
-      {
-        "name": "Boston",
-        "artist": "STELLA LEFTY",
-        "album": "Boston",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6cb19b02e38d18246ac334f",
-        "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN",
-        "played_at": "2026-07-07T06:24:17.331Z"
-      },
-      {
-        "name": "Janice STFU",
-        "artist": "Drake",
-        "album": "ICEMAN",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fe9d3ab9adb1d3b59835b81c",
-        "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz",
-        "played_at": "2026-07-07T06:21:26.045Z"
-      },
-      {
-        "name": "DtMF",
-        "artist": "Bad Bunny",
-        "album": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "image": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
-        "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
-        "played_at": "2026-07-07T06:17:29.282Z"
       }
     ],
     "top_artists": [
@@ -74,29 +74,29 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
-        "name": "Dijon",
-        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
-        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-      },
-      {
         "name": "Justice",
         "image": "https://i.scdn.co/image/ab67616100005174f140c161d9f9cc9afe85b6ed",
         "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
       },
       {
-        "name": "Led Zeppelin",
-        "image": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
-        "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "Unknown Mortal Orchestra",
-        "image": "https://i.scdn.co/image/ab67616100005174e6d5bde61a28cfb8e53893e1",
-        "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        "name": "Steely Dan",
+        "image": "https://i.scdn.co/image/067bf3caa525edb4e97e19b2a630ccf361897350",
+        "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
       },
       {
-        "name": "Jenny Lewis",
-        "image": "https://i.scdn.co/image/ab67616100005174283ede192772a95df45e1c91",
-        "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        "name": "Tame Impala",
+        "image": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
+        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      {
+        "name": "Dijon",
+        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
+        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
       }
     ]
   },
