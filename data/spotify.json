@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-10T19:23:26Z",
+  "updated_at": "2026-07-11T02:26:16Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Everything Is Peaceful Love",
+        "artist": "Bon Iver",
+        "album": "SABLE, fABLE",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230d93b9cce660d4f56770efb",
+        "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9",
+        "played_at": "2026-07-10T22:36:40.838Z"
+      },
+      {
+        "name": "The Moment",
+        "artist": "Tame Impala",
+        "album": "Currents",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+        "url": "https://open.spotify.com/track/1UYj8qTWjneZJDVjUMwMub",
+        "played_at": "2026-07-10T22:32:24.929Z"
+      },
       {
         "name": "Do It Again",
         "artist": "Steely Dan",
@@ -49,22 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e027ae6f1296b466d3c34011cb8",
         "url": "https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7",
         "played_at": "2026-07-10T01:42:22.428Z"
-      },
-      {
-        "name": "Peaches",
-        "artist": "The Presidents Of The United States Of America",
-        "album": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ec96ce38f636ef7b49460079",
-        "url": "https://open.spotify.com/track/750wm5pwuAQfnSLX8mxa5f",
-        "played_at": "2026-07-10T01:38:58.324Z"
-      },
-      {
-        "name": "Never Going Back Again - 2004 Remaster",
-        "artist": "Fleetwood Mac",
-        "album": "Rumours (Super Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b",
-        "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd",
-        "played_at": "2026-07-10T01:35:57.533Z"
       }
     ],
     "top_artists": [
@@ -94,9 +94,9 @@
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "Kendrick Lamar",
-        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
-        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        "name": "Tame Impala",
+        "image": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
+        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       }
     ]
   },
