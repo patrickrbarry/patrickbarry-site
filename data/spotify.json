@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T08:04:08Z",
+  "updated_at": "2026-07-15T13:38:03Z",
   "recent": {
     "top_tracks": [
       {
@@ -131,18 +131,18 @@
         "url": "https://open.spotify.com/track/0w3ptVGmlBJLWqwsrnrGnO"
       },
       {
-        "name": "Manning Fireworks",
-        "artist": "MJ Lenderman",
-        "album": "Manning Fireworks",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
-        "url": "https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut"
-      },
-      {
         "name": "Pictures Of Matchstick Men",
         "artist": "Camper Van Beethoven",
         "album": "Key Lime Pie",
         "image": "https://i.scdn.co/image/ab67616d00001e0278cea247e1dd55d49319ddf4",
         "url": "https://open.spotify.com/track/5LPx6fu4vKk8FheRq2DAn0"
+      },
+      {
+        "name": "Flowers",
+        "artist": "Camper Van Beethoven",
+        "album": "Key Lime Pie",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278cea247e1dd55d49319ddf4",
+        "url": "https://open.spotify.com/track/7Am3vOOsn60RYJqTuhCyMH"
       },
       {
         "name": "Golden Wingship",
@@ -191,10 +191,10 @@
         "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
       },
       {
-        "name": "MJ Lenderman",
-        "image": "https://i.scdn.co/image/ab6761610000517427fa0080c12d5330cf5562b8",
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
         "genres": [],
-        "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       }
     ]
   },
