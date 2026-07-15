@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026-07-14T19:15:32Z",
+  "updated_at": "2026-07-15T02:10:27Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Ur Mum",
+        "name": "Taxes",
+        "artist": "Geese",
+        "album": "Taxes",
+        "image": "https://i.scdn.co/image/ab67616d00001e02357b215562c3268ed1022942",
+        "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae",
+        "played_at": "2026-07-15T01:55:43.423Z"
+      },
+      {
+        "name": "Fearless",
+        "artist": "Pink Floyd",
+        "album": "Meddle",
+        "image": "https://i.scdn.co/image/ab67616d00001e029eee212bba82bed8da96a8f7",
+        "url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj",
+        "played_at": "2026-07-15T00:51:43.049Z"
+      },
+      {
+        "name": "What's That Pylon?",
+        "artist": "Comfort Fashion",
+        "album": "Salt Veridian",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bcab01f5166397758f16edb6",
+        "url": "https://open.spotify.com/track/3RPBiaGFH3DwVZ4LwuFZG5",
+        "played_at": "2026-07-15T00:45:35.656Z"
+      },
+      {
+        "name": "peekaboo (feat. azchike)",
+        "artist": "Kendrick Lamar, AZ Chike",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
+        "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de",
+        "played_at": "2026-07-15T00:37:49.407Z"
+      },
+      {
+        "name": "HIGHER!",
+        "artist": "Dijon",
+        "album": "Baby",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd69099343fa7827e78cca4b",
+        "url": "https://open.spotify.com/track/0XnD9GJRD01wvXFLWJXiYx",
+        "played_at": "2026-07-15T00:35:06.931Z"
+      },
+      {
+        "name": "Cobra",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf",
+        "played_at": "2026-07-15T00:31:09.025Z"
+      },
+      {
+        "name": "Piece Of Shit",
         "artist": "Wet Leg",
         "album": "Wet Leg",
         "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
-        "url": "https://open.spotify.com/track/4ug5wsIcbAPBun8TCKn2t6",
-        "played_at": "2026-07-14T02:45:28.974Z"
+        "url": "https://open.spotify.com/track/6PGNpgfoGIpfZVJFHdK7bV",
+        "played_at": "2026-07-15T00:28:03.911Z"
       },
       {
-        "name": "Fabienk",
-        "artist": "Angine de Poitrine",
-        "album": "Vol.II",
-        "image": "https://i.scdn.co/image/ab67616d00001e024821b77fd92093513d7634b5",
-        "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA",
-        "played_at": "2026-07-14T00:52:01.007Z"
-      },
-      {
-        "name": "Wake Up",
-        "artist": "Rage Against The Machine",
-        "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e0254ab617bc2d4974ab6ffbece",
-        "url": "https://open.spotify.com/track/2QiqwOVUctPRVggO9G1Zs5",
-        "played_at": "2026-07-14T00:45:29.781Z"
-      },
-      {
-        "name": "XXX. FEAT. U2.",
-        "artist": "Kendrick Lamar, U2",
-        "album": "DAMN.",
-        "image": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
-        "url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF",
-        "played_at": "2026-07-14T00:39:26.343Z"
-      },
-      {
-        "name": "This Is America",
-        "artist": "Childish Gambino",
-        "album": "This Is America",
-        "image": "https://i.scdn.co/image/ab67616d00001e023504664c17b7b99a3cb7d116",
-        "url": "https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9",
-        "played_at": "2026-07-14T00:35:11.699Z"
-      },
-      {
-        "name": "No One Knows",
-        "artist": "Queens of the Stone Age",
-        "album": "Songs For The Deaf",
-        "image": "https://i.scdn.co/image/ab67616d00001e029b62c36a1f8ac00d60f460cc",
-        "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH",
-        "played_at": "2026-07-14T00:31:25.899Z"
-      },
-      {
-        "name": "Sexx Laws",
-        "artist": "Beck",
-        "album": "Midnite Vultures",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fbfb68023efd979aec1cc925",
-        "url": "https://open.spotify.com/track/1ELY3KTgI83N1k0xXqabMe",
-        "played_at": "2026-07-14T00:26:40.572Z"
-      },
-      {
-        "name": "Candle Flame",
-        "artist": "Jungle, Erick the Architect",
-        "album": "Volcano",
-        "image": "https://i.scdn.co/image/ab67616d00001e0277619f14cb03e11baf5761d1",
-        "url": "https://open.spotify.com/track/1Ad2HcIX9zBqoWRvxtpYGf",
-        "played_at": "2026-07-14T00:23:01.338Z"
+        "name": "Flowers",
+        "artist": "Camper Van Beethoven",
+        "album": "Key Lime Pie",
+        "image": "https://i.scdn.co/image/ab67616d00001e0278cea247e1dd55d49319ddf4",
+        "url": "https://open.spotify.com/track/7Am3vOOsn60RYJqTuhCyMH",
+        "played_at": "2026-07-15T00:25:15.863Z"
       }
     ],
     "top_artists": [
@@ -74,9 +74,9 @@
         "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
       },
       {
-        "name": "Jungle",
-        "image": "https://i.scdn.co/image/ab6761610000517421f6e9ccd576bb2ef541a3fe",
-        "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
         "name": "Kendrick Lamar",
@@ -84,19 +84,19 @@
         "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       {
-        "name": "Queens of the Stone Age",
-        "image": "https://i.scdn.co/image/ab67616100005174f9ce7ec8e7da2f5d68cf1f79",
-        "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
-        "name": "Beck",
-        "image": "https://i.scdn.co/image/ab67616100005174ca0e2c67ba619791fec07dfa",
-        "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        "name": "Jungle",
+        "image": "https://i.scdn.co/image/ab6761610000517421f6e9ccd576bb2ef541a3fe",
+        "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
       },
       {
-        "name": "Fontaines D.C.",
-        "image": "https://i.scdn.co/image/ab67616100005174c4b9cd69cf77ce41487dd69a",
-        "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        "name": "Dijon",
+        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
+        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
       }
     ]
   },
