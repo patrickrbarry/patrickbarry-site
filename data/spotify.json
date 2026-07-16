@@ -1,83 +1,73 @@
 {
-  "updated_at": "2026-07-15T19:06:17Z",
+  "updated_at": "2026-07-16T02:23:27Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Babydoll",
-        "artist": "Dominic Fike",
-        "album": "Don't Forget About Me, Demos",
-        "image": "https://i.scdn.co/image/ab67616d00001e027b1b6f41c1645af9757d5616",
-        "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-        "played_at": "2026-07-15T14:48:13.360Z"
+        "name": "Gimme Shelter",
+        "artist": "The Rolling Stones",
+        "album": "Hot Rocks 1964-1971",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b11b3fc3c89477a7dd473bd7",
+        "url": "https://open.spotify.com/track/0t7ttzoe3dV0mah4lBI2kx",
+        "played_at": "2026-07-16T02:06:57.462Z"
       },
       {
-        "name": "North American Scum",
-        "artist": "LCD Soundsystem",
-        "album": "Sound of Silver",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6272ad26e7a55bc342a6dd0",
-        "url": "https://open.spotify.com/track/29ufIwomYfLbWBxPMdaUZm",
-        "played_at": "2026-07-15T14:46:36.163Z"
+        "name": "N95",
+        "artist": "Kendrick Lamar",
+        "album": "Mr. Morale & The Big Steppers",
+        "image": "https://i.scdn.co/image/ab67616d00001e022e02117d76426a08ac7c174f",
+        "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2",
+        "played_at": "2026-07-16T02:02:27.272Z"
       },
       {
-        "name": "Band On The Run - 2010 Remaster",
-        "artist": "Paul McCartney, Wings",
-        "album": "Band On The Run",
-        "image": "https://i.scdn.co/image/ab67616d00001e02be7a3a1e2d663eea2918e5a3",
-        "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY",
-        "played_at": "2026-07-15T14:41:12.021Z"
+        "name": "Impossible Germany",
+        "artist": "Wilco",
+        "album": "Sky Blue Sky",
+        "image": "https://i.scdn.co/image/ab67616d00001e0248473ebc10dfa3cf74da92c6",
+        "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA",
+        "played_at": "2026-07-16T01:59:10.753Z"
       },
       {
-        "name": "Fell On Black Days",
-        "artist": "Soundgarden",
-        "album": "Superunknown (20th Anniversary)",
-        "image": "https://i.scdn.co/image/ab67616d00001e025124ed45a94033830b320500",
-        "url": "https://open.spotify.com/track/21HWc9gFZKNdkGzGqHLq3A",
-        "played_at": "2026-07-15T14:36:01.867Z"
+        "name": "Too Late Now",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
+        "url": "https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K",
+        "played_at": "2026-07-16T01:53:13.507Z"
       },
       {
-        "name": "Taxes",
-        "artist": "Geese",
-        "album": "Taxes",
-        "image": "https://i.scdn.co/image/ab67616d00001e02357b215562c3268ed1022942",
-        "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae",
-        "played_at": "2026-07-15T01:55:43.423Z"
+        "name": "Boy From School",
+        "artist": "Hot Chip",
+        "album": "The Warning",
+        "image": "https://i.scdn.co/image/ab67616d00001e02827991a336e5a5860865921f",
+        "url": "https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR",
+        "played_at": "2026-07-16T01:49:33.301Z"
       },
       {
-        "name": "Fearless",
-        "artist": "Pink Floyd",
-        "album": "Meddle",
-        "image": "https://i.scdn.co/image/ab67616d00001e029eee212bba82bed8da96a8f7",
-        "url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj",
-        "played_at": "2026-07-15T00:51:43.049Z"
+        "name": "Rock the House",
+        "artist": "Gorillaz, Del The Funky Homosapien",
+        "album": "Gorillaz",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c73a7bb15f43bae86215934b",
+        "url": "https://open.spotify.com/track/5GxqKrG0zeKA8uYJMjXwj9",
+        "played_at": "2026-07-16T01:44:13.639Z"
       },
       {
-        "name": "What's That Pylon?",
-        "artist": "Comfort Fashion",
-        "album": "Salt Veridian",
-        "image": "https://i.scdn.co/image/ab67616d00001e02bcab01f5166397758f16edb6",
-        "url": "https://open.spotify.com/track/3RPBiaGFH3DwVZ4LwuFZG5",
-        "played_at": "2026-07-15T00:45:35.656Z"
+        "name": "Gold Digger",
+        "artist": "Kanye West, Jamie Foxx",
+        "album": "Late Registration",
+        "image": "https://i.scdn.co/image/ab67616d00001e02428d2255141c2119409a31b2",
+        "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ",
+        "played_at": "2026-07-16T01:40:05.096Z"
       },
       {
-        "name": "peekaboo (feat. azchike)",
-        "artist": "Kendrick Lamar, AZ Chike",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
-        "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de",
-        "played_at": "2026-07-15T00:37:49.407Z"
+        "name": "A-Punk",
+        "artist": "Vampire Weekend",
+        "album": "Vampire Weekend",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eabfe5d94aad05cb6485444b",
+        "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz",
+        "played_at": "2026-07-16T01:36:36.777Z"
       }
     ],
     "top_artists": [
-      {
-        "name": "LCD Soundsystem",
-        "image": "https://i.scdn.co/image/ab676161000051746a0838a408f8c9cf82915ac8",
-        "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-      },
-      {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-      },
       {
         "name": "Kendrick Lamar",
         "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
@@ -89,14 +79,24 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
-        "name": "Jungle",
-        "image": "https://i.scdn.co/image/ab6761610000517421f6e9ccd576bb2ef541a3fe",
-        "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "Dijon",
-        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
-        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        "name": "Hot Chip",
+        "image": "https://i.scdn.co/image/ab67616100005174b988ca14506a2356551e7c7b",
+        "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+      },
+      {
+        "name": "Kanye West",
+        "image": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a",
+        "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "name": "Queens of the Stone Age",
+        "image": "https://i.scdn.co/image/ab67616100005174f9ce7ec8e7da2f5d68cf1f79",
+        "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
       }
     ]
   },
