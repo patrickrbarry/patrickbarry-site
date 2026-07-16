@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-16T02:23:27Z",
+  "updated_at": "2026-07-16T08:08:04Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Hook",
+        "artist": "Blues Traveler",
+        "album": "Four",
+        "image": "https://i.scdn.co/image/ab67616d00001e024e2e887ee7656310cfa244f6",
+        "url": "https://open.spotify.com/track/27IRo2rYeizhRMDaNVplNM",
+        "played_at": "2026-07-16T03:11:07.452Z"
+      },
       {
         "name": "Gimme Shelter",
         "artist": "The Rolling Stones",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02428d2255141c2119409a31b2",
         "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ",
         "played_at": "2026-07-16T01:40:05.096Z"
-      },
-      {
-        "name": "A-Punk",
-        "artist": "Vampire Weekend",
-        "album": "Vampire Weekend",
-        "image": "https://i.scdn.co/image/ab67616d00001e02eabfe5d94aad05cb6485444b",
-        "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz",
-        "played_at": "2026-07-16T01:36:36.777Z"
       }
     ],
     "top_artists": [
