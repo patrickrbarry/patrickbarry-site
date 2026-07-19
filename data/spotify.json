@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-19T02:28:28Z",
+  "updated_at": "2026-07-19T08:11:54Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Ghost Town",
+        "artist": "Kanye West, PARTYNEXTDOOR",
+        "album": "ye",
+        "image": "https://i.scdn.co/image/ab67616d00001e020cd942c1a864afa4e92d04f2",
+        "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
+        "played_at": "2026-07-19T04:31:56.813Z"
+      },
       {
         "name": "Hook",
         "artist": "Blues Traveler",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02c73a7bb15f43bae86215934b",
         "url": "https://open.spotify.com/track/5GxqKrG0zeKA8uYJMjXwj9",
         "played_at": "2026-07-16T01:44:13.639Z"
-      },
-      {
-        "name": "Gold Digger",
-        "artist": "Kanye West, Jamie Foxx",
-        "album": "Late Registration",
-        "image": "https://i.scdn.co/image/ab67616d00001e02428d2255141c2119409a31b2",
-        "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ",
-        "played_at": "2026-07-16T01:40:05.096Z"
       }
     ],
     "top_artists": [
@@ -79,6 +79,11 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
+        "name": "Kanye West",
+        "image": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a",
+        "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
         "name": "Geese",
         "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
@@ -87,11 +92,6 @@
         "name": "Hot Chip",
         "image": "https://i.scdn.co/image/ab67616100005174b988ca14506a2356551e7c7b",
         "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-      },
-      {
-        "name": "Kanye West",
-        "image": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a",
-        "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
       },
       {
         "name": "Queens of the Stone Age",
