@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T02:27:06Z",
+  "updated_at": "2026-07-21T08:23:35Z",
   "recent": {
     "top_tracks": [
       {
@@ -69,14 +69,14 @@
     ],
     "top_artists": [
       {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-      },
-      {
         "name": "Kendrick Lamar",
         "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
         "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      {
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
         "name": "Kanye West",
