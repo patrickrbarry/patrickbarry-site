@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T19:40:26Z",
+  "updated_at": "2026-07-21T02:27:06Z",
   "recent": {
     "top_tracks": [
       {
@@ -69,14 +69,14 @@
     ],
     "top_artists": [
       {
-        "name": "Kendrick Lamar",
-        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
-        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-      },
-      {
         "name": "Wet Leg",
         "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+      },
+      {
+        "name": "Kendrick Lamar",
+        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       {
         "name": "Kanye West",
@@ -94,9 +94,9 @@
         "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
       },
       {
-        "name": "Queens of the Stone Age",
-        "image": "https://i.scdn.co/image/ab67616100005174f9ce7ec8e7da2f5d68cf1f79",
-        "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        "name": "Dijon",
+        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
+        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
       }
     ]
   },
