@@ -1,82 +1,77 @@
 {
-  "updated_at": "2026-07-22T02:25:49Z",
+  "updated_at": "2026-07-22T08:23:51Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Ghost Town",
-        "artist": "Kanye West, PARTYNEXTDOOR",
-        "album": "ye",
-        "image": "https://i.scdn.co/image/ab67616d00001e020cd942c1a864afa4e92d04f2",
-        "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
-        "played_at": "2026-07-19T04:31:56.813Z"
-      },
-      {
-        "name": "Hook",
-        "artist": "Blues Traveler",
-        "album": "Four",
-        "image": "https://i.scdn.co/image/ab67616d00001e024e2e887ee7656310cfa244f6",
-        "url": "https://open.spotify.com/track/27IRo2rYeizhRMDaNVplNM",
-        "played_at": "2026-07-16T03:11:07.452Z"
-      },
-      {
-        "name": "Gimme Shelter",
-        "artist": "The Rolling Stones",
-        "album": "Hot Rocks 1964-1971",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b11b3fc3c89477a7dd473bd7",
-        "url": "https://open.spotify.com/track/0t7ttzoe3dV0mah4lBI2kx",
-        "played_at": "2026-07-16T02:06:57.462Z"
-      },
-      {
-        "name": "N95",
-        "artist": "Kendrick Lamar",
-        "album": "Mr. Morale & The Big Steppers",
-        "image": "https://i.scdn.co/image/ab67616d00001e022e02117d76426a08ac7c174f",
-        "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2",
-        "played_at": "2026-07-16T02:02:27.272Z"
-      },
-      {
-        "name": "Impossible Germany",
+        "name": "Heavy Metal Drummer - 2022 Remaster",
         "artist": "Wilco",
-        "album": "Sky Blue Sky",
-        "image": "https://i.scdn.co/image/ab67616d00001e0248473ebc10dfa3cf74da92c6",
-        "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA",
-        "played_at": "2026-07-16T01:59:10.753Z"
+        "album": "Yankee Hotel Foxtrot (Expanded Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0262d457eda9010a03bf44e828",
+        "url": "https://open.spotify.com/track/1KOHx0ddv17DsT9BNMv4fK",
+        "played_at": "2026-07-22T04:20:05.858Z"
       },
       {
-        "name": "Too Late Now",
+        "name": "Strange Overtones",
+        "artist": "David Byrne",
+        "album": "Everything That Happens Will Happen Today",
+        "image": "https://i.scdn.co/image/ab67616d00001e0282dd34c5535050c6b4b37295",
+        "url": "https://open.spotify.com/track/7wXJyWtRktzx7shORVNX5B",
+        "played_at": "2026-07-22T04:04:17.839Z"
+      },
+      {
+        "name": "Is It True",
+        "artist": "Tame Impala",
+        "album": "The Slow Rush",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
+        "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d",
+        "played_at": "2026-07-22T04:00:01.451Z"
+      },
+      {
+        "name": "DENIAL IS A RIVER",
+        "artist": "Doechii",
+        "album": "Alligator Bites Never Heal",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b245099fe26319344ddf6054",
+        "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB",
+        "played_at": "2026-07-22T03:55:55.502Z"
+      },
+      {
+        "name": "Cowboy Nudes",
+        "artist": "Geese",
+        "album": "3D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
+        "url": "https://open.spotify.com/track/5vtJPJsiwW5BZAYo8Nla0n",
+        "played_at": "2026-07-22T03:53:15.915Z"
+      },
+      {
+        "name": "Being In Love",
         "artist": "Wet Leg",
         "album": "Wet Leg",
         "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
-        "url": "https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K",
-        "played_at": "2026-07-16T01:53:13.507Z"
+        "url": "https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve",
+        "played_at": "2026-07-22T03:50:25.966Z"
       },
       {
-        "name": "Boy From School",
-        "artist": "Hot Chip",
-        "album": "The Warning",
-        "image": "https://i.scdn.co/image/ab67616d00001e02827991a336e5a5860865921f",
-        "url": "https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR",
-        "played_at": "2026-07-16T01:49:33.301Z"
+        "name": "Man I Need",
+        "artist": "Olivia Dean",
+        "album": "Man I Need",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3d69e17dde129037a1f09e2",
+        "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+        "played_at": "2026-07-22T03:48:22.936Z"
       },
       {
-        "name": "Rock the House",
-        "artist": "Gorillaz, Del The Funky Homosapien",
-        "album": "Gorillaz",
-        "image": "https://i.scdn.co/image/ab67616d00001e02c73a7bb15f43bae86215934b",
-        "url": "https://open.spotify.com/track/5GxqKrG0zeKA8uYJMjXwj9",
-        "played_at": "2026-07-16T01:44:13.639Z"
+        "name": "Pictures of You",
+        "artist": "Drugdealer, Kate Bollinger",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT",
+        "played_at": "2026-07-22T03:45:18.896Z"
       }
     ],
     "top_artists": [
       {
-        "name": "Kanye West",
-        "image": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a",
-        "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-      },
-      {
-        "name": "Kendrick Lamar",
-        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
-        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        "name": "Tame Impala",
+        "image": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
+        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
       {
         "name": "Wet Leg",
@@ -84,19 +79,24 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
-        "name": "Hot Chip",
-        "image": "https://i.scdn.co/image/ab67616100005174b988ca14506a2356551e7c7b",
-        "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        "name": "Kendrick Lamar",
+        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       {
-        "name": "PARTYNEXTDOOR",
-        "image": "https://i.scdn.co/image/ab67616100005174957320981e31e862bc2fb844",
-        "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        "name": "The Rolling Stones",
+        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
+        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
-        "name": "Blues Traveler",
-        "image": "https://i.scdn.co/image/ab676161000051740a75e80e419fa64836518832",
-        "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        "name": "Beck",
+        "image": "https://i.scdn.co/image/ab67616100005174ca0e2c67ba619791fec07dfa",
+        "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+      },
+      {
+        "name": "Kanye West",
+        "image": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a",
+        "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
       }
     ]
   },
