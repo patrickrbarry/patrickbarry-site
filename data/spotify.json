@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026-07-23T19:11:55Z",
+  "updated_at": "2026-07-24T02:27:45Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Multi-Love",
-        "artist": "Unknown Mortal Orchestra",
-        "album": "Multi-Love",
-        "image": "https://i.scdn.co/image/ab67616d00001e02dad8074eb0c60a82d1d8973c",
-        "url": "https://open.spotify.com/track/1XKAeevAbxSSMuTcRT0APS",
-        "played_at": "2026-07-23T02:24:24.555Z"
+        "name": "She Cleans Up",
+        "artist": "Father John Misty",
+        "album": "Mahashmashana",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
+        "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3",
+        "played_at": "2026-07-24T02:10:13.325Z"
       },
       {
-        "name": "King Kunta",
+        "name": "Neverender",
+        "artist": "Justice, Tame Impala",
+        "album": "Hyperdrama",
+        "image": "https://i.scdn.co/image/ab67616d00001e02730e327760fe592ad69bf18e",
+        "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn",
+        "played_at": "2026-07-24T02:05:40.061Z"
+      },
+      {
+        "name": "squabble up",
         "artist": "Kendrick Lamar",
-        "album": "To Pimp A Butterfly",
-        "image": "https://i.scdn.co/image/ab67616d00001e02cdb645498cd3d8a2db4d05e1",
-        "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O",
-        "played_at": "2026-07-23T01:22:40.041Z"
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
+        "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb",
+        "played_at": "2026-07-24T02:01:13.632Z"
       },
       {
-        "name": "The Adults Are Talking",
-        "artist": "The Strokes",
-        "album": "The New Abnormal",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
-        "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
-        "played_at": "2026-07-23T01:18:38.682Z"
+        "name": "Too Late Now",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
+        "url": "https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K",
+        "played_at": "2026-07-24T01:58:36.344Z"
       },
       {
-        "name": "Southdown",
-        "artist": "Comfort Fashion",
-        "album": "Cleave",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b2dc6f12e9c0a94d19e0c04b",
-        "url": "https://open.spotify.com/track/0k6A1wOW93N3ex5Zc2AeAQ",
-        "played_at": "2026-07-23T01:13:29.595Z"
+        "name": "DtMF",
+        "artist": "Bad Bunny",
+        "album": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+        "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+        "played_at": "2026-07-24T01:55:06.404Z"
       },
       {
-        "name": "Psychos",
-        "artist": "Jenny Lewis",
-        "album": "Joy'All",
-        "image": "https://i.scdn.co/image/ab67616d00001e020338a214b104dedb8e6e16e8",
-        "url": "https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M",
-        "played_at": "2026-07-23T01:09:34.186Z"
+        "name": "So Easy (To Fall In Love)",
+        "artist": "Olivia Dean",
+        "album": "The Art of Loving",
+        "image": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
+        "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397",
+        "played_at": "2026-07-24T01:51:09.263Z"
       },
       {
-        "name": "Pepper",
-        "artist": "Death Cab for Cutie",
-        "album": "Asphalt Meadows",
-        "image": "https://i.scdn.co/image/ab67616d00001e023563cf38b90fb6cea8fdf0b4",
-        "url": "https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa",
-        "played_at": "2026-07-23T01:06:28.530Z"
+        "name": "Carry On",
+        "artist": "Jungle",
+        "album": "Carry On",
+        "image": "https://i.scdn.co/image/ab67616d00001e0297c2c43713e5ae2d458dabcc",
+        "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc",
+        "played_at": "2026-07-24T01:48:13.441Z"
       },
       {
-        "name": "Ivy",
-        "artist": "Frank Ocean",
-        "album": "Blonde",
-        "image": "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526",
-        "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a",
-        "played_at": "2026-07-23T01:03:40.288Z"
-      },
-      {
-        "name": "Gimme Shelter",
-        "artist": "The Rolling Stones",
-        "album": "Let It Bleed",
-        "image": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99",
-        "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD",
-        "played_at": "2026-07-23T00:59:23.787Z"
+        "name": "Lakebridge",
+        "artist": "Okonski",
+        "album": "Entrance Music",
+        "image": "https://i.scdn.co/image/ab67616d00001e029df769f9a8f4b54b708392db",
+        "url": "https://open.spotify.com/track/7xzqgS9xNlvZi2AZvGBa7m",
+        "played_at": "2026-07-24T01:45:24.595Z"
       }
     ],
     "top_artists": [
@@ -74,19 +74,9 @@
         "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
       {
-        "name": "The Rolling Stones",
-        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
-        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-      },
-      {
         "name": "Olivia Dean",
         "image": "https://i.scdn.co/image/ab676161000051745c7577ad44daeb7ce4b941a1",
         "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-      },
-      {
-        "name": "Beck",
-        "image": "https://i.scdn.co/image/ab67616100005174ca0e2c67ba619791fec07dfa",
-        "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
       },
       {
         "name": "Kendrick Lamar",
@@ -94,9 +84,19 @@
         "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       {
-        "name": "Drugdealer",
-        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
-        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+      },
+      {
+        "name": "Bad Bunny",
+        "image": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
+        "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+      },
+      {
+        "name": "LCD Soundsystem",
+        "image": "https://i.scdn.co/image/ab676161000051746a0838a408f8c9cf82915ac8",
+        "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
       }
     ]
   },
