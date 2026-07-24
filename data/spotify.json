@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-24T02:27:45Z",
+  "updated_at": "2026-07-24T08:23:15Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "ALL I CAN TAKE",
+        "artist": "Justin Bieber",
+        "album": "SWAG",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+        "url": "https://open.spotify.com/track/72PVbRKkUimweUPV0nKAPs",
+        "played_at": "2026-07-24T03:10:59.497Z"
+      },
       {
         "name": "She Cleans Up",
         "artist": "Father John Misty",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0297c2c43713e5ae2d458dabcc",
         "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc",
         "played_at": "2026-07-24T01:48:13.441Z"
-      },
-      {
-        "name": "Lakebridge",
-        "artist": "Okonski",
-        "album": "Entrance Music",
-        "image": "https://i.scdn.co/image/ab67616d00001e029df769f9a8f4b54b708392db",
-        "url": "https://open.spotify.com/track/7xzqgS9xNlvZi2AZvGBa7m",
-        "played_at": "2026-07-24T01:45:24.595Z"
       }
     ],
     "top_artists": [
