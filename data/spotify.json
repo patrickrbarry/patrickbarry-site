@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-25T02:26:10Z",
+  "updated_at": "2026-07-25T08:02:17Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Eye of Fatima Parts 1 & 2",
+        "artist": "Camper Van Beethoven",
+        "album": "Popular Songs of Great Enduring Strength and Beauty",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cf46624f9c0e4f9a33377353",
+        "url": "https://open.spotify.com/track/1V6Zi2q83ICxsBws9Iwy0j",
+        "played_at": "2026-07-24T22:08:54.830Z"
+      },
       {
         "name": "Pictures Of Matchstick Men",
         "artist": "Camper Van Beethoven",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
         "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb",
         "played_at": "2026-07-24T02:01:13.632Z"
-      },
-      {
-        "name": "Too Late Now",
-        "artist": "Wet Leg",
-        "album": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
-        "url": "https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K",
-        "played_at": "2026-07-24T01:58:36.344Z"
       }
     ],
     "top_artists": [
@@ -179,6 +179,12 @@
         "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       {
+        "name": "Camper Van Beethoven",
+        "image": "https://i.scdn.co/image/7d2b454bfc3b537789ed025f59d2eba96d3af072",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/1JXB7XQ9hjLB5pnr1eowKR"
+      },
+      {
         "name": "Geese",
         "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
         "genres": [],
@@ -189,12 +195,6 @@
         "image": "https://i.scdn.co/image/ab676161000051748a78e4e37d117b9cc90a6363",
         "genres": [],
         "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-      },
-      {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       }
     ]
   },
