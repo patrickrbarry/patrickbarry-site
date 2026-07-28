@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-28T02:20:42Z",
+  "updated_at": "2026-07-28T08:29:09Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "XXX. FEAT. U2.",
+        "artist": "Kendrick Lamar, U2",
+        "album": "DAMN.",
+        "image": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+        "url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF",
+        "played_at": "2026-07-28T02:45:03.102Z"
+      },
       {
         "name": "DENIAL IS A RIVER",
         "artist": "Doechii",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02b2dc6f12e9c0a94d19e0c04b",
         "url": "https://open.spotify.com/track/0k6A1wOW93N3ex5Zc2AeAQ",
         "played_at": "2026-07-28T01:20:12.872Z"
-      },
-      {
-        "name": "There, There",
-        "artist": "Radiohead",
-        "album": "Hail To the Thief",
-        "image": "https://i.scdn.co/image/ab67616d00001e020da53e8f58e59f28a79c10c7",
-        "url": "https://open.spotify.com/track/5h4y42RUKwYKYWgutNwvKP",
-        "played_at": "2026-07-28T01:16:16.944Z"
       }
     ],
     "top_artists": [
