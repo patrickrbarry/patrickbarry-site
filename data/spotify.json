@@ -1,87 +1,82 @@
 {
-  "updated_at": "2026-07-28T19:18:22Z",
+  "updated_at": "2026-07-29T02:24:58Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "XXX. FEAT. U2.",
-        "artist": "Kendrick Lamar, U2",
-        "album": "DAMN.",
-        "image": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
-        "url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF",
-        "played_at": "2026-07-28T02:45:03.102Z"
+        "name": "Heavy Metal Drummer - 2022 Remaster",
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot (Expanded Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0262d457eda9010a03bf44e828",
+        "url": "https://open.spotify.com/track/1KOHx0ddv17DsT9BNMv4fK",
+        "played_at": "2026-07-29T01:46:18.311Z"
       },
       {
-        "name": "DENIAL IS A RIVER",
-        "artist": "Doechii",
-        "album": "Alligator Bites Never Heal",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b245099fe26319344ddf6054",
-        "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB",
-        "played_at": "2026-07-28T01:42:08.769Z"
+        "name": "Rock the House",
+        "artist": "Gorillaz, Del The Funky Homosapien",
+        "album": "Gorillaz",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c73a7bb15f43bae86215934b",
+        "url": "https://open.spotify.com/track/5GxqKrG0zeKA8uYJMjXwj9",
+        "played_at": "2026-07-29T01:43:09.239Z"
       },
       {
-        "name": "Sugar On My Tongue",
-        "artist": "Tyler, The Creator",
-        "album": "DON'T TAP THE GLASS",
-        "image": "https://i.scdn.co/image/ab67616d00001e024b7fbb849ed845ddedcce346",
-        "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj",
-        "played_at": "2026-07-28T01:39:28.731Z"
+        "name": "Josh Tillman and the Accidental Dose",
+        "artist": "Father John Misty",
+        "album": "Mahashmashana",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
+        "url": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f",
+        "played_at": "2026-07-29T01:38:52.356Z"
       },
       {
-        "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
-        "artist": "Gorillaz, Shaun Ryder, Roses Gabor",
-        "album": "Demon Days",
-        "image": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
-        "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk",
-        "played_at": "2026-07-28T01:36:55.447Z"
+        "name": "Sisters With Me",
+        "artist": "Tom Misch",
+        "album": "Full Circle",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258573177b0e8c26a80f731a2",
+        "url": "https://open.spotify.com/track/6hWLcfeC4GSA2agkTZeter",
+        "played_at": "2026-07-29T01:33:39.980Z"
       },
       {
-        "name": "Girlfriend Is Better - 2005 Remaster",
-        "artist": "Talking Heads",
-        "album": "Speaking in Tongues (Deluxe Version)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e35e2e2a4bfa8a30a78fc532",
-        "url": "https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY",
-        "played_at": "2026-07-28T01:32:43.899Z"
+        "name": "The Moment",
+        "artist": "Tame Impala",
+        "album": "Currents",
+        "image": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+        "url": "https://open.spotify.com/track/1UYj8qTWjneZJDVjUMwMub",
+        "played_at": "2026-07-29T01:29:35.839Z"
       },
       {
-        "name": "Giddy Up",
-        "artist": "Jenny Lewis",
-        "album": "Joy'All",
-        "image": "https://i.scdn.co/image/ab67616d00001e020338a214b104dedb8e6e16e8",
-        "url": "https://open.spotify.com/track/0feQcTR5PooMxwf5YmKcrv",
-        "played_at": "2026-07-28T01:27:00.534Z"
+        "name": "Billie Toppy",
+        "artist": "Men I Trust",
+        "album": "Billie Toppy",
+        "image": "https://i.scdn.co/image/ab67616d00001e0214d335149b7f388c94fe3c9e",
+        "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT",
+        "played_at": "2026-07-29T01:25:20.030Z"
       },
       {
-        "name": "Here to Forever",
-        "artist": "Death Cab for Cutie",
-        "album": "Asphalt Meadows",
-        "image": "https://i.scdn.co/image/ab67616d00001e023563cf38b90fb6cea8fdf0b4",
-        "url": "https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq",
-        "played_at": "2026-07-28T01:23:59.839Z"
+        "name": "15 Step",
+        "artist": "Radiohead",
+        "album": "In Rainbows",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9",
+        "url": "https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw",
+        "played_at": "2026-07-29T01:22:04.689Z"
       },
       {
-        "name": "Southdown",
+        "name": "Titan",
         "artist": "Comfort Fashion",
-        "album": "Cleave",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b2dc6f12e9c0a94d19e0c04b",
-        "url": "https://open.spotify.com/track/0k6A1wOW93N3ex5Zc2AeAQ",
-        "played_at": "2026-07-28T01:20:12.872Z"
+        "album": "Salt Veridian",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bcab01f5166397758f16edb6",
+        "url": "https://open.spotify.com/track/2lTygkAar4YCdBnP8tiWIz",
+        "played_at": "2026-07-29T01:18:00.904Z"
       }
     ],
     "top_artists": [
-      {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-      },
       {
         "name": "Kendrick Lamar",
         "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
         "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       {
-        "name": "Camper Van Beethoven",
-        "image": "https://i.scdn.co/image/7d2b454bfc3b537789ed025f59d2eba96d3af072",
-        "url": "https://open.spotify.com/artist/1JXB7XQ9hjLB5pnr1eowKR"
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
         "name": "Geese",
@@ -89,14 +84,19 @@
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
+        "name": "Radiohead",
+        "image": "https://i.scdn.co/image/ab676161000051744104fbd80f1f795728abbd59",
+        "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+      },
+      {
+        "name": "Comfort Fashion",
+        "image": "https://i.scdn.co/image/ab67616100005174d45beea2e94bda7ebbe38a13",
+        "url": "https://open.spotify.com/artist/4g0XsjFPRm0HC5aq05PksI"
+      },
+      {
         "name": "Dijon",
         "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
         "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-      },
-      {
-        "name": "Tyler, The Creator",
-        "image": "https://i.scdn.co/image/ab67616100005174df2728294ff77dd11eeb18fb",
-        "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
       }
     ]
   },
