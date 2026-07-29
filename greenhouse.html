@@ -27,17 +27,27 @@
 
   <!-- ─── Header ──────────────────────────────────────────────────────────── -->
   <section id="gh-hero">
-    <div class="container">
-      <p class="section-label">Orrick Tech Studio</p>
-      <h1 class="section-title gh-title">Greenhouse Company Map</h1>
-      <p class="gh-lede">
-        Companies I've worked with through Greenhouse, Orrick's founder-coaching program,
-        grouped by industry so it's easy to browse what's out there.
-      </p>
-      <p class="gh-meta">
-        <span id="ghCount">—</span> companies &middot; updated <span id="ghUpdated">—</span>
-      </p>
+    <div class="container gh-hero-inner">
+      <div class="gh-hero-text">
+        <p class="section-label">Orrick Tech Studio</p>
+        <h1 class="section-title gh-title">Greenhouse Company Map</h1>
+        <p class="gh-lede">
+          Companies I've worked with through Greenhouse, Orrick's founder-coaching program,
+          grouped by industry so it's easy to browse what's out there.
+        </p>
+        <p class="gh-meta">
+          <span id="ghCount">—</span> companies &middot; updated <span id="ghUpdated">—</span>
+        </p>
+      </div>
+      <div class="gh-donut-wrap">
+        <svg id="ghDonut" viewBox="0 0 100 100" role="img" aria-label="Companies by category"></svg>
+        <div class="gh-donut-center">
+          <span class="n" id="ghDonutCount">—</span>
+          <span class="cap">Companies</span>
+        </div>
+      </div>
     </div>
+    <div class="gh-tip" id="ghTip"></div>
   </section>
 
   <!-- ─── Filters ─────────────────────────────────────────────────────────── -->

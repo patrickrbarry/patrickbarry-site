@@ -10,10 +10,114 @@
 #gh-hero {
   background: #ffffff;
   padding: 40px 0 20px;
+  position: relative;
+}
+
+.gh-hero-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+
+.gh-hero-text {
+  flex: 1;
+  min-width: 260px;
 }
 
 .gh-title {
   margin-bottom: 10px;
+}
+
+/* ─── Donut chart ─────────────────────────────────────────────────────────── */
+
+.gh-donut-wrap {
+  position: relative;
+  width: 116px;
+  height: 116px;
+  flex: none;
+}
+
+.gh-donut-wrap svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  overflow: visible;
+}
+
+.gh-donut-wrap circle {
+  cursor: pointer;
+  transition: opacity 0.12s ease;
+}
+
+.gh-donut-wrap circle:hover,
+.gh-donut-wrap circle.hover {
+  opacity: 0.72;
+}
+
+.gh-donut-center {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+  line-height: 1.1;
+}
+
+.gh-donut-center .n {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 26px;
+  color: #1a1a1a;
+}
+
+.gh-donut-center .cap {
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #999;
+  margin-top: 1px;
+}
+
+.gh-tip {
+  position: fixed;
+  z-index: 200;
+  background: #1a1a1a;
+  color: #fff;
+  font-size: 12.5px;
+  padding: 6px 10px;
+  border-radius: 4px;
+  pointer-events: none;
+  opacity: 0;
+  transform: translate(-50%, -100%);
+  white-space: nowrap;
+  transition: opacity 0.1s ease;
+}
+
+.gh-tip.show {
+  opacity: 1;
+}
+
+.gh-tip b {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Color dots on the filter pills, matching the donut's palette */
+.jump-pill .dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-right: 7px;
+  vertical-align: -1px;
+}
+
+@media (max-width: 640px) {
+  .gh-hero-inner { flex-direction: column; align-items: flex-start; }
+  .gh-donut-wrap { align-self: center; }
 }
 
 .gh-lede {
