@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Companies from Orrick's Greenhouse founder-coaching program, grouped by industry — maintained by Patrick Barry." />
+  <title>Greenhouse Company Map — Patrick Barry</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/greenhouse.css" />
+</head>
+<body>
+
+  <!-- ─── Navigation ──────────────────────────────────────────────────────── -->
+  <nav class="site-nav">
+    <div class="nav-inner">
+      <a href="index.html#hero" class="nav-name">Patrick Barry</a>
+      <ul class="nav-links">
+        <li><a href="index.html#about">About</a></li>
+        <li><a href="index.html#content-links">Links</a></li>
+        <li><a href="index.html#content-music">Music</a></li>
+        <li><a href="index.html#content-books">Books</a></li>
+        <li><a href="greenhouse.html" class="nav-active">Greenhouse</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- ─── Header ──────────────────────────────────────────────────────────── -->
+  <section id="gh-hero">
+    <div class="container">
+      <p class="section-label">Orrick Tech Studio</p>
+      <h1 class="section-title gh-title">Greenhouse Company Map</h1>
+      <p class="gh-lede">
+        Companies I've worked with through Greenhouse, Orrick's founder-coaching program,
+        grouped by industry so it's easy to browse what's out there.
+      </p>
+      <p class="gh-meta">
+        <span id="ghCount">—</span> companies &middot; updated <span id="ghUpdated">—</span>
+      </p>
+    </div>
+  </section>
+
+  <!-- ─── Filters ─────────────────────────────────────────────────────────── -->
+  <section id="gh-filters">
+    <div class="container">
+      <div class="gh-pills" id="ghPills"></div>
+      <input type="text" id="ghSearch" class="gh-search" placeholder="Search companies…" autocomplete="off" />
+    </div>
+  </section>
+
+  <!-- ─── List ────────────────────────────────────────────────────────────── -->
+  <section id="gh-list-section">
+    <div class="container">
+      <div id="ghList" class="gh-list"></div>
+      <p id="ghEmpty" class="gh-empty" hidden>No companies match.</p>
+    </div>
+  </section>
+
+  <footer class="gh-footer">
+    <div class="container">
+      <p>Company + industry group only — no client notes or deal details on this page.</p>
+    </div>
+  </footer>
+
+  <script src="js/greenhouse.js"></script>
+</body>
+</html>

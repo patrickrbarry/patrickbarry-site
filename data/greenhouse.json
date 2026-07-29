@@ -1,0 +1,1601 @@
+{
+  "updated_at": "2026-07-29",
+  "companies": [
+    {
+      "name": "1Huddle",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "4xDigital.ai",
+      "group": "Media & Content"
+    },
+    {
+      "name": "8 Flow",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Aaron Holm Coaching",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Access Pay",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Ad Atomica",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Ad Fontes Media",
+      "group": "Media & Content"
+    },
+    {
+      "name": "Adam",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Aedificio",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "AeonChat",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Aeroshield",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "AgenQ",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "AgileAI Labs",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "AHMI",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "ai-coustics",
+      "group": "Media & Content"
+    },
+    {
+      "name": "Airvani",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Albion",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Alleviate Health, Inc.",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Allies",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Alma",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "American Data Science",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "AMT Inc.",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Anther Therapeutics",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Antidote Legal",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Apeikon",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Aptedge",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Ardhann",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Arkor.ai",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Artefact (Equilisyn)",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Asha AI",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Astral Materials",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "AthenaHQ",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Attain Learning",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Aunt Flow",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Autonomous Plane",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Axiom Therapeutics",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Backgrounder",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Bayes",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Beamline",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Beautiful Destinations",
+      "group": "Media & Content"
+    },
+    {
+      "name": "Benford",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Bernal Cutlery",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "BeWellthy",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Beyond the Dome",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Biosphere.io",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Birch Biosciences",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Bizzen",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Blackprint",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Blismo",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Block Skunk",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "BlueMark",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Blueprints AI",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Brella",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Briefly Now",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Brisk Teaching",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Built AI",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Butterfly",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Caldo",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Cambridge Energy",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Carbon Chain",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Cash Insights",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "CCTE",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Cellery",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Cerenity Innovation",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Charger Help",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Chess Society",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Cintara",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "CipherData",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "CLD-9",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Clearset",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Clerion",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Clomr",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Cloud Cities",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Code Comet",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Codility",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Cogensus",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Colleague",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Common Weal",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Continua AI",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "CuraClear",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Curipod",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Daily Acts",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Dataro",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Day Pack Research",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Dewdrop",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Digilab",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Diyania Health",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Domalytx",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Donada",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "DressX",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Duetto Cloud",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "EarthAI",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Earthflow AI",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Echo",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Edge Technologies",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Eilla",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Elcella",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Elemental Building Technologies",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "elevAID",
+      "group": "Unclassified"
+    },
+    {
+      "name": "EmailShephard",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Ememe.ai",
+      "group": "Media & Content"
+    },
+    {
+      "name": "Emerald Battery Labs",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Emergent",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Emin Maltepe",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Emmisary",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Empat, Inc.",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Encore.ai",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Endurivac",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Engram",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Ennumix",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Enough Safety",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Entrada.ai",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Equal IQ",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Ergodic",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Erth.ai",
+      "group": "Media & Content"
+    },
+    {
+      "name": "ESG Sights",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Etat'h Solide",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Evident",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Ex Judicata",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Exaera",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Expanse",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Extend EV",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Falkin",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Farclip (formerly Spaxial)",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Farewell",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Fitibilomics",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Flat.io",
+      "group": "Media & Content"
+    },
+    {
+      "name": "Flecks.ai",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Flowstate",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Fo.me",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Food LA LA",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Foodstack",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "FORA",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Foresaight.ai",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Foresight AI",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Foresight Health",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Fortastra",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Founder Ecosystem Bank",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Framework",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Gambit Bio",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Generations Fantasy Sports",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Girder.ai",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Goldstar Workflow",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Goodroots",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Grupago",
+      "group": "Unclassified"
+    },
+    {
+      "name": "GTV Labs",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Hakala Medical",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Halo Shopping",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Hanomi",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Harvest Farms",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Heat Reduction",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Hera Fertility",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Heronic",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Hiddenweights",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Honeycomb Labs",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "https://extraordinary.com/",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Humankind Homes",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "iCook",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Ideate Better",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Immumem Therapeutics",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Ingenio",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Inside Half",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Integra",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Intelligent Legal",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Intfeet",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "IntoDNA",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Invyte",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "IVO Health",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Joshu",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Juniper",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Kala Marketplace",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Kayenta.io",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Keepstakes",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Kidsmart.ai",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Kinfolk",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Kita",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "KITE Solutions",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Kitt Medical",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Kiyo",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Kriyalab",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Kuberno",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Lawhive",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Lazerus Biosciences",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Leadbeam",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Leiya",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Level Zero Health",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Leveld",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Lever",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Leyden Space",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Lezzoo",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Libation labs",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Lifecast",
+      "group": "Media & Content"
+    },
+    {
+      "name": "Limo Health",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Link Mobile",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Locktivity",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Looks For Lease",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "LoopedIn Health",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Lori Systems",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "MadMen AI",
+      "group": "Media & Content"
+    },
+    {
+      "name": "Magic Sword",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Main Therapeutics",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Mall-E Atomics",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Mando",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Manifold",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Mapana.ai",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Markov",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Marriage Pact",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Mars Charge",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Matcha Bot",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Maven Metrics",
+      "group": "Unclassified"
+    },
+    {
+      "name": "MediaZilla",
+      "group": "Media & Content"
+    },
+    {
+      "name": "Metabrain Labs",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Mindportal",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Mindsmiths",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "MirrorMe",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Mobelize",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Moria",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Morty",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Moti",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Movement",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Moxie",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "MPPatents",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Network.app",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "New Energy Diligence",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Newco",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Nishe Retail",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Nolabs.ai",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Noumenal Labs",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Novogaia.bio",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Noxus",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Nplicon",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Nurano Labs",
+      "group": "Media & Content"
+    },
+    {
+      "name": "Ocean Tide",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Ocurate",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Odyssey",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Office Hours",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Offstream",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "OkHi",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Omnibio",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "OpenRouter",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Opnova",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Orbit Neuro",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Ori Technologies",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Osun Biosiences",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Outlander",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Overdryve",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Pactio",
+      "group": "Unclassified"
+    },
+    {
+      "name": "PaintJet",
+      "group": "Unclassified"
+    },
+    {
+      "name": "PAIR",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Paradime",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Parcel Health",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Pattern Biosciences",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Pay Parachute",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Paycare.ai",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Perpetuum",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Petal",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Phenix",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Pinnacle",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Pinnint",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Pipeline Organics",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Playe",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Playful.ai",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Plentific",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Plover Parametrics",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Pointable",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Pollen Returns",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Polyview Health",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Positron Solutions",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Prahsys",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Presso",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Previa Health",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Prime NPV",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Prolo.io",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Provable",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Provably",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Proximity Health",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "PS Online",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Purly",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Purple Dot",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Qronon",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Quentangle",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Quickserve.ai",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Quome",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Ramp Growth",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Ready",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Reasonable",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Rebel Fuels",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Red Kangaroo",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Red Launch",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Reframe",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Reify Sports",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Replicate",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Repowr",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Republicapdx",
+      "group": "Media & Content"
+    },
+    {
+      "name": "Resebel, LLC",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Reveal Innovations",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Revelio Labs",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "RevEng.ai",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Revery Lab",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Reviva",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Rewynder",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "RFP",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Riley",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "RouteWhisper",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Rubber Ducky Labs",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Rumel.ai",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Sagittarius Logistics",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "SAIL AI Cloud",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Sal de Tierra",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Same Day Solar",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Scope",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Seda.ai",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Seddi",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Seven Point Tone",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Shomai Inc.",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Silicon Marketplace",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Silicon45",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Silo TCG",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "SkyCool Systems",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Sleep Quotient",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Solela Engergy",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "SongSuite",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Sphere",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Spool",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Spri Health",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Squadtrip",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "St3ms",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Stampt",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Standard Operators",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Start Parallel",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "State",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "StratosX",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Subsense",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Superdial.ai",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Supersocial",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Swyft Cities",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Syntonym",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Tap Health",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "TBBR/Haulcalm",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "TBD",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Team Nusantara Resilient Capital",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Teammately",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Teero",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Tellus Markets",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Telmai",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Terra Kaffe",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "TextXL",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "The Official AI",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "The Raine Goup",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "The Whole Group",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Thoras AI",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Thymia",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Tip Top",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "TMPT.me",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Together Tools",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Topanga.io",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Topotoretes",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Totoscope",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Trace",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Travel AI Co.",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Tres Alchemix",
+      "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Trinitite",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Trusk",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Trustie",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Truth B!rds",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Turbo",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Under-ctrl.ai",
+      "group": "Legal, Compliance & GovTech"
+    },
+    {
+      "name": "Unmudi",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Unseen",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Untill",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Vaire",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Vala.ai",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Vantager",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Vegan Tuna",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Venue",
+      "group": "Media & Content"
+    },
+    {
+      "name": "Veraitas",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Veritas Labs",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Verna",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Vibetrader",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "Vital Lyfe",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Vitreum",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Vizzy",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Voice2me.com",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Vortex",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "vxRobotics",
+      "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "Wealthlane",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "wearebraave",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Why Nemo",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Wild Capture",
+      "group": "Media & Content"
+    },
+    {
+      "name": "Windup Minds",
+      "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "WRNT",
+      "group": "Fintech & Financial Infrastructure"
+    },
+    {
+      "name": "XKOVA",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "XP News",
+      "group": "Media & Content"
+    },
+    {
+      "name": "Xtasis",
+      "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "YHangry",
+      "group": "Marketplaces & Two-Sided Platforms"
+    },
+    {
+      "name": "Zauth, Inc.",
+      "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Zava",
+      "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Zonagent",
+      "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "Zumlo",
+      "group": "Unclassified"
+    }
+  ]
+}

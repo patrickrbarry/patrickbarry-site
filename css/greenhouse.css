@@ -1,0 +1,140 @@
+/* ─── Greenhouse Company Map — page-specific styles ─────────────────────────
+   Extends css/styles.css; reuses its tokens (Georgia headings, #2a5298
+   accent, #555 body text, .jump-pill, .container, .section-label). */
+
+.nav-links a.nav-active {
+  color: #2a5298;
+  font-weight: 600;
+}
+
+#gh-hero {
+  background: #ffffff;
+  padding: 40px 0 20px;
+}
+
+.gh-title {
+  margin-bottom: 10px;
+}
+
+.gh-lede {
+  max-width: 60ch;
+  color: #555;
+  margin-bottom: 14px;
+}
+
+.gh-meta {
+  font-size: 13px;
+  color: #999;
+}
+
+#gh-filters {
+  background: #f9f9f7;
+  padding: 20px 0;
+  position: sticky;
+  top: 56px;
+  z-index: 50;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.gh-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.gh-pills .jump-pill {
+  cursor: pointer;
+  background: #fff;
+}
+
+.gh-pills .jump-pill.active {
+  background: #2a5298;
+  border-color: #2a5298;
+  color: #fff;
+}
+
+.gh-search {
+  width: 100%;
+  max-width: 360px;
+  font-family: inherit;
+  font-size: 14px;
+  color: #1a1a1a;
+  padding: 9px 14px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  background: #fff;
+  outline: none;
+}
+
+.gh-search:focus {
+  border-color: #2a5298;
+}
+
+#gh-list-section {
+  padding: 32px 0 48px;
+  background: #ffffff;
+}
+
+.gh-group {
+  margin-bottom: 30px;
+}
+
+.gh-group:last-child {
+  margin-bottom: 0;
+}
+
+.gh-group-title {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #2a5298;
+  margin-bottom: 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #e8e8e8;
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.gh-group-count {
+  font-size: 11px;
+  font-weight: 400;
+  color: #999;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.gh-company-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 4px 20px;
+}
+
+.gh-company {
+  font-size: 14px;
+  color: #333;
+  padding: 5px 0;
+}
+
+.gh-empty {
+  color: #999;
+  font-size: 14px;
+  padding: 24px 0;
+}
+
+.gh-footer {
+  padding: 24px 0 40px;
+  background: #f9f9f7;
+}
+
+.gh-footer p {
+  font-size: 12px;
+  color: #999;
+}
+
+@media (max-width: 720px) {
+  #gh-filters { top: 0; }
+  .gh-company-grid { grid-template-columns: 1fr 1fr; }
+}
