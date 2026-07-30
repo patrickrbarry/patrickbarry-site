@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T10:31:16Z",
+  "updated_at": "2026-07-30T10:14:08Z",
   "reading": [
     {
       "title": "Crime and Punishment",
@@ -19,6 +19,13 @@
       "title": "Maintenance of Everything",
       "author": "Stewart Brand",
       "cover_url": "http://books.google.com/books/content?id=gbHO0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "genre": "Business",
+      "fiction_type": "Nonfiction"
+    },
+    {
+      "title": "The Why Is Everything",
+      "author": "Michael Silver",
+      "cover_url": "http://books.google.com/books/content?id=Dk1x0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "genre": "Business",
       "fiction_type": "Nonfiction"
     },
