@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-07-30T19:20:58Z",
+  "updated_at": "2026-07-31T02:34:26Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Emily",
+        "artist": "Racing Mount Pleasant",
+        "album": "Racing Mount Pleasant",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
+        "url": "https://open.spotify.com/track/7zEanUDqPrxM0RDxKxOq1v",
+        "played_at": "2026-07-31T00:16:50.757Z"
+      },
+      {
+        "name": "Heavy Red",
+        "artist": "Racing Mount Pleasant",
+        "album": "Racing Mount Pleasant",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
+        "url": "https://open.spotify.com/track/7kx4CkAX1rmyzggGPc3kC0",
+        "played_at": "2026-07-31T00:10:38.527Z"
+      },
+      {
+        "name": "Tenspeed (Shallows)",
+        "artist": "Racing Mount Pleasant",
+        "album": "Racing Mount Pleasant",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
+        "url": "https://open.spotify.com/track/4cEo4yPU622aFadaA3grdg",
+        "played_at": "2026-07-31T00:09:07.951Z"
+      },
+      {
+        "name": "Your New Place",
+        "artist": "Racing Mount Pleasant",
+        "album": "Racing Mount Pleasant",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
+        "url": "https://open.spotify.com/track/2QfA2znZln0n0k2zdo91RZ",
+        "played_at": "2026-07-31T00:05:16.347Z"
+      },
       {
         "name": "Que' Onda Guero",
         "artist": "Beck",
@@ -33,41 +65,19 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
         "url": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f",
         "played_at": "2026-07-29T01:38:52.356Z"
-      },
-      {
-        "name": "Sisters With Me",
-        "artist": "Tom Misch",
-        "album": "Full Circle",
-        "image": "https://i.scdn.co/image/ab67616d00001e0258573177b0e8c26a80f731a2",
-        "url": "https://open.spotify.com/track/6hWLcfeC4GSA2agkTZeter",
-        "played_at": "2026-07-29T01:33:39.980Z"
-      },
-      {
-        "name": "The Moment",
-        "artist": "Tame Impala",
-        "album": "Currents",
-        "image": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
-        "url": "https://open.spotify.com/track/1UYj8qTWjneZJDVjUMwMub",
-        "played_at": "2026-07-29T01:29:35.839Z"
-      },
-      {
-        "name": "Billie Toppy",
-        "artist": "Men I Trust",
-        "album": "Billie Toppy",
-        "image": "https://i.scdn.co/image/ab67616d00001e0214d335149b7f388c94fe3c9e",
-        "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT",
-        "played_at": "2026-07-29T01:25:20.030Z"
-      },
-      {
-        "name": "15 Step",
-        "artist": "Radiohead",
-        "album": "In Rainbows",
-        "image": "https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9",
-        "url": "https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw",
-        "played_at": "2026-07-29T01:22:04.689Z"
       }
     ],
     "top_artists": [
+      {
+        "name": "Racing Mount Pleasant",
+        "image": "https://i.scdn.co/image/ab67616100005174471317b0cdf822bbf8c4350d",
+        "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+      },
+      {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+      },
       {
         "name": "Kendrick Lamar",
         "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
@@ -79,11 +89,6 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-      },
-      {
         "name": "Radiohead",
         "image": "https://i.scdn.co/image/ab676161000051744104fbd80f1f795728abbd59",
         "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
@@ -92,11 +97,6 @@
         "name": "Comfort Fashion",
         "image": "https://i.scdn.co/image/ab67616100005174d45beea2e94bda7ebbe38a13",
         "url": "https://open.spotify.com/artist/4g0XsjFPRm0HC5aq05PksI"
-      },
-      {
-        "name": "Dijon",
-        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
-        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
       }
     ]
   },
