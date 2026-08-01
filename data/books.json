@@ -1,11 +1,18 @@
 {
-  "updated_at": "2026-07-31T10:29:37Z",
+  "updated_at": "2026-08-01T09:50:41Z",
   "reading": [
     {
       "title": "Crime and Punishment",
       "author": "Fyodor Dostoevsky, Richard Pevear - translator, Larissa Volokhonsky - translator",
       "cover_url": "https://m.media-amazon.com/images/I/411cAfkN7VL._SL500_.jpg",
       "genre": "Uncategorized",
+      "fiction_type": "Nonfiction"
+    },
+    {
+      "title": "Digital Minimalism",
+      "author": "Cal Newport",
+      "cover_url": "https://covers.openlibrary.org/b/id/8507540-L.jpg",
+      "genre": "Business",
       "fiction_type": "Nonfiction"
     },
     {
