@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-02T13:14:52Z",
+  "updated_at": "2026-08-02T19:05:07Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Wet Dream",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
+        "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9",
+        "played_at": "2026-08-02T17:39:13.378Z"
+      },
+      {
+        "name": "Midnight Rambler",
+        "artist": "The Rolling Stones",
+        "album": "Let It Bleed",
+        "image": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99",
+        "url": "https://open.spotify.com/track/3tIvHt7VaIenprWXrYzgwb",
+        "played_at": "2026-08-02T17:04:22.967Z"
+      },
       {
         "name": "Let It Bleed",
         "artist": "The Rolling Stones",
@@ -49,22 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e020672b0f8756ae2af86e8a5ce",
         "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB",
         "played_at": "2026-08-01T06:08:24.751Z"
-      },
-      {
-        "name": "Can't Let Go",
-        "artist": "Lucinda Williams",
-        "album": "Car Wheels On A Gravel Road",
-        "image": "https://i.scdn.co/image/ab67616d00001e02a1601ac181badf6013e0c936",
-        "url": "https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd",
-        "played_at": "2026-08-01T06:04:12.937Z"
-      },
-      {
-        "name": "MONACO",
-        "artist": "Bad Bunny",
-        "album": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "image": "https://i.scdn.co/image/ab67616d00001e022ea1f035463d11e1fc3b193d",
-        "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj",
-        "played_at": "2026-08-01T06:00:44.191Z"
       }
     ],
     "top_artists": [
@@ -72,6 +72,11 @@
         "name": "Marvin Gaye",
         "image": "https://i.scdn.co/image/f69e669cd95c6008c6220fd060982ff9516ed636",
         "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+      },
+      {
+        "name": "The Rolling Stones",
+        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
+        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
         "name": "Digable Planets",
@@ -82,11 +87,6 @@
         "name": "A Tribe Called Quest",
         "image": "https://i.scdn.co/image/ab67616100005174774d73ae6796b6f437d89db9",
         "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-      },
-      {
-        "name": "The Rolling Stones",
-        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
-        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
         "name": "Toploader",
