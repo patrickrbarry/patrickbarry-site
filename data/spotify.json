@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-08-02T02:31:57Z",
+  "updated_at": "2026-08-02T08:19:39Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Let It Bleed",
+        "artist": "The Rolling Stones",
+        "album": "Let It Bleed",
+        "image": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99",
+        "url": "https://open.spotify.com/track/06FcMPcosZg13x2QODDDK6",
+        "played_at": "2026-08-02T03:32:18.083Z"
+      },
+      {
+        "name": "Love In Vain",
+        "artist": "The Rolling Stones",
+        "album": "Let It Bleed",
+        "image": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99",
+        "url": "https://open.spotify.com/track/4GNEqWXhKEoMyL3k5wF0r7",
+        "played_at": "2026-08-02T03:23:38.469Z"
+      },
+      {
+        "name": "Gimme Shelter",
+        "artist": "The Rolling Stones",
+        "album": "Let It Bleed",
+        "image": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99",
+        "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD",
+        "played_at": "2026-08-02T03:19:19.383Z"
+      },
+      {
+        "name": "Two Princes",
+        "artist": "Spin Doctors",
+        "album": "Pocket Full Of Kryptonite (Anniversary Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290126a3a12ad644fa6d3221c",
+        "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw",
+        "played_at": "2026-08-02T03:13:01.717Z"
+      },
       {
         "name": "Dancing in the Moonlight",
         "artist": "Toploader",
@@ -33,38 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e022ea1f035463d11e1fc3b193d",
         "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj",
         "played_at": "2026-08-01T06:00:44.191Z"
-      },
-      {
-        "name": "Jimmi Diggin' Cats",
-        "artist": "Digable Planets",
-        "album": "Reachin' (A New Refutation Of Time And Space)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02c9f6a742f2337f938e89f599",
-        "url": "https://open.spotify.com/track/4wgr6gTTxKqol5hT1cPUdo",
-        "played_at": "2026-08-01T05:56:17.005Z"
-      },
-      {
-        "name": "Anxiety",
-        "artist": "Doechii",
-        "album": "Alligator Bites Never Heal (Extended)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ea29212b801087f18319c187",
-        "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb",
-        "played_at": "2026-08-01T05:52:35.226Z"
-      },
-      {
-        "name": "Ain't No Mountain High Enough",
-        "artist": "Marvin Gaye, Tammi Terrell",
-        "album": "United",
-        "image": "https://i.scdn.co/image/ab67616d00001e029173e50e99bdea2400222f02",
-        "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX",
-        "played_at": "2026-08-01T05:48:26.331Z"
-      },
-      {
-        "name": "Uptown Funk (feat. Bruno Mars)",
-        "artist": "Mark Ronson, Bruno Mars",
-        "album": "Uptown Special",
-        "image": "https://i.scdn.co/image/ab67616d00001e029860171ddfee17f77a570cf6",
-        "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS",
-        "played_at": "2026-08-01T05:45:54.272Z"
       }
     ],
     "top_artists": [
@@ -84,9 +84,9 @@
         "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
       },
       {
-        "name": "Neil Young",
-        "image": "https://i.scdn.co/image/ab67616100005174bae8276dffd864ebac759b76",
-        "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        "name": "The Rolling Stones",
+        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
+        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
         "name": "Toploader",
