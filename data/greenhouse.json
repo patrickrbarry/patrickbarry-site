@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29",
+  "updated_at": "2026-08-03",
   "companies": [
     {
       "name": "1Huddle",
@@ -566,6 +566,10 @@
       "group": "Consumer Lifestyle Apps"
     },
     {
+      "name": "Get Baseline",
+      "group": "Unclassified"
+    },
+    {
       "name": "Girder.ai",
       "group": "Enterprise AI & Automation"
     },
@@ -602,8 +606,16 @@
       "group": "Unclassified"
     },
     {
+      "name": "Havilo",
+      "group": "Unclassified"
+    },
+    {
       "name": "Heat Reduction",
       "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Hello Hearing Group",
+      "group": "Unclassified"
     },
     {
       "name": "Hera Fertility",
@@ -890,10 +902,6 @@
       "group": "Legal, Compliance & GovTech"
     },
     {
-      "name": "Network.app",
-      "group": "Fintech & Financial Infrastructure"
-    },
-    {
       "name": "New Energy Diligence",
       "group": "Climate, Energy & Materials"
     },
@@ -952,6 +960,10 @@
     {
       "name": "OkHi",
       "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Olli technologies",
+      "group": "Unclassified"
     },
     {
       "name": "Omnibio",
