@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-08-03T14:32:34Z",
+  "updated_at": "2026-08-03T19:26:17Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Here Comes The Sun - Remastered 2009",
+        "artist": "The Beatles",
+        "album": "Abbey Road (Remastered)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25",
+        "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2",
+        "played_at": "2026-08-03T16:44:48.002Z"
+      },
+      {
+        "name": "Let It Be - Remastered 2009",
+        "artist": "The Beatles",
+        "album": "Let It Be (Remastered)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
+        "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48",
+        "played_at": "2026-08-03T16:41:42.180Z"
+      },
+      {
+        "name": "mangetout - The Dare remix",
+        "artist": "Wet Leg, The Dare",
+        "album": "moisturizer (deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230945c36c03f2f1c28904c3c",
+        "url": "https://open.spotify.com/track/7gxJ3kIFC622QXk6u6HvTF",
+        "played_at": "2026-08-03T15:07:15.958Z"
+      },
+      {
+        "name": "Is It True",
+        "artist": "Tame Impala",
+        "album": "The Slow Rush",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
+        "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d",
+        "played_at": "2026-08-03T15:03:50.645Z"
+      },
+      {
+        "name": "Madison",
+        "artist": "Drugdealer",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr",
+        "played_at": "2026-08-03T15:00:00.622Z"
+      },
+      {
+        "name": "Ur Mum",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
+        "url": "https://open.spotify.com/track/4ug5wsIcbAPBun8TCKn2t6",
+        "played_at": "2026-08-03T14:56:17.237Z"
+      },
+      {
+        "name": "Take Me To Tomorrow",
+        "artist": "Dave Matthews",
+        "album": "The Music Is You: A Tribute to John Denver",
+        "image": "https://i.scdn.co/image/ab67616d00001e024deb791db925a873965b8026",
+        "url": "https://open.spotify.com/track/7Mme1TEQJng1IXRgTcRozu",
+        "played_at": "2026-08-03T14:33:44.529Z"
+      },
       {
         "name": "Pictures of You",
         "artist": "Drugdealer, Kate Bollinger",
@@ -9,62 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
         "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT",
         "played_at": "2026-08-02T22:52:36.275Z"
-      },
-      {
-        "name": "Wet Dream",
-        "artist": "Wet Leg",
-        "album": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
-        "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9",
-        "played_at": "2026-08-02T17:39:13.378Z"
-      },
-      {
-        "name": "Midnight Rambler",
-        "artist": "The Rolling Stones",
-        "album": "Let It Bleed",
-        "image": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99",
-        "url": "https://open.spotify.com/track/3tIvHt7VaIenprWXrYzgwb",
-        "played_at": "2026-08-02T17:04:22.967Z"
-      },
-      {
-        "name": "Let It Bleed",
-        "artist": "The Rolling Stones",
-        "album": "Let It Bleed",
-        "image": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99",
-        "url": "https://open.spotify.com/track/06FcMPcosZg13x2QODDDK6",
-        "played_at": "2026-08-02T03:32:18.083Z"
-      },
-      {
-        "name": "Love In Vain",
-        "artist": "The Rolling Stones",
-        "album": "Let It Bleed",
-        "image": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99",
-        "url": "https://open.spotify.com/track/4GNEqWXhKEoMyL3k5wF0r7",
-        "played_at": "2026-08-02T03:23:38.469Z"
-      },
-      {
-        "name": "Gimme Shelter",
-        "artist": "The Rolling Stones",
-        "album": "Let It Bleed",
-        "image": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99",
-        "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD",
-        "played_at": "2026-08-02T03:19:19.383Z"
-      },
-      {
-        "name": "Two Princes",
-        "artist": "Spin Doctors",
-        "album": "Pocket Full Of Kryptonite (Anniversary Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e0290126a3a12ad644fa6d3221c",
-        "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw",
-        "played_at": "2026-08-02T03:13:01.717Z"
-      },
-      {
-        "name": "Dancing in the Moonlight",
-        "artist": "Toploader",
-        "album": "Onka's Big Moka",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e16a6534cd5a968a5b725d03",
-        "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od",
-        "played_at": "2026-08-02T01:05:15.954Z"
       }
     ],
     "top_artists": [
@@ -84,19 +84,19 @@
         "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
       },
       {
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+      },
+      {
         "name": "A Tribe Called Quest",
         "image": "https://i.scdn.co/image/ab67616100005174774d73ae6796b6f437d89db9",
         "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
       },
       {
-        "name": "Toploader",
-        "image": "https://i.scdn.co/image/ab6761610000517421a50649eca85229bfd21c82",
-        "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
-      },
-      {
-        "name": "Billie Eilish",
-        "image": "https://i.scdn.co/image/ab676161000051744a21b4760d2ecb7b0dcdc8da",
-        "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        "name": "The Beatles",
+        "image": "https://i.scdn.co/image/ab67616100005174119b61b35985e3b957c5ecb7",
+        "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
       }
     ]
   },
