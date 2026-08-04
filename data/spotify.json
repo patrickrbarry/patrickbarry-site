@@ -1,87 +1,87 @@
 {
-  "updated_at": "2026-08-04T02:13:13Z",
+  "updated_at": "2026-08-04T08:31:45Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Here Comes The Sun - Remastered 2009",
+        "name": "Tin Man",
+        "artist": "America",
+        "album": "Holiday",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f1376d1c0ec3fcd2e366cba",
+        "url": "https://open.spotify.com/track/4uTTd2SlalZoG0zVgI63kH",
+        "played_at": "2026-08-04T05:14:55.940Z"
+      },
+      {
+        "name": "A Horse with No Name",
+        "artist": "America, George Martin",
+        "album": "America",
+        "image": "https://i.scdn.co/image/ab67616d00001e02cc2ef2810c85fde8ec60cbc4",
+        "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
+        "played_at": "2026-08-04T05:10:44.962Z"
+      },
+      {
+        "name": "Ramble On - 1990 Remaster",
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin II (1994 Remaster)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc4f17340773c6c3579fea0d",
+        "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd",
+        "played_at": "2026-08-04T04:14:42.017Z"
+      },
+      {
+        "name": "In My Life - Remastered 2009",
         "artist": "The Beatles",
-        "album": "Abbey Road (Remastered)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25",
-        "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2",
-        "played_at": "2026-08-03T16:44:48.002Z"
+        "album": "Rubber Soul (Remastered 2009)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ed801e58a9ababdea6ac7ce4",
+        "url": "https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo",
+        "played_at": "2026-08-04T04:10:18.715Z"
       },
       {
-        "name": "Let It Be - Remastered 2009",
-        "artist": "The Beatles",
-        "album": "Let It Be (Remastered)",
-        "image": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
-        "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48",
-        "played_at": "2026-08-03T16:41:42.180Z"
+        "name": "Eminence Front",
+        "artist": "The Who",
+        "album": "It's Hard",
+        "image": "https://i.scdn.co/image/ab67616d00001e02daa48b4b3385808beb8eb5db",
+        "url": "https://open.spotify.com/track/0LN5gIsS5tQSmRzQrHSaTR",
+        "played_at": "2026-08-04T04:07:52.342Z"
       },
       {
-        "name": "mangetout - The Dare remix",
-        "artist": "Wet Leg, The Dare",
-        "album": "moisturizer (deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d00001e0230945c36c03f2f1c28904c3c",
-        "url": "https://open.spotify.com/track/7gxJ3kIFC622QXk6u6HvTF",
-        "played_at": "2026-08-03T15:07:15.958Z"
+        "name": "Breathe (In the Air)",
+        "artist": "Pink Floyd",
+        "album": "The Dark Side of the Moon",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db216ca805faf5fe35df4ee6",
+        "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53",
+        "played_at": "2026-08-04T04:02:13.253Z"
       },
       {
-        "name": "Is It True",
-        "artist": "Tame Impala",
-        "album": "The Slow Rush",
-        "image": "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
-        "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d",
-        "played_at": "2026-08-03T15:03:50.645Z"
+        "name": "Sister Golden Hair",
+        "artist": "America",
+        "album": "Hearts",
+        "image": "https://i.scdn.co/image/ab67616d00001e02865a956fe40cf54597e97fd2",
+        "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK",
+        "played_at": "2026-08-04T03:59:23.708Z"
       },
       {
-        "name": "Madison",
-        "artist": "Drugdealer",
-        "album": "Hiding in Plain Sight",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr",
-        "played_at": "2026-08-03T15:00:00.622Z"
-      },
-      {
-        "name": "Ur Mum",
-        "artist": "Wet Leg",
-        "album": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
-        "url": "https://open.spotify.com/track/4ug5wsIcbAPBun8TCKn2t6",
-        "played_at": "2026-08-03T14:56:17.237Z"
-      },
-      {
-        "name": "Take Me To Tomorrow",
-        "artist": "Dave Matthews",
-        "album": "The Music Is You: A Tribute to John Denver",
-        "image": "https://i.scdn.co/image/ab67616d00001e024deb791db925a873965b8026",
-        "url": "https://open.spotify.com/track/7Mme1TEQJng1IXRgTcRozu",
-        "played_at": "2026-08-03T14:33:44.529Z"
-      },
-      {
-        "name": "Pictures of You",
-        "artist": "Drugdealer, Kate Bollinger",
-        "album": "Hiding in Plain Sight",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT",
-        "played_at": "2026-08-02T22:52:36.275Z"
+        "name": "Reelin' In The Years",
+        "artist": "Steely Dan",
+        "album": "Can't Buy A Thrill",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ddd7e736f870994f4707947",
+        "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs",
+        "played_at": "2026-08-04T03:56:04.173Z"
       }
     ],
     "top_artists": [
-      {
-        "name": "Marvin Gaye",
-        "image": "https://i.scdn.co/image/f69e669cd95c6008c6220fd060982ff9516ed636",
-        "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-      },
       {
         "name": "The Rolling Stones",
         "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
         "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
-        "name": "Digable Planets",
-        "image": "https://i.scdn.co/image/ab6772690000dd22e27ed3a816df14e399acb7d2",
-        "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        "name": "America",
+        "image": "https://i.scdn.co/image/ab676161000051741918619d3b26c6cb16084997",
+        "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+      },
+      {
+        "name": "The Beatles",
+        "image": "https://i.scdn.co/image/ab67616100005174119b61b35985e3b957c5ecb7",
+        "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
       },
       {
         "name": "Wet Leg",
@@ -89,14 +89,14 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
+        "name": "Marvin Gaye",
+        "image": "https://i.scdn.co/image/f69e669cd95c6008c6220fd060982ff9516ed636",
+        "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+      },
+      {
         "name": "A Tribe Called Quest",
         "image": "https://i.scdn.co/image/ab67616100005174774d73ae6796b6f437d89db9",
         "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-      },
-      {
-        "name": "The Beatles",
-        "image": "https://i.scdn.co/image/ab67616100005174119b61b35985e3b957c5ecb7",
-        "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
       }
     ]
   },
