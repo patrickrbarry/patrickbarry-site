@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-06T14:00:56Z",
+  "updated_at": "2026-08-06T23:55:17Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Can't You See",
+        "artist": "The Marshall Tucker Band",
+        "album": "The Marshall Tucker Band",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dede94a3ef0bb67eb53668b3",
+        "url": "https://open.spotify.com/track/4egy2d8QiyXn5tzVQiptTb",
+        "played_at": "2026-08-06T20:13:26.823Z"
+      },
+      {
+        "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+        "artist": "Talking Heads",
+        "album": "Speaking in Tongues (Deluxe Version)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e35e2e2a4bfa8a30a78fc532",
+        "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or",
+        "played_at": "2026-08-06T20:08:46.110Z"
+      },
+      {
+        "name": "Ghost Town",
+        "artist": "Kanye West, PARTYNEXTDOOR",
+        "album": "ye",
+        "image": "https://i.scdn.co/image/ab67616d00001e020cd942c1a864afa4e92d04f2",
+        "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
+        "played_at": "2026-08-06T20:06:29.307Z"
+      },
       {
         "name": "Tin Man",
         "artist": "America",
@@ -41,30 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02daa48b4b3385808beb8eb5db",
         "url": "https://open.spotify.com/track/0LN5gIsS5tQSmRzQrHSaTR",
         "played_at": "2026-08-04T04:07:52.342Z"
-      },
-      {
-        "name": "Breathe (In the Air)",
-        "artist": "Pink Floyd",
-        "album": "The Dark Side of the Moon",
-        "image": "https://i.scdn.co/image/ab67616d00001e02db216ca805faf5fe35df4ee6",
-        "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53",
-        "played_at": "2026-08-04T04:02:13.253Z"
-      },
-      {
-        "name": "Sister Golden Hair",
-        "artist": "America",
-        "album": "Hearts",
-        "image": "https://i.scdn.co/image/ab67616d00001e02865a956fe40cf54597e97fd2",
-        "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK",
-        "played_at": "2026-08-04T03:59:23.708Z"
-      },
-      {
-        "name": "Reelin' In The Years",
-        "artist": "Steely Dan",
-        "album": "Can't Buy A Thrill",
-        "image": "https://i.scdn.co/image/ab67616d00001e020ddd7e736f870994f4707947",
-        "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs",
-        "played_at": "2026-08-04T03:56:04.173Z"
       }
     ],
     "top_artists": [
@@ -72,6 +72,11 @@
         "name": "The Rolling Stones",
         "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
         "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+      },
+      {
+        "name": "Talking Heads",
+        "image": "https://i.scdn.co/image/ab67616100005174bb4de17ec7fc20b1c489e4ff",
+        "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
       },
       {
         "name": "America",
@@ -92,11 +97,6 @@
         "name": "Marvin Gaye",
         "image": "https://i.scdn.co/image/f69e669cd95c6008c6220fd060982ff9516ed636",
         "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-      },
-      {
-        "name": "A Tribe Called Quest",
-        "image": "https://i.scdn.co/image/ab67616100005174774d73ae6796b6f437d89db9",
-        "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
       }
     ]
   },
