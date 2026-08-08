@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T12:40:53Z",
+  "updated_at": "2026-08-08T18:33:06Z",
   "recent": {
     "top_tracks": [
       {
@@ -167,6 +167,12 @@
         "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
       },
       {
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+      },
+      {
         "name": "Drugdealer",
         "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
         "genres": [],
@@ -183,12 +189,6 @@
         "image": "https://i.scdn.co/image/7d2b454bfc3b537789ed025f59d2eba96d3af072",
         "genres": [],
         "url": "https://open.spotify.com/artist/1JXB7XQ9hjLB5pnr1eowKR"
-      },
-      {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
         "name": "Geese",
