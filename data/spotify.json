@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-08T01:20:31Z",
+  "updated_at": "2026-08-08T06:46:45Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "jennifer's body",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/0r63pKmkCAYK7HDi2W6ubc",
+        "played_at": "2026-08-08T04:17:28.238Z"
+      },
       {
         "name": "davina mccall",
         "artist": "Wet Leg",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
         "url": "https://open.spotify.com/track/4ug5wsIcbAPBun8TCKn2t6",
         "played_at": "2026-08-07T17:12:23.362Z"
-      },
-      {
-        "name": "Loving You",
-        "artist": "Wet Leg",
-        "album": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
-        "url": "https://open.spotify.com/track/0hRJrlZwrnM7Oalx4GLElX",
-        "played_at": "2026-08-07T17:09:02.110Z"
       }
     ],
     "top_artists": [
