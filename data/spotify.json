@@ -1,22 +1,46 @@
 {
-  "updated_at": "2026-08-10T13:00:43Z",
+  "updated_at": "2026-08-10T18:52:57Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "jennifer's body",
-        "artist": "Wet Leg",
-        "album": "moisturizer",
-        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/0r63pKmkCAYK7HDi2W6ubc",
-        "played_at": "2026-08-08T04:17:28.238Z"
+        "name": "The Adults Are Talking",
+        "artist": "The Strokes",
+        "album": "The New Abnormal",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
+        "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
+        "played_at": "2026-08-10T15:30:49.065Z"
       },
       {
-        "name": "davina mccall",
-        "artist": "Wet Leg",
-        "album": "moisturizer",
-        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/4KVYz4U1Vm3pvjhhhS1E6s",
-        "played_at": "2026-08-07T17:33:22.310Z"
+        "name": "peekaboo (feat. azchike)",
+        "artist": "Kendrick Lamar, AZ Chike",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
+        "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de",
+        "played_at": "2026-08-10T15:26:22.763Z"
+      },
+      {
+        "name": "DAISIES",
+        "artist": "Justin Bieber",
+        "album": "SWAG",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+        "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+        "played_at": "2026-08-10T15:23:42.498Z"
+      },
+      {
+        "name": "She Cleans Up",
+        "artist": "Father John Misty",
+        "album": "Mahashmashana",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
+        "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3",
+        "played_at": "2026-08-10T15:20:55.762Z"
+      },
+      {
+        "name": "Wristwatch",
+        "artist": "MJ Lenderman",
+        "album": "Manning Fireworks",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
+        "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR",
+        "played_at": "2026-08-10T15:16:31.613Z"
       },
       {
         "name": "catch these fists",
@@ -24,47 +48,23 @@
         "album": "moisturizer",
         "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
         "url": "https://open.spotify.com/track/5yz4ZfLeZ3VdqDM2l8wjjg",
-        "played_at": "2026-08-07T17:29:34.518Z"
+        "played_at": "2026-08-10T15:12:57.965Z"
       },
       {
-        "name": "liquidize",
-        "artist": "Wet Leg",
-        "album": "moisturizer",
-        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/7qLc5KYxAvBPgjUkqUozVn",
-        "played_at": "2026-08-07T17:26:26.029Z"
+        "name": "Dirty Work",
+        "artist": "Steely Dan",
+        "album": "Can't Buy A Thrill",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ddd7e736f870994f4707947",
+        "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH",
+        "played_at": "2026-08-10T15:09:28.868Z"
       },
       {
-        "name": "CPR",
-        "artist": "Wet Leg",
-        "album": "moisturizer",
-        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO",
-        "played_at": "2026-08-07T17:23:58.220Z"
-      },
-      {
-        "name": "Piece Of Shit",
-        "artist": "Wet Leg",
-        "album": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
-        "url": "https://open.spotify.com/track/6PGNpgfoGIpfZVJFHdK7bV",
-        "played_at": "2026-08-07T17:17:41.216Z"
-      },
-      {
-        "name": "Oh No",
-        "artist": "Wet Leg",
-        "album": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
-        "url": "https://open.spotify.com/track/2ox1FrJXA1KG29I0hsDlxI",
-        "played_at": "2026-08-07T17:14:53.212Z"
-      },
-      {
-        "name": "Ur Mum",
-        "artist": "Wet Leg",
-        "album": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
-        "url": "https://open.spotify.com/track/4ug5wsIcbAPBun8TCKn2t6",
-        "played_at": "2026-08-07T17:12:23.362Z"
+        "name": "mangetout - The Dare remix",
+        "artist": "Wet Leg, The Dare",
+        "album": "moisturizer (deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0230945c36c03f2f1c28904c3c",
+        "url": "https://open.spotify.com/track/7gxJ3kIFC622QXk6u6HvTF",
+        "played_at": "2026-08-10T15:06:19.257Z"
       }
     ],
     "top_artists": [
@@ -84,19 +84,19 @@
         "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
       },
       {
-        "name": "The Beatles",
-        "image": "https://i.scdn.co/image/ab67616100005174119b61b35985e3b957c5ecb7",
-        "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        "name": "Steely Dan",
+        "image": "https://i.scdn.co/image/067bf3caa525edb4e97e19b2a630ccf361897350",
+        "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
       },
       {
-        "name": "Steve Miller Band",
-        "image": "https://i.scdn.co/image/ab67616100005174624ddceb90bdf808ed4e2e35",
-        "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        "name": "The Strokes",
+        "image": "https://i.scdn.co/image/ab6761610000517498856eea770468af6dd999d9",
+        "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
       {
-        "name": "The Marshall Tucker Band",
-        "image": "https://i.scdn.co/image/ab67616100005174814a74985d206ff8f90f603b",
-        "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        "name": "Kendrick Lamar",
+        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       }
     ]
   },
