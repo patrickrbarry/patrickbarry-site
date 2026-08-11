@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-10T18:52:57Z",
+  "updated_at": "2026-08-11T01:25:30Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Jesus, Etc. - 2022 Remaster",
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot (Expanded Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0262d457eda9010a03bf44e828",
+        "url": "https://open.spotify.com/track/7qTr6NXpNeVriU1jCbXqCg",
+        "played_at": "2026-08-11T00:54:27.279Z"
+      },
+      {
+        "name": "Weird Fishes / Arpeggi",
+        "artist": "Radiohead",
+        "album": "In Rainbows",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9",
+        "url": "https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S",
+        "played_at": "2026-08-11T00:50:43.677Z"
+      },
       {
         "name": "The Adults Are Talking",
         "artist": "The Strokes",
@@ -49,22 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
         "url": "https://open.spotify.com/track/5yz4ZfLeZ3VdqDM2l8wjjg",
         "played_at": "2026-08-10T15:12:57.965Z"
-      },
-      {
-        "name": "Dirty Work",
-        "artist": "Steely Dan",
-        "album": "Can't Buy A Thrill",
-        "image": "https://i.scdn.co/image/ab67616d00001e020ddd7e736f870994f4707947",
-        "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH",
-        "played_at": "2026-08-10T15:09:28.868Z"
-      },
-      {
-        "name": "mangetout - The Dare remix",
-        "artist": "Wet Leg, The Dare",
-        "album": "moisturizer (deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d00001e0230945c36c03f2f1c28904c3c",
-        "url": "https://open.spotify.com/track/7gxJ3kIFC622QXk6u6HvTF",
-        "played_at": "2026-08-10T15:06:19.257Z"
       }
     ],
     "top_artists": [
@@ -84,19 +84,19 @@
         "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
       },
       {
+        "name": "Radiohead",
+        "image": "https://i.scdn.co/image/ab676161000051744104fbd80f1f795728abbd59",
+        "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+      },
+      {
         "name": "Steely Dan",
         "image": "https://i.scdn.co/image/067bf3caa525edb4e97e19b2a630ccf361897350",
         "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
       },
       {
-        "name": "The Strokes",
-        "image": "https://i.scdn.co/image/ab6761610000517498856eea770468af6dd999d9",
-        "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-      },
-      {
-        "name": "Kendrick Lamar",
-        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
-        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        "name": "Wilco",
+        "image": "https://i.scdn.co/image/ab67616100005174b990b82996651d23ab4df7e8",
+        "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
       }
     ]
   },
