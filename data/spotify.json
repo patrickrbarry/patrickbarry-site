@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-12T13:01:50Z",
+  "updated_at": "2026-08-12T18:57:59Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Oh No",
+        "artist": "Wet Leg",
+        "album": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616d00001e021ce49e09e09c4f4f54533a1e",
+        "url": "https://open.spotify.com/track/2ox1FrJXA1KG29I0hsDlxI",
+        "played_at": "2026-08-12T15:49:28.924Z"
+      },
       {
         "name": "That Life",
         "artist": "Unknown Mortal Orchestra",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
         "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3",
         "played_at": "2026-08-10T15:20:55.762Z"
-      },
-      {
-        "name": "Wristwatch",
-        "artist": "MJ Lenderman",
-        "album": "Manning Fireworks",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
-        "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR",
-        "played_at": "2026-08-10T15:16:31.613Z"
       }
     ],
     "top_artists": [
