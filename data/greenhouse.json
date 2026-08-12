@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03",
+  "updated_at": "2026-08-12",
   "companies": [
     {
       "name": "1Huddle",
@@ -32,6 +32,10 @@
     {
       "name": "Adam",
       "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Adeft",
+      "group": "Unclassified"
     },
     {
       "name": "Aedificio",
@@ -236,6 +240,10 @@
     {
       "name": "Cambridge Energy",
       "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Caras",
+      "group": "Unclassified"
     },
     {
       "name": "Carbon Chain",
@@ -564,6 +572,10 @@
     {
       "name": "Generations Fantasy Sports",
       "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Geoffy.ai",
+      "group": "Unclassified"
     },
     {
       "name": "Get Baseline",
@@ -1607,6 +1619,10 @@
     },
     {
       "name": "Zumlo",
+      "group": "Unclassified"
+    },
+    {
+      "name": "Zunou",
       "group": "Unclassified"
     }
   ]
