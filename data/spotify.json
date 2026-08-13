@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-13T01:45:16Z",
+  "updated_at": "2026-08-13T07:22:11Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Racing Mount Pleasant",
+        "artist": "Racing Mount Pleasant",
+        "album": "Racing Mount Pleasant",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
+        "url": "https://open.spotify.com/track/1O4YoWMQys8jrSfCuDZQit",
+        "played_at": "2026-08-13T02:40:52.308Z"
+      },
       {
         "name": "You Pt. 2",
         "artist": "Racing Mount Pleasant",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0241be6d9cf0ec0067d095a072",
         "url": "https://open.spotify.com/track/7MooGz4ZPE4bNxjFegR6Jx",
         "played_at": "2026-08-13T01:13:27.579Z"
-      },
-      {
-        "name": "D'yer Mak'er - Remaster",
-        "artist": "Led Zeppelin",
-        "album": "Houses of the Holy (Remaster)",
-        "image": "https://i.scdn.co/image/ab67616d00001e021aa47e71c4edfeaddb65cd54",
-        "url": "https://open.spotify.com/track/5uUhS7XDkyycNa5FaNfPGT",
-        "played_at": "2026-08-13T01:08:38.127Z"
       }
     ],
     "top_artists": [
