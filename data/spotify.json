@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-08-13T13:02:53Z",
+  "updated_at": "2026-08-13T18:58:58Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Thinkin Bout You",
+        "artist": "Flea",
+        "album": "Honora",
+        "image": "https://i.scdn.co/image/ab67616d00001e02017eb062be58097ec134eeb6",
+        "url": "https://open.spotify.com/track/4lXjz5k4Rij3LTj6O0mgOO",
+        "played_at": "2026-08-13T14:26:38.468Z"
+      },
+      {
+        "name": "15 Step",
+        "artist": "Radiohead",
+        "album": "In Rainbows",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9",
+        "url": "https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw",
+        "played_at": "2026-08-13T14:22:50.833Z"
+      },
+      {
+        "name": "DENIAL IS A RIVER",
+        "artist": "Doechii",
+        "album": "Alligator Bites Never Heal",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b245099fe26319344ddf6054",
+        "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB",
+        "played_at": "2026-08-13T14:14:33.086Z"
+      },
+      {
+        "name": "MILLION DOLLAR BABY",
+        "artist": "Tommy Richman",
+        "album": "MILLION DOLLAR BABY",
+        "image": "https://i.scdn.co/image/ab67616d00001e0201c0cd5da820e6128655854f",
+        "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A",
+        "played_at": "2026-08-13T14:12:09.143Z"
+      },
+      {
+        "name": "Archbishop Harold Holmes",
+        "artist": "Jack White",
+        "album": "No Name",
+        "image": "https://i.scdn.co/image/ab67616d00001e024e0e873e5b2878a26796cbdd",
+        "url": "https://open.spotify.com/track/0hIYrRFTLlG8pRjAn9tW4P",
+        "played_at": "2026-08-13T14:08:55.082Z"
+      },
+      {
+        "name": "Get Inspired",
+        "artist": "Genesis Owusu",
+        "album": "Get Inspired",
+        "image": "https://i.scdn.co/image/ab67616d00001e020246531ebdc824f8739e0abf",
+        "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW",
+        "played_at": "2026-08-13T14:05:37.305Z"
+      },
       {
         "name": "Racing Mount Pleasant",
         "artist": "Racing Mount Pleasant",
@@ -17,54 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
         "url": "https://open.spotify.com/track/1u4727ZsHw1maP8y9YbIQo",
         "played_at": "2026-08-13T01:40:38.831Z"
-      },
-      {
-        "name": "You",
-        "artist": "Racing Mount Pleasant",
-        "album": "Racing Mount Pleasant",
-        "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
-        "url": "https://open.spotify.com/track/25YSJknEODwMpCb60ICz20",
-        "played_at": "2026-08-13T01:36:30.927Z"
-      },
-      {
-        "name": "Seminary",
-        "artist": "Racing Mount Pleasant",
-        "album": "Racing Mount Pleasant",
-        "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
-        "url": "https://open.spotify.com/track/1Gdb0ewTCvrDK5WbbCITL2",
-        "played_at": "2026-08-13T01:32:23.378Z"
-      },
-      {
-        "name": "Emily",
-        "artist": "Racing Mount Pleasant",
-        "album": "Racing Mount Pleasant",
-        "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
-        "url": "https://open.spotify.com/track/7zEanUDqPrxM0RDxKxOq1v",
-        "played_at": "2026-08-13T01:27:26.774Z"
-      },
-      {
-        "name": "Heavy Red",
-        "artist": "Racing Mount Pleasant",
-        "album": "Racing Mount Pleasant",
-        "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
-        "url": "https://open.spotify.com/track/7kx4CkAX1rmyzggGPc3kC0",
-        "played_at": "2026-08-13T01:21:31.086Z"
-      },
-      {
-        "name": "Tenspeed (Shallows)",
-        "artist": "Racing Mount Pleasant",
-        "album": "Racing Mount Pleasant",
-        "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
-        "url": "https://open.spotify.com/track/4cEo4yPU622aFadaA3grdg",
-        "played_at": "2026-08-13T01:20:00.551Z"
-      },
-      {
-        "name": "You Don't Know How It Feels",
-        "artist": "Tom Petty",
-        "album": "Wildflowers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0241be6d9cf0ec0067d095a072",
-        "url": "https://open.spotify.com/track/7MooGz4ZPE4bNxjFegR6Jx",
-        "played_at": "2026-08-13T01:13:27.579Z"
       }
     ],
     "top_artists": [
