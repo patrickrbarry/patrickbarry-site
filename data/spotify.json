@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-14T01:43:15Z",
+  "updated_at": "2026-08-14T07:19:35Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Goodbye Daughters of the Revolution",
+        "artist": "The Black Crowes",
+        "album": "Warpaint",
+        "image": "https://i.scdn.co/image/ab67616d00001e022eaa41aa11232f4f9117353f",
+        "url": "https://open.spotify.com/track/4oMRGrDrvpp1TpveeAl8AQ",
+        "played_at": "2026-08-14T02:52:35.945Z"
+      },
+      {
+        "name": "Gone",
+        "artist": "The Black Crowes",
+        "album": "amorica.",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
+        "url": "https://open.spotify.com/track/1DeDhpnSSy6KQTwajbGErO",
+        "played_at": "2026-08-14T01:50:14.956Z"
+      },
+      {
+        "name": "Wanting and Waiting",
+        "artist": "The Black Crowes",
+        "album": "Wanting and Waiting",
+        "image": "https://i.scdn.co/image/ab67616d00001e028daaf7ce29fc595ba30011c9",
+        "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj",
+        "played_at": "2026-08-14T01:45:06.819Z"
+      },
       {
         "name": "My Morning Song",
         "artist": "The Black Crowes",
@@ -41,42 +65,18 @@
         "image": "https://i.scdn.co/image/ab67616d00001e028d02d37cd208d1cb2e0d29a4",
         "url": "https://open.spotify.com/track/134cGRMQbwEn7XQcSBFvkm",
         "played_at": "2026-08-14T01:24:10.607Z"
-      },
-      {
-        "name": "Bedside Manners",
-        "artist": "The Black Crowes",
-        "album": "Happiness Bastards",
-        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
-        "url": "https://open.spotify.com/track/0GeUNFCcTsfFGSW1IjTPJ8",
-        "played_at": "2026-08-14T01:19:30.536Z"
-      },
-      {
-        "name": "Nonfiction",
-        "artist": "The Black Crowes",
-        "album": "amorica.",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
-        "url": "https://open.spotify.com/track/1H12ssYAWFGmZccgBKrQ6g",
-        "played_at": "2026-08-14T01:13:52.685Z"
-      },
-      {
-        "name": "She Talks To Angels - Acoustic Version",
-        "artist": "The Black Crowes",
-        "album": "Shake Your Money Maker (30th Anniversary Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e400a67c8a52d34aa790f323",
-        "url": "https://open.spotify.com/track/0Nf8sMzIJ6onxkJAAOYwgw",
-        "played_at": "2026-08-14T01:07:38.211Z"
       }
     ],
     "top_artists": [
       {
-        "name": "Audrey Hobert",
-        "image": "https://i.scdn.co/image/ab676161000051744fc78e354b19324810f1e933",
-        "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-      },
-      {
         "name": "The Black Crowes",
         "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+      },
+      {
+        "name": "Audrey Hobert",
+        "image": "https://i.scdn.co/image/ab676161000051744fc78e354b19324810f1e933",
+        "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
       },
       {
         "name": "Racing Mount Pleasant",
@@ -89,14 +89,14 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
-        "name": "Radiohead",
-        "image": "https://i.scdn.co/image/ab676161000051744104fbd80f1f795728abbd59",
-        "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-      },
-      {
         "name": "ROLE MODEL",
         "image": "https://i.scdn.co/image/ab67616100005174fe9486c9ef6d86b4f39805c8",
         "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+      },
+      {
+        "name": "Olivia Rodrigo",
+        "image": "https://i.scdn.co/image/ab67616100005174b14eb4dcfd2f3858bed06e44",
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ]
   },
