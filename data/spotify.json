@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T01:03:45Z",
+  "updated_at": "2026-08-15T06:32:18Z",
   "recent": {
     "top_tracks": [
       {
@@ -145,18 +145,18 @@
         "url": "https://open.spotify.com/track/29f3rVyBT120LccglgfwK6"
       },
       {
-        "name": "Shallow",
-        "artist": "Lady Gaga, Bradley Cooper",
-        "album": "A Star Is Born Soundtrack",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2d156fdc691f57900134342",
-        "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
-      },
-      {
         "name": "luther (with sza)",
         "artist": "Kendrick Lamar, SZA",
         "album": "GNX",
         "image": "https://i.scdn.co/image/ab67616d00001e027e5e269471fe4a43a42e2f15",
         "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+      },
+      {
+        "name": "Floated By",
+        "artist": "Peter Cat Recording Co.",
+        "album": "Bismillah",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
+        "url": "https://open.spotify.com/track/7IAKxhI1z8Sas7iLcX8YF5"
       }
     ],
     "top_artists": [
