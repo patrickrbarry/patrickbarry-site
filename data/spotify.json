@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-15T18:23:43Z",
+  "updated_at": "2026-08-16T01:07:17Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "What's That Pylon?",
+        "artist": "Comfort Fashion",
+        "album": "Salt Veridian",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bcab01f5166397758f16edb6",
+        "url": "https://open.spotify.com/track/3RPBiaGFH3DwVZ4LwuFZG5",
+        "played_at": "2026-08-15T23:53:14.022Z"
+      },
+      {
+        "name": "Pictures of You",
+        "artist": "Drugdealer, Kate Bollinger",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT",
+        "played_at": "2026-08-15T23:45:47.602Z"
+      },
       {
         "name": "Von dutch",
         "artist": "Charli xcx",
@@ -49,34 +65,18 @@
         "image": "https://i.scdn.co/image/ab67616d00001e028daaf7ce29fc595ba30011c9",
         "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj",
         "played_at": "2026-08-14T01:45:06.819Z"
-      },
-      {
-        "name": "My Morning Song",
-        "artist": "The Black Crowes",
-        "album": "The Southern Harmony And Musical Companion",
-        "image": "https://i.scdn.co/image/ab67616d00001e028d02d37cd208d1cb2e0d29a4",
-        "url": "https://open.spotify.com/track/12xKysXb5WxFA410BxEDT7",
-        "played_at": "2026-08-14T01:40:51.277Z"
-      },
-      {
-        "name": "Thick N' Thin",
-        "artist": "The Black Crowes",
-        "album": "Shake Your Money Maker",
-        "image": "https://i.scdn.co/image/ab67616d00001e02a4d2cb95d3ea17f773db23ee",
-        "url": "https://open.spotify.com/track/4DRyn40XkUfvNpajTzOGCG",
-        "played_at": "2026-08-14T01:34:35.691Z"
       }
     ],
     "top_artists": [
       {
-        "name": "The Black Crowes",
-        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
-        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-      },
-      {
         "name": "Audrey Hobert",
         "image": "https://i.scdn.co/image/ab676161000051744fc78e354b19324810f1e933",
         "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+      },
+      {
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
         "name": "Racing Mount Pleasant",
@@ -94,9 +94,9 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
-        "name": "ROLE MODEL",
-        "image": "https://i.scdn.co/image/ab67616100005174fe9486c9ef6d86b4f39805c8",
-        "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        "name": "Comfort Fashion",
+        "image": "https://i.scdn.co/image/ab67616100005174d45beea2e94bda7ebbe38a13",
+        "url": "https://open.spotify.com/artist/4g0XsjFPRm0HC5aq05PksI"
       }
     ]
   },
