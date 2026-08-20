@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-08-20T01:03:49Z",
+  "updated_at": "2026-08-20T06:39:52Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Eros Blues",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/79C17NBN8ZQMckxaLbj6gp",
+        "played_at": "2026-08-20T01:56:35.725Z"
+      },
+      {
+        "name": "You Call This a Good Time?",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/1SWug9MCnuKtMyIHPBGXw4",
+        "played_at": "2026-08-20T01:46:17.763Z"
+      },
+      {
+        "name": "It\u2019s Like That",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/7pdMFQKwodjMjSktRduJGd",
+        "played_at": "2026-08-20T01:42:26.468Z"
+      },
+      {
+        "name": "Queen of the B-Sides",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/08IymEQe5YqF74SmYE3k8V",
+        "played_at": "2026-08-20T01:38:53.391Z"
+      },
       {
         "name": "Pharmacy Chronicles",
         "artist": "The Black Crowes",
@@ -33,38 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0252e61456aa4995ba48d94e30",
         "url": "https://open.spotify.com/track/14I61w6cyYUHiV2n28IYdP",
         "played_at": "2026-08-17T02:38:12.096Z"
-      },
-      {
-        "name": "Gold Digger",
-        "artist": "Kanye West, Jamie Foxx",
-        "album": "Late Registration",
-        "image": "https://i.scdn.co/image/ab67616d00001e02428d2255141c2119409a31b2",
-        "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ",
-        "played_at": "2026-08-17T01:36:51.701Z"
-      },
-      {
-        "name": "Super Rich Kids",
-        "artist": "Frank Ocean, Earl Sweatshirt",
-        "album": "channel ORANGE",
-        "image": "https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5",
-        "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb",
-        "played_at": "2026-08-17T01:33:22.931Z"
-      },
-      {
-        "name": "3005",
-        "artist": "Childish Gambino",
-        "album": "Because the Internet",
-        "image": "https://i.scdn.co/image/ab67616d00001e0221b2b485aef32bcc96c1875c",
-        "url": "https://open.spotify.com/track/2X6b7zLdIxCejd6GqVcQ9M",
-        "played_at": "2026-08-17T01:28:18.162Z"
-      },
-      {
-        "name": "Cochise",
-        "artist": "Audioslave",
-        "album": "Audioslave",
-        "image": "https://i.scdn.co/image/ab67616d00001e02a7292b6863258e889b78d787",
-        "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim",
-        "played_at": "2026-08-17T01:24:14.894Z"
       }
     ],
     "top_artists": [
