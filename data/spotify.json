@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-20T18:34:09Z",
+  "updated_at": "2026-08-21T01:07:27Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Wilted Rose (feat. Lainey Wilson)",
+        "artist": "The Black Crowes, Lainey Wilson",
+        "album": "Happiness Bastards",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
+        "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo",
+        "played_at": "2026-08-20T23:37:41.275Z"
+      },
+      {
+        "name": "Cruel Streak",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn",
+        "played_at": "2026-08-20T23:28:50.185Z"
+      },
       {
         "name": "Profane Prophecy",
         "artist": "The Black Crowes",
@@ -49,22 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
         "url": "https://open.spotify.com/track/46woDsNnYCYsq7qowtyW57",
         "played_at": "2026-08-20T14:59:56.246Z"
-      },
-      {
-        "name": "It\u2019s Like That",
-        "artist": "The Black Crowes",
-        "album": "A Pound of Feathers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
-        "url": "https://open.spotify.com/track/7pdMFQKwodjMjSktRduJGd",
-        "played_at": "2026-08-20T14:55:48.849Z"
-      },
-      {
-        "name": "Queen of the B-Sides",
-        "artist": "The Black Crowes",
-        "album": "A Pound of Feathers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
-        "url": "https://open.spotify.com/track/08IymEQe5YqF74SmYE3k8V",
-        "played_at": "2026-08-20T14:52:28.553Z"
       }
     ],
     "top_artists": [
@@ -72,6 +72,11 @@
         "name": "The Black Crowes",
         "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+      },
+      {
+        "name": "Lainey Wilson",
+        "image": "https://i.scdn.co/image/ab676161000051746567547c5bac1a70f23678f3",
+        "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
       },
       {
         "name": "Kanye West",
@@ -92,11 +97,6 @@
         "name": "JA\u0178-Z",
         "image": "https://i.scdn.co/image/ab6761610000517473de139b5475bf01f2bff759",
         "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-      },
-      {
-        "name": "Otis Redding",
-        "image": "https://i.scdn.co/image/a5897eff01844c42d894a586e618ebc4aa0b9d2f",
-        "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
       }
     ]
   },
@@ -145,18 +145,18 @@
         "url": "https://open.spotify.com/track/29f3rVyBT120LccglgfwK6"
       },
       {
+        "name": "Profane Prophecy",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/5vFajDtOQR7Qx8Gbf36OHO"
+      },
+      {
         "name": "luther (with sza)",
         "artist": "Kendrick Lamar, SZA",
         "album": "GNX",
         "image": "https://i.scdn.co/image/ab67616d00001e027e5e269471fe4a43a42e2f15",
         "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
-      },
-      {
-        "name": "Floated By",
-        "artist": "Peter Cat Recording Co.",
-        "album": "Bismillah",
-        "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
-        "url": "https://open.spotify.com/track/7IAKxhI1z8Sas7iLcX8YF5"
       }
     ],
     "top_artists": [
@@ -165,6 +165,12 @@
         "image": "https://i.scdn.co/image/ab6761610000517441bacc5ba605dfcc88c25733",
         "genres": [],
         "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+      },
+      {
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
         "name": "Wet Leg",
@@ -189,12 +195,6 @@
         "image": "https://i.scdn.co/image/7d2b454bfc3b537789ed025f59d2eba96d3af072",
         "genres": [],
         "url": "https://open.spotify.com/artist/1JXB7XQ9hjLB5pnr1eowKR"
-      },
-      {
-        "name": "The Black Crowes",
-        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       }
     ]
   },
@@ -265,16 +265,16 @@
         "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       {
-        "name": "The Rolling Stones",
-        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-      },
-      {
         "name": "The Black Crowes",
         "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
         "genres": [],
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+      },
+      {
+        "name": "The Rolling Stones",
+        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
         "name": "Geese",
