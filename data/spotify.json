@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-22T01:03:35Z",
+  "updated_at": "2026-08-22T06:34:18Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "BedHead",
+        "artist": "Balu Brigada",
+        "album": "BedHead",
+        "image": "https://i.scdn.co/image/ab67616d00001e02048cbba5d0b40d8cff16096d",
+        "url": "https://open.spotify.com/track/5d3QY0Kq63rwQqPDe5usTs",
+        "played_at": "2026-08-22T02:42:25.032Z"
+      },
       {
         "name": "Talk It Over",
         "artist": "Leon Bridges",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
         "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo",
         "played_at": "2026-08-20T23:37:41.275Z"
-      },
-      {
-        "name": "Cruel Streak",
-        "artist": "The Black Crowes",
-        "album": "A Pound of Feathers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
-        "url": "https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn",
-        "played_at": "2026-08-20T23:28:50.185Z"
       }
     ],
     "top_artists": [
@@ -84,14 +84,14 @@
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "Lainey Wilson",
-        "image": "https://i.scdn.co/image/ab676161000051746567547c5bac1a70f23678f3",
-        "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-      },
-      {
         "name": "Kanye West",
         "image": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a",
         "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "name": "Balu Brigada",
+        "image": "https://i.scdn.co/image/ab67616100005174ccc589c6a68e2d14796bb736",
+        "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
       },
       {
         "name": "Neil Young",
