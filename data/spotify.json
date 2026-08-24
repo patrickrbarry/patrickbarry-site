@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T18:24:24Z",
+  "updated_at": "2026-08-24T01:06:49Z",
   "recent": {
     "top_tracks": [
       {
@@ -236,18 +236,18 @@
         "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
       },
       {
-        "name": "Friend Of A Friend",
-        "artist": "The Smile",
-        "album": "Wall Of Eyes",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
-        "url": "https://open.spotify.com/track/4lTLmo9aTyMJ1SoHa63WA6"
-      },
-      {
         "name": "man at the garden",
         "artist": "Kendrick Lamar",
         "album": "GNX",
         "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
         "url": "https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz"
+      },
+      {
+        "name": "Friend Of A Friend",
+        "artist": "The Smile",
+        "album": "Wall Of Eyes",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
+        "url": "https://open.spotify.com/track/4lTLmo9aTyMJ1SoHa63WA6"
       },
       {
         "name": "hey now (feat. dody6)",
