@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-08-24T18:35:13Z",
+  "updated_at": "2026-08-25T01:05:31Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Loser",
+        "artist": "Tame Impala",
+        "album": "Loser",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2aa48290b3cd1040be92345",
+        "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA",
+        "played_at": "2026-08-25T00:13:51.588Z"
+      },
+      {
+        "name": "Madison",
+        "artist": "Drugdealer",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr",
+        "played_at": "2026-08-25T00:10:33.972Z"
+      },
+      {
+        "name": "CPR",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO",
+        "played_at": "2026-08-25T00:07:10.570Z"
+      },
+      {
+        "name": "Cruel Streak",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn",
+        "played_at": "2026-08-25T00:04:08.768Z"
+      },
       {
         "name": "Accidentally In Love",
         "artist": "Counting Crows",
@@ -33,38 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e026e88eb6508fd94cd1b745ce2",
         "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM",
         "played_at": "2026-08-23T00:20:27.916Z"
-      },
-      {
-        "name": "Risk It All",
-        "artist": "Bruno Mars",
-        "album": "The Romantic",
-        "image": "https://i.scdn.co/image/ab67616d00001e023eb8dc748f7efb1470f74395",
-        "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD",
-        "played_at": "2026-08-23T00:16:32.607Z"
-      },
-      {
-        "name": "Dive",
-        "artist": "Olivia Dean",
-        "album": "Messy",
-        "image": "https://i.scdn.co/image/ab67616d00001e02cac9b52107643faf13a7587b",
-        "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2",
-        "played_at": "2026-08-23T00:13:08.573Z"
-      },
-      {
-        "name": "Lose Yourself to Dance (feat. Pharrell Williams)",
-        "artist": "Daft Punk, Pharrell Williams",
-        "album": "Random Access Memories",
-        "image": "https://i.scdn.co/image/ab67616d00001e029b9b36b0e22870b9f542d937",
-        "url": "https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R",
-        "played_at": "2026-08-23T00:09:47.815Z"
-      },
-      {
-        "name": "Messy",
-        "artist": "Lola Young",
-        "album": "This Wasn't Meant For You Anyway",
-        "image": "https://i.scdn.co/image/ab67616d00001e026aa2a180c7b009ca8454ef89",
-        "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g",
-        "played_at": "2026-08-23T00:03:53.910Z"
       }
     ],
     "top_artists": [
@@ -84,6 +84,11 @@
         "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
       },
       {
+        "name": "Tame Impala",
+        "image": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
+        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      {
         "name": "Anderson .Paak",
         "image": "https://i.scdn.co/image/ab6761610000517496287bd47570ff13f0c01496",
         "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
@@ -92,11 +97,6 @@
         "name": "Silk Sonic",
         "image": "https://i.scdn.co/image/ab6772690000dd223f22dcab715891ad4e39da71",
         "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-      },
-      {
-        "name": "Tame Impala",
-        "image": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
-        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       }
     ]
   },
