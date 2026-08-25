@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-08-25T01:05:31Z",
+  "updated_at": "2026-08-25T06:40:58Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "It\u2019s Like That",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/7pdMFQKwodjMjSktRduJGd",
+        "played_at": "2026-08-25T02:35:25.676Z"
+      },
+      {
+        "name": "Pharmacy Chronicles",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/1kL7FCCtbVFjgwHAWsQVfA",
+        "played_at": "2026-08-25T02:31:39.081Z"
+      },
+      {
+        "name": "Profane Prophecy",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/5vFajDtOQR7Qx8Gbf36OHO",
+        "played_at": "2026-08-25T02:27:02.313Z"
+      },
+      {
+        "name": "reincarnated",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
+        "url": "https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai",
+        "played_at": "2026-08-25T02:22:49.819Z"
+      },
       {
         "name": "Loser",
         "artist": "Tame Impala",
@@ -33,38 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
         "url": "https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn",
         "played_at": "2026-08-25T00:04:08.768Z"
-      },
-      {
-        "name": "Accidentally In Love",
-        "artist": "Counting Crows",
-        "album": "Accidentally In Love",
-        "image": "https://i.scdn.co/image/ab67616d00001e02dddef0a8d96f918c482d5da3",
-        "url": "https://open.spotify.com/track/4ccM2xBxicGigjLqt6A0YY",
-        "played_at": "2026-08-23T01:29:10.020Z"
-      },
-      {
-        "name": "Material Lover - from The Devil Wears Prada 2 Original Motion Picture",
-        "artist": "SIENNA SPIRO",
-        "album": "Visitor (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d00001e0231990a335ce5d02dc159e5c4",
-        "url": "https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK",
-        "played_at": "2026-08-23T00:27:35.169Z"
-      },
-      {
-        "name": "Anxiety",
-        "artist": "Doechii",
-        "album": "Alligator Bites Never Heal (Extended)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ea29212b801087f18319c187",
-        "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb",
-        "played_at": "2026-08-23T00:24:37.159Z"
-      },
-      {
-        "name": "Hey Ya!",
-        "artist": "Outkast",
-        "album": "Speakerboxxx/The Love Below",
-        "image": "https://i.scdn.co/image/ab67616d00001e026e88eb6508fd94cd1b745ce2",
-        "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM",
-        "played_at": "2026-08-23T00:20:27.916Z"
       }
     ],
     "top_artists": [
@@ -79,9 +79,9 @@
         "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
       },
       {
-        "name": "Justin Bieber",
-        "image": "https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034",
-        "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
         "name": "Tame Impala",
