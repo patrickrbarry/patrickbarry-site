@@ -1,92 +1,92 @@
 {
-  "updated_at": "2026-08-25T12:41:07Z",
+  "updated_at": "2026-08-25T18:35:06Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "It\u2019s Like That",
+        "name": "Hey, Hey, What Can I Do - Remaster",
+        "artist": "Led Zeppelin",
+        "album": "Coda (Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b7bf70364c3f8643723398e",
+        "url": "https://open.spotify.com/track/16VhHtoaOjTU4AJBNSBNQ1",
+        "played_at": "2026-08-25T15:22:12.334Z"
+      },
+      {
+        "name": "Wiser Time",
         "artist": "The Black Crowes",
-        "album": "A Pound of Feathers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
-        "url": "https://open.spotify.com/track/7pdMFQKwodjMjSktRduJGd",
-        "played_at": "2026-08-25T02:35:25.676Z"
+        "album": "amorica.",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
+        "url": "https://open.spotify.com/track/2keMShjjogSGV9h3UMGyJe",
+        "played_at": "2026-08-25T15:16:14.419Z"
       },
       {
-        "name": "Pharmacy Chronicles",
-        "artist": "The Black Crowes",
-        "album": "A Pound of Feathers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
-        "url": "https://open.spotify.com/track/1kL7FCCtbVFjgwHAWsQVfA",
-        "played_at": "2026-08-25T02:31:39.081Z"
+        "name": "I See Myself",
+        "artist": "Geese",
+        "album": "3D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
+        "url": "https://open.spotify.com/track/4gFFHAj5iwUEHwPpjZTdi5",
+        "played_at": "2026-08-25T15:10:53.918Z"
       },
       {
-        "name": "Profane Prophecy",
-        "artist": "The Black Crowes",
-        "album": "A Pound of Feathers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
-        "url": "https://open.spotify.com/track/5vFajDtOQR7Qx8Gbf36OHO",
-        "played_at": "2026-08-25T02:27:02.313Z"
-      },
-      {
-        "name": "reincarnated",
-        "artist": "Kendrick Lamar",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
-        "url": "https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai",
-        "played_at": "2026-08-25T02:22:49.819Z"
-      },
-      {
-        "name": "Loser",
-        "artist": "Tame Impala",
-        "album": "Loser",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2aa48290b3cd1040be92345",
-        "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA",
-        "played_at": "2026-08-25T00:13:51.588Z"
-      },
-      {
-        "name": "Madison",
-        "artist": "Drugdealer",
-        "album": "Hiding in Plain Sight",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr",
-        "played_at": "2026-08-25T00:10:33.972Z"
-      },
-      {
-        "name": "CPR",
+        "name": "liquidize",
         "artist": "Wet Leg",
         "album": "moisturizer",
         "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO",
-        "played_at": "2026-08-25T00:07:10.570Z"
+        "url": "https://open.spotify.com/track/7qLc5KYxAvBPgjUkqUozVn",
+        "played_at": "2026-08-25T15:08:04.401Z"
       },
       {
-        "name": "Cruel Streak",
-        "artist": "The Black Crowes",
-        "album": "A Pound of Feathers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
-        "url": "https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn",
-        "played_at": "2026-08-25T00:04:08.768Z"
+        "name": "wacced out murals",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
+        "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT",
+        "played_at": "2026-08-25T15:05:46.428Z"
+      },
+      {
+        "name": "Everything In Its Right Place",
+        "artist": "Radiohead",
+        "album": "Kid A",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c7112082b63beefffe40151",
+        "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
+        "played_at": "2026-08-25T15:00:27.590Z"
+      },
+      {
+        "name": "Wilted Rose (feat. Lainey Wilson)",
+        "artist": "The Black Crowes, Lainey Wilson",
+        "album": "Happiness Bastards",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
+        "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo",
+        "played_at": "2026-08-25T14:56:35.021Z"
+      },
+      {
+        "name": "catch these fists",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/5yz4ZfLeZ3VdqDM2l8wjjg",
+        "played_at": "2026-08-25T14:52:38.026Z"
       }
     ],
     "top_artists": [
-      {
-        "name": "Bruno Mars",
-        "image": "https://i.scdn.co/image/ab67616100005174c7688aad1bf03986934d7e26",
-        "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-      },
-      {
-        "name": "Olivia Dean",
-        "image": "https://i.scdn.co/image/ab676161000051745c7577ad44daeb7ce4b941a1",
-        "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-      },
       {
         "name": "The Black Crowes",
         "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
-        "name": "Tame Impala",
-        "image": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
-        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        "name": "Bruno Mars",
+        "image": "https://i.scdn.co/image/ab67616100005174c7688aad1bf03986934d7e26",
+        "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+      },
+      {
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+      },
+      {
+        "name": "Olivia Dean",
+        "image": "https://i.scdn.co/image/ab676161000051745c7577ad44daeb7ce4b941a1",
+        "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
       },
       {
         "name": "Anderson .Paak",
