@@ -1,82 +1,87 @@
 {
-  "updated_at": "2026-08-26T01:07:38Z",
+  "updated_at": "2026-08-26T06:42:14Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Hey, Hey, What Can I Do - Remaster",
-        "artist": "Led Zeppelin",
-        "album": "Coda (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e023b7bf70364c3f8643723398e",
-        "url": "https://open.spotify.com/track/16VhHtoaOjTU4AJBNSBNQ1",
-        "played_at": "2026-08-25T15:22:12.334Z"
-      },
-      {
-        "name": "Wiser Time",
-        "artist": "The Black Crowes",
-        "album": "amorica.",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
-        "url": "https://open.spotify.com/track/2keMShjjogSGV9h3UMGyJe",
-        "played_at": "2026-08-25T15:16:14.419Z"
-      },
-      {
-        "name": "I See Myself",
+        "name": "Half Real",
         "artist": "Geese",
-        "album": "3D Country",
-        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
-        "url": "https://open.spotify.com/track/4gFFHAj5iwUEHwPpjZTdi5",
-        "played_at": "2026-08-25T15:10:53.918Z"
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/0t5EGxGtcu4voodQuS9me4",
+        "played_at": "2026-08-26T06:38:56.061Z"
       },
       {
-        "name": "liquidize",
+        "name": "100 Horses",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/2JENu7srINnXlZC6JtLyEA",
+        "played_at": "2026-08-26T06:35:33.788Z"
+      },
+      {
+        "name": "Islands of Men",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV",
+        "played_at": "2026-08-26T06:31:47.767Z"
+      },
+      {
+        "name": "Getting Killed",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/4gXvwRoP7GYoipYRTXQUxW",
+        "played_at": "2026-08-26T06:25:53.261Z"
+      },
+      {
+        "name": "Husbands",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y",
+        "played_at": "2026-08-26T06:21:08.502Z"
+      },
+      {
+        "name": "pokemon",
         "artist": "Wet Leg",
         "album": "moisturizer",
         "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/7qLc5KYxAvBPgjUkqUozVn",
-        "played_at": "2026-08-25T15:08:04.401Z"
+        "url": "https://open.spotify.com/track/0XMO3PiZ4gtXRvIJCgHsLl",
+        "played_at": "2026-08-26T06:15:59.992Z"
       },
       {
-        "name": "wacced out murals",
-        "artist": "Kendrick Lamar",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
-        "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT",
-        "played_at": "2026-08-25T15:05:46.428Z"
-      },
-      {
-        "name": "Everything In Its Right Place",
-        "artist": "Radiohead",
-        "album": "Kid A",
-        "image": "https://i.scdn.co/image/ab67616d00001e026c7112082b63beefffe40151",
-        "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
-        "played_at": "2026-08-25T15:00:27.590Z"
-      },
-      {
-        "name": "Wilted Rose (feat. Lainey Wilson)",
-        "artist": "The Black Crowes, Lainey Wilson",
-        "album": "Happiness Bastards",
-        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
-        "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo",
-        "played_at": "2026-08-25T14:56:35.021Z"
-      },
-      {
-        "name": "catch these fists",
+        "name": "pond song",
         "artist": "Wet Leg",
         "album": "moisturizer",
         "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/5yz4ZfLeZ3VdqDM2l8wjjg",
-        "played_at": "2026-08-25T14:52:38.026Z"
+        "url": "https://open.spotify.com/track/7uX75Chj1OWg2rMZNaDIT8",
+        "played_at": "2026-08-26T06:12:33.316Z"
+      },
+      {
+        "name": "Sheep",
+        "artist": "Pink Floyd",
+        "album": "Animals",
+        "image": "https://i.scdn.co/image/ab67616d00001e02472f3fa4fa9c696f7ef8f037",
+        "url": "https://open.spotify.com/track/55e99bv2wlgTYtNEYHWtN1",
+        "played_at": "2026-08-26T06:09:35.137Z"
       }
     ],
     "top_artists": [
       {
-        "name": "The Black Crowes",
-        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
-        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "Bruno Mars",
-        "image": "https://i.scdn.co/image/ab67616100005174c7688aad1bf03986934d7e26",
-        "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        "name": "Steely Dan",
+        "image": "https://i.scdn.co/image/067bf3caa525edb4e97e19b2a630ccf361897350",
+        "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+      },
+      {
+        "name": "Drugdealer",
+        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       {
         "name": "Wet Leg",
@@ -84,19 +89,14 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
-        "name": "Olivia Dean",
-        "image": "https://i.scdn.co/image/ab676161000051745c7577ad44daeb7ce4b941a1",
-        "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        "name": "Goose",
+        "image": "https://i.scdn.co/image/ab67616100005174b9f1710faef47fa3b9818433",
+        "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
       },
       {
-        "name": "Anderson .Paak",
-        "image": "https://i.scdn.co/image/ab6761610000517496287bd47570ff13f0c01496",
-        "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-      },
-      {
-        "name": "Silk Sonic",
-        "image": "https://i.scdn.co/image/ab6772690000dd223f22dcab715891ad4e39da71",
-        "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        "name": "The Rolling Stones",
+        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
+        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       }
     ]
   },
