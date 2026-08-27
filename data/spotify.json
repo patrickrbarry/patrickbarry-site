@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T07:14:38Z",
+  "updated_at": "2026-08-27T21:43:34Z",
   "recent": {
     "top_tracks": [
       {
@@ -103,18 +103,18 @@
   "medium_term": {
     "top_tracks": [
       {
-        "name": "Madison",
-        "artist": "Drugdealer",
-        "album": "Hiding in Plain Sight",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
-      },
-      {
         "name": "Cobra",
         "artist": "Geese",
         "album": "Getting Killed",
         "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
         "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
+      },
+      {
+        "name": "Madison",
+        "artist": "Drugdealer",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
       },
       {
         "name": "Pictures of You",
@@ -145,18 +145,18 @@
         "url": "https://open.spotify.com/track/7Am3vOOsn60RYJqTuhCyMH"
       },
       {
-        "name": "Golden Wingship",
-        "artist": "Flea",
-        "album": "Honora",
-        "image": "https://i.scdn.co/image/ab67616d00001e02017eb062be58097ec134eeb6",
-        "url": "https://open.spotify.com/track/29f3rVyBT120LccglgfwK6"
+        "name": "Baby",
+        "artist": "Drugdealer, Tim Presley",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/1Pmr9vJtaEvgq8iyHQdoWa"
       },
       {
-        "name": "luther (with sza)",
-        "artist": "Kendrick Lamar, SZA",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e027e5e269471fe4a43a42e2f15",
-        "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+        "name": "Someone to Love",
+        "artist": "Drugdealer",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/2d6qSYAHWRgzRFSyrodwgB"
       }
     ],
     "top_artists": [
@@ -179,16 +179,16 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-      },
-      {
         "name": "Drugdealer",
         "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
         "genres": [],
         "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
         "name": "Kendrick Lamar",
