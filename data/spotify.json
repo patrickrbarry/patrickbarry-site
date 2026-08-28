@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-27T21:43:34Z",
+  "updated_at": "2026-08-28T09:27:45Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "CPR",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO",
+        "played_at": "2026-08-28T00:20:36.471Z"
+      },
       {
         "name": "Let It Win",
         "artist": "Neu Blume",
@@ -57,26 +65,23 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0252232e24947952f0a007fefc",
         "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ",
         "played_at": "2026-08-27T01:57:01.646Z"
-      },
-      {
-        "name": "Sapphire",
-        "artist": "Drug Cabin",
-        "album": "Yard Work",
-        "image": "https://i.scdn.co/image/ab67616d00001e02cfc128b6b2334012df845c9f",
-        "url": "https://open.spotify.com/track/2spF5memvP0INuUbKoJdtb",
-        "played_at": "2026-08-27T01:50:31.425Z"
       }
     ],
     "top_artists": [
+      {
+        "name": "Drugdealer",
+        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
       {
         "name": "Geese",
         "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "Drugdealer",
-        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
-        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
         "name": "Drug Cabin",
@@ -92,11 +97,6 @@
         "name": "Oracle Sisters",
         "image": "https://i.scdn.co/image/ab67616100005174d1b53e721cb5d8f8adee23ea",
         "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-      },
-      {
-        "name": "George Bloomfield",
-        "image": "https://i.scdn.co/image/ab67616100005174f9aac7464535e19b93060c12",
-        "url": "https://open.spotify.com/artist/2KORQIjhKGBWEtfxSSW7vg"
       }
     ]
   },
@@ -131,6 +131,13 @@
         "url": "https://open.spotify.com/track/5vFajDtOQR7Qx8Gbf36OHO"
       },
       {
+        "name": "CPR",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO"
+      },
+      {
         "name": "Pictures Of Matchstick Men",
         "artist": "Camper Van Beethoven",
         "album": "Key Lime Pie",
@@ -150,13 +157,6 @@
         "album": "Hiding in Plain Sight",
         "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
         "url": "https://open.spotify.com/track/1Pmr9vJtaEvgq8iyHQdoWa"
-      },
-      {
-        "name": "Someone to Love",
-        "artist": "Drugdealer",
-        "album": "Hiding in Plain Sight",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/2d6qSYAHWRgzRFSyrodwgB"
       }
     ],
     "top_artists": [
