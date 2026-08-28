@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-08-28T09:27:45Z",
+  "updated_at": "2026-08-28T21:42:32Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "2122",
+        "artist": "Geese",
+        "album": "3D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
+        "url": "https://open.spotify.com/track/2XUQ0AYl4HPE0oK0qt70qw",
+        "played_at": "2026-08-28T15:06:54.572Z"
+      },
+      {
+        "name": "Cross Your Fingers",
+        "artist": "The Black Crowes",
+        "album": "Happiness Bastards",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
+        "url": "https://open.spotify.com/track/296njG6B4UxpFsY8buC4Py",
+        "played_at": "2026-08-28T15:03:37.942Z"
+      },
+      {
+        "name": "Cobra",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf",
+        "played_at": "2026-08-28T14:58:50.970Z"
+      },
+      {
+        "name": "Cruel Streak",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn",
+        "played_at": "2026-08-28T14:55:58.252Z"
+      },
+      {
+        "name": "davina mccall",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/4KVYz4U1Vm3pvjhhhS1E6s",
+        "played_at": "2026-08-28T14:51:56.535Z"
+      },
+      {
+        "name": "liquidize",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/7qLc5KYxAvBPgjUkqUozVn",
+        "played_at": "2026-08-28T14:48:05.969Z"
+      },
       {
         "name": "CPR",
         "artist": "Wet Leg",
@@ -17,54 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e0244e2e9143d5dca2b54ba3386",
         "url": "https://open.spotify.com/track/0OqimDU8VE97rIic1p10bY",
         "played_at": "2026-08-27T03:18:09.863Z"
-      },
-      {
-        "name": "Baywatch",
-        "artist": "Drug Cabin",
-        "album": "Yard Work",
-        "image": "https://i.scdn.co/image/ab67616d00001e02cfc128b6b2334012df845c9f",
-        "url": "https://open.spotify.com/track/5kftztWZU5DBWvSgPdNTOm",
-        "played_at": "2026-08-27T02:14:03.028Z"
-      },
-      {
-        "name": "It Don't Take Much",
-        "artist": "The Something Specials, Taylor Olin",
-        "album": "Somewhere Up There",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e5926dc27f47e7204df653dc",
-        "url": "https://open.spotify.com/track/1rClXgiKmWDSfUTQYZPiRY",
-        "played_at": "2026-08-27T02:10:43.102Z"
-      },
-      {
-        "name": "Asc. Scorpio",
-        "artist": "Oracle Sisters",
-        "album": "Asc. Scorpio",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b1c8f61fde9224638c220640",
-        "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In",
-        "played_at": "2026-08-27T02:06:49.077Z"
-      },
-      {
-        "name": "As Summer Comes",
-        "artist": "George Bloomfield",
-        "album": "Space Between",
-        "image": "https://i.scdn.co/image/ab67616d00001e027b46511462db63f29ed9cd81",
-        "url": "https://open.spotify.com/track/5yTxOMGd0yI1kefxyk4SzJ",
-        "played_at": "2026-08-27T02:04:02.498Z"
-      },
-      {
-        "name": "U.F.O.",
-        "artist": "Jesse Woods",
-        "album": "Autoflower",
-        "image": "https://i.scdn.co/image/ab67616d00001e0281f08978baabd49c73bba227",
-        "url": "https://open.spotify.com/track/45LStTENF92V5WirCZvRlc",
-        "played_at": "2026-08-27T02:00:14.514Z"
-      },
-      {
-        "name": "Changes, Pts. 1 & 2",
-        "artist": "Neal Francis",
-        "album": "Changes",
-        "image": "https://i.scdn.co/image/ab67616d00001e0252232e24947952f0a007fefc",
-        "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ",
-        "played_at": "2026-08-27T01:57:01.646Z"
       }
     ],
     "top_artists": [
@@ -84,6 +84,11 @@
         "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+      },
+      {
         "name": "Drug Cabin",
         "image": "https://i.scdn.co/image/ab67616d00001e0273ca37370add448f5578aa42",
         "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
@@ -92,11 +97,6 @@
         "name": "Weyes Blood",
         "image": "https://i.scdn.co/image/ab676161000051743a4a51a2de2f195ae87216e4",
         "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-      },
-      {
-        "name": "Oracle Sisters",
-        "image": "https://i.scdn.co/image/ab67616100005174d1b53e721cb5d8f8adee23ea",
-        "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
       }
     ]
   },
