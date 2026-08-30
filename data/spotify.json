@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-30T16:00:34Z",
+  "updated_at": "2026-08-30T20:31:46Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "mangetout",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT",
+        "played_at": "2026-08-30T20:11:09.604Z"
+      },
       {
         "name": "High Head Blues",
         "artist": "The Black Crowes",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02d408dbff7da9af005d7adcb4",
         "url": "https://open.spotify.com/track/742oWlfJlZRsX6SA2QLRtD",
         "played_at": "2026-08-29T00:14:57.428Z"
-      },
-      {
-        "name": "Home Soon",
-        "artist": "DOPE LEMON",
-        "album": "Hounds Tooth",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e4b5ac1db1e7d99c1bc7b49f",
-        "url": "https://open.spotify.com/track/7C5Ria90yxc4a0REG1D23U",
-        "played_at": "2026-08-29T00:11:43.170Z"
       }
     ],
     "top_artists": [
