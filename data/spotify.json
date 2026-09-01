@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-31T22:25:10Z",
+  "updated_at": "2026-09-01T03:31:07Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "davina mccall",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/4KVYz4U1Vm3pvjhhhS1E6s",
+        "played_at": "2026-09-01T01:20:29.594Z"
+      },
+      {
+        "name": "Wilted Rose (feat. Lainey Wilson)",
+        "artist": "The Black Crowes, Lainey Wilson",
+        "album": "Happiness Bastards",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
+        "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo",
+        "played_at": "2026-09-01T00:10:23.880Z"
+      },
       {
         "name": "Wiser Time",
         "artist": "The Black Crowes",
@@ -49,22 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e029aac0495780234a55314a11f",
         "url": "https://open.spotify.com/track/472OeAs0UcWJw12AMm4doQ",
         "played_at": "2026-08-31T02:10:01.814Z"
-      },
-      {
-        "name": "Moora",
-        "artist": "Sneha Khanwalkar, Robbie Styles",
-        "album": "Gangs Of Wasseypur - 2",
-        "image": "https://i.scdn.co/image/ab67616d00001e021b2bb8d9a09a71b4cded4b8f",
-        "url": "https://open.spotify.com/track/0pT28a92cnz0G3LbZyGYpf",
-        "played_at": "2026-08-31T02:05:45.189Z"
-      },
-      {
-        "name": "Chaap Tilak",
-        "artist": "Abida Parveen, Rahat Fateh Ali Khan",
-        "album": "Coke Studio Season 7",
-        "image": "https://i.scdn.co/image/ab67616d00001e025108a8e8bbaaea01e384535a",
-        "url": "https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T",
-        "played_at": "2026-08-31T02:00:33.039Z"
       }
     ],
     "top_artists": [
@@ -229,13 +229,6 @@
         "url": "https://open.spotify.com/track/6o2yIQVzajJjRrgICzcfAf"
       },
       {
-        "name": "Read The Room",
-        "artist": "The Smile",
-        "album": "Wall Of Eyes",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
-        "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
-      },
-      {
         "name": "man at the garden",
         "artist": "Kendrick Lamar",
         "album": "GNX",
@@ -243,11 +236,11 @@
         "url": "https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz"
       },
       {
-        "name": "Friend Of A Friend",
+        "name": "Read The Room",
         "artist": "The Smile",
         "album": "Wall Of Eyes",
         "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
-        "url": "https://open.spotify.com/track/4lTLmo9aTyMJ1SoHa63WA6"
+        "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
       },
       {
         "name": "Cobra",
@@ -255,6 +248,13 @@
         "album": "Getting Killed",
         "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
         "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
+      },
+      {
+        "name": "Friend Of A Friend",
+        "artist": "The Smile",
+        "album": "Wall Of Eyes",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
+        "url": "https://open.spotify.com/track/4lTLmo9aTyMJ1SoHa63WA6"
       }
     ],
     "top_artists": [
