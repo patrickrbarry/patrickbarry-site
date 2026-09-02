@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-02T15:56:38Z",
+  "updated_at": "2026-09-02T20:29:16Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "LOOK OUT FOR ME",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/4gM6AHXp4h8aj5482znmYz",
+        "played_at": "2026-09-02T16:13:08.299Z"
+      },
       {
         "name": "HOLIDAY",
         "artist": "Turnstile",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9",
         "url": "https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S",
         "played_at": "2026-09-02T04:01:27.738Z"
-      },
-      {
-        "name": "Cowboy Nudes",
-        "artist": "Geese",
-        "album": "3D Country",
-        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
-        "url": "https://open.spotify.com/track/5vtJPJsiwW5BZAYo8Nla0n",
-        "played_at": "2026-09-02T00:49:52.344Z"
       }
     ],
     "top_artists": [
