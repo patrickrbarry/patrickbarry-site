@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-09-02T20:29:16Z",
+  "updated_at": "2026-09-03T02:53:17Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "DULL",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs",
+        "played_at": "2026-09-03T01:54:05.969Z"
+      },
+      {
+        "name": "LIGHT DESIGN",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/4UI693m28NeH4uY0mnBV0F",
+        "played_at": "2026-09-02T23:42:40.847Z"
+      },
+      {
+        "name": "DREAMING",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/3AI0lzoJrrIl0lGo89DS9q",
+        "played_at": "2026-09-02T23:40:31.217Z"
+      },
+      {
+        "name": "I CARE",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC",
+        "played_at": "2026-09-02T23:37:54.710Z"
+      },
+      {
+        "name": "SOLE",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/6PaSOin7Y9GnXRZ5U5sMsv",
+        "played_at": "2026-09-02T23:34:01.541Z"
+      },
+      {
+        "name": "NEVER ENOUGH",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6",
+        "played_at": "2026-09-02T23:30:36.320Z"
+      },
       {
         "name": "LOOK OUT FOR ME",
         "artist": "Turnstile",
@@ -17,57 +65,14 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02c11ba539d58741bbd1332c92",
         "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7",
         "played_at": "2026-09-02T15:44:06.411Z"
-      },
-      {
-        "name": "SEEIN\u2019 STARS",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO",
-        "played_at": "2026-09-02T15:41:13.765Z"
-      },
-      {
-        "name": "I CARE",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC",
-        "played_at": "2026-09-02T15:38:06.946Z"
-      },
-      {
-        "name": "NEVER ENOUGH",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6",
-        "played_at": "2026-09-02T15:34:13.293Z"
-      },
-      {
-        "name": "New Lands",
-        "artist": "Justice",
-        "album": "Audio, Video, Disco.",
-        "image": "https://i.scdn.co/image/ab67616d00001e02f9171c2b7bab0956cdfbd1fa",
-        "url": "https://open.spotify.com/track/6xi63rgWgcKkod0nXVnMMT",
-        "played_at": "2026-09-02T15:28:50.316Z"
-      },
-      {
-        "name": "I Don\u2019t Know How I Survive",
-        "artist": "Death Cab for Cutie",
-        "album": "Asphalt Meadows",
-        "image": "https://i.scdn.co/image/ab67616d00001e023563cf38b90fb6cea8fdf0b4",
-        "url": "https://open.spotify.com/track/0b2vqB7QNT4z8nnaYqbuel",
-        "played_at": "2026-09-02T04:24:42.566Z"
-      },
-      {
-        "name": "Weird Fishes / Arpeggi",
-        "artist": "Radiohead",
-        "album": "In Rainbows",
-        "image": "https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9",
-        "url": "https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S",
-        "played_at": "2026-09-02T04:01:27.738Z"
       }
     ],
     "top_artists": [
+      {
+        "name": "Turnstile",
+        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
+        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+      },
       {
         "name": "Nusrat Fateh Ali Khan",
         "image": "https://i.scdn.co/image/ab6761610000517446444c5c2069fe5470bec996",
@@ -84,19 +89,14 @@
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
-        "name": "Turnstile",
-        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
-        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-      },
-      {
         "name": "The Rolling Stones",
         "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
         "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        "name": "Radiohead",
+        "image": "https://i.scdn.co/image/ab676161000051744104fbd80f1f795728abbd59",
+        "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
       }
     ]
   },
