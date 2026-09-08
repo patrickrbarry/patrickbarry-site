@@ -1,102 +1,102 @@
 {
-  "updated_at": "2026-09-08T18:23:42Z",
+  "updated_at": "2026-09-08T22:05:23Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "catch these fists",
-        "artist": "Wet Leg",
-        "album": "moisturizer",
-        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/5yz4ZfLeZ3VdqDM2l8wjjg",
-        "played_at": "2026-09-07T18:18:40.967Z"
+        "name": "Back In Your Life",
+        "artist": "The Rolling Stones",
+        "album": "Foreign Tongues",
+        "image": "https://i.scdn.co/image/ab67616d00001e0213b9f6190eb9a01538240c62",
+        "url": "https://open.spotify.com/track/590rDHWNgViHdsFjXShHlP",
+        "played_at": "2026-09-08T21:57:18.019Z"
       },
       {
-        "name": "Talk Down",
-        "artist": "Dijon",
-        "album": "Absolutely",
-        "image": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
-        "url": "https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO",
-        "played_at": "2026-09-06T18:02:02.106Z"
-      },
-      {
-        "name": "Black Water",
-        "artist": "The Doobie Brothers",
-        "album": "What Were Once Vices Are Now Habits",
-        "image": "https://i.scdn.co/image/ab67616d00001e02d524e7d73e88574f2b7d7699",
-        "url": "https://open.spotify.com/track/4p8QcNkaq2FQj8uGJ7HEDK",
-        "played_at": "2026-09-06T17:59:31.494Z"
-      },
-      {
-        "name": "Only A Fool Would Say That",
-        "artist": "Steely Dan",
-        "album": "Can't Buy A Thrill",
-        "image": "https://i.scdn.co/image/ab67616d00001e020ddd7e736f870994f4707947",
-        "url": "https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5",
-        "played_at": "2026-09-06T17:55:28.005Z"
-      },
-      {
-        "name": "Cool Cat",
-        "artist": "Queen",
-        "album": "Hot Space (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fb96f10f9423264184066cdd",
-        "url": "https://open.spotify.com/track/1IC79gic67NsxLC4Ddb14W",
-        "played_at": "2026-09-06T17:52:40.691Z"
-      },
-      {
-        "name": "Let's Go Crazy",
-        "artist": "Prince",
-        "album": "Purple Rain",
-        "image": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782",
-        "url": "https://open.spotify.com/track/6FMIVQPZg9cmMY8hPxAacD",
-        "played_at": "2026-09-06T17:49:11.070Z"
-      },
-      {
-        "name": "Sting Me",
+        "name": "Gone",
         "artist": "The Black Crowes",
-        "album": "The Southern Harmony And Musical Companion",
-        "image": "https://i.scdn.co/image/ab67616d00001e028d02d37cd208d1cb2e0d29a4",
-        "url": "https://open.spotify.com/track/134cGRMQbwEn7XQcSBFvkm",
-        "played_at": "2026-09-06T17:44:32.214Z"
+        "album": "amorica.",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
+        "url": "https://open.spotify.com/track/1DeDhpnSSy6KQTwajbGErO",
+        "played_at": "2026-09-08T21:51:04.858Z"
       },
       {
-        "name": "Huarache Lights",
-        "artist": "Hot Chip",
-        "album": "Why Make Sense? (Definitive Version)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ba3ea319042c577b8889bc1e",
-        "url": "https://open.spotify.com/track/24OUTJgZif1CA1nemnDgXn",
-        "played_at": "2026-09-06T17:39:51.996Z"
+        "name": "Tomorrow Night",
+        "artist": "The Black Keys",
+        "album": "Peaches!",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a171c990a042070d09719ca8",
+        "url": "https://open.spotify.com/track/3z7scrm9w3OiSiGNZmWa8N",
+        "played_at": "2026-09-08T21:45:56.210Z"
+      },
+      {
+        "name": "Jetpack",
+        "artist": "Jefferson Starship",
+        "album": "Jetpack",
+        "image": "https://i.scdn.co/image/ab67616d00001e0200de29c4ac06c6f8a0198c8c",
+        "url": "https://open.spotify.com/track/3dL726sZrCTFhJAYgxAlmv",
+        "played_at": "2026-09-08T21:41:59.820Z"
+      },
+      {
+        "name": "Under The Knife",
+        "artist": "Tedeschi Trucks Band",
+        "album": "Future Soul",
+        "image": "https://i.scdn.co/image/ab67616d00001e0214384107c503e7e13fe71209",
+        "url": "https://open.spotify.com/track/0anrWEEtnk0zWkOY3jxQev",
+        "played_at": "2026-09-08T21:36:52.919Z"
+      },
+      {
+        "name": "Big Women",
+        "artist": "Robert Randolph",
+        "album": "Preacher Kids",
+        "image": "https://i.scdn.co/image/ab67616d00001e0206a17132d3a3d491ef9b510b",
+        "url": "https://open.spotify.com/track/5demS96rqcPO47L02r88xD",
+        "played_at": "2026-09-08T21:33:04.924Z"
+      },
+      {
+        "name": "Hit Me In The Head",
+        "artist": "The Rolling Stones",
+        "album": "Foreign Tongues",
+        "image": "https://i.scdn.co/image/ab67616d00001e0213b9f6190eb9a01538240c62",
+        "url": "https://open.spotify.com/track/0yS7srlmeNHZugMlfvKkRK",
+        "played_at": "2026-09-08T21:27:44.160Z"
+      },
+      {
+        "name": "Blackberry",
+        "artist": "The Black Crowes",
+        "album": "Three Snakes And One Charm",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db14993f832e52c04173497c",
+        "url": "https://open.spotify.com/track/06pvneTNSW9G30Rod8nbne",
+        "played_at": "2026-09-08T21:24:46.923Z"
       }
     ],
     "top_artists": [
-      {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-      },
       {
         "name": "The Black Crowes",
         "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
-        "name": "Slightly Stoopid",
-        "image": "https://i.scdn.co/image/ab67616100005174f3af2f80187b55795f42d7f0",
-        "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        "name": "The Rolling Stones",
+        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
+        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
-        "name": "Dijon",
-        "image": "https://i.scdn.co/image/ab6761610000517473479e6db034c4a43d4aee04",
-        "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        "name": "Tedeschi Trucks Band",
+        "image": "https://i.scdn.co/image/ab67616100005174e3ac95b46386a5ddd3dc68a8",
+        "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
       },
       {
-        "name": "Kendrick Lamar",
-        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
-        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        "name": "The Black Keys",
+        "image": "https://i.scdn.co/image/ab67616100005174d2fa0ed935325ca36d334c40",
+        "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
       },
       {
-        "name": "Kanye West",
-        "image": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a",
-        "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        "name": "Jack White",
+        "image": "https://i.scdn.co/image/ab67616100005174719889798a431c8dc1dacbec",
+        "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+      },
+      {
+        "name": "JAYLER",
+        "image": "https://i.scdn.co/image/ab67616100005174c8b49d31bb8f7cbbc799c81d",
+        "url": "https://open.spotify.com/artist/2cqlQm5f8HXjQ7LCMVsZ7f"
       }
     ]
   },
@@ -259,10 +259,10 @@
     ],
     "top_artists": [
       {
-        "name": "Kendrick Lamar",
-        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+        "name": "The Rolling Stones",
+        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
         "genres": [],
-        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
         "name": "The Black Crowes",
@@ -271,10 +271,10 @@
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
-        "name": "The Rolling Stones",
-        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
+        "name": "Kendrick Lamar",
+        "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
         "genres": [],
-        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
       {
         "name": "Geese",
