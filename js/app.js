@@ -87,7 +87,7 @@ async function loadLinks() {
   if (!listContainer) return;
 
   try {
-    const res = await fetch('./data/links.json');
+    const res = await fetch(`./data/links.json?v=${Date.now()}`);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const links = await res.json();
 
@@ -248,7 +248,7 @@ async function loadSpotify() {
   if (!container) return;
 
   try {
-    const res = await fetch('./data/spotify.json');
+    const res = await fetch(`./data/spotify.json?v=${Date.now()}`);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
     renderMusicColumn(data);
@@ -279,7 +279,7 @@ async function loadBooks() {
   if (!container) return;
 
   try {
-    const res = await fetch('./data/books.json');
+    const res = await fetch(`./data/books.json?v=${Date.now()}`);
     if (!res.ok) throw new Error('Failed to load books');
     const data = await res.json();
     const books = data.reading || [];
