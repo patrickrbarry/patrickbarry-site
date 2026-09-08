@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-07T21:05:33Z",
+  "updated_at": "2026-09-08T18:23:42Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "catch these fists",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/5yz4ZfLeZ3VdqDM2l8wjjg",
+        "played_at": "2026-09-07T18:18:40.967Z"
+      },
       {
         "name": "Talk Down",
         "artist": "Dijon",
@@ -57,17 +65,14 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02ba3ea319042c577b8889bc1e",
         "url": "https://open.spotify.com/track/24OUTJgZif1CA1nemnDgXn",
         "played_at": "2026-09-06T17:39:51.996Z"
-      },
-      {
-        "name": "Questo amore \u00e8 un motore",
-        "artist": "Pino D'Angi\u00f2",
-        "album": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 2",
-        "image": "https://i.scdn.co/image/ab67616d00001e0279f449b2c45f6ef0d0cc3cef",
-        "url": "https://open.spotify.com/track/6hob5XGGteZCcJZQoK06Fr",
-        "played_at": "2026-09-06T17:35:11.627Z"
       }
     ],
     "top_artists": [
+      {
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+      },
       {
         "name": "The Black Crowes",
         "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
@@ -92,11 +97,6 @@
         "name": "Kanye West",
         "image": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a",
         "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-      },
-      {
-        "name": "Tame Impala",
-        "image": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
-        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       }
     ]
   },
