@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-10T18:45:04Z",
+  "updated_at": "2026-09-10T21:15:59Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "I See Myself",
+        "artist": "Geese",
+        "album": "3D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
+        "url": "https://open.spotify.com/track/4gFFHAj5iwUEHwPpjZTdi5",
+        "played_at": "2026-09-10T21:02:30.372Z"
+      },
       {
         "name": "New Lands",
         "artist": "Justice",
@@ -57,14 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
         "url": "https://open.spotify.com/track/7IAKxhI1z8Sas7iLcX8YF5",
         "played_at": "2026-09-10T00:24:24.981Z"
-      },
-      {
-        "name": "Where the Money Flows",
-        "artist": "Peter Cat Recording Co.",
-        "album": "Bismillah",
-        "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
-        "url": "https://open.spotify.com/track/5lzMkZFiPYJ4ceVwaYcWlP",
-        "played_at": "2026-09-10T00:20:08.960Z"
       }
     ],
     "top_artists": [
@@ -94,9 +94,9 @@
         "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
       },
       {
-        "name": "Turnstile",
-        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
-        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       }
     ]
   },
