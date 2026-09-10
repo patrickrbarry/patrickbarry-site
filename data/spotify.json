@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-10T15:19:31Z",
+  "updated_at": "2026-09-10T18:45:04Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "New Lands",
+        "artist": "Justice",
+        "album": "Audio, Video, Disco.",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9171c2b7bab0956cdfbd1fa",
+        "url": "https://open.spotify.com/track/6xi63rgWgcKkod0nXVnMMT",
+        "played_at": "2026-09-10T15:27:08.025Z"
+      },
+      {
+        "name": "oh yeah?",
+        "artist": "Steve Lacy",
+        "album": "Oh yeah?",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
+        "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8",
+        "played_at": "2026-09-10T15:22:52.992Z"
+      },
+      {
+        "name": "I CARE",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC",
+        "played_at": "2026-09-10T15:20:01.859Z"
+      },
       {
         "name": "Memory Box",
         "artist": "Peter Cat Recording Co.",
@@ -41,30 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
         "url": "https://open.spotify.com/track/5lzMkZFiPYJ4ceVwaYcWlP",
         "played_at": "2026-09-10T00:20:08.960Z"
-      },
-      {
-        "name": "Puppy and a Truck",
-        "artist": "Jenny Lewis",
-        "album": "Joy'All",
-        "image": "https://i.scdn.co/image/ab67616d00001e020338a214b104dedb8e6e16e8",
-        "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z",
-        "played_at": "2026-09-10T00:07:49.973Z"
-      },
-      {
-        "name": "Burden In My Hand",
-        "artist": "Soundgarden",
-        "album": "Down On The Upside",
-        "image": "https://i.scdn.co/image/ab67616d00001e026d70b73bcb327515e9fa8fac",
-        "url": "https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92",
-        "played_at": "2026-09-10T00:04:30.004Z"
-      },
-      {
-        "name": "mangetout",
-        "artist": "Wet Leg",
-        "album": "moisturizer",
-        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT",
-        "played_at": "2026-09-09T23:59:39.893Z"
       }
     ],
     "top_artists": [
@@ -94,9 +94,9 @@
         "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
       },
       {
-        "name": "Jack White",
-        "image": "https://i.scdn.co/image/ab67616100005174719889798a431c8dc1dacbec",
-        "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        "name": "Turnstile",
+        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
+        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       }
     ]
   },
