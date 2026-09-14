@@ -66,25 +66,57 @@ def best_image(images, target_width=300):
     return min(images, key=lambda i: i.get("width", 9999))["url"]
 
 
+def collapse_album_runs(tracks):
+    """Merge consecutive entries from the same album into a single entry.
+
+    Playing an album straight through otherwise yields a row of identical
+    cover art, which reads as a broken placeholder rather than a listen.
+    Runs are consecutive-only, so coming back to an album later stays a
+    separate entry and the feed keeps its sense of recency.
+    """
+    out = []
+    for t in tracks:
+        prev = out[-1] if out else None
+        if prev and prev["_album_id"] and prev["_album_id"] == t["_album_id"]:
+            prev["tracks"].append(t["name"])
+            continue
+        out.append({**t, "tracks": [t["name"]]})
+
+    for entry in out:
+        count = len(entry["tracks"])
+        entry["track_count"] = count
+        if count > 1:
+            # Represent the run by its album rather than whichever track was first
+            entry["name"] = entry["album"]
+            entry["url"] = entry["_album_url"] or entry["url"]
+        entry.pop("_album_id", None)
+        entry.pop("_album_url", None)
+
+    return out
+
+
 def fetch_recently_played(token, limit=8):
-    """Fetch recently played tracks, deduplicated by track ID (newest play wins)."""
+    """Recently played, deduped by track then collapsed into per-album runs."""
     raw = get("/me/player/recently-played", token, {"limit": 50})
     seen = {}
     for item in raw.get("items", []):
         t = item["track"]
         tid = t["id"]
         if tid not in seen:
+            album = t["album"]
             seen[tid] = {
-                "name":      t["name"],
-                "artist":    ", ".join(a["name"] for a in t["artists"]),
-                "album":     t["album"]["name"],
-                "image":     best_image(t["album"]["images"]),
-                "url":       t["external_urls"]["spotify"],
-                "played_at": item["played_at"],
+                "name":       t["name"],
+                "artist":     ", ".join(a["name"] for a in t["artists"]),
+                "album":      album["name"],
+                "image":      best_image(album["images"]),
+                "url":        t["external_urls"]["spotify"],
+                "played_at":  item["played_at"],
+                "_album_id":  album.get("id"),
+                "_album_url": album.get("external_urls", {}).get("spotify"),
             }
 
-    # Unique tracks in chronological order (most recent first), capped at limit
-    top_tracks = list(seen.values())[:limit]
+    # Collapse before capping so an album listen doesn't crowd out the feed
+    top_tracks = collapse_album_runs(list(seen.values()))[:limit]
 
     # Derive top artists from play frequency in the same batch
     artist_counts = {}

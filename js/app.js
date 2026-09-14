@@ -201,18 +201,23 @@ function renderMusicColumn(data) {
     if (!tracks.length) return '<p class="spotify-loading">No tracks yet.</p>';
     return `
       <div class="album-art-grid">
-        ${tracks.map(t => `
-          <a class="album-art-cell" href="${escapeHtml(t.url)}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(t.name)} — ${escapeHtml(t.artist)}">
+        ${tracks.map(t => {
+          // Entries collapsed from an album run carry a count; older data won't
+          const count = t.track_count || 1;
+          const sub   = count > 1 ? `${t.artist} · ${count} tracks` : t.artist;
+          return `
+          <a class="album-art-cell" href="${escapeHtml(t.url)}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(t.name)} — ${escapeHtml(sub)}">
             ${t.image
               ? `<img src="${escapeHtml(t.image)}" alt="${escapeHtml(t.name)}" loading="lazy">`
               : '<div class="album-art-placeholder">♫</div>'
             }
+            ${count > 1 ? `<span class="album-art-count">${count}</span>` : ''}
             <div class="album-art-hover">
               <span class="album-art-track">${escapeHtml(t.name)}</span>
-              <span class="album-art-artist">${escapeHtml(t.artist)}</span>
+              <span class="album-art-artist">${escapeHtml(sub)}</span>
             </div>
-          </a>
-        `).join('')}
+          </a>`;
+        }).join('')}
       </div>
     `;
   }

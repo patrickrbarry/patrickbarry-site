@@ -634,6 +634,25 @@ section:nth-child(even) {
   font-size: 20px;
   color: #aaa;
 }
+/* Marks a tile that stands for several tracks off one album */
+.album-art-count {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  min-width: 15px;
+  height: 15px;
+  padding: 0 4px;
+  border-radius: 8px;
+  background: rgba(0,0,0,.6);
+  color: #fff;
+  font-size: 9px;
+  font-weight: 600;
+  line-height: 15px;
+  text-align: center;
+  letter-spacing: .02em;
+}
+.album-art-cell:hover .album-art-count { opacity: 0; }
+
 .album-art-hover {
   position: absolute;
   inset: 0;
