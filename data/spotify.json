@@ -1,70 +1,121 @@
 {
-  "updated_at": "2026-09-14T19:39:24Z",
+  "updated_at": "2026-09-14T22:48:47Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "SUNSHOWER",
+        "name": "NEVER ENOUGH",
         "artist": "Turnstile",
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/2QmmdEYfM6kEk5iz6E1Rs7",
-        "played_at": "2026-09-14T15:35:13.972Z"
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
+        "played_at": "2026-09-14T15:35:13.972Z",
+        "tracks": [
+          "SUNSHOWER",
+          "DULL",
+          "LIGHT DESIGN",
+          "DREAMING",
+          "I CARE",
+          "SOLE"
+        ],
+        "track_count": 6
       },
       {
-        "name": "DULL",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs",
-        "played_at": "2026-09-14T15:09:22.724Z"
-      },
-      {
-        "name": "LIGHT DESIGN",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/4UI693m28NeH4uY0mnBV0F",
-        "played_at": "2026-09-14T15:05:34.082Z"
-      },
-      {
-        "name": "DREAMING",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/3AI0lzoJrrIl0lGo89DS9q",
-        "played_at": "2026-09-14T15:03:24.484Z"
-      },
-      {
-        "name": "I CARE",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC",
-        "played_at": "2026-09-14T15:00:47.939Z"
-      },
-      {
-        "name": "SOLE",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/6PaSOin7Y9GnXRZ5U5sMsv",
-        "played_at": "2026-09-14T14:56:54.777Z"
-      },
-      {
-        "name": "Behind My Camel",
+        "name": "Zenyatta Mondatta (Remastered 2003)",
         "artist": "The Police",
         "album": "Zenyatta Mondatta (Remastered 2003)",
         "image": "https://i.scdn.co/image/ab67616d00001e02fb1bc65edf4717e75fbc70ab",
-        "url": "https://open.spotify.com/track/3ubCAVpBwpNiFpeOShjNTt",
-        "played_at": "2026-09-12T05:28:29.655Z"
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ",
+        "played_at": "2026-09-12T05:28:29.655Z",
+        "tracks": [
+          "Behind My Camel",
+          "De Do Do Do, De Da Da Da",
+          "Bombs Away",
+          "Canary In A Coalmine",
+          "When The World Is Running Down, You Make The Best Of What's Still Around",
+          "Driven To Tears",
+          "Don't Stand So Close To Me"
+        ],
+        "track_count": 7
       },
       {
-        "name": "De Do Do Do, De Da Da Da",
-        "artist": "The Police",
-        "album": "Zenyatta Mondatta (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fb1bc65edf4717e75fbc70ab",
-        "url": "https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG",
-        "played_at": "2026-09-12T05:28:26.340Z"
+        "name": "Escape (2022 Remaster)",
+        "artist": "Journey",
+        "album": "Escape (2022 Remaster)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0223290120a609a65e14cfe018",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm",
+        "played_at": "2026-09-12T05:01:43.970Z",
+        "tracks": [
+          "Still They Ride (2022 Remaster)",
+          "Keep on Runnin' (2022 Remaster)",
+          "Who's Crying Now (2022 Remaster)",
+          "Stone in Love (2022 Remaster)",
+          "Don't Stop Believin' (2022 Remaster)"
+        ],
+        "track_count": 5
+      },
+      {
+        "name": "I See Myself",
+        "artist": "Geese",
+        "album": "3D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
+        "url": "https://open.spotify.com/track/4gFFHAj5iwUEHwPpjZTdi5",
+        "played_at": "2026-09-11T04:30:26.755Z",
+        "tracks": [
+          "I See Myself"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "New Lands",
+        "artist": "Justice",
+        "album": "Audio, Video, Disco.",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f9171c2b7bab0956cdfbd1fa",
+        "url": "https://open.spotify.com/track/6xi63rgWgcKkod0nXVnMMT",
+        "played_at": "2026-09-10T15:27:08.025Z",
+        "tracks": [
+          "New Lands"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "oh yeah?",
+        "artist": "Steve Lacy",
+        "album": "Oh yeah?",
+        "image": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
+        "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8",
+        "played_at": "2026-09-10T15:22:52.992Z",
+        "tracks": [
+          "oh yeah?"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Bismillah",
+        "artist": "Peter Cat Recording Co.",
+        "album": "Bismillah",
+        "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
+        "url": "https://open.spotify.com/album/3bmnc6GjltS6zD8elSBjCq",
+        "played_at": "2026-09-10T02:33:27.691Z",
+        "tracks": [
+          "Memory Box",
+          "Vishnu",
+          "Soulless Friends",
+          "Floated By",
+          "Where the Money Flows"
+        ],
+        "track_count": 5
+      },
+      {
+        "name": "Puppy and a Truck",
+        "artist": "Jenny Lewis",
+        "album": "Joy'All",
+        "image": "https://i.scdn.co/image/ab67616d00001e020338a214b104dedb8e6e16e8",
+        "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z",
+        "played_at": "2026-09-10T00:07:49.973Z",
+        "tracks": [
+          "Puppy and a Truck"
+        ],
+        "track_count": 1
       }
     ],
     "top_artists": [
