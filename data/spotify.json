@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-09-14T14:29:39Z",
+  "updated_at": "2026-09-14T19:39:24Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "SUNSHOWER",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/2QmmdEYfM6kEk5iz6E1Rs7",
+        "played_at": "2026-09-14T15:35:13.972Z"
+      },
+      {
+        "name": "DULL",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs",
+        "played_at": "2026-09-14T15:09:22.724Z"
+      },
+      {
+        "name": "LIGHT DESIGN",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/4UI693m28NeH4uY0mnBV0F",
+        "played_at": "2026-09-14T15:05:34.082Z"
+      },
+      {
+        "name": "DREAMING",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/3AI0lzoJrrIl0lGo89DS9q",
+        "played_at": "2026-09-14T15:03:24.484Z"
+      },
+      {
+        "name": "I CARE",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC",
+        "played_at": "2026-09-14T15:00:47.939Z"
+      },
+      {
+        "name": "SOLE",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/6PaSOin7Y9GnXRZ5U5sMsv",
+        "played_at": "2026-09-14T14:56:54.777Z"
+      },
       {
         "name": "Behind My Camel",
         "artist": "The Police",
@@ -17,54 +65,6 @@
         "image": "https://i.scdn.co/image/ab67616d00001e02fb1bc65edf4717e75fbc70ab",
         "url": "https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG",
         "played_at": "2026-09-12T05:28:26.340Z"
-      },
-      {
-        "name": "Bombs Away",
-        "artist": "The Police",
-        "album": "Zenyatta Mondatta (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fb1bc65edf4717e75fbc70ab",
-        "url": "https://open.spotify.com/track/7adlkPVhLGuSbM3hbSugds",
-        "played_at": "2026-09-12T05:24:19.036Z"
-      },
-      {
-        "name": "Canary In A Coalmine",
-        "artist": "The Police",
-        "album": "Zenyatta Mondatta (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fb1bc65edf4717e75fbc70ab",
-        "url": "https://open.spotify.com/track/7A4rW6quroPut2I6OsCys9",
-        "played_at": "2026-09-12T05:21:03.488Z"
-      },
-      {
-        "name": "When The World Is Running Down, You Make The Best Of What's Still Around",
-        "artist": "The Police",
-        "album": "Zenyatta Mondatta (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fb1bc65edf4717e75fbc70ab",
-        "url": "https://open.spotify.com/track/2e2P8zydI5GtcaVhTkOYa9",
-        "played_at": "2026-09-12T05:18:36.860Z"
-      },
-      {
-        "name": "Driven To Tears",
-        "artist": "The Police",
-        "album": "Zenyatta Mondatta (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fb1bc65edf4717e75fbc70ab",
-        "url": "https://open.spotify.com/track/3ixzqclumr9K5ZY8xcdo0O",
-        "played_at": "2026-09-12T05:14:49.834Z"
-      },
-      {
-        "name": "Don't Stand So Close To Me",
-        "artist": "The Police",
-        "album": "Zenyatta Mondatta (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fb1bc65edf4717e75fbc70ab",
-        "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD",
-        "played_at": "2026-09-12T05:10:48.637Z"
-      },
-      {
-        "name": "Still They Ride (2022 Remaster)",
-        "artist": "Journey",
-        "album": "Escape (2022 Remaster)",
-        "image": "https://i.scdn.co/image/ab67616d00001e0223290120a609a65e14cfe018",
-        "url": "https://open.spotify.com/track/6ALda4rojQpV0r5gVhEzFO",
-        "played_at": "2026-09-12T05:01:43.970Z"
       }
     ],
     "top_artists": [
@@ -72,6 +72,11 @@
         "name": "The Police",
         "image": "https://i.scdn.co/image/72fe2cadb69ab59960ae3dbd29618549e4432699",
         "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+      },
+      {
+        "name": "Turnstile",
+        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
+        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
         "name": "Journey",
@@ -87,11 +92,6 @@
         "name": "Geese",
         "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-      },
-      {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       },
       {
         "name": "Father John Misty",
