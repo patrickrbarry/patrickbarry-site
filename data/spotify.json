@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-15T12:17:16Z",
+  "updated_at": "2026-09-15T17:21:01Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Cobra",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf",
+        "played_at": "2026-09-15T15:24:47.799Z",
+        "tracks": [
+          "Cobra"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Roman Holiday",
+        "artist": "Fontaines D.C.",
+        "album": "Skinty Fia",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b23737878e75582c2e255029",
+        "url": "https://open.spotify.com/track/4GKJALTXTwhZgLPp0usd5C",
+        "played_at": "2026-09-15T15:21:17.074Z",
+        "tracks": [
+          "Roman Holiday"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Psychos",
         "artist": "Jenny Lewis",
@@ -73,41 +97,6 @@
           "Madison"
         ],
         "track_count": 1
-      },
-      {
-        "name": "NEVER ENOUGH",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
-        "played_at": "2026-09-14T15:35:13.972Z",
-        "tracks": [
-          "SUNSHOWER",
-          "DULL",
-          "LIGHT DESIGN",
-          "DREAMING",
-          "I CARE",
-          "SOLE"
-        ],
-        "track_count": 6
-      },
-      {
-        "name": "Zenyatta Mondatta (Remastered 2003)",
-        "artist": "The Police",
-        "album": "Zenyatta Mondatta (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fb1bc65edf4717e75fbc70ab",
-        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ",
-        "played_at": "2026-09-12T05:28:29.655Z",
-        "tracks": [
-          "Behind My Camel",
-          "De Do Do Do, De Da Da Da",
-          "Bombs Away",
-          "Canary In A Coalmine",
-          "When The World Is Running Down, You Make The Best Of What's Still Around",
-          "Driven To Tears",
-          "Don't Stand So Close To Me"
-        ],
-        "track_count": 7
       }
     ],
     "top_artists": [
