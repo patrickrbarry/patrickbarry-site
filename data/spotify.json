@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-09-16T20:31:05Z",
+  "updated_at": "2026-09-16T23:19:14Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "NEVER ENOUGH",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
+        "played_at": "2026-09-16T23:15:30.050Z",
+        "tracks": [
+          "SOLE",
+          "NEVER ENOUGH"
+        ],
+        "track_count": 2
+      },
+      {
+        "name": "Eminence Front",
+        "artist": "The Who",
+        "album": "It's Hard",
+        "image": "https://i.scdn.co/image/ab67616d00001e02daa48b4b3385808beb8eb5db",
+        "url": "https://open.spotify.com/track/0LN5gIsS5tQSmRzQrHSaTR",
+        "played_at": "2026-09-16T23:07:09.204Z",
+        "tracks": [
+          "Eminence Front"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Cobra",
         "artist": "Geese",
@@ -73,42 +98,18 @@
           "Archbishop Harold Holmes"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Talk It Over",
-        "artist": "Leon Bridges",
-        "album": "Happiness Anytime: Part 2",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266797612d4ee85ebf1602804",
-        "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3",
-        "played_at": "2026-09-14T23:06:13.223Z",
-        "tracks": [
-          "Talk It Over"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Madison",
-        "artist": "Drugdealer",
-        "album": "Hiding in Plain Sight",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr",
-        "played_at": "2026-09-14T23:03:04.218Z",
-        "tracks": [
-          "Madison"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
       {
-        "name": "The Police",
-        "image": "https://i.scdn.co/image/72fe2cadb69ab59960ae3dbd29618549e4432699",
-        "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-      },
-      {
         "name": "Turnstile",
         "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
         "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+      },
+      {
+        "name": "The Police",
+        "image": "https://i.scdn.co/image/72fe2cadb69ab59960ae3dbd29618549e4432699",
+        "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
       },
       {
         "name": "Journey",
