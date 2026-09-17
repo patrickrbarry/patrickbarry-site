@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T23:19:14Z",
+  "updated_at": "2026-09-17T02:00:22Z",
   "recent": {
     "top_tracks": [
       {
@@ -8,12 +8,13 @@
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
-        "played_at": "2026-09-16T23:15:30.050Z",
+        "played_at": "2026-09-16T23:19:23.258Z",
         "tracks": [
+          "I CARE",
           "SOLE",
           "NEVER ENOUGH"
         ],
-        "track_count": 2
+        "track_count": 3
       },
       {
         "name": "Eminence Front",
@@ -117,19 +118,19 @@
         "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
       },
       {
-        "name": "Peter Cat Recording Co.",
-        "image": "https://i.scdn.co/image/ab6761610000517441bacc5ba605dfcc88c25733",
-        "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-      },
-      {
         "name": "Geese",
         "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "Jenny Lewis",
-        "image": "https://i.scdn.co/image/ab67616100005174283ede192772a95df45e1c91",
-        "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        "name": "The Who",
+        "image": "https://i.scdn.co/image/ab6772690000dd22456d5397bdf11547ef38ca93",
+        "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+      },
+      {
+        "name": "Fontaines D.C.",
+        "image": "https://i.scdn.co/image/ab6761610000517450d562d05673af1ca1380a07",
+        "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
       }
     ]
   },
