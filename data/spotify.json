@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T23:10:21Z",
+  "updated_at": "2026-09-18T01:47:50Z",
   "recent": {
     "top_tracks": [
       {
@@ -8,13 +8,14 @@
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
-        "played_at": "2026-09-16T23:19:23.258Z",
+        "played_at": "2026-09-18T01:36:42.521Z",
         "tracks": [
+          "DREAMING",
           "I CARE",
           "SOLE",
           "NEVER ENOUGH"
         ],
-        "track_count": 3
+        "track_count": 4
       },
       {
         "name": "Eminence Front",
