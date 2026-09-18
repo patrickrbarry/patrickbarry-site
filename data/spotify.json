@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-09-18T15:23:47Z",
+  "updated_at": "2026-09-18T18:41:18Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "NEVER ENOUGH",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6",
+        "played_at": "2026-09-18T18:19:48.340Z",
+        "tracks": [
+          "NEVER ENOUGH"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "You Oughta Know - 2015 Remaster",
+        "artist": "Alanis Morissette",
+        "album": "Jagged Little Pill (2015 Remaster)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02242e643ea07118ecf677a6ef",
+        "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV",
+        "played_at": "2026-09-18T18:14:57.183Z",
+        "tracks": [
+          "You Oughta Know - 2015 Remaster"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "3D Country",
+        "artist": "Geese",
+        "album": "3D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
+        "url": "https://open.spotify.com/track/1h0TAXegSmZzATP3MhqGbH",
+        "played_at": "2026-09-18T16:18:32.470Z",
+        "tracks": [
+          "3D Country"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "CPR",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO",
+        "played_at": "2026-09-18T16:13:42.721Z",
+        "tracks": [
+          "CPR"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "It\u2019s Like That",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/7pdMFQKwodjMjSktRduJGd",
+        "played_at": "2026-09-18T16:10:38.013Z",
+        "tracks": [
+          "It\u2019s Like That"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Crosstown Traffic",
+        "artist": "Jimi Hendrix",
+        "album": "Electric Ladyland",
+        "image": "https://i.scdn.co/image/ab67616d00001e02522088789d49e216d9818292",
+        "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY",
+        "played_at": "2026-09-18T16:07:18.122Z",
+        "tracks": [
+          "Crosstown Traffic"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "A Life of Illusion",
+        "artist": "Joe Walsh",
+        "album": "There Goes the Neighborhood",
+        "image": "https://i.scdn.co/image/ab67616d00001e02997fc258e36fb14ef0e0836c",
+        "url": "https://open.spotify.com/track/19P4fwkPhE6yVAXApFWDoF",
+        "played_at": "2026-09-18T16:04:43.325Z",
+        "tracks": [
+          "A Life of Illusion"
+        ],
+        "track_count": 1
+      },
       {
         "name": "NEVER ENOUGH",
         "artist": "Turnstile",
@@ -12,94 +96,9 @@
         "tracks": [
           "DREAMING",
           "I CARE",
-          "SOLE",
-          "NEVER ENOUGH"
+          "SOLE"
         ],
-        "track_count": 4
-      },
-      {
-        "name": "Eminence Front",
-        "artist": "The Who",
-        "album": "It's Hard",
-        "image": "https://i.scdn.co/image/ab67616d00001e02daa48b4b3385808beb8eb5db",
-        "url": "https://open.spotify.com/track/0LN5gIsS5tQSmRzQrHSaTR",
-        "played_at": "2026-09-16T23:07:09.204Z",
-        "tracks": [
-          "Eminence Front"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Cobra",
-        "artist": "Geese",
-        "album": "Getting Killed",
-        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
-        "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf",
-        "played_at": "2026-09-15T15:24:47.799Z",
-        "tracks": [
-          "Cobra"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Roman Holiday",
-        "artist": "Fontaines D.C.",
-        "album": "Skinty Fia",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b23737878e75582c2e255029",
-        "url": "https://open.spotify.com/track/4GKJALTXTwhZgLPp0usd5C",
-        "played_at": "2026-09-15T15:21:17.074Z",
-        "tracks": [
-          "Roman Holiday"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Psychos",
-        "artist": "Jenny Lewis",
-        "album": "Joy'All",
-        "image": "https://i.scdn.co/image/ab67616d00001e020338a214b104dedb8e6e16e8",
-        "url": "https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M",
-        "played_at": "2026-09-14T23:40:10.650Z",
-        "tracks": [
-          "Psychos"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "DENIAL IS A RIVER",
-        "artist": "Doechii",
-        "album": "Alligator Bites Never Heal",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b245099fe26319344ddf6054",
-        "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB",
-        "played_at": "2026-09-14T23:13:56.786Z",
-        "tracks": [
-          "DENIAL IS A RIVER"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Crusades",
-        "artist": "Geese",
-        "album": "3D Country",
-        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
-        "url": "https://open.spotify.com/track/1m6aehT6ZJkTG89OkV7lAo",
-        "played_at": "2026-09-14T23:11:21.966Z",
-        "tracks": [
-          "Crusades"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Archbishop Harold Holmes",
-        "artist": "Jack White",
-        "album": "No Name",
-        "image": "https://i.scdn.co/image/ab67616d00001e024e0e873e5b2878a26796cbdd",
-        "url": "https://open.spotify.com/track/0hIYrRFTLlG8pRjAn9tW4P",
-        "played_at": "2026-09-14T23:08:58.358Z",
-        "tracks": [
-          "Archbishop Harold Holmes"
-        ],
-        "track_count": 1
+        "track_count": 3
       }
     ],
     "top_artists": [
@@ -124,14 +123,14 @@
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "The Who",
-        "image": "https://i.scdn.co/image/ab6772690000dd22456d5397bdf11547ef38ca93",
-        "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        "name": "Alanis Morissette",
+        "image": "https://i.scdn.co/image/ab67616100005174f6a97342ccd47692b7cdf8c0",
+        "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
       },
       {
-        "name": "Fontaines D.C.",
-        "image": "https://i.scdn.co/image/ab6761610000517450d562d05673af1ca1380a07",
-        "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       }
     ]
   },
