@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T18:41:18Z",
+  "updated_at": "2026-09-18T21:19:02Z",
   "recent": {
     "top_tracks": [
       {
@@ -7,12 +7,14 @@
         "artist": "Turnstile",
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6",
-        "played_at": "2026-09-18T18:19:48.340Z",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
+        "played_at": "2026-09-18T20:18:05.205Z",
         "tracks": [
+          "I CARE",
+          "SOLE",
           "NEVER ENOUGH"
         ],
-        "track_count": 1
+        "track_count": 3
       },
       {
         "name": "You Oughta Know - 2015 Remaster",
@@ -87,18 +89,16 @@
         "track_count": 1
       },
       {
-        "name": "NEVER ENOUGH",
+        "name": "DREAMING",
         "artist": "Turnstile",
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
+        "url": "https://open.spotify.com/track/3AI0lzoJrrIl0lGo89DS9q",
         "played_at": "2026-09-18T01:36:42.521Z",
         "tracks": [
-          "DREAMING",
-          "I CARE",
-          "SOLE"
+          "DREAMING"
         ],
-        "track_count": 3
+        "track_count": 1
       }
     ],
     "top_artists": [
