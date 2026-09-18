@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T21:19:02Z",
+  "updated_at": "2026-09-18T23:41:54Z",
   "recent": {
     "top_tracks": [
       {
@@ -8,13 +8,14 @@
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
-        "played_at": "2026-09-18T20:18:05.205Z",
+        "played_at": "2026-09-18T21:44:28.937Z",
         "tracks": [
+          "DREAMING",
           "I CARE",
           "SOLE",
           "NEVER ENOUGH"
         ],
-        "track_count": 3
+        "track_count": 4
       },
       {
         "name": "You Oughta Know - 2015 Remaster",
@@ -89,14 +90,14 @@
         "track_count": 1
       },
       {
-        "name": "DREAMING",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/3AI0lzoJrrIl0lGo89DS9q",
-        "played_at": "2026-09-18T01:36:42.521Z",
+        "name": "Eminence Front",
+        "artist": "The Who",
+        "album": "It's Hard",
+        "image": "https://i.scdn.co/image/ab67616d00001e02daa48b4b3385808beb8eb5db",
+        "url": "https://open.spotify.com/track/0LN5gIsS5tQSmRzQrHSaTR",
+        "played_at": "2026-09-16T23:07:09.204Z",
         "tracks": [
-          "DREAMING"
+          "Eminence Front"
         ],
         "track_count": 1
       }
