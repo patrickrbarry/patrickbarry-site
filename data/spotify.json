@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-20T21:58:09Z",
+  "updated_at": "2026-09-20T23:48:28Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "She Cleans Up",
+        "artist": "Father John Misty",
+        "album": "Mahashmashana",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
+        "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3",
+        "played_at": "2026-09-20T23:45:03.788Z",
+        "tracks": [
+          "She Cleans Up"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Gravity Blues",
         "artist": "Geese",
@@ -88,18 +100,6 @@
           "3D Country"
         ],
         "track_count": 1
-      },
-      {
-        "name": "CPR",
-        "artist": "Wet Leg",
-        "album": "moisturizer",
-        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO",
-        "played_at": "2026-09-18T16:13:42.721Z",
-        "tracks": [
-          "CPR"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -124,14 +124,14 @@
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
+        "name": "Father John Misty",
+        "image": "https://i.scdn.co/image/ab676161000051748a78e4e37d117b9cc90a6363",
+        "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+      },
+      {
         "name": "CHIC",
         "image": "https://i.scdn.co/image/ab676161000051744c74c17081e7e0ef8b5eb323",
         "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-      },
-      {
-        "name": "Alanis Morissette",
-        "image": "https://i.scdn.co/image/ab67616100005174f6a97342ccd47692b7cdf8c0",
-        "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
       }
     ]
   },
