@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T22:53:41Z",
+  "updated_at": "2026-09-22T01:19:07Z",
   "recent": {
     "top_tracks": [
       {
@@ -7,12 +7,17 @@
         "artist": "Turnstile",
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6",
-        "played_at": "2026-09-21T00:10:25.125Z",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
+        "played_at": "2026-09-22T00:57:16.684Z",
         "tracks": [
+          "DULL",
+          "LIGHT DESIGN",
+          "DREAMING",
+          "I CARE",
+          "SOLE",
           "NEVER ENOUGH"
         ],
-        "track_count": 1
+        "track_count": 6
       },
       {
         "name": "She Cleans Up",
@@ -75,20 +80,6 @@
         "track_count": 1
       },
       {
-        "name": "NEVER ENOUGH",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
-        "played_at": "2026-09-18T21:44:28.937Z",
-        "tracks": [
-          "DREAMING",
-          "I CARE",
-          "SOLE"
-        ],
-        "track_count": 3
-      },
-      {
         "name": "You Oughta Know - 2015 Remaster",
         "artist": "Alanis Morissette",
         "album": "Jagged Little Pill (2015 Remaster)",
@@ -97,6 +88,18 @@
         "played_at": "2026-09-18T18:14:57.183Z",
         "tracks": [
           "You Oughta Know - 2015 Remaster"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "3D Country",
+        "artist": "Geese",
+        "album": "3D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
+        "url": "https://open.spotify.com/track/1h0TAXegSmZzATP3MhqGbH",
+        "played_at": "2026-09-18T16:18:32.470Z",
+        "tracks": [
+          "3D Country"
         ],
         "track_count": 1
       }
