@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T12:13:01Z",
+  "updated_at": "2026-09-22T17:23:48Z",
   "recent": {
     "top_tracks": [
       {
@@ -8,8 +8,12 @@
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
-        "played_at": "2026-09-22T05:41:32.028Z",
+        "played_at": "2026-09-22T14:26:49.811Z",
         "tracks": [
+          "DREAMING",
+          "I CARE",
+          "SOLE",
+          "NEVER ENOUGH",
           "SLOWDIVE",
           "BIRDS",
           "SEEIN\u2019 STARS",
@@ -17,11 +21,7 @@
           "LOOK OUT FOR ME",
           "SUNSHOWER",
           "DULL",
-          "LIGHT DESIGN",
-          "DREAMING",
-          "I CARE",
-          "SOLE",
-          "NEVER ENOUGH"
+          "LIGHT DESIGN"
         ],
         "track_count": 12
       },
