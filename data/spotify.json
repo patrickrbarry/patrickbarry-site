@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T01:19:07Z",
+  "updated_at": "2026-09-22T06:56:03Z",
   "recent": {
     "top_tracks": [
       {
@@ -8,8 +8,14 @@
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
-        "played_at": "2026-09-22T00:57:16.684Z",
+        "played_at": "2026-09-22T05:41:32.028Z",
         "tracks": [
+          "SLOWDIVE",
+          "BIRDS",
+          "SEEIN\u2019 STARS",
+          "CEILING",
+          "LOOK OUT FOR ME",
+          "SUNSHOWER",
           "DULL",
           "LIGHT DESIGN",
           "DREAMING",
@@ -17,7 +23,7 @@
           "SOLE",
           "NEVER ENOUGH"
         ],
-        "track_count": 6
+        "track_count": 12
       },
       {
         "name": "She Cleans Up",
