@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T23:19:58Z",
+  "updated_at": "2026-09-23T02:01:57Z",
   "recent": {
     "top_tracks": [
       {
@@ -160,18 +160,18 @@
         "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
       },
       {
-        "name": "Profane Prophecy",
-        "artist": "The Black Crowes",
-        "album": "A Pound of Feathers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
-        "url": "https://open.spotify.com/track/5vFajDtOQR7Qx8Gbf36OHO"
-      },
-      {
         "name": "NEVER ENOUGH",
         "artist": "Turnstile",
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
         "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6"
+      },
+      {
+        "name": "Profane Prophecy",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/5vFajDtOQR7Qx8Gbf36OHO"
       },
       {
         "name": "Pictures of You",
@@ -234,10 +234,10 @@
         "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
-        "name": "Drugdealer",
-        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+        "name": "Turnstile",
+        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
         "genres": [],
-        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       }
     ]
   },
