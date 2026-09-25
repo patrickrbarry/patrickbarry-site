@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T15:36:46Z",
+  "updated_at": "2026-09-25T19:37:24Z",
   "recent": {
     "top_tracks": [
       {
@@ -84,30 +84,6 @@
           "Everybody Dance - 12\" Mix"
         ],
         "track_count": 1
-      },
-      {
-        "name": "You Oughta Know - 2015 Remaster",
-        "artist": "Alanis Morissette",
-        "album": "Jagged Little Pill (2015 Remaster)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02242e643ea07118ecf677a6ef",
-        "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV",
-        "played_at": "2026-09-18T18:14:57.183Z",
-        "tracks": [
-          "You Oughta Know - 2015 Remaster"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "3D Country",
-        "artist": "Geese",
-        "album": "3D Country",
-        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
-        "url": "https://open.spotify.com/track/1h0TAXegSmZzATP3MhqGbH",
-        "played_at": "2026-09-18T16:18:32.470Z",
-        "tracks": [
-          "3D Country"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -115,6 +91,11 @@
         "name": "Turnstile",
         "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
         "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+      },
+      {
+        "name": "Father John Misty",
+        "image": "https://i.scdn.co/image/ab676161000051748a78e4e37d117b9cc90a6363",
+        "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
       },
       {
         "name": "Geese",
@@ -130,11 +111,6 @@
         "name": "The Black Crowes",
         "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-      },
-      {
-        "name": "Father John Misty",
-        "image": "https://i.scdn.co/image/ab676161000051748a78e4e37d117b9cc90a6363",
-        "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
       },
       {
         "name": "CHIC",
