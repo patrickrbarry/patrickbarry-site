@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T21:41:49Z",
+  "updated_at": "2026-09-28T00:04:01Z",
   "recent": {
     "top_tracks": [
       {
@@ -8,12 +8,14 @@
         "album": "A Pound of Feathers",
         "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
         "url": "https://open.spotify.com/album/417zi1WN5yAK4u3VOjZh13",
-        "played_at": "2026-09-27T21:40:40.771Z",
+        "played_at": "2026-09-27T22:25:37.858Z",
         "tracks": [
+          "Blood Red Regrets",
+          "It\u2019s Like That",
           "Cruel Streak",
           "Profane Prophecy"
         ],
-        "track_count": 2
+        "track_count": 4
       },
       {
         "name": "Friend of the Devil",
