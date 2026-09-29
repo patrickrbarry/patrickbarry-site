@@ -1,113 +1,105 @@
 {
-  "updated_at": "2026-09-28T20:53:01Z",
+  "updated_at": "2026-09-29T00:40:26Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "A Pound of Feathers",
-        "artist": "The Black Crowes",
-        "album": "A Pound of Feathers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
-        "url": "https://open.spotify.com/album/417zi1WN5yAK4u3VOjZh13",
-        "played_at": "2026-09-27T22:25:37.858Z",
+        "name": "Desert Skies",
+        "artist": "The Marshall Tucker Band",
+        "album": "Carolina Dreams",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dffa097b2a06622b981cae9b",
+        "url": "https://open.spotify.com/track/2UApH31mjAN7HA2Q0oe6jV",
+        "played_at": "2026-09-29T00:25:37.751Z",
         "tracks": [
-          "Blood Red Regrets",
-          "It\u2019s Like That",
-          "Cruel Streak",
-          "Profane Prophecy"
-        ],
-        "track_count": 4
-      },
-      {
-        "name": "Friend of the Devil",
-        "artist": "Grateful Dead",
-        "album": "American Beauty",
-        "image": "https://i.scdn.co/image/ab67616d00001e022088112ea9cf2508ff950559",
-        "url": "https://open.spotify.com/track/5ZLzl6T8JwqMTMdoE0nCbU",
-        "played_at": "2026-09-27T19:44:13.321Z",
-        "tracks": [
-          "Friend of the Devil"
+          "Desert Skies"
         ],
         "track_count": 1
       },
       {
-        "name": "If I Had a Tail",
-        "artist": "Queens of the Stone Age",
-        "album": "...Like Clockwork",
-        "image": "https://i.scdn.co/image/ab67616d00001e02a705b56a83b703453d8ddd04",
-        "url": "https://open.spotify.com/track/06hBdrgjUendZyH9U1WV22",
-        "played_at": "2026-09-27T19:40:19.315Z",
+        "name": "Can't You Hear Me Knocking - 2009 Mix",
+        "artist": "The Rolling Stones",
+        "album": "Sticky Fingers (Remastered)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a1d9c9969f2a7ed27e449a3c",
+        "url": "https://open.spotify.com/track/1hIQPCM3oWXrpnXmgTDaKG",
+        "played_at": "2026-09-29T00:23:37.490Z",
         "tracks": [
-          "If I Had a Tail"
+          "Can't You Hear Me Knocking - 2009 Mix"
         ],
         "track_count": 1
       },
       {
-        "name": "3's & 7's",
-        "artist": "Queens of the Stone Age",
-        "album": "3's & 7's",
-        "image": "https://i.scdn.co/image/ab6742d3000052b7125615b4d8f3cc8ddbf2eb40",
-        "url": "https://open.spotify.com/track/72xhg3Y5J9v3plLuvMLLF7",
-        "played_at": "2026-09-27T19:37:06.218Z",
+        "name": "Melissa",
+        "artist": "Allman Brothers Band",
+        "album": "Eat A Peach",
+        "image": "https://i.scdn.co/image/ab67616d00001e024bc9f9e91d7562e4b08493f5",
+        "url": "https://open.spotify.com/track/30St98Bok3jJmXdkkHVPQe",
+        "played_at": "2026-09-29T00:16:20.942Z",
         "tracks": [
-          "3's & 7's"
+          "Melissa"
         ],
         "track_count": 1
       },
       {
-        "name": "Tied Up And Swallowed",
-        "artist": "The Black Crowes",
-        "album": "amorica. (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02284c2afc4b3d272bac000b05",
-        "url": "https://open.spotify.com/track/2wbAIdIgD9ddZZUFbNP9jn",
-        "played_at": "2026-09-27T19:34:28.916Z",
+        "name": "Ramble On - 1990 Remaster",
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin II (1994 Remaster)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc4f17340773c6c3579fea0d",
+        "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd",
+        "played_at": "2026-09-29T00:12:25.716Z",
         "tracks": [
-          "Tied Up And Swallowed"
+          "Ramble On - 1990 Remaster"
         ],
         "track_count": 1
       },
       {
-        "name": "Dreams - 2004 Remaster",
-        "artist": "Fleetwood Mac",
-        "album": "Rumours (Super Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b",
-        "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz",
-        "played_at": "2026-09-27T19:03:58.003Z",
+        "name": "Strange Overtones",
+        "artist": "David Byrne",
+        "album": "Everything That Happens Will Happen Today",
+        "image": "https://i.scdn.co/image/ab67616d00001e0282dd34c5535050c6b4b37295",
+        "url": "https://open.spotify.com/track/7wXJyWtRktzx7shORVNX5B",
+        "played_at": "2026-09-29T00:07:55.456Z",
         "tracks": [
-          "Dreams - 2004 Remaster"
+          "Strange Overtones"
         ],
         "track_count": 1
       },
       {
-        "name": "Nicole Kidman",
-        "artist": "AD\u00c9LA",
-        "album": "PRIMA",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ac9d5d5263e9f03802d6864c",
-        "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J",
-        "played_at": "2026-09-27T18:59:42.177Z",
+        "name": "Short Skirt / Long Jacket",
+        "artist": "CAKE",
+        "album": "Comfort Eagle",
+        "image": "https://i.scdn.co/image/ab67616d00001e027ae6f1296b466d3c34011cb8",
+        "url": "https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7",
+        "played_at": "2026-09-29T00:03:38.987Z",
         "tracks": [
-          "Nicole Kidman"
+          "Short Skirt / Long Jacket"
         ],
         "track_count": 1
       },
       {
-        "name": "oh yeah?",
-        "artist": "Steve Lacy",
-        "album": "Oh yeah?",
-        "image": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
-        "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8",
-        "played_at": "2026-09-27T18:56:58.128Z",
+        "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
+        "artist": "Gorillaz, Shaun Ryder, Roses Gabor",
+        "album": "Demon Days",
+        "image": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
+        "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk",
+        "played_at": "2026-09-29T00:00:15.463Z",
         "tracks": [
-          "oh yeah?"
+          "DARE (feat. Shaun Ryder & Roses Gabor)"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Peaches",
+        "artist": "The Presidents Of The United States Of America",
+        "album": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec96ce38f636ef7b49460079",
+        "url": "https://open.spotify.com/track/750wm5pwuAQfnSLX8mxa5f",
+        "played_at": "2026-09-28T23:56:09.924Z",
+        "tracks": [
+          "Peaches"
         ],
         "track_count": 1
       }
     ],
     "top_artists": [
-      {
-        "name": "Turnstile",
-        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
-        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-      },
       {
         "name": "The Black Crowes",
         "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
@@ -119,19 +111,24 @@
         "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
       },
       {
-        "name": "Bradley Cooper",
-        "image": "https://i.scdn.co/image/ab676161000051749400a1dccee9f0df97847c0f",
-        "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        "name": "The Rolling Stones",
+        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
+        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
-        "name": "Grateful Dead",
-        "image": "https://i.scdn.co/image/ab67616100005174e9aa458c09e4cf7c32232f4a",
-        "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        "name": "Led Zeppelin",
+        "image": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
+        "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
       },
       {
-        "name": "Fleetwood Mac",
-        "image": "https://i.scdn.co/image/ab67616100005174c8752dd511cda8c31e9daee8",
-        "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+      },
+      {
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       }
     ]
   },
