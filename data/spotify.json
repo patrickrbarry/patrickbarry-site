@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-29T00:40:26Z",
+  "updated_at": "2026-09-29T06:19:54Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Daughter - Remastered",
+        "artist": "Pearl Jam",
+        "album": "Vs.",
+        "image": "https://i.scdn.co/image/ab67616d00001e023cd811ba3d8e0b67feb08e75",
+        "url": "https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw",
+        "played_at": "2026-09-29T01:55:13.832Z",
+        "tracks": [
+          "Daughter - Remastered"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Desert Skies",
         "artist": "The Marshall Tucker Band",
@@ -85,18 +97,6 @@
           "DARE (feat. Shaun Ryder & Roses Gabor)"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Peaches",
-        "artist": "The Presidents Of The United States Of America",
-        "album": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ec96ce38f636ef7b49460079",
-        "url": "https://open.spotify.com/track/750wm5pwuAQfnSLX8mxa5f",
-        "played_at": "2026-09-28T23:56:09.924Z",
-        "tracks": [
-          "Peaches"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -116,6 +116,11 @@
         "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
+        "name": "Pearl Jam",
+        "image": "https://i.scdn.co/image/ab67616100005174e431fb8ba17cdee73e4ce08a",
+        "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+      },
+      {
         "name": "Led Zeppelin",
         "image": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
         "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
@@ -124,11 +129,6 @@
         "name": "Geese",
         "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-      },
-      {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       }
     ]
   },
