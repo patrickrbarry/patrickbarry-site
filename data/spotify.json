@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-30T01:41:24Z",
+  "updated_at": "2026-09-30T07:35:13Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Santa Monica - Remastered 2025",
+        "artist": "Everclear",
+        "album": "Sparkle And Fade (30th Anniversary Remastered Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bbb3ef616769e83c5aa70938",
+        "url": "https://open.spotify.com/track/72oAuKZFmh2ZHiCTJGPaMh",
+        "played_at": "2026-09-30T02:49:09.534Z",
+        "tracks": [
+          "Santa Monica - Remastered 2025"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Yellow Ledbetter",
+        "artist": "Pearl Jam",
+        "album": "Jeremy",
+        "image": "https://i.scdn.co/image/ab67616d00001e028df1fdc14be33eb2c991d60f",
+        "url": "https://open.spotify.com/track/3bE5slaVEfaDreqARl6k4M",
+        "played_at": "2026-09-30T01:46:46.596Z",
+        "tracks": [
+          "Yellow Ledbetter"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "All I Really Want - 2015 Remaster",
+        "artist": "Alanis Morissette",
+        "album": "Jagged Little Pill (2015 Remaster)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02242e643ea07118ecf677a6ef",
+        "url": "https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm",
+        "played_at": "2026-09-30T01:41:43.077Z",
+        "tracks": [
+          "All I Really Want - 2015 Remaster"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Who",
         "artist": "David Byrne, St. Vincent",
@@ -61,42 +97,6 @@
           "I Sat by the Ocean"
         ],
         "track_count": 1
-      },
-      {
-        "name": "She Cleans Up",
-        "artist": "Father John Misty",
-        "album": "Mahashmashana",
-        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
-        "url": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3",
-        "played_at": "2026-09-30T01:18:47.636Z",
-        "tracks": [
-          "She Cleans Up"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Gravity Blues",
-        "artist": "Geese",
-        "album": "3D Country",
-        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
-        "url": "https://open.spotify.com/track/0ChW3R8Ce4vtrcrCpKLh9A",
-        "played_at": "2026-09-30T01:14:21.328Z",
-        "tracks": [
-          "Gravity Blues"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Wristwatch",
-        "artist": "MJ Lenderman",
-        "album": "Manning Fireworks",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
-        "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR",
-        "played_at": "2026-09-30T01:10:20.780Z",
-        "tracks": [
-          "Wristwatch"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -121,14 +121,14 @@
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
+        "name": "Pearl Jam",
+        "image": "https://i.scdn.co/image/ab67616100005174e431fb8ba17cdee73e4ce08a",
+        "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+      },
+      {
         "name": "David Byrne",
         "image": "https://i.scdn.co/image/ab67616100005174da1661b56190449e92327438",
         "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-      },
-      {
-        "name": "Led Zeppelin",
-        "image": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
-        "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
       }
     ]
   },
