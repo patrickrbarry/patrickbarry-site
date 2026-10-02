@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-02T19:36:25Z",
+  "updated_at": "2026-10-02T23:21:06Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Au Pays du Cocaine",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT",
+        "played_at": "2026-10-02T22:49:08.317Z",
+        "tracks": [
+          "Au Pays du Cocaine"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Vines",
+        "artist": "Cameron Winter",
+        "album": "Singles",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e1a4b96aab4ef7020f95e035",
+        "url": "https://open.spotify.com/track/48CTcM7RwNiKfZfI7qkcry",
+        "played_at": "2026-10-02T22:45:36.908Z",
+        "tracks": [
+          "Vines"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Heavy Metal",
+        "artist": "Cameron Winter",
+        "album": "Heavy Metal",
+        "image": "https://i.scdn.co/image/ab67616d00001e024738aa171569052376f162fe",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk",
+        "played_at": "2026-10-02T22:42:30.117Z",
+        "tracks": [
+          "Can't Keep Anything",
+          "$0",
+          "Nina + Field of Cops",
+          "We're Thinking the Same Thing",
+          "Try as I May",
+          "Cancer of the Skull",
+          "Drinking Age",
+          "Love Takes Miles",
+          "Nausica\u00e4 (Love Will Be Revealed)",
+          "The Rolling Stones"
+        ],
+        "track_count": 10
+      },
       {
         "name": "Good Will Hunting",
         "artist": "Black Country, New Road",
@@ -61,42 +106,6 @@
           "Miffed It"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Do You Think I'm Pretty",
-        "artist": "Racing Mount Pleasant",
-        "album": "Grip Your Fist, I'm Heaven Bound",
-        "image": "https://i.scdn.co/image/ab67616d00001e029d4202cfd6fd1ef1af2c993d",
-        "url": "https://open.spotify.com/track/4CbNiKt4MugG8a7eWnRID4",
-        "played_at": "2026-10-01T00:52:07.949Z",
-        "tracks": [
-          "Do You Think I'm Pretty"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Besties",
-        "artist": "Black Country, New Road",
-        "album": "Forever Howlong",
-        "image": "https://i.scdn.co/image/ab67616d00001e02876f720551132b50c9232fad",
-        "url": "https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW",
-        "played_at": "2026-10-01T00:46:25.414Z",
-        "tracks": [
-          "Besties"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Can't Keep Anything",
-        "artist": "Cameron Winter",
-        "album": "Heavy Metal",
-        "image": "https://i.scdn.co/image/ab67616d00001e024738aa171569052376f162fe",
-        "url": "https://open.spotify.com/track/7AOrOCrxCsDkHRLLiIHT19",
-        "played_at": "2026-10-01T00:42:48.709Z",
-        "tracks": [
-          "Can't Keep Anything"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -104,6 +113,11 @@
         "name": "Racing Mount Pleasant",
         "image": "https://i.scdn.co/image/ab67616100005174471317b0cdf822bbf8c4350d",
         "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+      },
+      {
+        "name": "Cameron Winter",
+        "image": "https://i.scdn.co/image/ab6761610000517470fea1b7a7a5c70c895109dc",
+        "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
       },
       {
         "name": "Geese",
@@ -116,19 +130,14 @@
         "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
       },
       {
-        "name": "Cameron Winter",
-        "image": "https://i.scdn.co/image/ab6761610000517470fea1b7a7a5c70c895109dc",
-        "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
-      },
-      {
         "name": "Dove Ellis",
         "image": "https://i.scdn.co/image/ab676161000051740a705ac13fb61aa20958fb3e",
         "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
       },
       {
-        "name": "Pearl Jam",
-        "image": "https://i.scdn.co/image/ab67616100005174e431fb8ba17cdee73e4ce08a",
-        "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        "name": "Way Dynamic",
+        "image": "https://i.scdn.co/image/ab6761610000517483d0f86e3fa5efa6ce78ef87",
+        "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
       }
     ]
   },
