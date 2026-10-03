@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03",
+  "updated_at": "2026-10-03",
   "companies": [
     {
       "name": "1Huddle",
@@ -158,6 +158,10 @@
       "group": "AI/Dev Infrastructure, Security & Web3"
     },
     {
+      "name": "Backwater Carbon",
+      "group": "Unclassified"
+    },
+    {
       "name": "Bayes",
       "group": "Modern Healthtech & Wellness"
     },
@@ -274,8 +278,16 @@
       "group": "Climate, Energy & Materials"
     },
     {
+      "name": "CheckBrain Therapeutics",
+      "group": "Unclassified"
+    },
+    {
       "name": "Chess Society",
       "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Chrysalia",
+      "group": "Unclassified"
     },
     {
       "name": "Cintara",
@@ -392,6 +404,10 @@
     {
       "name": "Echo",
       "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "EcoGovernance",
+      "group": "Unclassified"
     },
     {
       "name": "Edge Technologies",
@@ -644,6 +660,10 @@
     {
       "name": "Heronic",
       "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Hey Saturn",
+      "group": "Unclassified"
     },
     {
       "name": "Hiddenweights",
@@ -906,6 +926,10 @@
       "group": "Enterprise AI & Automation"
     },
     {
+      "name": "Mocean Energy",
+      "group": "Unclassified"
+    },
+    {
       "name": "Moria",
       "group": "Unclassified"
     },
@@ -1100,6 +1124,10 @@
     {
       "name": "Pointable",
       "group": "Enterprise AI & Automation"
+    },
+    {
+      "name": "PoliCare",
+      "group": "Unclassified"
     },
     {
       "name": "Pollen Returns",
@@ -1338,6 +1366,10 @@
       "group": "Unclassified"
     },
     {
+      "name": "Sparo.ai",
+      "group": "Unclassified"
+    },
+    {
       "name": "Sphere",
       "group": "Enterprise AI & Automation"
     },
@@ -1396,6 +1428,10 @@
     {
       "name": "Syntonym",
       "group": "AI/Dev Infrastructure, Security & Web3"
+    },
+    {
+      "name": "Taistit",
+      "group": "Unclassified"
     },
     {
       "name": "Tap Health",
