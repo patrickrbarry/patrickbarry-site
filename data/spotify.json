@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T20:15:31Z",
+  "updated_at": "2026-10-08T00:30:41Z",
   "recent": {
     "top_tracks": [
       {
@@ -110,14 +110,14 @@
     ],
     "top_artists": [
       {
-        "name": "Racing Mount Pleasant",
-        "image": "https://i.scdn.co/image/ab67616100005174471317b0cdf822bbf8c4350d",
-        "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
-      },
-      {
         "name": "Cameron Winter",
         "image": "https://i.scdn.co/image/ab6761610000517470fea1b7a7a5c70c895109dc",
         "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+      },
+      {
+        "name": "Racing Mount Pleasant",
+        "image": "https://i.scdn.co/image/ab67616100005174471317b0cdf822bbf8c4350d",
+        "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
       },
       {
         "name": "Geese",
