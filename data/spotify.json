@@ -1,100 +1,100 @@
 {
-  "updated_at": "2026-10-10T19:35:52Z",
+  "updated_at": "2026-10-10T23:00:21Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Once in a Lifetime",
-        "artist": "Talking Heads",
-        "album": "Remain in Light",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e49a405217bda217816f7bf5",
-        "url": "https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd",
-        "played_at": "2026-10-10T19:34:28.001Z",
+        "name": "I CARE",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC",
+        "played_at": "2026-10-10T22:15:23.589Z",
         "tracks": [
-          "Once in a Lifetime"
+          "I CARE"
         ],
         "track_count": 1
       },
       {
-        "name": "Just What I Needed",
+        "name": "That's All - 2007 Remaster",
+        "artist": "Genesis",
+        "album": "Genesis (2007 Remaster)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02945c366eda66495226e4a46d",
+        "url": "https://open.spotify.com/track/2zFdsAIk9r2Mi7Lmm1w3sM",
+        "played_at": "2026-10-10T21:03:33.582Z",
+        "tracks": [
+          "That's All - 2007 Remaster"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "My Best Friend's Girl",
         "artist": "The Cars",
         "album": "The Cars",
         "image": "https://i.scdn.co/image/ab67616d00001e02f725bc7907dcf15aa2c6e7b7",
-        "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN",
-        "played_at": "2026-10-10T19:30:08.503Z",
+        "url": "https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv",
+        "played_at": "2026-10-10T20:59:09.041Z",
         "tracks": [
-          "Just What I Needed"
+          "My Best Friend's Girl"
         ],
         "track_count": 1
       },
       {
-        "name": "Saved By Zero",
-        "artist": "The Fixx",
-        "album": "Synth Pop",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ea8b452227548622d2407a7f",
-        "url": "https://open.spotify.com/track/4HImDTLmK5CQbF3rhci7zx",
-        "played_at": "2026-10-10T19:26:00.946Z",
+        "name": "Come Together - Remastered 2009",
+        "artist": "The Beatles",
+        "album": "Abbey Road (Remastered 2009)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25",
+        "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD",
+        "played_at": "2026-10-10T20:55:25.779Z",
         "tracks": [
-          "Saved By Zero"
+          "Come Together - Remastered 2009"
         ],
         "track_count": 1
       },
       {
-        "name": "Everywhere",
-        "artist": "Fleetwood Mac",
-        "album": "Greatest Hits",
-        "image": "https://i.scdn.co/image/ab67616d00001e02eb832efe061888ee7ef10456",
-        "url": "https://open.spotify.com/track/1prZ0pr6XoRCxcrC3MCL0M",
-        "played_at": "2026-10-10T19:22:21.608Z",
+        "name": "Get Back - Remastered 2009",
+        "artist": "The Beatles",
+        "album": "Let It Be (Remastered 2009)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
+        "url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26",
+        "played_at": "2026-10-10T20:51:05.844Z",
         "tracks": [
-          "Everywhere"
+          "Get Back - Remastered 2009"
         ],
         "track_count": 1
       },
       {
-        "name": "Misunderstanding",
-        "artist": "Genesis",
-        "album": "Duke",
-        "image": "https://i.scdn.co/image/ab67616d00001e023a939f4b33f52c893b71d9df",
-        "url": "https://open.spotify.com/track/7zjSZQkMoGKylSq6s1rK9Y",
-        "played_at": "2026-10-10T19:17:39.203Z",
+        "name": "Take The Long Way Home - Remastered 2026",
+        "artist": "Supertramp",
+        "album": "Breakfast In America (Remastered 2026)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a924b911ffbb6aab25c48a8a",
+        "url": "https://open.spotify.com/track/2NHdponbJLd4qYnJPwJU3W",
+        "played_at": "2026-10-10T20:47:56.531Z",
         "tracks": [
-          "Misunderstanding"
+          "Take The Long Way Home - Remastered 2026"
         ],
         "track_count": 1
       },
       {
-        "name": "Pictures of You",
-        "artist": "Drugdealer, Kate Bollinger",
-        "album": "Hiding in Plain Sight",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT",
-        "played_at": "2026-10-10T19:14:27.566Z",
+        "name": "Here Comes The Sun - Remastered 2009",
+        "artist": "The Beatles",
+        "album": "Abbey Road (Remastered 2009)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25",
+        "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2",
+        "played_at": "2026-10-10T20:42:47.034Z",
         "tracks": [
-          "Pictures of You"
+          "Here Comes The Sun - Remastered 2009"
         ],
         "track_count": 1
       },
       {
-        "name": "De Do Do Do, De Da Da Da",
-        "artist": "The Police",
-        "album": "Zenyatta Mondatta (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fb1bc65edf4717e75fbc70ab",
-        "url": "https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG",
-        "played_at": "2026-10-10T19:11:19.520Z",
+        "name": "SEEIN\u2019 STARS",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO",
+        "played_at": "2026-10-10T20:39:41.345Z",
         "tracks": [
-          "De Do Do Do, De Da Da Da"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Every Little Thing She Does Is Magic",
-        "artist": "The Police",
-        "album": "Ghost In The Machine (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b7879980ef2ea7ac1cc29316",
-        "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd",
-        "played_at": "2026-10-10T19:11:17.431Z",
-        "tracks": [
-          "Every Little Thing She Does Is Magic"
+          "SEEIN\u2019 STARS"
         ],
         "track_count": 1
       }
@@ -106,29 +106,29 @@
         "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
+        "name": "The Beatles",
+        "image": "https://i.scdn.co/image/ab67616100005174357fdaf56c64a36a36741538",
+        "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      {
         "name": "The Police",
         "image": "https://i.scdn.co/image/72fe2cadb69ab59960ae3dbd29618549e4432699",
         "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
       },
       {
-        "name": "Greta Van Fleet",
-        "image": "https://i.scdn.co/image/ab67616100005174ec2b054086a86562dbd8a779",
-        "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-      },
-      {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-      },
-      {
-        "name": "Talking Heads",
-        "image": "https://i.scdn.co/image/ab67616100005174bb4de17ec7fc20b1c489e4ff",
-        "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        "name": "Genesis",
+        "image": "https://i.scdn.co/image/ab67616100005174a6a5c327ebbc1131effef2e0",
+        "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
       },
       {
         "name": "The Cars",
         "image": "https://i.scdn.co/image/8d639299dee8947d3142135f4f84dff636ff9516",
         "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+      },
+      {
+        "name": "Greta Van Fleet",
+        "image": "https://i.scdn.co/image/ab67616100005174ec2b054086a86562dbd8a779",
+        "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
       }
     ]
   },
