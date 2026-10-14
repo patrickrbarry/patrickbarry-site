@@ -1,100 +1,100 @@
 {
-  "updated_at": "2026-10-14T00:41:53Z",
+  "updated_at": "2026-10-14T05:33:52Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Dosed",
-        "artist": "Just Friends",
-        "album": "JF Crew, Vol. 1",
-        "image": "https://i.scdn.co/image/ab67616d00001e02743bcbb0dec6259fecf2db30",
-        "url": "https://open.spotify.com/track/4msK8ntW77alpOfPK0DBjW",
-        "played_at": "2026-10-14T00:40:38.333Z",
+        "name": "All I Really Want - 2015 Remaster",
+        "artist": "Alanis Morissette",
+        "album": "Jagged Little Pill (2015 Remaster)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02242e643ea07118ecf677a6ef",
+        "url": "https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm",
+        "played_at": "2026-10-14T02:30:47.367Z",
         "tracks": [
-          "Dosed"
+          "All I Really Want - 2015 Remaster"
         ],
         "track_count": 1
       },
       {
-        "name": "You Don't Have to Go",
-        "artist": "The War On Drugs",
-        "album": "A Deeper Understanding",
-        "image": "https://i.scdn.co/image/ab67616d00001e0222b42fc5bda488d3ce88a8d2",
-        "url": "https://open.spotify.com/track/4LGcYem71ZkfSnEdfvQOV1",
-        "played_at": "2026-10-14T00:36:48.140Z",
+        "name": "CPR",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO",
+        "played_at": "2026-10-14T01:30:23.942Z",
         "tracks": [
-          "You Don't Have to Go"
+          "CPR"
         ],
         "track_count": 1
       },
       {
-        "name": "Better Now (feat. Rae Morris)",
-        "artist": "Bombay Bicycle Club, Rae Morris",
-        "album": "Fantasies",
-        "image": "https://i.scdn.co/image/ab67616d00001e02c10929bfcadb91dc59e2c047",
-        "url": "https://open.spotify.com/track/0Zu5Nb2llf36AMjYd1as45",
-        "played_at": "2026-10-14T00:30:05.314Z",
+        "name": "Your New Place",
+        "artist": "Racing Mount Pleasant",
+        "album": "Racing Mount Pleasant",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
+        "url": "https://open.spotify.com/track/2QfA2znZln0n0k2zdo91RZ",
+        "played_at": "2026-10-14T01:27:34.194Z",
         "tracks": [
-          "Better Now (feat. Rae Morris)"
+          "Your New Place"
         ],
         "track_count": 1
       },
       {
-        "name": "Try Try Try",
-        "artist": "Hovvdy",
-        "album": "Big World",
-        "image": "https://i.scdn.co/image/ab67616d00001e02c74ee5477e24a0d6f70e74c9",
-        "url": "https://open.spotify.com/track/1gaqnh4kbpvosxcnZk237k",
-        "played_at": "2026-10-14T00:26:19.194Z",
+        "name": "Husbands",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y",
+        "played_at": "2026-10-14T01:20:01.346Z",
         "tracks": [
-          "Try Try Try"
+          "Husbands"
         ],
         "track_count": 1
       },
       {
-        "name": "Dig",
-        "artist": "Orlando Weeks, Rhian Teasdale",
-        "album": "LOJA",
-        "image": "https://i.scdn.co/image/ab67616d00001e02030bf1dab3552d87219bcf60",
-        "url": "https://open.spotify.com/track/678qWFrDEkdC7AbackY1ji",
-        "played_at": "2026-10-14T00:23:57.477Z",
+        "name": "Profane Prophecy",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/5vFajDtOQR7Qx8Gbf36OHO",
+        "played_at": "2026-10-14T01:15:53.070Z",
         "tracks": [
-          "Dig"
+          "Profane Prophecy"
         ],
         "track_count": 1
       },
       {
-        "name": "There Must Be More Than Blood",
-        "artist": "Car Seat Headrest",
-        "album": "Making a Door Less Open",
-        "image": "https://i.scdn.co/image/ab67616d00001e02df4ad77584998cd01e3a0c96",
-        "url": "https://open.spotify.com/track/4aLVleE09ZRl720qy9yHIp",
-        "played_at": "2026-10-14T00:21:10.210Z",
+        "name": "Keep Those Teardrops from Falling",
+        "artist": "Natalie Bergman",
+        "album": "Keep Those Teardrops from Falling",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eb74b7954e12da6249857b71",
+        "url": "https://open.spotify.com/track/6E9kv2wTdy71jwsEY14usO",
+        "played_at": "2026-10-14T01:11:38.511Z",
         "tracks": [
-          "There Must Be More Than Blood"
+          "Keep Those Teardrops from Falling"
         ],
         "track_count": 1
       },
       {
-        "name": "Come and Change My Body",
-        "artist": "Greg Freeman",
-        "album": "I Looked Out",
-        "image": "https://i.scdn.co/image/ab67616d00001e026a836e220b493897d53480cf",
-        "url": "https://open.spotify.com/track/5i7tMeZF3KMwjwb343rX7h",
-        "played_at": "2026-10-14T00:13:30.475Z",
+        "name": "Hold",
+        "artist": "Ali Angel, Tyler Ballgame",
+        "album": "Is This Really Happening?",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d873d9625dbf270ce65d4364",
+        "url": "https://open.spotify.com/track/5ONsSZlGjdQsw39BJU7O1n",
+        "played_at": "2026-10-14T01:08:53.620Z",
         "tracks": [
-          "Come and Change My Body"
+          "Hold"
         ],
         "track_count": 1
       },
       {
-        "name": "I'm All Fucked Up",
-        "artist": "This Is Lorelei",
-        "album": "Box for Buddy, Box for Star",
-        "image": "https://i.scdn.co/image/ab67616d00001e025df409c6f866c32ca4c2374e",
-        "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85",
-        "played_at": "2026-10-14T00:09:17.686Z",
+        "name": "Prism",
+        "artist": "Say She She",
+        "album": "Prism",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c643bcbaec728b040dfccbfa",
+        "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk",
+        "played_at": "2026-10-14T01:04:33.307Z",
         "tracks": [
-          "I'm All Fucked Up"
+          "Prism"
         ],
         "track_count": 1
       }
@@ -111,14 +111,14 @@
         "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
       },
       {
-        "name": "Genesis",
-        "image": "https://i.scdn.co/image/ab67616100005174a6a5c327ebbc1131effef2e0",
-        "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
-        "name": "The Cars",
-        "image": "https://i.scdn.co/image/8d639299dee8947d3142135f4f84dff636ff9516",
-        "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        "name": "Hovvdy",
+        "image": "https://i.scdn.co/image/ab67616100005174b51ac99bf2208116f683dea7",
+        "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
       },
       {
         "name": "Bombay Bicycle Club",
