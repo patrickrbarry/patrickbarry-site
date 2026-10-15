@@ -1,105 +1,100 @@
 {
-  "updated_at": "2026-10-14T22:45:07Z",
+  "updated_at": "2026-10-15T01:01:10Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "NEVER ENOUGH",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
-        "played_at": "2026-10-14T15:34:00.810Z",
+        "name": "Naina Moray",
+        "artist": "Javed Bashir, Akbar Ali, Aamir Zaki",
+        "album": "Coke Studio Season 10: Episode 4",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205695b6b1dfe9d2383befd1a",
+        "url": "https://open.spotify.com/track/1xCkdxvD6gwJmeVpu5I1kN",
+        "played_at": "2026-10-15T00:48:37.473Z",
         "tracks": [
-          "LOOK OUT FOR ME",
-          "DULL",
-          "LIGHT DESIGN",
-          "DREAMING",
-          "I CARE",
-          "SOLE"
-        ],
-        "track_count": 6
-      },
-      {
-        "name": "All I Really Want - 2015 Remaster",
-        "artist": "Alanis Morissette",
-        "album": "Jagged Little Pill (2015 Remaster)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02242e643ea07118ecf677a6ef",
-        "url": "https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm",
-        "played_at": "2026-10-14T02:30:47.367Z",
-        "tracks": [
-          "All I Really Want - 2015 Remaster"
+          "Naina Moray"
         ],
         "track_count": 1
       },
       {
-        "name": "CPR",
-        "artist": "Wet Leg",
-        "album": "moisturizer",
-        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO",
-        "played_at": "2026-10-14T01:30:23.942Z",
+        "name": "My Heart, My Life",
+        "artist": "Nusrat Fateh Ali Khan, Michael Brook",
+        "album": "Night Song (Real World Gold)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229cdec7fc93dc978bbbc8a72",
+        "url": "https://open.spotify.com/track/51kDnf9dngc5G01ncfKc9K",
+        "played_at": "2026-10-15T00:38:45.794Z",
         "tracks": [
-          "CPR"
+          "My Heart, My Life"
         ],
         "track_count": 1
       },
       {
-        "name": "Your New Place",
-        "artist": "Racing Mount Pleasant",
-        "album": "Racing Mount Pleasant",
-        "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
-        "url": "https://open.spotify.com/track/2QfA2znZln0n0k2zdo91RZ",
-        "played_at": "2026-10-14T01:27:34.194Z",
-        "tracks": [
-          "Your New Place"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Husbands",
-        "artist": "Geese",
-        "album": "Getting Killed",
-        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
-        "url": "https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y",
-        "played_at": "2026-10-14T01:20:01.346Z",
-        "tracks": [
-          "Husbands"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Profane Prophecy",
+        "name": "Hard To Handle",
         "artist": "The Black Crowes",
-        "album": "A Pound of Feathers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
-        "url": "https://open.spotify.com/track/5vFajDtOQR7Qx8Gbf36OHO",
-        "played_at": "2026-10-14T01:15:53.070Z",
+        "album": "Shake Your Money Maker",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a4d2cb95d3ea17f773db23ee",
+        "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p",
+        "played_at": "2026-10-15T00:33:05.958Z",
         "tracks": [
-          "Profane Prophecy"
+          "Hard To Handle"
         ],
         "track_count": 1
       },
       {
-        "name": "Keep Those Teardrops from Falling",
-        "artist": "Natalie Bergman",
-        "album": "Keep Those Teardrops from Falling",
-        "image": "https://i.scdn.co/image/ab67616d00001e02eb74b7954e12da6249857b71",
-        "url": "https://open.spotify.com/track/6E9kv2wTdy71jwsEY14usO",
-        "played_at": "2026-10-14T01:11:38.511Z",
+        "name": "Spiderwebs",
+        "artist": "No Doubt",
+        "album": "Tragic Kingdom",
+        "image": "https://i.scdn.co/image/ab67616d00001e026ebd5e789646a833b8f7d4ba",
+        "url": "https://open.spotify.com/track/4ZD6SiaJi75smnel0d7jl3",
+        "played_at": "2026-10-15T00:29:57.946Z",
         "tracks": [
-          "Keep Those Teardrops from Falling"
+          "Spiderwebs"
         ],
         "track_count": 1
       },
       {
-        "name": "Hold",
-        "artist": "Ali Angel, Tyler Ballgame",
-        "album": "Is This Really Happening?",
-        "image": "https://i.scdn.co/image/ab67616d00001e02d873d9625dbf270ce65d4364",
-        "url": "https://open.spotify.com/track/5ONsSZlGjdQsw39BJU7O1n",
-        "played_at": "2026-10-14T01:08:53.620Z",
+        "name": "Blister In The Sun",
+        "artist": "Violent Femmes",
+        "album": "Violent Femmes",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254096a7f898de0233d76f626",
+        "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH",
+        "played_at": "2026-10-15T00:25:31.898Z",
         "tracks": [
-          "Hold"
+          "Blister In The Sun"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Loser",
+        "artist": "Beck",
+        "album": "Mellow Gold",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b07e5a0787e609bc1f1270f8",
+        "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd",
+        "played_at": "2026-10-15T00:23:05.524Z",
+        "tracks": [
+          "Loser"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Lump",
+        "artist": "The Presidents Of The United States Of America",
+        "album": "The Presidents of The United States of America (31st Anniversary Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e027f6768b68c4d3a0647595497",
+        "url": "https://open.spotify.com/track/6OwNLglbAczjRiSPDAYBDy",
+        "played_at": "2026-10-15T00:19:10.497Z",
+        "tracks": [
+          "Lump"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Short Skirt / Long Jacket",
+        "artist": "CAKE",
+        "album": "Comfort Eagle",
+        "image": "https://i.scdn.co/image/ab67616d00001e027ae6f1296b466d3c34011cb8",
+        "url": "https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7",
+        "played_at": "2026-10-15T00:16:48.135Z",
+        "tracks": [
+          "Short Skirt / Long Jacket"
         ],
         "track_count": 1
       }
@@ -111,29 +106,29 @@
         "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        "name": "Drugdealer",
+        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       {
-        "name": "Hovvdy",
-        "image": "https://i.scdn.co/image/ab67616100005174b51ac99bf2208116f683dea7",
-        "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        "name": "Weyes Blood",
+        "image": "https://i.scdn.co/image/ab676161000051743a4a51a2de2f195ae87216e4",
+        "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
       },
       {
-        "name": "Bombay Bicycle Club",
-        "image": "https://i.scdn.co/image/ab67616100005174e210b053175600ecb893bf93",
-        "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
-        "name": "DIIV",
-        "image": "https://i.scdn.co/image/ab6761610000517496cc7952a38d7e9f7276bb4a",
-        "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        "name": "The War On Drugs",
+        "image": "https://i.scdn.co/image/ab6761610000517488db30f9428dccfa85990e1f",
+        "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
       },
       {
-        "name": "The Beatles",
-        "image": "https://i.scdn.co/image/ab67616100005174357fdaf56c64a36a36741538",
-        "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        "name": "Way Dynamic",
+        "image": "https://i.scdn.co/image/ab6761610000517483d0f86e3fa5efa6ce78ef87",
+        "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
       }
     ]
   },
