@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-16T01:52:44Z",
+  "updated_at": "2026-10-16T06:29:58Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Emily",
+        "artist": "Racing Mount Pleasant",
+        "album": "Racing Mount Pleasant",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252501e69190f5d7b6c9f7ab3",
+        "url": "https://open.spotify.com/track/7zEanUDqPrxM0RDxKxOq1v",
+        "played_at": "2026-10-16T03:02:39.936Z",
+        "tracks": [
+          "Emily"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "4D Country",
+        "artist": "Geese",
+        "album": "4D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad79bc3828b8ab70f0f896d7",
+        "url": "https://open.spotify.com/track/4s0aQv4U034HlO7hoL6Eqr",
+        "played_at": "2026-10-16T01:57:54.259Z",
+        "tracks": [
+          "4D Country"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Come Down",
         "artist": "Anderson .Paak",
@@ -73,30 +97,6 @@
           "Mr Charm"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Blue Sky",
-        "artist": "Allman Brothers Band",
-        "album": "Eat A Peach",
-        "image": "https://i.scdn.co/image/ab67616d00001e024bc9f9e91d7562e4b08493f5",
-        "url": "https://open.spotify.com/track/6iX1QW1gGIVNEItnqyvFfH",
-        "played_at": "2026-10-16T01:27:28.895Z",
-        "tracks": [
-          "Blue Sky"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Gone",
-        "artist": "The Black Crowes",
-        "album": "amorica.",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
-        "url": "https://open.spotify.com/track/1DeDhpnSSy6KQTwajbGErO",
-        "played_at": "2026-10-16T01:22:17.070Z",
-        "tracks": [
-          "Gone"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -109,6 +109,11 @@
         "name": "Drugdealer",
         "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
         "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
         "name": "The Black Crowes",
@@ -124,11 +129,6 @@
         "name": "Drug Cabin",
         "image": "https://i.scdn.co/image/ab67616d00001e025e29fc700a51b1fe774abae4",
         "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
-      },
-      {
-        "name": "Sylvie",
-        "image": "https://i.scdn.co/image/ab67616100005174b918c652272e68c89f31fd35",
-        "url": "https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ"
       }
     ]
   },
