@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-17T21:05:46Z",
+  "updated_at": "2026-10-17T23:33:32Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "She's Gone",
+        "artist": "Daryl Hall & John Oates",
+        "album": "Abandoned Luncheonette",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f0302cabc362df3517ff7e4c",
+        "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU",
+        "played_at": "2026-10-17T23:31:29.148Z",
+        "tracks": [
+          "She's Gone"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "So Into You",
+        "artist": "Atlanta Rhythm Section",
+        "album": "A Rock And Roll Alternative",
+        "image": "https://i.scdn.co/image/ab67616d00001e023b727f9b4af79eaa9f95c659",
+        "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX",
+        "played_at": "2026-10-17T23:26:16.177Z",
+        "tracks": [
+          "So Into You"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "FM",
+        "artist": "Steely Dan",
+        "album": "Gold",
+        "image": "https://i.scdn.co/image/ab67616d00001e025b126a690dc18b1b538d5433",
+        "url": "https://open.spotify.com/track/3j3AQc4yU8vrnHl5uITbho",
+        "played_at": "2026-10-17T23:21:47.942Z",
+        "tracks": [
+          "FM"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Emily",
         "artist": "Racing Mount Pleasant",
@@ -61,42 +97,6 @@
           "squabble up"
         ],
         "track_count": 1
-      },
-      {
-        "name": "King Of Pain",
-        "artist": "The Police",
-        "album": "Synchronicity (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02c8e97cafeb2acb85b21a777e",
-        "url": "https://open.spotify.com/track/1V15l05snHYHYVxerjMFGo",
-        "played_at": "2026-10-16T01:41:19.076Z",
-        "tracks": [
-          "King Of Pain"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Renegade",
-        "artist": "Styx",
-        "album": "Pieces Of Eight",
-        "image": "https://i.scdn.co/image/ab67616d00001e02f106d873a30a31efa73f4e74",
-        "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj",
-        "played_at": "2026-10-16T01:36:20.068Z",
-        "tracks": [
-          "Renegade"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Mr Charm",
-        "artist": "The Rolling Stones",
-        "album": "Foreign Tongues",
-        "image": "https://i.scdn.co/image/ab67616d00001e0213b9f6190eb9a01538240c62",
-        "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k",
-        "played_at": "2026-10-16T01:32:03.150Z",
-        "tracks": [
-          "Mr Charm"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -109,6 +109,11 @@
         "name": "Drugdealer",
         "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
         "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      {
+        "name": "Steely Dan",
+        "image": "https://i.scdn.co/image/067bf3caa525edb4e97e19b2a630ccf361897350",
+        "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
       },
       {
         "name": "Geese",
@@ -124,11 +129,6 @@
         "name": "Red Hot Chili Peppers",
         "image": "https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8",
         "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-      },
-      {
-        "name": "Drug Cabin",
-        "image": "https://i.scdn.co/image/ab67616d00001e025e29fc700a51b1fe774abae4",
-        "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
       }
     ]
   },
