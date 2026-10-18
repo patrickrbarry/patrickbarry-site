@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-10-18T21:58:45Z",
+  "updated_at": "2026-10-18T23:53:52Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Ventura Highway",
+        "artist": "America, George Martin",
+        "album": "Homecoming",
+        "image": "https://i.scdn.co/image/ab67616d00001e025e2289475a30c75dfca7d228",
+        "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW",
+        "played_at": "2026-10-18T23:48:35.389Z",
+        "tracks": [
+          "Ventura Highway"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Encore",
+        "artist": "Red Hot Chili Peppers",
+        "album": "The Getaway",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258406b3f1ac3ceaff7a64fef",
+        "url": "https://open.spotify.com/track/4VGvosVIeFMCUwHibq7a9Z",
+        "played_at": "2026-10-18T23:45:03.746Z",
+        "tracks": [
+          "Encore"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Weird Fishes / Arpeggi",
+        "artist": "Radiohead",
+        "album": "In Rainbows",
+        "image": "https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9",
+        "url": "https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S",
+        "played_at": "2026-10-18T23:40:49.482Z",
+        "tracks": [
+          "Weird Fishes / Arpeggi"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Madison",
+        "artist": "Drugdealer",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr",
+        "played_at": "2026-10-18T23:35:30.683Z",
+        "tracks": [
+          "Madison"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Bear Day (\u718a\u7684\u65e5\u5b50)",
         "artist": "Chinese American Bear",
@@ -49,54 +97,6 @@
           "The Old Law"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Automatic Stop (Live)",
-        "artist": "Alex Cameron",
-        "album": "This Ain't It",
-        "image": "https://i.scdn.co/image/ab67616d00001e02903dec803db8b0732a777a4c",
-        "url": "https://open.spotify.com/track/6iGrH2KimfOpg9vDhJdWbZ",
-        "played_at": "2026-10-17T23:39:22.811Z",
-        "tracks": [
-          "Automatic Stop (Live)"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "I Wouldn't Want to Be Like You",
-        "artist": "The Alan Parsons Project",
-        "album": "I Robot",
-        "image": "https://i.scdn.co/image/ab67616d00001e0294e8bcd042aa9c3a6c5d7064",
-        "url": "https://open.spotify.com/track/4sCCZW0ezEPAexAidFsoVm",
-        "played_at": "2026-10-17T23:34:52.408Z",
-        "tracks": [
-          "I Wouldn't Want to Be Like You"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "She's Gone",
-        "artist": "Daryl Hall & John Oates",
-        "album": "Abandoned Luncheonette",
-        "image": "https://i.scdn.co/image/ab67616d00001e02f0302cabc362df3517ff7e4c",
-        "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU",
-        "played_at": "2026-10-17T23:31:29.148Z",
-        "tracks": [
-          "She's Gone"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "So Into You",
-        "artist": "Atlanta Rhythm Section",
-        "album": "A Rock And Roll Alternative",
-        "image": "https://i.scdn.co/image/ab67616d00001e023b727f9b4af79eaa9f95c659",
-        "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX",
-        "played_at": "2026-10-17T23:26:16.177Z",
-        "tracks": [
-          "So Into You"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -106,14 +106,14 @@
         "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       {
+        "name": "Red Hot Chili Peppers",
+        "image": "https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8",
+        "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+      },
+      {
         "name": "Steely Dan",
         "image": "https://i.scdn.co/image/067bf3caa525edb4e97e19b2a630ccf361897350",
         "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-      },
-      {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
         "name": "The Black Crowes",
@@ -121,14 +121,14 @@
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
-        "name": "Red Hot Chili Peppers",
-        "image": "https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8",
-        "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-      },
-      {
         "name": "Drug Cabin",
         "image": "https://i.scdn.co/image/ab67616d00001e025e29fc700a51b1fe774abae4",
         "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+      },
+      {
+        "name": "Way Dynamic",
+        "image": "https://i.scdn.co/image/ab6761610000517483d0f86e3fa5efa6ce78ef87",
+        "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
       }
     ]
   },
