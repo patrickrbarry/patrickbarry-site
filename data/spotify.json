@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-10-19T15:55:59Z",
+  "updated_at": "2026-10-19T20:47:15Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Cutouts",
+        "artist": "The Smile",
+        "album": "Cutouts",
+        "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
+        "url": "https://open.spotify.com/album/1wOiuWSlK5pQdpQP8VgH6F",
+        "played_at": "2026-10-19T16:32:27.052Z",
+        "tracks": [
+          "Instant Psalm",
+          "Foreign Spies"
+        ],
+        "track_count": 2
+      },
       {
         "name": "A Pound of Feathers",
         "artist": "The Black Crowes",
@@ -88,18 +101,6 @@
           "Wiser Time"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Love Is",
-        "artist": "Dove Ellis",
-        "album": "Blizzard",
-        "image": "https://i.scdn.co/image/ab67616d00001e02305780793d5f230df33937b6",
-        "url": "https://open.spotify.com/track/4KU1tXxB4PiiVDhWQvA0Gi",
-        "played_at": "2026-10-19T00:09:45.299Z",
-        "tracks": [
-          "Love Is"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -119,6 +120,11 @@
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
+        "name": "The Smile",
+        "image": "https://i.scdn.co/image/ab67616100005174b43db49ce029948457972352",
+        "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+      },
+      {
         "name": "Sylvie",
         "image": "https://i.scdn.co/image/ab67616100005174b918c652272e68c89f31fd35",
         "url": "https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ"
@@ -127,11 +133,6 @@
         "name": "Steely Dan",
         "image": "https://i.scdn.co/image/067bf3caa525edb4e97e19b2a630ccf361897350",
         "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-      },
-      {
-        "name": "Racing Mount Pleasant",
-        "image": "https://i.scdn.co/image/ab67616100005174471317b0cdf822bbf8c4350d",
-        "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
       }
     ]
   },
