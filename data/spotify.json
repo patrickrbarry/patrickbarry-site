@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T03:30:35Z",
+  "updated_at": "2026-10-20T08:56:14Z",
   "recent": {
     "top_tracks": [
       {
@@ -8,8 +8,9 @@
         "album": "Cutouts",
         "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
         "url": "https://open.spotify.com/album/1wOiuWSlK5pQdpQP8VgH6F",
-        "played_at": "2026-10-20T00:11:49.884Z",
+        "played_at": "2026-10-20T03:56:18.746Z",
         "tracks": [
+          "No Words",
           "The Slip",
           "Tiptoe",
           "Don't Get Me Started",
@@ -19,7 +20,7 @@
           "Instant Psalm",
           "Foreign Spies"
         ],
-        "track_count": 8
+        "track_count": 9
       },
       {
         "name": "A Pound of Feathers",
