@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-10-21T10:42:27Z",
+  "updated_at": "2026-10-21T15:41:58Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "NEVER ENOUGH",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
+        "played_at": "2026-10-21T14:32:11.591Z",
+        "tracks": [
+          "DULL",
+          "LIGHT DESIGN",
+          "DREAMING",
+          "I CARE",
+          "SOLE",
+          "NEVER ENOUGH"
+        ],
+        "track_count": 6
+      },
       {
         "name": "Cutouts",
         "artist": "The Smile",
@@ -96,18 +113,6 @@
           "Impossible Germany"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Wiser Time",
-        "artist": "The Black Crowes",
-        "album": "amorica.",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
-        "url": "https://open.spotify.com/track/2keMShjjogSGV9h3UMGyJe",
-        "played_at": "2026-10-19T00:15:31.166Z",
-        "tracks": [
-          "Wiser Time"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -115,6 +120,11 @@
         "name": "The Smile",
         "image": "https://i.scdn.co/image/ab67616100005174b43db49ce029948457972352",
         "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+      },
+      {
+        "name": "Turnstile",
+        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
+        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
         "name": "The Black Crowes",
@@ -135,11 +145,6 @@
         "name": "Steely Dan",
         "image": "https://i.scdn.co/image/067bf3caa525edb4e97e19b2a630ccf361897350",
         "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-      },
-      {
-        "name": "Racing Mount Pleasant",
-        "image": "https://i.scdn.co/image/ab67616100005174471317b0cdf822bbf8c4350d",
-        "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
       }
     ]
   },
