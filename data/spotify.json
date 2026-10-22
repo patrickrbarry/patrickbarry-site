@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T22:50:38Z",
+  "updated_at": "2026-10-22T01:02:11Z",
   "recent": {
     "top_tracks": [
       {
@@ -172,18 +172,18 @@
         "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC"
       },
       {
-        "name": "Madison",
-        "artist": "Drugdealer",
-        "album": "Hiding in Plain Sight",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
-      },
-      {
         "name": "SOLE",
         "artist": "Turnstile",
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
         "url": "https://open.spotify.com/track/6PaSOin7Y9GnXRZ5U5sMsv"
+      },
+      {
+        "name": "Madison",
+        "artist": "Drugdealer",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
       },
       {
         "name": "Cruel Streak",
@@ -193,18 +193,18 @@
         "url": "https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn"
       },
       {
-        "name": "It\u2019s Like That",
-        "artist": "The Black Crowes",
-        "album": "A Pound of Feathers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
-        "url": "https://open.spotify.com/track/7pdMFQKwodjMjSktRduJGd"
-      },
-      {
         "name": "DREAMING",
         "artist": "Turnstile",
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
         "url": "https://open.spotify.com/track/3AI0lzoJrrIl0lGo89DS9q"
+      },
+      {
+        "name": "It\u2019s Like That",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/7pdMFQKwodjMjSktRduJGd"
       }
     ],
     "top_artists": [
