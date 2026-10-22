@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T17:42:04Z",
+  "updated_at": "2026-10-22T20:54:41Z",
   "recent": {
     "top_tracks": [
       {
@@ -8,8 +8,9 @@
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
-        "played_at": "2026-10-22T16:11:26.967Z",
+        "played_at": "2026-10-22T18:56:58.331Z",
         "tracks": [
+          "TIME IS HAPPENING",
           "SLOWDIVE",
           "BIRDS",
           "SEEIN\u2019 STARS",
@@ -23,7 +24,7 @@
           "SOLE",
           "NEVER ENOUGH"
         ],
-        "track_count": 12
+        "track_count": 13
       },
       {
         "name": "Gravity Blues",
