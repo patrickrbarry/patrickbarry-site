@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T02:12:11Z",
+  "updated_at": "2026-10-23T08:00:15Z",
   "recent": {
     "top_tracks": [
       {
@@ -8,8 +8,9 @@
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
-        "played_at": "2026-10-22T18:56:58.331Z",
+        "played_at": "2026-10-23T05:21:39.702Z",
         "tracks": [
+          "NEVER ENOUGH",
           "TIME IS HAPPENING",
           "SLOWDIVE",
           "BIRDS",
@@ -21,8 +22,7 @@
           "LIGHT DESIGN",
           "DREAMING",
           "I CARE",
-          "SOLE",
-          "NEVER ENOUGH"
+          "SOLE"
         ],
         "track_count": 13
       },
