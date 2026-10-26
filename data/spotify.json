@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T11:40:28Z",
+  "updated_at": "2026-10-26T17:44:34Z",
   "recent": {
     "top_tracks": [
       {
@@ -100,26 +100,9 @@
           "Don't Get Me Started",
           "Eyes & Mouth",
           "Colours Fly",
-          "Zero Sum",
-          "Instant Psalm",
-          "Foreign Spies"
+          "Zero Sum"
         ],
-        "track_count": 9
-      },
-      {
-        "name": "A Pound of Feathers",
-        "artist": "The Black Crowes",
-        "album": "A Pound of Feathers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
-        "url": "https://open.spotify.com/album/417zi1WN5yAK4u3VOjZh13",
-        "played_at": "2026-10-19T15:17:50.436Z",
-        "tracks": [
-          "It\u2019s Like That",
-          "Pharmacy Chronicles",
-          "Cruel Streak",
-          "Profane Prophecy"
-        ],
-        "track_count": 4
+        "track_count": 7
       }
     ],
     "top_artists": [
