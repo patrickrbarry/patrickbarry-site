@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-26T17:44:34Z",
+  "updated_at": "2026-10-26T21:58:20Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Cutouts",
+        "artist": "The Smile",
+        "album": "Cutouts",
+        "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
+        "url": "https://open.spotify.com/album/1wOiuWSlK5pQdpQP8VgH6F",
+        "played_at": "2026-10-26T20:40:11.015Z",
+        "tracks": [
+          "Don't Get Me Started",
+          "Eyes & Mouth",
+          "Colours Fly"
+        ],
+        "track_count": 3
+      },
       {
         "name": "NEVER ENOUGH",
         "artist": "Turnstile",
@@ -97,12 +111,9 @@
           "No Words",
           "The Slip",
           "Tiptoe",
-          "Don't Get Me Started",
-          "Eyes & Mouth",
-          "Colours Fly",
           "Zero Sum"
         ],
-        "track_count": 7
+        "track_count": 4
       }
     ],
     "top_artists": [
