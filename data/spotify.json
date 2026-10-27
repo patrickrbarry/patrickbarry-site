@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T01:04:00Z",
+  "updated_at": "2026-10-27T06:55:12Z",
   "recent": {
     "top_tracks": [
       {
@@ -8,15 +8,16 @@
         "album": "Cutouts",
         "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
         "url": "https://open.spotify.com/album/1wOiuWSlK5pQdpQP8VgH6F",
-        "played_at": "2026-10-26T23:30:22.434Z",
+        "played_at": "2026-10-27T03:38:33.651Z",
         "tracks": [
+          "No Words",
           "The Slip",
           "Tiptoe",
           "Don't Get Me Started",
           "Eyes & Mouth",
           "Colours Fly"
         ],
-        "track_count": 5
+        "track_count": 6
       },
       {
         "name": "NEVER ENOUGH",
@@ -99,18 +100,6 @@
         "played_at": "2026-10-22T14:59:18.341Z",
         "tracks": [
           "Remedy"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "No Words",
-        "artist": "The Smile",
-        "album": "Cutouts",
-        "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
-        "url": "https://open.spotify.com/track/5RB2TnonJj7XY0xGWiqFFk",
-        "played_at": "2026-10-20T03:56:18.746Z",
-        "tracks": [
-          "No Words"
         ],
         "track_count": 1
       }
