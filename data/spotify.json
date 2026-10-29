@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-28T23:42:54Z",
+  "updated_at": "2026-10-29T03:05:58Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "I CARE",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC",
+        "played_at": "2026-10-28T23:44:43.193Z",
+        "tracks": [
+          "I CARE"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Nausica\u00e4 (Love Will Be Revealed)",
         "artist": "Cameron Winter",
@@ -50,10 +62,9 @@
           "DULL",
           "LIGHT DESIGN",
           "DREAMING",
-          "I CARE",
           "SOLE"
         ],
-        "track_count": 13
+        "track_count": 12
       },
       {
         "name": "Gravity Blues",
@@ -100,18 +111,6 @@
         "played_at": "2026-10-22T15:04:41.134Z",
         "tracks": [
           "Mayonaise - 2011 Remaster"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Remedy",
-        "artist": "The Black Crowes",
-        "album": "The Southern Harmony And Musical Companion",
-        "image": "https://i.scdn.co/image/ab67616d00001e028d02d37cd208d1cb2e0d29a4",
-        "url": "https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo",
-        "played_at": "2026-10-22T14:59:18.341Z",
-        "tracks": [
-          "Remedy"
         ],
         "track_count": 1
       }
