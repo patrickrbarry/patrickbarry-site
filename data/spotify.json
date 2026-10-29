@@ -1,7 +1,45 @@
 {
-  "updated_at": "2026-10-29T10:29:24Z",
+  "updated_at": "2026-10-29T17:08:01Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "very little effort",
+        "artist": "julie",
+        "album": "my anti-aircraft friend",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e3bfd44b116471999e47a910",
+        "url": "https://open.spotify.com/track/1PpumpPUEhoXvXO950nIHh",
+        "played_at": "2026-10-29T16:16:53.827Z",
+        "tracks": [
+          "very little effort"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "EXPO",
+        "artist": "Ulrika Spacek",
+        "album": "EXPO",
+        "image": "https://i.scdn.co/image/ab67616d00001e02139e5e5ee332a30d762d0f71",
+        "url": "https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7",
+        "played_at": "2026-10-29T16:12:37.017Z",
+        "tracks": [
+          "Incomplete Symphony",
+          "Build a Box Then Break It",
+          "Picto"
+        ],
+        "track_count": 3
+      },
+      {
+        "name": "Wristwatch",
+        "artist": "MJ Lenderman",
+        "album": "Manning Fireworks",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
+        "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR",
+        "played_at": "2026-10-29T15:56:34.133Z",
+        "tracks": [
+          "Wristwatch"
+        ],
+        "track_count": 1
+      },
       {
         "name": "I CARE",
         "artist": "Turnstile",
@@ -52,99 +90,41 @@
         "played_at": "2026-10-23T05:21:39.702Z",
         "tracks": [
           "NEVER ENOUGH",
-          "TIME IS HAPPENING",
-          "SLOWDIVE",
-          "BIRDS",
-          "SEEIN\u2019 STARS",
-          "CEILING",
-          "LOOK OUT FOR ME",
-          "SUNSHOWER",
-          "DULL",
-          "LIGHT DESIGN",
-          "DREAMING",
-          "SOLE"
+          "TIME IS HAPPENING"
         ],
-        "track_count": 12
-      },
-      {
-        "name": "Gravity Blues",
-        "artist": "Geese",
-        "album": "3D Country",
-        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
-        "url": "https://open.spotify.com/track/0ChW3R8Ce4vtrcrCpKLh9A",
-        "played_at": "2026-10-22T15:30:27.042Z",
-        "tracks": [
-          "Gravity Blues"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Honey",
-        "artist": "Drugdealer, Weyes Blood",
-        "album": "Raw Honey",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ce468a1ffdea6162fcdb106a",
-        "url": "https://open.spotify.com/track/2kPYU6yN0LfBZC67J45MJg",
-        "played_at": "2026-10-22T15:26:12.875Z",
-        "tracks": [
-          "Honey"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Burden In My Hand",
-        "artist": "Soundgarden",
-        "album": "Down On The Upside",
-        "image": "https://i.scdn.co/image/ab67616d00001e026d70b73bcb327515e9fa8fac",
-        "url": "https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92",
-        "played_at": "2026-10-22T15:09:34.544Z",
-        "tracks": [
-          "Burden In My Hand"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Mayonaise - 2011 Remaster",
-        "artist": "The Smashing Pumpkins",
-        "album": "Siamese Dream (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e025274788f34fc7656d2856dfd",
-        "url": "https://open.spotify.com/track/0jmKzJmUEKNbC7eU8YfOiA",
-        "played_at": "2026-10-22T15:04:41.134Z",
-        "tracks": [
-          "Mayonaise - 2011 Remaster"
-        ],
-        "track_count": 1
+        "track_count": 2
       }
     ],
     "top_artists": [
-      {
-        "name": "Turnstile",
-        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
-        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-      },
       {
         "name": "The Smile",
         "image": "https://i.scdn.co/image/ab67616100005174b43db49ce029948457972352",
         "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
       },
       {
+        "name": "Ulrika Spacek",
+        "image": "https://i.scdn.co/image/ab6761610000517484b2782ca74341e3eb97b6d8",
+        "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+      },
+      {
+        "name": "Turnstile",
+        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
+        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+      },
+      {
+        "name": "julie",
+        "image": "https://i.scdn.co/image/ab67616100005174df6f45705db6110633b0c2c7",
+        "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+      },
+      {
+        "name": "MJ Lenderman",
+        "image": "https://i.scdn.co/image/ab6761610000517427fa0080c12d5330cf5562b8",
+        "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+      },
+      {
         "name": "Cameron Winter",
         "image": "https://i.scdn.co/image/ab6761610000517470fea1b7a7a5c70c895109dc",
         "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
-      },
-      {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-      },
-      {
-        "name": "Drugdealer",
-        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
-        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-      },
-      {
-        "name": "Weyes Blood",
-        "image": "https://i.scdn.co/image/ab676161000051743a4a51a2de2f195ae87216e4",
-        "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
       }
     ]
   },
