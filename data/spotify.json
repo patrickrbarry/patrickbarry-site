@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T17:08:01Z",
+  "updated_at": "2026-10-29T22:05:29Z",
   "recent": {
     "top_tracks": [
       {
@@ -86,13 +86,12 @@
         "artist": "Turnstile",
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP",
+        "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6",
         "played_at": "2026-10-23T05:21:39.702Z",
         "tracks": [
-          "NEVER ENOUGH",
-          "TIME IS HAPPENING"
+          "NEVER ENOUGH"
         ],
-        "track_count": 2
+        "track_count": 1
       }
     ],
     "top_artists": [
