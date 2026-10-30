@@ -1,100 +1,100 @@
 {
-  "updated_at": "2026-10-30T09:09:05Z",
+  "updated_at": "2026-10-30T16:18:31Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Dobro",
-        "artist": "Westside Cowboy",
-        "album": "It Goes On",
-        "image": "https://i.scdn.co/image/ab67616d00001e0259b4c22ba76349483371d480",
-        "url": "https://open.spotify.com/track/35RDVhm4ENV44tT6hL2a2B",
-        "played_at": "2026-10-30T00:08:17.760Z",
+        "name": "My Morning Song",
+        "artist": "The Black Crowes",
+        "album": "The Southern Harmony And Musical Companion",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d02d37cd208d1cb2e0d29a4",
+        "url": "https://open.spotify.com/track/12xKysXb5WxFA410BxEDT7",
+        "played_at": "2026-10-30T14:53:54.684Z",
         "tracks": [
-          "Dobro"
+          "My Morning Song"
         ],
         "track_count": 1
       },
       {
-        "name": "hello !",
-        "artist": "Martin Luke Brown",
-        "album": "man oh man !",
-        "image": "https://i.scdn.co/image/ab67616d00001e02a4ec741baa18b30e9b53a79c",
-        "url": "https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V",
-        "played_at": "2026-10-30T00:05:32.019Z",
+        "name": "Archbishop Harold Holmes",
+        "artist": "Jack White",
+        "album": "No Name",
+        "image": "https://i.scdn.co/image/ab67616d00001e024e0e873e5b2878a26796cbdd",
+        "url": "https://open.spotify.com/track/0hIYrRFTLlG8pRjAn9tW4P",
+        "played_at": "2026-10-30T14:47:31.788Z",
         "tracks": [
-          "hello !"
+          "Archbishop Harold Holmes"
         ],
         "track_count": 1
       },
       {
-        "name": "Besties",
-        "artist": "Black Country, New Road",
-        "album": "Forever Howlong",
-        "image": "https://i.scdn.co/image/ab67616d00001e02876f720551132b50c9232fad",
-        "url": "https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW",
-        "played_at": "2026-10-30T00:02:40.427Z",
+        "name": "Wanting and Waiting",
+        "artist": "The Black Crowes",
+        "album": "Happiness Bastards",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
+        "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0",
+        "played_at": "2026-10-30T14:44:33.337Z",
         "tracks": [
-          "Besties"
+          "Wanting and Waiting"
         ],
         "track_count": 1
       },
       {
-        "name": "Indu",
-        "artist": "Greg Freeman",
-        "album": "All Set The Bone",
-        "image": "https://i.scdn.co/image/ab67616d00001e02a900283332c7e44e8959ece3",
-        "url": "https://open.spotify.com/track/7jpHxGbTu4voy4jhv6u0CD",
-        "played_at": "2026-10-29T23:59:03.213Z",
+        "name": "Taxes",
+        "artist": "Geese",
+        "album": "Taxes",
+        "image": "https://i.scdn.co/image/ab67616d00001e02357b215562c3268ed1022942",
+        "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae",
+        "played_at": "2026-10-30T14:38:52.047Z",
         "tracks": [
-          "Indu"
+          "Taxes"
         ],
         "track_count": 1
       },
       {
-        "name": "Dancing in the Club",
-        "artist": "This Is Lorelei",
-        "album": "Box for Buddy, Box for Star",
-        "image": "https://i.scdn.co/image/ab67616d00001e025df409c6f866c32ca4c2374e",
-        "url": "https://open.spotify.com/track/5WgQ7cdyTatQqlVjsAtjQ2",
-        "played_at": "2026-10-29T23:54:41.004Z",
+        "name": "CPR",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO",
+        "played_at": "2026-10-30T14:35:39.136Z",
         "tracks": [
-          "Dancing in the Club"
+          "CPR"
         ],
         "track_count": 1
       },
       {
-        "name": "Earthstar",
-        "artist": "Hannah Cohen",
-        "album": "Earthstar Mountain",
-        "image": "https://i.scdn.co/image/ab67616d00001e0237b0dabacbee732e53bd098c",
-        "url": "https://open.spotify.com/track/0SC0WzJk80snenOopsPzvM",
-        "played_at": "2026-10-29T23:49:43.040Z",
+        "name": "Don't Get Me Started",
+        "artist": "The Smile",
+        "album": "Cutouts",
+        "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
+        "url": "https://open.spotify.com/track/2X5YUJgoTdpIy1r8MrEGbs",
+        "played_at": "2026-10-30T14:32:45.744Z",
         "tracks": [
-          "Earthstar"
+          "Don't Get Me Started"
         ],
         "track_count": 1
       },
       {
-        "name": "This Time I'm Present",
-        "artist": "Ulrika Spacek",
-        "album": "EXPO",
-        "image": "https://i.scdn.co/image/ab67616d00001e02139e5e5ee332a30d762d0f71",
-        "url": "https://open.spotify.com/track/3EH6QONm3eiYKaYIyEfzXD",
-        "played_at": "2026-10-29T23:45:39.264Z",
+        "name": "Santa Monica - Remastered 2025",
+        "artist": "Everclear",
+        "album": "Sparkle And Fade (30th Anniversary Remastered Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bbb3ef616769e83c5aa70938",
+        "url": "https://open.spotify.com/track/72oAuKZFmh2ZHiCTJGPaMh",
+        "played_at": "2026-10-30T14:26:50.441Z",
         "tracks": [
-          "This Time I'm Present"
+          "Santa Monica - Remastered 2025"
         ],
         "track_count": 1
       },
       {
-        "name": "SHELL ( OF A MAN )",
-        "artist": "Saya Gray",
-        "album": "SAYA",
-        "image": "https://i.scdn.co/image/ab67616d00001e0229a432d34983040d1e355554",
-        "url": "https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u",
-        "played_at": "2026-10-29T23:40:59.365Z",
+        "name": "BIRDS",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/0kshHISCRGn9MwpkbqafG4",
+        "played_at": "2026-10-30T14:23:29.351Z",
         "tracks": [
-          "SHELL ( OF A MAN )"
+          "BIRDS"
         ],
         "track_count": 1
       }
@@ -104,6 +104,16 @@
         "name": "The Smile",
         "image": "https://i.scdn.co/image/ab67616100005174b43db49ce029948457972352",
         "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+      },
+      {
+        "name": "Wild Pink",
+        "image": "https://i.scdn.co/image/ab67616100005174fa964d4c9be2abf0c222a28a",
+        "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+      },
+      {
+        "name": "Turnstile",
+        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
+        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
         "name": "Ulrika Spacek",
@@ -116,19 +126,9 @@
         "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
       },
       {
-        "name": "Wild Pink",
-        "image": "https://i.scdn.co/image/ab67616100005174fa964d4c9be2abf0c222a28a",
-        "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
-      },
-      {
         "name": "julie",
         "image": "https://i.scdn.co/image/ab67616100005174df6f45705db6110633b0c2c7",
         "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
-      },
-      {
-        "name": "feeble little horse",
-        "image": "https://i.scdn.co/image/ab67616100005174091a3365d93f8d93cc1754d9",
-        "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
       }
     ]
   },
