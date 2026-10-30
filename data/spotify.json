@@ -1,95 +1,100 @@
 {
-  "updated_at": "2026-10-29T22:05:29Z",
+  "updated_at": "2026-10-30T02:12:17Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "very little effort",
-        "artist": "julie",
-        "album": "my anti-aircraft friend",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e3bfd44b116471999e47a910",
-        "url": "https://open.spotify.com/track/1PpumpPUEhoXvXO950nIHh",
-        "played_at": "2026-10-29T16:16:53.827Z",
+        "name": "Dobro",
+        "artist": "Westside Cowboy",
+        "album": "It Goes On",
+        "image": "https://i.scdn.co/image/ab67616d00001e0259b4c22ba76349483371d480",
+        "url": "https://open.spotify.com/track/35RDVhm4ENV44tT6hL2a2B",
+        "played_at": "2026-10-30T00:08:17.760Z",
         "tracks": [
-          "very little effort"
+          "Dobro"
         ],
         "track_count": 1
       },
       {
-        "name": "EXPO",
+        "name": "hello !",
+        "artist": "Martin Luke Brown",
+        "album": "man oh man !",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a4ec741baa18b30e9b53a79c",
+        "url": "https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V",
+        "played_at": "2026-10-30T00:05:32.019Z",
+        "tracks": [
+          "hello !"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Besties",
+        "artist": "Black Country, New Road",
+        "album": "Forever Howlong",
+        "image": "https://i.scdn.co/image/ab67616d00001e02876f720551132b50c9232fad",
+        "url": "https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW",
+        "played_at": "2026-10-30T00:02:40.427Z",
+        "tracks": [
+          "Besties"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Indu",
+        "artist": "Greg Freeman",
+        "album": "All Set The Bone",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a900283332c7e44e8959ece3",
+        "url": "https://open.spotify.com/track/7jpHxGbTu4voy4jhv6u0CD",
+        "played_at": "2026-10-29T23:59:03.213Z",
+        "tracks": [
+          "Indu"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Dancing in the Club",
+        "artist": "This Is Lorelei",
+        "album": "Box for Buddy, Box for Star",
+        "image": "https://i.scdn.co/image/ab67616d00001e025df409c6f866c32ca4c2374e",
+        "url": "https://open.spotify.com/track/5WgQ7cdyTatQqlVjsAtjQ2",
+        "played_at": "2026-10-29T23:54:41.004Z",
+        "tracks": [
+          "Dancing in the Club"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Earthstar",
+        "artist": "Hannah Cohen",
+        "album": "Earthstar Mountain",
+        "image": "https://i.scdn.co/image/ab67616d00001e0237b0dabacbee732e53bd098c",
+        "url": "https://open.spotify.com/track/0SC0WzJk80snenOopsPzvM",
+        "played_at": "2026-10-29T23:49:43.040Z",
+        "tracks": [
+          "Earthstar"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "This Time I'm Present",
         "artist": "Ulrika Spacek",
         "album": "EXPO",
         "image": "https://i.scdn.co/image/ab67616d00001e02139e5e5ee332a30d762d0f71",
-        "url": "https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7",
-        "played_at": "2026-10-29T16:12:37.017Z",
+        "url": "https://open.spotify.com/track/3EH6QONm3eiYKaYIyEfzXD",
+        "played_at": "2026-10-29T23:45:39.264Z",
         "tracks": [
-          "Incomplete Symphony",
-          "Build a Box Then Break It",
-          "Picto"
-        ],
-        "track_count": 3
-      },
-      {
-        "name": "Wristwatch",
-        "artist": "MJ Lenderman",
-        "album": "Manning Fireworks",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
-        "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR",
-        "played_at": "2026-10-29T15:56:34.133Z",
-        "tracks": [
-          "Wristwatch"
+          "This Time I'm Present"
         ],
         "track_count": 1
       },
       {
-        "name": "I CARE",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC",
-        "played_at": "2026-10-28T23:44:43.193Z",
+        "name": "SHELL ( OF A MAN )",
+        "artist": "Saya Gray",
+        "album": "SAYA",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229a432d34983040d1e355554",
+        "url": "https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u",
+        "played_at": "2026-10-29T23:40:59.365Z",
         "tracks": [
-          "I CARE"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Nausica\u00e4 (Love Will Be Revealed)",
-        "artist": "Cameron Winter",
-        "album": "Heavy Metal",
-        "image": "https://i.scdn.co/image/ab67616d00001e024738aa171569052376f162fe",
-        "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N",
-        "played_at": "2026-10-28T23:41:01.605Z",
-        "tracks": [
-          "Nausica\u00e4 (Love Will Be Revealed)"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Cutouts",
-        "artist": "The Smile",
-        "album": "Cutouts",
-        "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
-        "url": "https://open.spotify.com/album/1wOiuWSlK5pQdpQP8VgH6F",
-        "played_at": "2026-10-27T03:38:33.651Z",
-        "tracks": [
-          "No Words",
-          "The Slip",
-          "Tiptoe",
-          "Don't Get Me Started",
-          "Eyes & Mouth",
-          "Colours Fly"
-        ],
-        "track_count": 6
-      },
-      {
-        "name": "NEVER ENOUGH",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6",
-        "played_at": "2026-10-23T05:21:39.702Z",
-        "tracks": [
-          "NEVER ENOUGH"
+          "SHELL ( OF A MAN )"
         ],
         "track_count": 1
       }
@@ -106,9 +111,14 @@
         "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
       },
       {
-        "name": "Turnstile",
-        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
-        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        "name": "Saya Gray",
+        "image": "https://i.scdn.co/image/ab6761610000517487566e5488cea24c83090eb7",
+        "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+      },
+      {
+        "name": "Wild Pink",
+        "image": "https://i.scdn.co/image/ab67616100005174fa964d4c9be2abf0c222a28a",
+        "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
       },
       {
         "name": "julie",
@@ -116,14 +126,9 @@
         "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
       },
       {
-        "name": "MJ Lenderman",
-        "image": "https://i.scdn.co/image/ab6761610000517427fa0080c12d5330cf5562b8",
-        "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-      },
-      {
-        "name": "Cameron Winter",
-        "image": "https://i.scdn.co/image/ab6761610000517470fea1b7a7a5c70c895109dc",
-        "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        "name": "feeble little horse",
+        "image": "https://i.scdn.co/image/ab67616100005174091a3365d93f8d93cc1754d9",
+        "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
       }
     ]
   },
