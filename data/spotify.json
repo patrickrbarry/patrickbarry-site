@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-02T18:54:44Z",
+  "updated_at": "2026-11-03T01:22:19Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Wouldn\u2019t Go To Chili\u2019s With Michael B. Jordan",
+        "artist": "Michael Christmas, Chris Crack, Girl Talk",
+        "album": "Don't Come To My House Sharing Your Location",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d3e9381203937d59e648da1e",
+        "url": "https://open.spotify.com/track/5oqtYNAQZEfsAMupZkK2v3",
+        "played_at": "2026-11-03T00:25:15.224Z",
+        "tracks": [
+          "Wouldn\u2019t Go To Chili\u2019s With Michael B. Jordan"
+        ],
+        "track_count": 1
+      },
       {
         "name": "mangetout",
         "artist": "Wet Leg",
@@ -85,26 +97,9 @@
           "Don't Get Me Started"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Santa Monica - Remastered 2025",
-        "artist": "Everclear",
-        "album": "Sparkle And Fade (30th Anniversary Remastered Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02bbb3ef616769e83c5aa70938",
-        "url": "https://open.spotify.com/track/72oAuKZFmh2ZHiCTJGPaMh",
-        "played_at": "2026-10-30T14:26:50.441Z",
-        "tracks": [
-          "Santa Monica - Remastered 2025"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
-      {
-        "name": "The Smile",
-        "image": "https://i.scdn.co/image/ab67616100005174b43db49ce029948457972352",
-        "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-      },
       {
         "name": "Wild Pink",
         "image": "https://i.scdn.co/image/ab67616100005174fa964d4c9be2abf0c222a28a",
@@ -129,6 +124,11 @@
         "name": "julie",
         "image": "https://i.scdn.co/image/ab67616100005174df6f45705db6110633b0c2c7",
         "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+      },
+      {
+        "name": "feeble little horse",
+        "image": "https://i.scdn.co/image/ab67616100005174091a3365d93f8d93cc1754d9",
+        "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
       }
     ]
   },
