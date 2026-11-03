@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03",
+  "updated_at": "2026-11-03",
   "companies": [
     {
       "name": "1Huddle",
@@ -38,6 +38,10 @@
       "group": "Unclassified"
     },
     {
+      "name": "Adept Scientific",
+      "group": "Unclassified"
+    },
+    {
       "name": "Aedificio",
       "group": "Marketplaces & Two-Sided Platforms"
     },
@@ -64,6 +68,10 @@
     {
       "name": "ai-coustics",
       "group": "Media & Content"
+    },
+    {
+      "name": "Aibi",
+      "group": "Unclassified"
     },
     {
       "name": "Airvani",
@@ -250,6 +258,10 @@
       "group": "Climate, Energy & Materials"
     },
     {
+      "name": "Canarie.ai",
+      "group": "Unclassified"
+    },
+    {
       "name": "Caras",
       "group": "AI/Dev Infrastructure, Security & Web3"
     },
@@ -340,6 +352,10 @@
     {
       "name": "Common Weal",
       "group": "Consumer Lifestyle Apps"
+    },
+    {
+      "name": "Complication",
+      "group": "Unclassified"
     },
     {
       "name": "Continua AI",
@@ -464,6 +480,10 @@
     {
       "name": "Endurivac",
       "group": "Biotech & Life Sciences"
+    },
+    {
+      "name": "Engineered Assurance (Knowmadik)",
+      "group": "Unclassified"
     },
     {
       "name": "Engram",
@@ -898,6 +918,10 @@
       "group": "Unclassified"
     },
     {
+      "name": "Mavericks Photonics",
+      "group": "Unclassified"
+    },
+    {
       "name": "Me Sensors",
       "group": "Unclassified"
     },
@@ -1030,6 +1054,10 @@
       "group": "Enterprise AI & Automation"
     },
     {
+      "name": "Opus",
+      "group": "Unclassified"
+    },
+    {
       "name": "Orbit Neuro",
       "group": "Biotech & Life Sciences"
     },
@@ -1092,6 +1120,10 @@
     {
       "name": "Phenix",
       "group": "Robotics, Aerospace & Frontier Deep Tech"
+    },
+    {
+      "name": "PhoneUse",
+      "group": "Unclassified"
     },
     {
       "name": "Pinnacle",
@@ -1294,8 +1326,8 @@
       "group": "Consumer Lifestyle Apps"
     },
     {
-      "name": "Rumel.ai",
-      "group": "AI/Dev Infrastructure, Security & Web3"
+      "name": "RUML.ai",
+      "group": "Unclassified"
     },
     {
       "name": "Sagittarius Logistics",
@@ -1312,6 +1344,10 @@
     {
       "name": "Same Day Solar",
       "group": "Climate, Energy & Materials"
+    },
+    {
+      "name": "Scintillate",
+      "group": "Unclassified"
     },
     {
       "name": "Scope",
@@ -1490,6 +1526,10 @@
       "group": "AI/Dev Infrastructure, Security & Web3"
     },
     {
+      "name": "Thrival",
+      "group": "Unclassified"
+    },
+    {
       "name": "Thymia",
       "group": "Modern Healthtech & Wellness"
     },
@@ -1550,6 +1590,10 @@
       "group": "Consumer Lifestyle Apps"
     },
     {
+      "name": "Ultracomputation",
+      "group": "Unclassified"
+    },
+    {
       "name": "Under-ctrl.ai",
       "group": "Legal, Compliance & GovTech"
     },
@@ -1590,6 +1634,10 @@
       "group": "Media & Content"
     },
     {
+      "name": "Verify Dial",
+      "group": "Unclassified"
+    },
+    {
       "name": "Veritas Labs",
       "group": "Modern Healthtech & Wellness"
     },
@@ -1620,6 +1668,10 @@
     {
       "name": "Vortex",
       "group": "Modern Healthtech & Wellness"
+    },
+    {
+      "name": "Vortice Avionics",
+      "group": "Unclassified"
     },
     {
       "name": "vxRobotics",
