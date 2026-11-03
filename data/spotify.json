@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-03T01:22:19Z",
+  "updated_at": "2026-11-03T08:43:20Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Wilted Rose (feat. Lainey Wilson)",
+        "artist": "The Black Crowes, Lainey Wilson",
+        "album": "Happiness Bastards",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
+        "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo",
+        "played_at": "2026-11-03T01:54:58.797Z",
+        "tracks": [
+          "Wilted Rose (feat. Lainey Wilson)"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Dark Necessities",
+        "artist": "Red Hot Chili Peppers",
+        "album": "The Getaway",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258406b3f1ac3ceaff7a64fef",
+        "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt",
+        "played_at": "2026-11-03T01:47:45.678Z",
+        "tracks": [
+          "Dark Necessities"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "LOOK OUT FOR ME",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/4gM6AHXp4h8aj5482znmYz",
+        "played_at": "2026-11-03T01:42:23.659Z",
+        "tracks": [
+          "LOOK OUT FOR ME"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Profane Prophecy",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/5vFajDtOQR7Qx8Gbf36OHO",
+        "played_at": "2026-11-03T01:32:43.350Z",
+        "tracks": [
+          "Profane Prophecy"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Wouldn\u2019t Go To Chili\u2019s With Michael B. Jordan",
         "artist": "Michael Christmas, Chris Crack, Girl Talk",
@@ -49,66 +97,23 @@
           "Archbishop Harold Holmes"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Wanting and Waiting",
-        "artist": "The Black Crowes",
-        "album": "Happiness Bastards",
-        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
-        "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0",
-        "played_at": "2026-10-30T14:44:33.337Z",
-        "tracks": [
-          "Wanting and Waiting"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Taxes",
-        "artist": "Geese",
-        "album": "Taxes",
-        "image": "https://i.scdn.co/image/ab67616d00001e02357b215562c3268ed1022942",
-        "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae",
-        "played_at": "2026-10-30T14:38:52.047Z",
-        "tracks": [
-          "Taxes"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "CPR",
-        "artist": "Wet Leg",
-        "album": "moisturizer",
-        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
-        "url": "https://open.spotify.com/track/0K7FxrnT2QE5O4EqjQU7kO",
-        "played_at": "2026-10-30T14:35:39.136Z",
-        "tracks": [
-          "CPR"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Don't Get Me Started",
-        "artist": "The Smile",
-        "album": "Cutouts",
-        "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
-        "url": "https://open.spotify.com/track/2X5YUJgoTdpIy1r8MrEGbs",
-        "played_at": "2026-10-30T14:32:45.744Z",
-        "tracks": [
-          "Don't Get Me Started"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
+      {
+        "name": "Turnstile",
+        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
+        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+      },
       {
         "name": "Wild Pink",
         "image": "https://i.scdn.co/image/ab67616100005174fa964d4c9be2abf0c222a28a",
         "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
       },
       {
-        "name": "Turnstile",
-        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
-        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
         "name": "Ulrika Spacek",
@@ -124,11 +129,6 @@
         "name": "julie",
         "image": "https://i.scdn.co/image/ab67616100005174df6f45705db6110633b0c2c7",
         "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
-      },
-      {
-        "name": "feeble little horse",
-        "image": "https://i.scdn.co/image/ab67616100005174091a3365d93f8d93cc1754d9",
-        "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
       }
     ]
   },
@@ -291,16 +291,16 @@
     ],
     "top_artists": [
       {
-        "name": "The Rolling Stones",
-        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-      },
-      {
         "name": "The Black Crowes",
         "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
         "genres": [],
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+      },
+      {
+        "name": "The Rolling Stones",
+        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
         "name": "Kendrick Lamar",
