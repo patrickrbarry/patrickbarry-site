@@ -1,102 +1,100 @@
 {
-  "updated_at": "2026-11-04T02:47:00Z",
+  "updated_at": "2026-11-04T10:01:33Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Still Coming Down",
-        "artist": "Wild Pink",
-        "album": "Still Coming Down",
-        "image": "https://i.scdn.co/image/ab67616d00001e0202d95ee148485aaa7b24e594",
-        "url": "https://open.spotify.com/album/6wN3opJqvIFV7g3snV9DzR",
-        "played_at": "2026-11-04T02:40:42.834Z",
+        "name": "Ventura Highway",
+        "artist": "America, George Martin",
+        "album": "Homecoming",
+        "image": "https://i.scdn.co/image/ab67616d00001e025e2289475a30c75dfca7d228",
+        "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW",
+        "played_at": "2026-11-04T06:23:39.194Z",
         "tracks": [
-          "Still Coming Down",
-          "Box Store"
+          "Ventura Highway"
         ],
-        "track_count": 2
+        "track_count": 1
       },
       {
-        "name": "SAYA",
-        "artist": "Saya Gray",
-        "album": "SAYA",
-        "image": "https://i.scdn.co/image/ab67616d00001e0229a432d34983040d1e355554",
-        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE",
-        "played_at": "2026-11-04T02:31:54.792Z",
+        "name": "I Sat by the Ocean",
+        "artist": "Queens of the Stone Age",
+        "album": "...Like Clockwork",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a705b56a83b703453d8ddd04",
+        "url": "https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG",
+        "played_at": "2026-11-04T04:50:37.230Z",
         "tracks": [
-          "LIE DOWN..",
-          "HOW LONG CAN YOU KEEP UP A LIE?"
+          "I Sat by the Ocean"
         ],
-        "track_count": 2
+        "track_count": 1
       },
       {
-        "name": "Madison",
-        "artist": "Drugdealer",
+        "name": "Pictures of You",
+        "artist": "Drugdealer, Kate Bollinger",
         "album": "Hiding in Plain Sight",
         "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr",
-        "played_at": "2026-11-04T02:18:48.275Z",
+        "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT",
+        "played_at": "2026-11-04T04:46:40.689Z",
         "tracks": [
-          "Madison"
+          "Pictures of You"
         ],
         "track_count": 1
       },
       {
-        "name": "Everything In Its Right Place",
-        "artist": "Radiohead",
-        "album": "Kid A",
-        "image": "https://i.scdn.co/image/ab67616d00001e026c7112082b63beefffe40151",
-        "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
-        "played_at": "2026-11-03T15:31:21.532Z",
-        "tracks": [
-          "Everything In Its Right Place"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Wristwatch",
-        "artist": "MJ Lenderman",
-        "album": "Manning Fireworks",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
-        "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR",
-        "played_at": "2026-11-03T15:27:24.824Z",
-        "tracks": [
-          "Wristwatch"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Ain't Wastin' Time No More",
-        "artist": "Allman Brothers Band",
-        "album": "Eat A Peach",
-        "image": "https://i.scdn.co/image/ab67616d00001e024bc9f9e91d7562e4b08493f5",
-        "url": "https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD",
-        "played_at": "2026-11-03T15:23:25.178Z",
-        "tracks": [
-          "Ain't Wastin' Time No More"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Mayonaise - 2011 Remaster",
-        "artist": "The Smashing Pumpkins",
-        "album": "Siamese Dream (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e025274788f34fc7656d2856dfd",
-        "url": "https://open.spotify.com/track/0jmKzJmUEKNbC7eU8YfOiA",
-        "played_at": "2026-11-03T15:19:48.995Z",
-        "tracks": [
-          "Mayonaise - 2011 Remaster"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "SLOWDIVE",
+        "name": "SEEIN\u2019 STARS",
         "artist": "Turnstile",
         "album": "NEVER ENOUGH",
         "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/1wNspyFiI1E9YGhJzz3AoO",
-        "played_at": "2026-11-03T15:11:37.329Z",
+        "url": "https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO",
+        "played_at": "2026-11-04T04:43:31.284Z",
         "tracks": [
-          "SLOWDIVE"
+          "SEEIN\u2019 STARS"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Karma Police",
+        "artist": "Radiohead",
+        "album": "OK Computer",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c8b444df094279e70d0ed856",
+        "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
+        "played_at": "2026-11-04T04:40:20.668Z",
+        "tracks": [
+          "Karma Police"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Luna - 2011 Remaster",
+        "artist": "The Smashing Pumpkins",
+        "album": "Siamese Dream (Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e025274788f34fc7656d2856dfd",
+        "url": "https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf",
+        "played_at": "2026-11-04T04:35:54.769Z",
+        "tracks": [
+          "Luna - 2011 Remaster"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Shallow",
+        "artist": "Lady Gaga, Bradley Cooper",
+        "album": "A Star Is Born Soundtrack",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2d156fdc691f57900134342",
+        "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B",
+        "played_at": "2026-11-04T04:32:33.051Z",
+        "tracks": [
+          "Shallow"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Do You Think I'm Pretty",
+        "artist": "Racing Mount Pleasant",
+        "album": "Grip Your Fist, I'm Heaven Bound",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d4202cfd6fd1ef1af2c993d",
+        "url": "https://open.spotify.com/track/4CbNiKt4MugG8a7eWnRID4",
+        "played_at": "2026-11-04T04:28:56.748Z",
+        "tracks": [
+          "Do You Think I'm Pretty"
         ],
         "track_count": 1
       }
@@ -108,9 +106,9 @@
         "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
       },
       {
-        "name": "Saya Gray",
-        "image": "https://i.scdn.co/image/ab6761610000517487566e5488cea24c83090eb7",
-        "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        "name": "Drugdealer",
+        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       {
         "name": "Turnstile",
@@ -118,19 +116,19 @@
         "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
+        "name": "Radiohead",
+        "image": "https://i.scdn.co/image/ab67616100005174959527d2fabc9c64287e57b9",
+        "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+      },
+      {
+        "name": "Fontaines D.C.",
+        "image": "https://i.scdn.co/image/ab6761610000517450d562d05673af1ca1380a07",
+        "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+      },
+      {
         "name": "The Black Crowes",
         "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-      },
-      {
-        "name": "Drugdealer",
-        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
-        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-      },
-      {
-        "name": "Wet Leg",
-        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
-        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       }
     ]
   },
