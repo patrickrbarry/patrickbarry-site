@@ -1,7 +1,45 @@
 {
-  "updated_at": "2026-11-03T22:06:08Z",
+  "updated_at": "2026-11-04T02:47:00Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Still Coming Down",
+        "artist": "Wild Pink",
+        "album": "Still Coming Down",
+        "image": "https://i.scdn.co/image/ab67616d00001e0202d95ee148485aaa7b24e594",
+        "url": "https://open.spotify.com/album/6wN3opJqvIFV7g3snV9DzR",
+        "played_at": "2026-11-04T02:40:42.834Z",
+        "tracks": [
+          "Still Coming Down",
+          "Box Store"
+        ],
+        "track_count": 2
+      },
+      {
+        "name": "SAYA",
+        "artist": "Saya Gray",
+        "album": "SAYA",
+        "image": "https://i.scdn.co/image/ab67616d00001e0229a432d34983040d1e355554",
+        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE",
+        "played_at": "2026-11-04T02:31:54.792Z",
+        "tracks": [
+          "LIE DOWN..",
+          "HOW LONG CAN YOU KEEP UP A LIE?"
+        ],
+        "track_count": 2
+      },
+      {
+        "name": "Madison",
+        "artist": "Drugdealer",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr",
+        "played_at": "2026-11-04T02:18:48.275Z",
+        "tracks": [
+          "Madison"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Everything In Its Right Place",
         "artist": "Radiohead",
@@ -61,59 +99,13 @@
           "SLOWDIVE"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Wilted Rose (feat. Lainey Wilson)",
-        "artist": "The Black Crowes, Lainey Wilson",
-        "album": "Happiness Bastards",
-        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
-        "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo",
-        "played_at": "2026-11-03T01:54:58.797Z",
-        "tracks": [
-          "Wilted Rose (feat. Lainey Wilson)"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Dark Necessities",
-        "artist": "Red Hot Chili Peppers",
-        "album": "The Getaway",
-        "image": "https://i.scdn.co/image/ab67616d00001e0258406b3f1ac3ceaff7a64fef",
-        "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt",
-        "played_at": "2026-11-03T01:47:45.678Z",
-        "tracks": [
-          "Dark Necessities"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "LOOK OUT FOR ME",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/4gM6AHXp4h8aj5482znmYz",
-        "played_at": "2026-11-03T01:42:23.659Z",
-        "tracks": [
-          "LOOK OUT FOR ME"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
       {
-        "name": "Turnstile",
-        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
-        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-      },
-      {
         "name": "Wild Pink",
         "image": "https://i.scdn.co/image/ab67616100005174fa964d4c9be2abf0c222a28a",
         "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
-      },
-      {
-        "name": "The Black Crowes",
-        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
-        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
         "name": "Saya Gray",
@@ -121,14 +113,24 @@
         "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
       },
       {
-        "name": "julie",
-        "image": "https://i.scdn.co/image/ab67616100005174df6f45705db6110633b0c2c7",
-        "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+        "name": "Turnstile",
+        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
+        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
-        "name": "Ulrika Spacek",
-        "image": "https://i.scdn.co/image/ab6761610000517484b2782ca74341e3eb97b6d8",
-        "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+      },
+      {
+        "name": "Drugdealer",
+        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      {
+        "name": "Wet Leg",
+        "image": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+        "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
       }
     ]
   },
@@ -254,18 +256,18 @@
         "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
       },
       {
-        "name": "Teleharmonic",
-        "artist": "The Smile",
-        "album": "Wall Of Eyes",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
-        "url": "https://open.spotify.com/track/6o2yIQVzajJjRrgICzcfAf"
-      },
-      {
         "name": "man at the garden",
         "artist": "Kendrick Lamar",
         "album": "GNX",
         "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
         "url": "https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz"
+      },
+      {
+        "name": "Teleharmonic",
+        "artist": "The Smile",
+        "album": "Wall Of Eyes",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
+        "url": "https://open.spotify.com/track/6o2yIQVzajJjRrgICzcfAf"
       },
       {
         "name": "Cobra",
@@ -282,11 +284,11 @@
         "url": "https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu"
       },
       {
-        "name": "Read The Room",
-        "artist": "The Smile",
-        "album": "Wall Of Eyes",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ec5757cdfeb9a29df135c96d",
-        "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
+        "name": "reincarnated",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
+        "url": "https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai"
       }
     ],
     "top_artists": [
@@ -297,16 +299,16 @@
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
-        "name": "The Rolling Stones",
-        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
-        "genres": [],
-        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-      },
-      {
         "name": "Kendrick Lamar",
         "image": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
         "genres": [],
         "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      {
+        "name": "The Rolling Stones",
+        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
+        "genres": [],
+        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       },
       {
         "name": "Geese",
