@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-11-05T20:51:23Z",
+  "updated_at": "2026-11-06T01:12:40Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "4D Country",
+        "artist": "Geese",
+        "album": "4D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad79bc3828b8ab70f0f896d7",
+        "url": "https://open.spotify.com/track/4s0aQv4U034HlO7hoL6Eqr",
+        "played_at": "2026-11-06T00:26:53.066Z",
+        "tracks": [
+          "4D Country"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Santa Monica - Remastered 2025",
+        "artist": "Everclear",
+        "album": "Sparkle And Fade (30th Anniversary Remastered Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bbb3ef616769e83c5aa70938",
+        "url": "https://open.spotify.com/track/72oAuKZFmh2ZHiCTJGPaMh",
+        "played_at": "2026-11-06T00:19:57.153Z",
+        "tracks": [
+          "Santa Monica - Remastered 2025"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Nausica\u00e4 (Love Will Be Revealed)",
+        "artist": "Cameron Winter",
+        "album": "Heavy Metal",
+        "image": "https://i.scdn.co/image/ab67616d00001e024738aa171569052376f162fe",
+        "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N",
+        "played_at": "2026-11-06T00:16:40.993Z",
+        "tracks": [
+          "Nausica\u00e4 (Love Will Be Revealed)"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "NEVER ENOUGH",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6",
+        "played_at": "2026-11-06T00:13:11.545Z",
+        "tracks": [
+          "NEVER ENOUGH"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Husbands",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y",
+        "played_at": "2026-11-06T00:08:37.731Z",
+        "tracks": [
+          "Husbands"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Ventura Highway",
         "artist": "America, George Martin",
@@ -37,66 +97,6 @@
           "Pictures of You"
         ],
         "track_count": 1
-      },
-      {
-        "name": "SEEIN\u2019 STARS",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO",
-        "played_at": "2026-11-04T04:43:31.284Z",
-        "tracks": [
-          "SEEIN\u2019 STARS"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Karma Police",
-        "artist": "Radiohead",
-        "album": "OK Computer",
-        "image": "https://i.scdn.co/image/ab67616d00001e02c8b444df094279e70d0ed856",
-        "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
-        "played_at": "2026-11-04T04:40:20.668Z",
-        "tracks": [
-          "Karma Police"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Luna - 2011 Remaster",
-        "artist": "The Smashing Pumpkins",
-        "album": "Siamese Dream (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e025274788f34fc7656d2856dfd",
-        "url": "https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf",
-        "played_at": "2026-11-04T04:35:54.769Z",
-        "tracks": [
-          "Luna - 2011 Remaster"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Shallow",
-        "artist": "Lady Gaga, Bradley Cooper",
-        "album": "A Star Is Born Soundtrack",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2d156fdc691f57900134342",
-        "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B",
-        "played_at": "2026-11-04T04:32:33.051Z",
-        "tracks": [
-          "Shallow"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Do You Think I'm Pretty",
-        "artist": "Racing Mount Pleasant",
-        "album": "Grip Your Fist, I'm Heaven Bound",
-        "image": "https://i.scdn.co/image/ab67616d00001e029d4202cfd6fd1ef1af2c993d",
-        "url": "https://open.spotify.com/track/4CbNiKt4MugG8a7eWnRID4",
-        "played_at": "2026-11-04T04:28:56.748Z",
-        "tracks": [
-          "Do You Think I'm Pretty"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -109,6 +109,11 @@
         "name": "Drugdealer",
         "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
         "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
         "name": "Turnstile",
@@ -124,11 +129,6 @@
         "name": "Fontaines D.C.",
         "image": "https://i.scdn.co/image/ab6761610000517450d562d05673af1ca1380a07",
         "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-      },
-      {
-        "name": "The Black Crowes",
-        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
-        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       }
     ]
   },
