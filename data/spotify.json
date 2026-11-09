@@ -1,114 +1,115 @@
 {
-  "updated_at": "2026-11-08T20:49:33Z",
+  "updated_at": "2026-11-09T00:11:22Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Classical",
-        "artist": "Vampire Weekend",
-        "album": "Only God Was Above Us",
-        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
-        "url": "https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL",
-        "played_at": "2026-11-07T23:20:36.995Z",
+        "name": "Honora",
+        "artist": "Flea, Thom Yorke",
+        "album": "Honora",
+        "image": "https://i.scdn.co/image/ab67616d00001e02017eb062be58097ec134eeb6",
+        "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM",
+        "played_at": "2026-11-09T00:07:24.745Z",
         "tracks": [
-          "Classical"
+          "Traffic Lights (feat. Thom Yorke)",
+          "Golden Wingship"
+        ],
+        "track_count": 2
+      },
+      {
+        "name": "Crosseyed and Painless",
+        "artist": "Talking Heads",
+        "album": "Remain in Light",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e49a405217bda217816f7bf5",
+        "url": "https://open.spotify.com/track/0Qmu2DYKupUetYUbxqvtw2",
+        "played_at": "2026-11-08T23:49:18.047Z",
+        "tracks": [
+          "Crosseyed and Painless"
         ],
         "track_count": 1
       },
       {
-        "name": "Nausica\u00e4 (Love Will Be Revealed)",
-        "artist": "Cameron Winter",
-        "album": "Heavy Metal",
-        "image": "https://i.scdn.co/image/ab67616d00001e024738aa171569052376f162fe",
-        "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N",
-        "played_at": "2026-11-07T23:16:16.567Z",
+        "name": "Thinkin Bout You",
+        "artist": "Frank Ocean",
+        "album": "channel ORANGE",
+        "image": "https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5",
+        "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau",
+        "played_at": "2026-11-08T23:44:31.796Z",
         "tracks": [
-          "Nausica\u00e4 (Love Will Be Revealed)"
+          "Thinkin Bout You"
         ],
         "track_count": 1
       },
       {
-        "name": "FM",
-        "artist": "Steely Dan",
-        "album": "Gold",
-        "image": "https://i.scdn.co/image/ab67616d00001e025b126a690dc18b1b538d5433",
-        "url": "https://open.spotify.com/track/3j3AQc4yU8vrnHl5uITbho",
-        "played_at": "2026-11-07T23:12:04.427Z",
+        "name": "Magic Man",
+        "artist": "Heart",
+        "album": "Dreamboat Annie",
+        "image": "https://i.scdn.co/image/ab67616d00001e028e8c08ca2feb999bb84f05e6",
+        "url": "https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE",
+        "played_at": "2026-11-08T23:41:10.592Z",
         "tracks": [
-          "FM"
+          "Magic Man"
         ],
         "track_count": 1
       },
       {
-        "name": "Josie",
-        "artist": "Steely Dan",
-        "album": "Aja",
-        "image": "https://i.scdn.co/image/ab67616d00001e02cf39e4261576717ff4737bb6",
-        "url": "https://open.spotify.com/track/1QgLpUJsmrLG61KDVGT0Ux",
-        "played_at": "2026-11-07T23:06:57.113Z",
+        "name": "Monkey Man",
+        "artist": "The Rolling Stones",
+        "album": "Let It Bleed",
+        "image": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99",
+        "url": "https://open.spotify.com/track/5m6livL7ccIS92wq16n52r",
+        "played_at": "2026-11-08T23:35:41.742Z",
         "tracks": [
-          "Josie"
+          "Monkey Man"
         ],
         "track_count": 1
       },
       {
-        "name": "Madison",
-        "artist": "Drugdealer",
-        "album": "Hiding in Plain Sight",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
-        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr",
-        "played_at": "2026-11-07T23:02:23.050Z",
-        "tracks": [
-          "Madison"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "The Glutton Of Sympathy",
-        "artist": "Jellyfish",
-        "album": "Spilt Milk (Remastered)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e47cbfb7579a40f7290709ca",
-        "url": "https://open.spotify.com/track/596ArCuXePryoxTG8lIwL1",
-        "played_at": "2026-11-07T22:58:40.009Z",
-        "tracks": [
-          "The Glutton Of Sympathy"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "When The World Is Running Down, You Make The Best Of What's Still Around",
+        "name": "Driven To Tears",
         "artist": "The Police",
         "album": "Zenyatta Mondatta (Remastered 2003)",
         "image": "https://i.scdn.co/image/ab67616d00001e02fb1bc65edf4717e75fbc70ab",
-        "url": "https://open.spotify.com/track/2e2P8zydI5GtcaVhTkOYa9",
-        "played_at": "2026-11-07T22:54:49.810Z",
+        "url": "https://open.spotify.com/track/3ixzqclumr9K5ZY8xcdo0O",
+        "played_at": "2026-11-08T23:20:28.949Z",
         "tracks": [
-          "When The World Is Running Down, You Make The Best Of What's Still Around"
+          "Driven To Tears"
         ],
         "track_count": 1
       },
       {
-        "name": "Don't You (Forget About Me)",
-        "artist": "Simple Minds",
-        "album": "Once Upon A Time (Super Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d00001e025695a657aef0e81bde0c6001",
-        "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9",
-        "played_at": "2026-11-07T22:51:12.714Z",
+        "name": "Girlfriend Is Better - 2005 Remaster",
+        "artist": "Talking Heads",
+        "album": "Speaking in Tongues (Deluxe Version)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e35e2e2a4bfa8a30a78fc532",
+        "url": "https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY",
+        "played_at": "2026-11-08T23:17:07.948Z",
         "tracks": [
-          "Don't You (Forget About Me)"
+          "Girlfriend Is Better - 2005 Remaster"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Long Distance Call",
+        "artist": "Phoenix",
+        "album": "It's Never Been Like that",
+        "image": "https://i.scdn.co/image/ab67616d00001e0293c62e395149030493e44c18",
+        "url": "https://open.spotify.com/track/0TlW92uDXodbICTayeWXGJ",
+        "played_at": "2026-11-08T23:11:24.018Z",
+        "tracks": [
+          "Long Distance Call"
         ],
         "track_count": 1
       }
     ],
     "top_artists": [
       {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-      },
-      {
         "name": "Vampire Weekend",
         "image": "https://i.scdn.co/image/ab676161000051740bb49b0b71ab3f5871860617",
         "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+      },
+      {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
         "name": "Steely Dan",
@@ -116,19 +117,19 @@
         "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
       },
       {
-        "name": "Cameron Winter",
-        "image": "https://i.scdn.co/image/ab6761610000517470fea1b7a7a5c70c895109dc",
-        "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        "name": "Flea",
+        "image": "https://i.scdn.co/image/ab676161000051741d3d1629faf335838faeafa3",
+        "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
       },
       {
-        "name": "Drugdealer",
-        "image": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
-        "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        "name": "Talking Heads",
+        "image": "https://i.scdn.co/image/ab67616100005174bb4de17ec7fc20b1c489e4ff",
+        "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
       },
       {
-        "name": "CAKE",
-        "image": "https://i.scdn.co/image/ab67616100005174b8bf71301acec36f0256c0f8",
-        "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        "name": "The Rolling Stones",
+        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
+        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       }
     ]
   },
@@ -282,11 +283,11 @@
         "url": "https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu"
       },
       {
-        "name": "reincarnated",
-        "artist": "Kendrick Lamar",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
-        "url": "https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai"
+        "name": "Madison",
+        "artist": "Drugdealer",
+        "album": "Hiding in Plain Sight",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e206a794a9ec45516eb6de6d",
+        "url": "https://open.spotify.com/track/7nVLwt95qTvBUZmYRyggRr"
       }
     ],
     "top_artists": [
