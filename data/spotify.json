@@ -1,16 +1,101 @@
 {
-  "updated_at": "2026-11-12T13:22:06Z",
+  "updated_at": "2026-11-12T21:11:13Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Where the Money Flows",
+        "name": "Bad Company (Deluxe)",
+        "artist": "Bad Company",
+        "album": "Bad Company (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d00001e029adafd7f9d57380d1d0373af",
+        "url": "https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p",
+        "played_at": "2026-11-12T21:07:25.708Z",
+        "tracks": [
+          "Movin' On - 2015 Remaster",
+          "Bad Company - 2015 Remaster",
+          "Don't Let Me Down - 2015 Remaster",
+          "Can't Get Enough - 2015 Remaster",
+          "Rock Steady - 2015 Remaster"
+        ],
+        "track_count": 5
+      },
+      {
+        "name": "Kids Fallin' In Love",
+        "artist": "DOPE LEMON",
+        "album": "Rose Pink Cadillac",
+        "image": "https://i.scdn.co/image/ab67616d00001e024e2ac74342d72cad3d1fb747",
+        "url": "https://open.spotify.com/track/4FAi3DmONBBSzN60yYhAUR",
+        "played_at": "2026-11-12T20:45:46.175Z",
+        "tracks": [
+          "Kids Fallin' In Love"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Lone Ranger",
+        "artist": "Matt Duncan",
+        "album": "Soft Times",
+        "image": "https://i.scdn.co/image/ab67616d00001e0291de01c0b193ea2d021bb739",
+        "url": "https://open.spotify.com/track/6ve0djnLEFcbhMP2n76krY",
+        "played_at": "2026-11-12T20:41:58.320Z",
+        "tracks": [
+          "Lone Ranger"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Foolmuse",
+        "artist": "Peter Cat Recording Co.",
+        "album": "BETA",
+        "image": "https://i.scdn.co/image/ab67616d00001e023db57df610057ad23fd54de1",
+        "url": "https://open.spotify.com/track/7ab0HieXGKChMstA42bn69",
+        "played_at": "2026-11-12T20:38:32.437Z",
+        "tracks": [
+          "Foolmuse"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Bismillah",
         "artist": "Peter Cat Recording Co.",
         "album": "Bismillah",
         "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
-        "url": "https://open.spotify.com/track/5lzMkZFiPYJ4ceVwaYcWlP",
-        "played_at": "2026-11-10T01:15:08.044Z",
+        "url": "https://open.spotify.com/album/3bmnc6GjltS6zD8elSBjCq",
+        "played_at": "2026-11-12T20:34:11.410Z",
         "tracks": [
+          "Shit I'm Dreaming",
+          "Remain in Me",
+          "I'm This",
+          "Heera",
+          "Freezing",
+          "Memory Box",
+          "Vishnu",
+          "Soulless Friends",
+          "Floated By",
           "Where the Money Flows"
+        ],
+        "track_count": 10
+      },
+      {
+        "name": "Mountain Jam (Theme From \u201cFirst There Is A Mountain\u201d) - Live At The Fillmore East, March 12 & 13, 1971",
+        "artist": "Allman Brothers Band",
+        "album": "At Fillmore East (Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ed1a8256220c99c14a580db7",
+        "url": "https://open.spotify.com/track/0wp5kUryIlDFR1jVXN6i3b",
+        "played_at": "2026-11-10T01:47:58.027Z",
+        "tracks": [
+          "Mountain Jam (Theme From \u201cFirst There Is A Mountain\u201d) - Live At The Fillmore East, March 12 & 13, 1971"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Tonight, Tonight, Tonight - Live in Rome, 2007",
+        "artist": "Genesis",
+        "album": "Tonight, Tonight, Tonight (Live in Rome, 2007)",
+        "image": "https://i.scdn.co/image/ab6742d3000052b799a516c3934618d9166c7bcf",
+        "url": "https://open.spotify.com/track/0dU0yXOzUVfJjDhPgC6ZNs",
+        "played_at": "2026-11-10T01:47:58.027Z",
+        "tracks": [
+          "Tonight, Tonight, Tonight - Live in Rome, 2007"
         ],
         "track_count": 1
       },
@@ -25,86 +110,18 @@
           "Take The Money And Run"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Eat A Peach",
-        "artist": "Allman Brothers Band",
-        "album": "Eat A Peach",
-        "image": "https://i.scdn.co/image/ab67616d00001e024bc9f9e91d7562e4b08493f5",
-        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs",
-        "played_at": "2026-11-10T01:05:17.879Z",
-        "tracks": [
-          "Melissa",
-          "Ain't Wastin' Time No More"
-        ],
-        "track_count": 2
-      },
-      {
-        "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-        "artist": "Talking Heads",
-        "album": "Speaking in Tongues (Deluxe Version)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e35e2e2a4bfa8a30a78fc532",
-        "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or",
-        "played_at": "2026-11-10T00:41:25.705Z",
-        "tracks": [
-          "This Must Be the Place (Naive Melody) - 2005 Remaster"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Everywhere",
-        "artist": "Fleetwood Mac",
-        "album": "Greatest Hits",
-        "image": "https://i.scdn.co/image/ab67616d00001e02eb832efe061888ee7ef10456",
-        "url": "https://open.spotify.com/track/1prZ0pr6XoRCxcrC3MCL0M",
-        "played_at": "2026-11-10T00:36:29.143Z",
-        "tracks": [
-          "Everywhere"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "My Best Friend's Girl",
-        "artist": "The Cars",
-        "album": "The Cars",
-        "image": "https://i.scdn.co/image/ab67616d00001e02f725bc7907dcf15aa2c6e7b7",
-        "url": "https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv",
-        "played_at": "2026-11-10T00:32:45.849Z",
-        "tracks": [
-          "My Best Friend's Girl"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Message In A Bottle",
-        "artist": "The Police",
-        "album": "Reggatta De Blanc (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e028ec81cc654b45ade8bdf1486",
-        "url": "https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO",
-        "played_at": "2026-11-10T00:29:02.085Z",
-        "tracks": [
-          "Message In A Bottle"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Chicago",
-        "artist": "Michael Jackson",
-        "album": "XSCAPE",
-        "image": "https://i.scdn.co/image/ab67616d00001e0235f36cb686b0d5a12ab3a9f0",
-        "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP",
-        "played_at": "2026-11-10T00:14:15.577Z",
-        "tracks": [
-          "Chicago"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
       {
-        "name": "Steely Dan",
-        "image": "https://i.scdn.co/image/067bf3caa525edb4e97e19b2a630ccf361897350",
-        "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        "name": "Peter Cat Recording Co.",
+        "image": "https://i.scdn.co/image/ab6761610000517441bacc5ba605dfcc88c25733",
+        "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+      },
+      {
+        "name": "Bad Company",
+        "image": "https://i.scdn.co/image/5533763367069f897bd7ff7d1af605fdebdc3cda",
+        "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
       },
       {
         "name": "Allman Brothers Band",
@@ -112,24 +129,19 @@
         "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
       },
       {
+        "name": "Genesis",
+        "image": "https://i.scdn.co/image/ab67616100005174a6a5c327ebbc1131effef2e0",
+        "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+      },
+      {
         "name": "Talking Heads",
         "image": "https://i.scdn.co/image/ab67616100005174bb4de17ec7fc20b1c489e4ff",
         "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
       },
       {
-        "name": "The Police",
-        "image": "https://i.scdn.co/image/72fe2cadb69ab59960ae3dbd29618549e4432699",
-        "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-      },
-      {
         "name": "Flea",
         "image": "https://i.scdn.co/image/ab676161000051741d3d1629faf335838faeafa3",
         "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
-      },
-      {
-        "name": "Steve Miller Band",
-        "image": "https://i.scdn.co/image/ab67616100005174624ddceb90bdf808ed4e2e35",
-        "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
       }
     ]
   },
