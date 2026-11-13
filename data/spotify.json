@@ -1,122 +1,109 @@
 {
-  "updated_at": "2026-11-12T21:11:13Z",
+  "updated_at": "2026-11-13T02:12:10Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Bad Company (Deluxe)",
-        "artist": "Bad Company",
-        "album": "Bad Company (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d00001e029adafd7f9d57380d1d0373af",
-        "url": "https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p",
-        "played_at": "2026-11-12T21:07:25.708Z",
+        "name": "Window to Your World",
+        "artist": "Mammal Hands",
+        "album": "Circadia",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bb1ff958c01affeca4cf5000",
+        "url": "https://open.spotify.com/track/03VeU9kFkgpPoTpobTJih9",
+        "played_at": "2026-11-13T02:10:41.744Z",
         "tracks": [
-          "Movin' On - 2015 Remaster",
-          "Bad Company - 2015 Remaster",
-          "Don't Let Me Down - 2015 Remaster",
-          "Can't Get Enough - 2015 Remaster",
-          "Rock Steady - 2015 Remaster"
-        ],
-        "track_count": 5
-      },
-      {
-        "name": "Kids Fallin' In Love",
-        "artist": "DOPE LEMON",
-        "album": "Rose Pink Cadillac",
-        "image": "https://i.scdn.co/image/ab67616d00001e024e2ac74342d72cad3d1fb747",
-        "url": "https://open.spotify.com/track/4FAi3DmONBBSzN60yYhAUR",
-        "played_at": "2026-11-12T20:45:46.175Z",
-        "tracks": [
-          "Kids Fallin' In Love"
+          "Window to Your World"
         ],
         "track_count": 1
       },
       {
-        "name": "Lone Ranger",
-        "artist": "Matt Duncan",
-        "album": "Soft Times",
-        "image": "https://i.scdn.co/image/ab67616d00001e0291de01c0b193ea2d021bb739",
-        "url": "https://open.spotify.com/track/6ve0djnLEFcbhMP2n76krY",
-        "played_at": "2026-11-12T20:41:58.320Z",
+        "name": "Incantations",
+        "artist": "Ed O'Brien",
+        "album": "Blue Morpho",
+        "image": "https://i.scdn.co/image/ab67616d00001e023c408a82f600f91aec07a3c9",
+        "url": "https://open.spotify.com/track/7xFMUdEfLZbYTMWs14cRfo",
+        "played_at": "2026-11-13T02:05:26.360Z",
         "tracks": [
-          "Lone Ranger"
+          "Incantations"
         ],
         "track_count": 1
       },
       {
-        "name": "Foolmuse",
-        "artist": "Peter Cat Recording Co.",
-        "album": "BETA",
-        "image": "https://i.scdn.co/image/ab67616d00001e023db57df610057ad23fd54de1",
-        "url": "https://open.spotify.com/track/7ab0HieXGKChMstA42bn69",
-        "played_at": "2026-11-12T20:38:32.437Z",
+        "name": "Vista",
+        "artist": "Okonski",
+        "album": "Entrance Music",
+        "image": "https://i.scdn.co/image/ab67616d00001e029df769f9a8f4b54b708392db",
+        "url": "https://open.spotify.com/track/7ceLb4TBk4IOPirddCJ1k6",
+        "played_at": "2026-11-13T01:57:44.053Z",
         "tracks": [
-          "Foolmuse"
+          "Vista"
         ],
         "track_count": 1
       },
       {
-        "name": "Bismillah",
-        "artist": "Peter Cat Recording Co.",
-        "album": "Bismillah",
-        "image": "https://i.scdn.co/image/ab67616d00001e02db88abf0fe30030cf30c3a87",
-        "url": "https://open.spotify.com/album/3bmnc6GjltS6zD8elSBjCq",
-        "played_at": "2026-11-12T20:34:11.410Z",
+        "name": "Blow Your Trumpet",
+        "artist": "Ezra Collective",
+        "album": "Here Because of Hope",
+        "image": "https://i.scdn.co/image/ab67616d00001e026d02e8be17bfe4eb4afb2141",
+        "url": "https://open.spotify.com/track/60573zDg5eQQpSYT9NMUfb",
+        "played_at": "2026-11-13T01:54:03.075Z",
         "tracks": [
-          "Shit I'm Dreaming",
-          "Remain in Me",
-          "I'm This",
-          "Heera",
-          "Freezing",
-          "Memory Box",
-          "Vishnu",
-          "Soulless Friends",
-          "Floated By",
-          "Where the Money Flows"
-        ],
-        "track_count": 10
-      },
-      {
-        "name": "Mountain Jam (Theme From \u201cFirst There Is A Mountain\u201d) - Live At The Fillmore East, March 12 & 13, 1971",
-        "artist": "Allman Brothers Band",
-        "album": "At Fillmore East (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ed1a8256220c99c14a580db7",
-        "url": "https://open.spotify.com/track/0wp5kUryIlDFR1jVXN6i3b",
-        "played_at": "2026-11-10T01:47:58.027Z",
-        "tracks": [
-          "Mountain Jam (Theme From \u201cFirst There Is A Mountain\u201d) - Live At The Fillmore East, March 12 & 13, 1971"
+          "Blow Your Trumpet"
         ],
         "track_count": 1
       },
       {
-        "name": "Tonight, Tonight, Tonight - Live in Rome, 2007",
-        "artist": "Genesis",
-        "album": "Tonight, Tonight, Tonight (Live in Rome, 2007)",
-        "image": "https://i.scdn.co/image/ab6742d3000052b799a516c3934618d9166c7bcf",
-        "url": "https://open.spotify.com/track/0dU0yXOzUVfJjDhPgC6ZNs",
-        "played_at": "2026-11-10T01:47:58.027Z",
+        "name": "dijon",
+        "artist": "daoud",
+        "album": "ok",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ad7789ed740d01a45dec6fb",
+        "url": "https://open.spotify.com/track/6omcpeBhvzHZbeYfgseMa0",
+        "played_at": "2026-11-13T01:49:42.481Z",
         "tracks": [
-          "Tonight, Tonight, Tonight - Live in Rome, 2007"
+          "dijon"
         ],
         "track_count": 1
       },
       {
-        "name": "Take The Money And Run",
-        "artist": "Steve Miller Band",
-        "album": "Greatest Hits 1974-78",
-        "image": "https://i.scdn.co/image/ab67616d00001e02632b907273dba6a6062fb780",
-        "url": "https://open.spotify.com/track/2dV6oLMaJjV15KCVzcWLbF",
-        "played_at": "2026-11-10T01:09:54.281Z",
+        "name": "Pleine Lune",
+        "artist": "Akusmi, Marysia Osu, Dud\u00f9 Kouate, Sarathy Korwar",
+        "album": "Terra Incognita",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fbb7609f8939de9798d7cde9",
+        "url": "https://open.spotify.com/track/1PUU3FdOOSp9i1qdUKsoDq",
+        "played_at": "2026-11-13T01:45:27.384Z",
         "tracks": [
-          "Take The Money And Run"
+          "Pleine Lune"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Outside Voice",
+        "artist": "Surprise Chef",
+        "album": "Frogs In A Pond",
+        "image": "https://i.scdn.co/image/ab67616d00001e02abc900e2b29bf2129e03da95",
+        "url": "https://open.spotify.com/track/6sQ7a5iKVKft6nPR53TWNc",
+        "played_at": "2026-11-13T01:40:39.889Z",
+        "tracks": [
+          "Outside Voice"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Heavy",
+        "artist": "Momoko Gill",
+        "album": "Momoko",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a48fc753b656af9962bfcf7",
+        "url": "https://open.spotify.com/track/2vNcXe0RqRXlbKzSw1guE6",
+        "played_at": "2026-11-13T01:36:22.790Z",
+        "tracks": [
+          "Heavy"
         ],
         "track_count": 1
       }
     ],
     "top_artists": [
       {
-        "name": "Peter Cat Recording Co.",
-        "image": "https://i.scdn.co/image/ab6761610000517441bacc5ba605dfcc88c25733",
-        "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        "name": "Flea",
+        "image": "https://i.scdn.co/image/ab676161000051741d3d1629faf335838faeafa3",
+        "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
       },
       {
         "name": "Bad Company",
@@ -124,24 +111,24 @@
         "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
       },
       {
-        "name": "Allman Brothers Band",
-        "image": "https://i.scdn.co/image/ab6772690000dd2208f5d15585b77b0cb059717b",
-        "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        "name": "Mammal Hands",
+        "image": "https://i.scdn.co/image/ab676161000051740dfb05dc8e6c8452f523a62e",
+        "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
       },
       {
-        "name": "Genesis",
-        "image": "https://i.scdn.co/image/ab67616100005174a6a5c327ebbc1131effef2e0",
-        "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        "name": "Ed O'Brien",
+        "image": "https://i.scdn.co/image/ab6761610000517442c1d09a73de2fd7c56a807c",
+        "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
       },
       {
-        "name": "Talking Heads",
-        "image": "https://i.scdn.co/image/ab67616100005174bb4de17ec7fc20b1c489e4ff",
-        "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        "name": "Okonski",
+        "image": "https://i.scdn.co/image/ab676161000051749a08cd5d8997331acc191e7d",
+        "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
       },
       {
-        "name": "Flea",
-        "image": "https://i.scdn.co/image/ab676161000051741d3d1629faf335838faeafa3",
-        "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        "name": "Ezra Collective",
+        "image": "https://i.scdn.co/image/ab6761610000517474f17b856692fa4d1ed38a06",
+        "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
       }
     ]
   },
