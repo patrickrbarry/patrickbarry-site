@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-13T02:12:10Z",
+  "updated_at": "2026-11-13T10:11:25Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "333",
+        "artist": "Flea",
+        "album": "Helen Burns",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fbf31b88d570149278959081",
+        "url": "https://open.spotify.com/track/47H09jVxrZLalZBv0MnD0R",
+        "played_at": "2026-11-13T02:27:46.148Z",
+        "tracks": [
+          "333"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Dream Enhancer",
+        "artist": "K\u00e9pa",
+        "album": "Soul Wash Services",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5343a6487274ebb295c166e",
+        "url": "https://open.spotify.com/track/3jnalNSwXeC3AqskrnovqH",
+        "played_at": "2026-11-13T02:19:42.853Z",
+        "tracks": [
+          "Dream Enhancer"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "KRAUT",
+        "artist": "Moses Yoofee Trio, Noah F\u00fcrbringer, Moses Yoofee, cowboyklobe",
+        "album": "KRAUT / HONEST",
+        "image": "https://i.scdn.co/image/ab67616d00001e02d8f4227d1a818364bba2d894",
+        "url": "https://open.spotify.com/track/7spW5Cqf5iovRJb878Mqxb",
+        "played_at": "2026-11-13T02:15:53.152Z",
+        "tracks": [
+          "KRAUT"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Window to Your World",
         "artist": "Mammal Hands",
@@ -59,42 +95,6 @@
         "played_at": "2026-11-13T01:49:42.481Z",
         "tracks": [
           "dijon"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Pleine Lune",
-        "artist": "Akusmi, Marysia Osu, Dud\u00f9 Kouate, Sarathy Korwar",
-        "album": "Terra Incognita",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fbb7609f8939de9798d7cde9",
-        "url": "https://open.spotify.com/track/1PUU3FdOOSp9i1qdUKsoDq",
-        "played_at": "2026-11-13T01:45:27.384Z",
-        "tracks": [
-          "Pleine Lune"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Outside Voice",
-        "artist": "Surprise Chef",
-        "album": "Frogs In A Pond",
-        "image": "https://i.scdn.co/image/ab67616d00001e02abc900e2b29bf2129e03da95",
-        "url": "https://open.spotify.com/track/6sQ7a5iKVKft6nPR53TWNc",
-        "played_at": "2026-11-13T01:40:39.889Z",
-        "tracks": [
-          "Outside Voice"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Heavy",
-        "artist": "Momoko Gill",
-        "album": "Momoko",
-        "image": "https://i.scdn.co/image/ab67616d00001e024a48fc753b656af9962bfcf7",
-        "url": "https://open.spotify.com/track/2vNcXe0RqRXlbKzSw1guE6",
-        "played_at": "2026-11-13T01:36:22.790Z",
-        "tracks": [
-          "Heavy"
         ],
         "track_count": 1
       }
