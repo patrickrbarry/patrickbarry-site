@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-11-18T09:21:03Z",
+  "updated_at": "2026-11-18T18:28:45Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Jesse",
+        "artist": "Geese",
+        "album": "4D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad79bc3828b8ab70f0f896d7",
+        "url": "https://open.spotify.com/track/7i5LhOjEQPM5p31uKteOjZ",
+        "played_at": "2026-11-18T15:30:20.083Z",
+        "tracks": [
+          "Jesse"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Santa Monica - Remastered 2025",
+        "artist": "Everclear",
+        "album": "Sparkle And Fade (30th Anniversary Remastered Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bbb3ef616769e83c5aa70938",
+        "url": "https://open.spotify.com/track/72oAuKZFmh2ZHiCTJGPaMh",
+        "played_at": "2026-11-18T15:27:10.082Z",
+        "tracks": [
+          "Santa Monica - Remastered 2025"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "My Morning Song",
+        "artist": "The Black Crowes",
+        "album": "The Southern Harmony And Musical Companion",
+        "image": "https://i.scdn.co/image/ab67616d00001e028d02d37cd208d1cb2e0d29a4",
+        "url": "https://open.spotify.com/track/12xKysXb5WxFA410BxEDT7",
+        "played_at": "2026-11-18T15:24:11.588Z",
+        "tracks": [
+          "My Morning Song"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "BIRDS",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/0kshHISCRGn9MwpkbqafG4",
+        "played_at": "2026-11-18T15:18:16.965Z",
+        "tracks": [
+          "BIRDS"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Josh Tillman and the Accidental Dose",
+        "artist": "Father John Misty",
+        "album": "Mahashmashana",
+        "image": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
+        "url": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f",
+        "played_at": "2026-11-18T15:15:04.386Z",
+        "tracks": [
+          "Josh Tillman and the Accidental Dose"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Hip Hop Hooray - Remastered",
         "artist": "Naughty By Nature",
@@ -35,66 +95,6 @@
         "played_at": "2026-11-17T02:28:35.052Z",
         "tracks": [
           "Feel so Good"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Ch-Check It Out",
-        "artist": "Beastie Boys",
-        "album": "To The 5 Boroughs",
-        "image": "https://i.scdn.co/image/ab67616d00001e02c1331ada4d1573ddc0c08888",
-        "url": "https://open.spotify.com/track/56H98l4uinRifnTH8e308N",
-        "played_at": "2026-11-17T02:25:11.634Z",
-        "tracks": [
-          "Ch-Check It Out"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Billie Jean",
-        "artist": "Michael Jackson",
-        "album": "Thriller",
-        "image": "https://i.scdn.co/image/ab67616d00001e0232a7d87248d1b75463483df5",
-        "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
-        "played_at": "2026-11-17T02:21:59.013Z",
-        "tracks": [
-          "Billie Jean"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Me Myself and I",
-        "artist": "De La Soul",
-        "album": "3 Feet High and Rising (35th Anniversary)",
-        "image": "https://i.scdn.co/image/ab67616d00001e028c50213f8d252e090a5a9b71",
-        "url": "https://open.spotify.com/track/5wBtQSOjwZVRRior9fpEWS",
-        "played_at": "2026-11-17T02:17:05.194Z",
-        "tracks": [
-          "Me Myself and I"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Let the Music Play",
-        "artist": "Shannon",
-        "album": "Let the Music Play",
-        "image": "https://i.scdn.co/image/ab67616d00001e025dfa9699effa1ed894e8244d",
-        "url": "https://open.spotify.com/track/6b9hm8mvZ2KH7Fl7LLA5ct",
-        "played_at": "2026-11-17T02:13:15.881Z",
-        "tracks": [
-          "Let the Music Play"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "1, 2, 3, 4 (Sumpin' New)",
-        "artist": "Coolio",
-        "album": "Gangsta's Paradise",
-        "image": "https://i.scdn.co/image/ab67616d00001e029d29bb8d9e2c9d707933b14f",
-        "url": "https://open.spotify.com/track/2wPjoNKQAfEdgEYrPIBwAD",
-        "played_at": "2026-11-17T02:09:41.961Z",
-        "tracks": [
-          "1, 2, 3, 4 (Sumpin' New)"
         ],
         "track_count": 1
       }
