@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-11-19T17:46:47Z",
+  "updated_at": "2026-11-19T23:57:13Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Gone",
+        "artist": "The Black Crowes",
+        "album": "amorica.",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fd80dcd6e6fa06d0603d64f3",
+        "url": "https://open.spotify.com/track/1DeDhpnSSy6KQTwajbGErO",
+        "played_at": "2026-11-19T23:20:22.223Z",
+        "tracks": [
+          "Gone"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Taxes",
+        "artist": "Geese",
+        "album": "Getting Killed",
+        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+        "url": "https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI",
+        "played_at": "2026-11-19T23:13:48.646Z",
+        "tracks": [
+          "Taxes"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "LOOK OUT FOR ME",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/4gM6AHXp4h8aj5482znmYz",
+        "played_at": "2026-11-19T23:10:35.774Z",
+        "tracks": [
+          "LOOK OUT FOR ME"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Make Her Say",
+        "artist": "Kid Cudi, Kanye West, Common",
+        "album": "Man On The Moon: The End Of Day (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a487deeecb334b6619489d74",
+        "url": "https://open.spotify.com/track/7dZAPeA3Of5j5Vaef0DQ6M",
+        "played_at": "2026-11-19T23:03:39.850Z",
+        "tracks": [
+          "Make Her Say"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Strange Overtones",
+        "artist": "David Byrne",
+        "album": "Everything That Happens Will Happen Today",
+        "image": "https://i.scdn.co/image/ab67616d00001e0282dd34c5535050c6b4b37295",
+        "url": "https://open.spotify.com/track/7wXJyWtRktzx7shORVNX5B",
+        "played_at": "2026-11-19T23:01:44.579Z",
+        "tracks": [
+          "Strange Overtones"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Goodbye Daughters of the Revolution",
+        "artist": "The Black Crowes",
+        "album": "Warpaint",
+        "image": "https://i.scdn.co/image/ab67616d00001e022eaa41aa11232f4f9117353f",
+        "url": "https://open.spotify.com/track/4oMRGrDrvpp1TpveeAl8AQ",
+        "played_at": "2026-11-19T22:58:27.058Z",
+        "tracks": [
+          "Goodbye Daughters of the Revolution"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Love You Madly",
         "artist": "CAKE",
@@ -25,90 +97,13 @@
           "Waiting On the World to Change"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Nausica\u00e4 (Love Will Be Revealed)",
-        "artist": "Cameron Winter",
-        "album": "Heavy Metal",
-        "image": "https://i.scdn.co/image/ab67616d00001e024738aa171569052376f162fe",
-        "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N",
-        "played_at": "2026-11-19T17:05:30.237Z",
-        "tracks": [
-          "Nausica\u00e4 (Love Will Be Revealed)"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Long Distance Call",
-        "artist": "Phoenix",
-        "album": "It's Never Been Like that",
-        "image": "https://i.scdn.co/image/ab67616d00001e0293c62e395149030493e44c18",
-        "url": "https://open.spotify.com/track/0TlW92uDXodbICTayeWXGJ",
-        "played_at": "2026-11-19T17:01:11.430Z",
-        "tracks": [
-          "Long Distance Call"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "NEVER ENOUGH",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6",
-        "played_at": "2026-11-19T16:57:30.587Z",
-        "tracks": [
-          "NEVER ENOUGH"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "No One to Run With",
-        "artist": "Allman Brothers Band",
-        "album": "Where It All Begins",
-        "image": "https://i.scdn.co/image/ab67616d00001e021447468c9b2343f930b16bcc",
-        "url": "https://open.spotify.com/track/10Q26DXQAlvQlnKRdZJgec",
-        "played_at": "2026-11-18T23:57:17.362Z",
-        "tracks": [
-          "No One to Run With"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Jesse",
-        "artist": "Geese",
-        "album": "4D Country",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ad79bc3828b8ab70f0f896d7",
-        "url": "https://open.spotify.com/track/7i5LhOjEQPM5p31uKteOjZ",
-        "played_at": "2026-11-18T15:30:20.083Z",
-        "tracks": [
-          "Jesse"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Santa Monica - Remastered 2025",
-        "artist": "Everclear",
-        "album": "Sparkle And Fade (30th Anniversary Remastered Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02bbb3ef616769e83c5aa70938",
-        "url": "https://open.spotify.com/track/72oAuKZFmh2ZHiCTJGPaMh",
-        "played_at": "2026-11-18T15:27:10.082Z",
-        "tracks": [
-          "Santa Monica - Remastered 2025"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
       {
-        "name": "Momoko Gill",
-        "image": "https://i.scdn.co/image/ab67616100005174922fc2287a144da0a8ae3e32",
-        "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
-      },
-      {
-        "name": "Mammal Hands",
-        "image": "https://i.scdn.co/image/ab676161000051740dfb05dc8e6c8452f523a62e",
-        "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
         "name": "Turnstile",
@@ -116,19 +111,24 @@
         "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+      },
+      {
         "name": "Naughty By Nature",
         "image": "https://i.scdn.co/image/ab676161000051744cfb4db377be25e51eecc324",
         "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
       },
       {
+        "name": "Momoko Gill",
+        "image": "https://i.scdn.co/image/ab67616100005174922fc2287a144da0a8ae3e32",
+        "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
+      },
+      {
         "name": "Flea",
         "image": "https://i.scdn.co/image/ab676161000051741d3d1629faf335838faeafa3",
         "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
-      },
-      {
-        "name": "Ed O'Brien",
-        "image": "https://i.scdn.co/image/ab6761610000517442c1d09a73de2fd7c56a807c",
-        "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
       }
     ]
   },
