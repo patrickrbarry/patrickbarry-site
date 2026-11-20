@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-11-19T23:57:13Z",
+  "updated_at": "2026-11-20T05:11:29Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "I'm the Man Who Loves You - 2022 Remaster",
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot (Expanded Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0262d457eda9010a03bf44e828",
+        "url": "https://open.spotify.com/track/7BPDEeemIDPK3gEDIrcYMA",
+        "played_at": "2026-11-20T04:47:32.853Z",
+        "tracks": [
+          "I'm the Man Who Loves You - 2022 Remaster"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Gimme Shelter",
+        "artist": "The Rolling Stones",
+        "album": "Let It Bleed",
+        "image": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99",
+        "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD",
+        "played_at": "2026-11-20T02:03:49.473Z",
+        "tracks": [
+          "Gimme Shelter"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Dirty Work",
+        "artist": "Steely Dan",
+        "album": "Can't Buy A Thrill",
+        "image": "https://i.scdn.co/image/ab67616d00001e020ddd7e736f870994f4707947",
+        "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH",
+        "played_at": "2026-11-20T01:59:30.505Z",
+        "tracks": [
+          "Dirty Work"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "2122",
+        "artist": "Geese",
+        "album": "3D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
+        "url": "https://open.spotify.com/track/2XUQ0AYl4HPE0oK0qt70qw",
+        "played_at": "2026-11-20T01:04:17.449Z",
+        "tracks": [
+          "2122"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "The Glutton Of Sympathy",
+        "artist": "Jellyfish",
+        "album": "Spilt Milk (Remastered)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e47cbfb7579a40f7290709ca",
+        "url": "https://open.spotify.com/track/596ArCuXePryoxTG8lIwL1",
+        "played_at": "2026-11-20T00:31:35.369Z",
+        "tracks": [
+          "The Glutton Of Sympathy"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "davina mccall",
+        "artist": "Wet Leg",
+        "album": "moisturizer",
+        "image": "https://i.scdn.co/image/ab67616d00001e022f9e981ef2f67e481a6bac03",
+        "url": "https://open.spotify.com/track/4KVYz4U1Vm3pvjhhhS1E6s",
+        "played_at": "2026-11-20T00:28:34.466Z",
+        "tracks": [
+          "davina mccall"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Derecho Demonico",
+        "artist": "Jack White",
+        "album": "Frozen Charlotte",
+        "image": "https://i.scdn.co/image/ab67616d00001e029ac6288d467ebcf60f8fb129",
+        "url": "https://open.spotify.com/track/2DcSMwTHD3t8gkGCRnlWW2",
+        "played_at": "2026-11-20T00:24:46.552Z",
+        "tracks": [
+          "Derecho Demonico"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Gone",
         "artist": "The Black Crowes",
@@ -13,90 +97,6 @@
           "Gone"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Taxes",
-        "artist": "Geese",
-        "album": "Getting Killed",
-        "image": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
-        "url": "https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI",
-        "played_at": "2026-11-19T23:13:48.646Z",
-        "tracks": [
-          "Taxes"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "LOOK OUT FOR ME",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/4gM6AHXp4h8aj5482znmYz",
-        "played_at": "2026-11-19T23:10:35.774Z",
-        "tracks": [
-          "LOOK OUT FOR ME"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Make Her Say",
-        "artist": "Kid Cudi, Kanye West, Common",
-        "album": "Man On The Moon: The End Of Day (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02a487deeecb334b6619489d74",
-        "url": "https://open.spotify.com/track/7dZAPeA3Of5j5Vaef0DQ6M",
-        "played_at": "2026-11-19T23:03:39.850Z",
-        "tracks": [
-          "Make Her Say"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Strange Overtones",
-        "artist": "David Byrne",
-        "album": "Everything That Happens Will Happen Today",
-        "image": "https://i.scdn.co/image/ab67616d00001e0282dd34c5535050c6b4b37295",
-        "url": "https://open.spotify.com/track/7wXJyWtRktzx7shORVNX5B",
-        "played_at": "2026-11-19T23:01:44.579Z",
-        "tracks": [
-          "Strange Overtones"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Goodbye Daughters of the Revolution",
-        "artist": "The Black Crowes",
-        "album": "Warpaint",
-        "image": "https://i.scdn.co/image/ab67616d00001e022eaa41aa11232f4f9117353f",
-        "url": "https://open.spotify.com/track/4oMRGrDrvpp1TpveeAl8AQ",
-        "played_at": "2026-11-19T22:58:27.058Z",
-        "tracks": [
-          "Goodbye Daughters of the Revolution"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Love You Madly",
-        "artist": "CAKE",
-        "album": "Comfort Eagle",
-        "image": "https://i.scdn.co/image/ab67616d00001e027ae6f1296b466d3c34011cb8",
-        "url": "https://open.spotify.com/track/5jhfa76FhqtD3Boij6MAKS",
-        "played_at": "2026-11-19T17:12:06.730Z",
-        "tracks": [
-          "Love You Madly"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Waiting On the World to Change",
-        "artist": "John Mayer",
-        "album": "Continuum",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fa8e8cc9d6d0862b7033dbaa",
-        "url": "https://open.spotify.com/track/1lRmQ9D6oNYiuCXdGlKCs0",
-        "played_at": "2026-11-19T17:08:45.418Z",
-        "tracks": [
-          "Waiting On the World to Change"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -106,14 +106,14 @@
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
-        "name": "Turnstile",
-        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
-        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-      },
-      {
         "name": "Geese",
         "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
         "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+      },
+      {
+        "name": "Turnstile",
+        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
+        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
         "name": "Naughty By Nature",
@@ -121,14 +121,14 @@
         "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
       },
       {
-        "name": "Momoko Gill",
-        "image": "https://i.scdn.co/image/ab67616100005174922fc2287a144da0a8ae3e32",
-        "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
+        "name": "Wilco",
+        "image": "https://i.scdn.co/image/ab67616100005174b990b82996651d23ab4df7e8",
+        "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
       },
       {
-        "name": "Flea",
-        "image": "https://i.scdn.co/image/ab676161000051741d3d1629faf335838faeafa3",
-        "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        "name": "The Rolling Stones",
+        "image": "https://i.scdn.co/image/ab676161000051742b72b000ac948eba03bb3afe",
+        "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
       }
     ]
   },
