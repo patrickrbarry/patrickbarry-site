@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-20T22:00:12Z",
+  "updated_at": "2026-11-21T03:35:40Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Connect",
+        "artist": "Vampire Weekend",
+        "album": "Only God Was Above Us",
+        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
+        "url": "https://open.spotify.com/track/3Oko2TgOzXPLlE2dbbsNKV",
+        "played_at": "2026-11-20T23:36:15.519Z",
+        "tracks": [
+          "Connect"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "No Others",
+        "artist": "Momoko Gill",
+        "album": "Momoko",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a48fc753b656af9962bfcf7",
+        "url": "https://open.spotify.com/track/4mpq9DgYZcpDyHRDYSMVUr",
+        "played_at": "2026-11-20T23:31:04.921Z",
+        "tracks": [
+          "No Others"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Jesse",
+        "artist": "Geese",
+        "album": "4D Country",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ad79bc3828b8ab70f0f896d7",
+        "url": "https://open.spotify.com/track/7i5LhOjEQPM5p31uKteOjZ",
+        "played_at": "2026-11-20T23:26:37.986Z",
+        "tracks": [
+          "Jesse"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Goodbye Daughters of the Revolution",
+        "artist": "The Black Crowes",
+        "album": "Warpaint",
+        "image": "https://i.scdn.co/image/ab67616d00001e022eaa41aa11232f4f9117353f",
+        "url": "https://open.spotify.com/track/4oMRGrDrvpp1TpveeAl8AQ",
+        "played_at": "2026-11-20T23:23:42.392Z",
+        "tracks": [
+          "Goodbye Daughters of the Revolution"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Mr. Tillman",
         "artist": "Father John Misty",
@@ -49,57 +97,14 @@
           "Josie"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Wristwatch",
-        "artist": "MJ Lenderman",
-        "album": "Manning Fireworks",
-        "image": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
-        "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR",
-        "played_at": "2026-11-20T21:21:15.691Z",
-        "tracks": [
-          "Wristwatch"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Driven To Tears",
-        "artist": "The Police",
-        "album": "Zenyatta Mondatta (Remastered 2003)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02fb1bc65edf4717e75fbc70ab",
-        "url": "https://open.spotify.com/track/3ixzqclumr9K5ZY8xcdo0O",
-        "played_at": "2026-11-20T21:17:35.986Z",
-        "tracks": [
-          "Driven To Tears"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Going Shopping",
-        "artist": "The Strokes",
-        "album": "Reality Awaits",
-        "image": "https://i.scdn.co/image/ab67616d00001e026b458d1409d938dad4e3ba2c",
-        "url": "https://open.spotify.com/track/18bHbpAKgsf8dor8F6qXHF",
-        "played_at": "2026-11-20T21:14:18.569Z",
-        "tracks": [
-          "Going Shopping"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Sting Me",
-        "artist": "The Black Crowes",
-        "album": "The Southern Harmony And Musical Companion",
-        "image": "https://i.scdn.co/image/ab67616d00001e028d02d37cd208d1cb2e0d29a4",
-        "url": "https://open.spotify.com/track/134cGRMQbwEn7XQcSBFvkm",
-        "played_at": "2026-11-20T21:10:04.262Z",
-        "tracks": [
-          "Sting Me"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
+      {
+        "name": "Geese",
+        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+      },
       {
         "name": "The Black Crowes",
         "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
@@ -109,11 +114,6 @@
         "name": "Turnstile",
         "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
         "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-      },
-      {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
       },
       {
         "name": "Father John Misty",
