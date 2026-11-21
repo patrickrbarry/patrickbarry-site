@@ -1,18 +1,19 @@
 {
-  "updated_at": "2026-11-21T18:20:45Z",
+  "updated_at": "2026-11-21T23:36:48Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Connect",
+        "name": "Only God Was Above Us",
         "artist": "Vampire Weekend",
         "album": "Only God Was Above Us",
         "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
-        "url": "https://open.spotify.com/track/3Oko2TgOzXPLlE2dbbsNKV",
-        "played_at": "2026-11-20T23:36:15.519Z",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y",
+        "played_at": "2026-11-21T19:31:27.512Z",
         "tracks": [
+          "Classical",
           "Connect"
         ],
-        "track_count": 1
+        "track_count": 2
       },
       {
         "name": "No Others",
@@ -116,6 +117,11 @@
         "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
+        "name": "Vampire Weekend",
+        "image": "https://i.scdn.co/image/ab676161000051740bb49b0b71ab3f5871860617",
+        "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+      },
+      {
         "name": "Father John Misty",
         "image": "https://i.scdn.co/image/ab676161000051748a78e4e37d117b9cc90a6363",
         "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
@@ -124,11 +130,6 @@
         "name": "Spoon",
         "image": "https://i.scdn.co/image/ab676161000051740973020fd7390db68e5ebf1c",
         "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-      },
-      {
-        "name": "Steely Dan",
-        "image": "https://i.scdn.co/image/067bf3caa525edb4e97e19b2a630ccf361897350",
-        "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
       }
     ]
   },
