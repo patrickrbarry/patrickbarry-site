@@ -1,116 +1,105 @@
 {
-  "updated_at": "2026-11-22T20:00:26Z",
+  "updated_at": "2026-11-23T01:11:32Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Only God Was Above Us",
-        "artist": "Vampire Weekend",
-        "album": "Only God Was Above Us",
-        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
-        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y",
-        "played_at": "2026-11-22T01:38:18.495Z",
+        "name": "The Getaway",
+        "artist": "Red Hot Chili Peppers",
+        "album": "The Getaway",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258406b3f1ac3ceaff7a64fef",
+        "url": "https://open.spotify.com/track/3bIQIx7hveYPQDdhjZ1kcq",
+        "played_at": "2026-11-23T01:09:29.302Z",
         "tracks": [
-          "Classical",
-          "Connect"
+          "The Getaway"
         ],
-        "track_count": 2
+        "track_count": 1
       },
       {
-        "name": "No Others",
+        "name": "SEEIN\u2019 STARS",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO",
+        "played_at": "2026-11-23T01:03:08.436Z",
+        "tracks": [
+          "SEEIN\u2019 STARS"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "squabble up",
+        "artist": "Kendrick Lamar",
+        "album": "GNX",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
+        "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb",
+        "played_at": "2026-11-23T00:59:54.187Z",
+        "tracks": [
+          "squabble up"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Heavy",
         "artist": "Momoko Gill",
         "album": "Momoko",
         "image": "https://i.scdn.co/image/ab67616d00001e024a48fc753b656af9962bfcf7",
-        "url": "https://open.spotify.com/track/4mpq9DgYZcpDyHRDYSMVUr",
-        "played_at": "2026-11-20T23:31:04.921Z",
+        "url": "https://open.spotify.com/track/2vNcXe0RqRXlbKzSw1guE6",
+        "played_at": "2026-11-23T00:57:16.219Z",
         "tracks": [
-          "No Others"
+          "Heavy"
         ],
         "track_count": 1
       },
       {
-        "name": "Jesse",
-        "artist": "Geese",
-        "album": "4D Country",
-        "image": "https://i.scdn.co/image/ab67616d00001e02ad79bc3828b8ab70f0f896d7",
-        "url": "https://open.spotify.com/track/7i5LhOjEQPM5p31uKteOjZ",
-        "played_at": "2026-11-20T23:26:37.986Z",
-        "tracks": [
-          "Jesse"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Goodbye Daughters of the Revolution",
-        "artist": "The Black Crowes",
-        "album": "Warpaint",
-        "image": "https://i.scdn.co/image/ab67616d00001e022eaa41aa11232f4f9117353f",
-        "url": "https://open.spotify.com/track/4oMRGrDrvpp1TpveeAl8AQ",
-        "played_at": "2026-11-20T23:23:42.392Z",
-        "tracks": [
-          "Goodbye Daughters of the Revolution"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Mr. Tillman",
-        "artist": "Father John Misty",
-        "album": "God's Favorite Customer",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e302ac9bc7807873fec4ae98",
-        "url": "https://open.spotify.com/track/6wOk4I34MXPyqEfzoQZBNL",
-        "played_at": "2026-11-20T21:36:48.547Z",
-        "tracks": [
-          "Mr. Tillman"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "SHELL ( OF A MAN )",
+        "name": "PUDDLE ( OF ME )",
         "artist": "Saya Gray",
         "album": "SAYA",
         "image": "https://i.scdn.co/image/ab67616d00001e0229a432d34983040d1e355554",
-        "url": "https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u",
-        "played_at": "2026-11-20T21:33:45.346Z",
+        "url": "https://open.spotify.com/track/4xNl7wvrgaTDofpLenB9Mo",
+        "played_at": "2026-11-23T00:53:16.149Z",
         "tracks": [
-          "SHELL ( OF A MAN )"
+          "PUDDLE ( OF ME )"
         ],
         "track_count": 1
       },
       {
-        "name": "Inside Out",
-        "artist": "Spoon",
-        "album": "They Want My Soul",
-        "image": "https://i.scdn.co/image/ab67616d00001e025126861ec7787b311b0f8a33",
-        "url": "https://open.spotify.com/track/7HKW2F9UqwMVPdByorotm1",
-        "played_at": "2026-11-20T21:29:22.710Z",
+        "name": "Ice Cream Piano",
+        "artist": "Vampire Weekend",
+        "album": "Only God Was Above Us",
+        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
+        "url": "https://open.spotify.com/track/19aa6Goj4OAsZUX8hSt6nW",
+        "played_at": "2026-11-23T00:49:04.207Z",
         "tracks": [
-          "Inside Out"
+          "Ice Cream Piano"
         ],
         "track_count": 1
       },
       {
-        "name": "Josie",
-        "artist": "Steely Dan",
-        "album": "Aja",
-        "image": "https://i.scdn.co/image/ab67616d00001e02cf39e4261576717ff4737bb6",
-        "url": "https://open.spotify.com/track/1QgLpUJsmrLG61KDVGT0Ux",
-        "played_at": "2026-11-20T21:25:11.831Z",
+        "name": "Follow the Moon",
+        "artist": "The Black Crowes",
+        "album": "Happiness Bastards",
+        "image": "https://i.scdn.co/image/ab67616d00001e0226f8e2ef679577b5c95e5765",
+        "url": "https://open.spotify.com/track/5DJftas7CSnEyjGSEmWKr3",
+        "played_at": "2026-11-23T00:45:27.843Z",
         "tracks": [
-          "Josie"
+          "Follow the Moon"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "The Bitch Is Back - Remastered 1995",
+        "artist": "Elton John",
+        "album": "Caribou (Remastered 1995)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0268f5959744717483eed212b2",
+        "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5",
+        "played_at": "2026-11-23T00:41:55.271Z",
+        "tracks": [
+          "The Bitch Is Back - Remastered 1995"
         ],
         "track_count": 1
       }
     ],
     "top_artists": [
-      {
-        "name": "Geese",
-        "image": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
-        "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-      },
-      {
-        "name": "The Black Crowes",
-        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
-        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-      },
       {
         "name": "Turnstile",
         "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
@@ -122,14 +111,24 @@
         "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
       },
       {
-        "name": "Father John Misty",
-        "image": "https://i.scdn.co/image/ab676161000051748a78e4e37d117b9cc90a6363",
-        "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
-        "name": "Spoon",
-        "image": "https://i.scdn.co/image/ab676161000051740973020fd7390db68e5ebf1c",
-        "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        "name": "Red Hot Chili Peppers",
+        "image": "https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8",
+        "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+      },
+      {
+        "name": "Saya Gray",
+        "image": "https://i.scdn.co/image/ab6761610000517487566e5488cea24c83090eb7",
+        "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+      },
+      {
+        "name": "Steely Dan",
+        "image": "https://i.scdn.co/image/067bf3caa525edb4e97e19b2a630ccf361897350",
+        "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
       }
     ]
   },
