@@ -1,109 +1,118 @@
 {
-  "updated_at": "2026-11-25T01:09:38Z",
+  "updated_at": "2026-11-25T10:36:05Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "New Mistake",
-        "artist": "Jellyfish",
-        "album": "Spilt Milk (Remastered)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e47cbfb7579a40f7290709ca",
-        "url": "https://open.spotify.com/track/0lDvjI92aVKb1BLoRV6FaH",
-        "played_at": "2026-11-25T01:08:25.004Z",
+        "name": "Blue Morpho",
+        "artist": "Ed O'Brien",
+        "album": "Blue Morpho",
+        "image": "https://i.scdn.co/image/ab67616d00001e023c408a82f600f91aec07a3c9",
+        "url": "https://open.spotify.com/track/6CrBJ6hZyIrDQo8V8VQhT1",
+        "played_at": "2026-11-25T05:11:00.976Z",
         "tracks": [
-          "New Mistake"
+          "Blue Morpho"
         ],
         "track_count": 1
       },
       {
-        "name": "Gen-X Cops",
-        "artist": "Vampire Weekend",
-        "album": "Only God Was Above Us",
-        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
-        "url": "https://open.spotify.com/track/7EBmnpMsikHSmwOoCnAKrd",
-        "played_at": "2026-11-25T00:04:58.089Z",
+        "name": "Amami (feat. Minami Kizuki)",
+        "artist": "Yussef Dayes, Minami Kizuki",
+        "album": "Amami (feat. Minami Kizuki)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e4b42e7796f032d1e074f091",
+        "url": "https://open.spotify.com/track/4LgM9jizqppslT1cYDeUZT",
+        "played_at": "2026-11-25T04:06:47.966Z",
         "tracks": [
-          "Gen-X Cops"
+          "Amami (feat. Minami Kizuki)"
         ],
         "track_count": 1
       },
       {
-        "name": "The Getaway",
-        "artist": "Red Hot Chili Peppers",
-        "album": "The Getaway",
-        "image": "https://i.scdn.co/image/ab67616d00001e0258406b3f1ac3ceaff7a64fef",
-        "url": "https://open.spotify.com/track/3bIQIx7hveYPQDdhjZ1kcq",
-        "played_at": "2026-11-23T01:09:29.302Z",
+        "name": "Someday",
+        "artist": "Ezra Collective",
+        "album": "Here Because of Hope",
+        "image": "https://i.scdn.co/image/ab67616d00001e026d02e8be17bfe4eb4afb2141",
+        "url": "https://open.spotify.com/track/3V9uxHtOBLQ6fc2KJLJgkB",
+        "played_at": "2026-11-25T04:01:23.490Z",
         "tracks": [
-          "The Getaway"
+          "Someday"
         ],
         "track_count": 1
       },
       {
-        "name": "SEEIN\u2019 STARS",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO",
-        "played_at": "2026-11-23T01:03:08.436Z",
-        "tracks": [
-          "SEEIN\u2019 STARS"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "squabble up",
-        "artist": "Kendrick Lamar",
-        "album": "GNX",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
-        "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb",
-        "played_at": "2026-11-23T00:59:54.187Z",
-        "tracks": [
-          "squabble up"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Heavy",
+        "name": "River",
         "artist": "Momoko Gill",
         "album": "Momoko",
         "image": "https://i.scdn.co/image/ab67616d00001e024a48fc753b656af9962bfcf7",
-        "url": "https://open.spotify.com/track/2vNcXe0RqRXlbKzSw1guE6",
-        "played_at": "2026-11-23T00:57:16.219Z",
+        "url": "https://open.spotify.com/track/6tsrMbXhfvSmCQyJuOcCyM",
+        "played_at": "2026-11-25T03:55:35.805Z",
         "tracks": [
-          "Heavy"
+          "River"
         ],
         "track_count": 1
       },
       {
-        "name": "PUDDLE ( OF ME )",
-        "artist": "Saya Gray",
-        "album": "SAYA",
-        "image": "https://i.scdn.co/image/ab67616d00001e0229a432d34983040d1e355554",
-        "url": "https://open.spotify.com/track/4xNl7wvrgaTDofpLenB9Mo",
-        "played_at": "2026-11-23T00:53:16.149Z",
+        "name": "Honora",
+        "artist": "Flea",
+        "album": "Honora",
+        "image": "https://i.scdn.co/image/ab67616d00001e02017eb062be58097ec134eeb6",
+        "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM",
+        "played_at": "2026-11-25T03:51:19.350Z",
         "tracks": [
-          "PUDDLE ( OF ME )"
+          "Free As I Want to Be",
+          "Willow Weep for Me",
+          "Thinkin Bout You",
+          "Wichita Lineman (feat. Nick Cave)",
+          "Maggot Brain",
+          "Morning Cry",
+          "Frailed",
+          "Traffic Lights (feat. Thom Yorke)",
+          "A Plea",
+          "Golden Wingship"
+        ],
+        "track_count": 10
+      },
+      {
+        "name": "SLOWDIVE",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/1wNspyFiI1E9YGhJzz3AoO",
+        "played_at": "2026-11-25T02:59:43.664Z",
+        "tracks": [
+          "SLOWDIVE"
         ],
         "track_count": 1
       },
       {
-        "name": "Ice Cream Piano",
-        "artist": "Vampire Weekend",
-        "album": "Only God Was Above Us",
-        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
-        "url": "https://open.spotify.com/track/19aa6Goj4OAsZUX8hSt6nW",
-        "played_at": "2026-11-23T00:49:04.207Z",
+        "name": "Incantations",
+        "artist": "Ed O'Brien",
+        "album": "Blue Morpho",
+        "image": "https://i.scdn.co/image/ab67616d00001e023c408a82f600f91aec07a3c9",
+        "url": "https://open.spotify.com/track/7xFMUdEfLZbYTMWs14cRfo",
+        "played_at": "2026-11-25T02:56:10.586Z",
         "tracks": [
-          "Ice Cream Piano"
+          "Incantations"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "High & Lonesome",
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
+        "url": "https://open.spotify.com/track/3gv44P1awEVNdplXQQJzJ4",
+        "played_at": "2026-11-25T02:48:29.417Z",
+        "tracks": [
+          "High & Lonesome"
         ],
         "track_count": 1
       }
     ],
     "top_artists": [
       {
-        "name": "Turnstile",
-        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
-        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        "name": "Flea",
+        "image": "https://i.scdn.co/image/ab676161000051741d3d1629faf335838faeafa3",
+        "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
       },
       {
         "name": "The Black Crowes",
@@ -111,14 +120,14 @@
         "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       },
       {
-        "name": "Red Hot Chili Peppers",
-        "image": "https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8",
-        "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-      },
-      {
         "name": "Vampire Weekend",
         "image": "https://i.scdn.co/image/ab676161000051740bb49b0b71ab3f5871860617",
         "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+      },
+      {
+        "name": "Turnstile",
+        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
+        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
         "name": "Jellyfish",
@@ -126,9 +135,9 @@
         "url": "https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL"
       },
       {
-        "name": "Saya Gray",
-        "image": "https://i.scdn.co/image/ab6761610000517487566e5488cea24c83090eb7",
-        "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        "name": "Ed O'Brien",
+        "image": "https://i.scdn.co/image/ab6761610000517442c1d09a73de2fd7c56a807c",
+        "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
       }
     ]
   },
