@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T19:13:58Z",
+  "updated_at": "2026-11-25T18:17:53Z",
   "reading": [
     {
       "title": "12 Rules for Life",
@@ -41,6 +41,13 @@
       "author": "Stewart Brand",
       "cover_url": "http://books.google.com/books/content?id=gbHO0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "genre": "Business",
+      "fiction_type": "Nonfiction"
+    },
+    {
+      "title": "On the Calculation of Volume, Book I",
+      "author": "Solvej Balle",
+      "cover_url": "https://m.media-amazon.com/images/I/41a0hNMhdSL._SL500_.jpg",
+      "genre": "Uncategorized",
       "fiction_type": "Nonfiction"
     },
     {
