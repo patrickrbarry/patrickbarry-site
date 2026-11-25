@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-11-25T10:36:05Z",
+  "updated_at": "2026-11-25T20:15:54Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "DULL",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs",
+        "played_at": "2026-11-25T16:49:46.896Z",
+        "tracks": [
+          "DULL"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Feasting on the Flowers",
+        "artist": "Red Hot Chili Peppers",
+        "album": "The Getaway",
+        "image": "https://i.scdn.co/image/ab67616d00001e0258406b3f1ac3ceaff7a64fef",
+        "url": "https://open.spotify.com/track/0SMzXgUFqcAt0WNCsGm3tM",
+        "played_at": "2026-11-25T16:47:18.892Z",
+        "tracks": [
+          "Feasting on the Flowers"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Classical",
+        "artist": "Vampire Weekend",
+        "album": "Only God Was Above Us",
+        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
+        "url": "https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL",
+        "played_at": "2026-11-25T16:44:03.339Z",
+        "tracks": [
+          "Classical"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Goodbye Daughters of the Revolution",
+        "artist": "The Black Crowes",
+        "album": "Warpaint",
+        "image": "https://i.scdn.co/image/ab67616d00001e022eaa41aa11232f4f9117353f",
+        "url": "https://open.spotify.com/track/4oMRGrDrvpp1TpveeAl8AQ",
+        "played_at": "2026-11-25T16:39:14.196Z",
+        "tracks": [
+          "Goodbye Daughters of the Revolution"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "NEVER ENOUGH",
+        "artist": "Turnstile",
+        "album": "NEVER ENOUGH",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
+        "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6",
+        "played_at": "2026-11-25T16:34:25.885Z",
+        "tracks": [
+          "NEVER ENOUGH"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Blue Morpho",
         "artist": "Ed O'Brien",
@@ -37,75 +97,6 @@
           "Someday"
         ],
         "track_count": 1
-      },
-      {
-        "name": "River",
-        "artist": "Momoko Gill",
-        "album": "Momoko",
-        "image": "https://i.scdn.co/image/ab67616d00001e024a48fc753b656af9962bfcf7",
-        "url": "https://open.spotify.com/track/6tsrMbXhfvSmCQyJuOcCyM",
-        "played_at": "2026-11-25T03:55:35.805Z",
-        "tracks": [
-          "River"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Honora",
-        "artist": "Flea",
-        "album": "Honora",
-        "image": "https://i.scdn.co/image/ab67616d00001e02017eb062be58097ec134eeb6",
-        "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM",
-        "played_at": "2026-11-25T03:51:19.350Z",
-        "tracks": [
-          "Free As I Want to Be",
-          "Willow Weep for Me",
-          "Thinkin Bout You",
-          "Wichita Lineman (feat. Nick Cave)",
-          "Maggot Brain",
-          "Morning Cry",
-          "Frailed",
-          "Traffic Lights (feat. Thom Yorke)",
-          "A Plea",
-          "Golden Wingship"
-        ],
-        "track_count": 10
-      },
-      {
-        "name": "SLOWDIVE",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/1wNspyFiI1E9YGhJzz3AoO",
-        "played_at": "2026-11-25T02:59:43.664Z",
-        "tracks": [
-          "SLOWDIVE"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Incantations",
-        "artist": "Ed O'Brien",
-        "album": "Blue Morpho",
-        "image": "https://i.scdn.co/image/ab67616d00001e023c408a82f600f91aec07a3c9",
-        "url": "https://open.spotify.com/track/7xFMUdEfLZbYTMWs14cRfo",
-        "played_at": "2026-11-25T02:56:10.586Z",
-        "tracks": [
-          "Incantations"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "High & Lonesome",
-        "artist": "The Black Crowes",
-        "album": "A Pound of Feathers",
-        "image": "https://i.scdn.co/image/ab67616d00001e0266903e37ae7ffbc040745ea2",
-        "url": "https://open.spotify.com/track/3gv44P1awEVNdplXQQJzJ4",
-        "played_at": "2026-11-25T02:48:29.417Z",
-        "tracks": [
-          "High & Lonesome"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -113,6 +104,11 @@
         "name": "Flea",
         "image": "https://i.scdn.co/image/ab676161000051741d3d1629faf335838faeafa3",
         "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+      },
+      {
+        "name": "Turnstile",
+        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
+        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
         "name": "The Black Crowes",
@@ -125,19 +121,14 @@
         "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
       },
       {
-        "name": "Turnstile",
-        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
-        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-      },
-      {
         "name": "Jellyfish",
         "image": "https://i.scdn.co/image/edcbe0be3365b0ce42883058c3891b77e8aa69ea",
         "url": "https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL"
       },
       {
-        "name": "Ed O'Brien",
-        "image": "https://i.scdn.co/image/ab6761610000517442c1d09a73de2fd7c56a807c",
-        "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
+        "name": "Red Hot Chili Peppers",
+        "image": "https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8",
+        "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
       }
     ]
   },
