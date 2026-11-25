@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-11-25T18:17:53Z",
+  "updated_at": "2026-11-25T20:58:35Z",
   "reading": [
-    {
-      "title": "12 Rules for Life",
-      "author": "Jordan B. Peterson, Ethan Van Sciver, Norman Doidge \u2014 Introduction M.D.",
-      "cover_url": "https://m.media-amazon.com/images/I/412oEiiCeML._SL500_.jpg",
-      "genre": "Uncategorized",
-      "fiction_type": "Nonfiction"
-    },
-    {
-      "title": "Beloved",
-      "author": "Toni Morrison, Honor\u00e9e Fanonne Jeffers \u2014 Introduction",
-      "cover_url": "https://m.media-amazon.com/images/I/41F8TNeowPL._SL500_.jpg",
-      "genre": "Uncategorized",
-      "fiction_type": "Nonfiction"
-    },
-    {
-      "title": "Crime and Punishment",
-      "author": "Fyodor Dostoevsky, Richard Pevear - translator, Larissa Volokhonsky - translator",
-      "cover_url": "https://m.media-amazon.com/images/I/411cAfkN7VL._SL500_.jpg",
-      "genre": "Uncategorized",
-      "fiction_type": "Nonfiction"
-    },
-    {
-      "title": "Digital Minimalism",
-      "author": "Cal Newport",
-      "cover_url": "https://covers.openlibrary.org/b/id/8507540-L.jpg",
-      "genre": "Business",
-      "fiction_type": "Nonfiction"
-    },
-    {
-      "title": "How Emotions are Made",
-      "author": "Lisa Feldman Barrett",
-      "cover_url": "http://books.google.com/books/content?id=OK0btAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-      "genre": "Science",
-      "fiction_type": "Nonfiction"
-    },
     {
       "title": "Maintenance of Everything",
       "author": "Stewart Brand",
@@ -51,16 +16,30 @@
       "fiction_type": "Nonfiction"
     },
     {
-      "title": "The Why Is Everything",
-      "author": "Michael Silver",
-      "cover_url": "http://books.google.com/books/content?id=Dk1x0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-      "genre": "Business",
+      "title": "The Beginning of Infinity",
+      "author": "David Deutsch",
+      "cover_url": "",
+      "genre": "Science",
       "fiction_type": "Nonfiction"
     },
     {
-      "title": "Unreasonable Hospitality",
-      "author": "Will Guidara",
-      "cover_url": "http://books.google.com/books/content?id=UqxWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "title": "The End of Everything",
+      "author": "M. John Harrison",
+      "cover_url": "https://m.media-amazon.com/images/I/51OK+c7mmsL._SL500_.jpg",
+      "genre": "Uncategorized",
+      "fiction_type": "Nonfiction"
+    },
+    {
+      "title": "The Infinity Machine",
+      "author": "Sebastian Mallaby",
+      "cover_url": "https://m.media-amazon.com/images/I/51nQ8pc60pL._SL500_.jpg",
+      "genre": "Uncategorized",
+      "fiction_type": "Nonfiction"
+    },
+    {
+      "title": "The Why Is Everything",
+      "author": "Michael Silver",
+      "cover_url": "http://books.google.com/books/content?id=Dk1x0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "genre": "Business",
       "fiction_type": "Nonfiction"
     },
