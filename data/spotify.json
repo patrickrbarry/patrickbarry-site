@@ -1,134 +1,134 @@
 {
-  "updated_at": "2026-11-26T03:15:17Z",
+  "updated_at": "2026-11-26T13:17:39Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Zero Sum",
-        "artist": "The Smile",
-        "album": "Cutouts",
-        "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
-        "url": "https://open.spotify.com/track/7tJ2ZPwHRrPTy1OW7jais0",
-        "played_at": "2026-11-26T00:19:41.283Z",
+        "name": "I'll Stick Around",
+        "artist": "Foo Fighters",
+        "album": "Foo Fighters",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252844939eaf38ec62110fcde",
+        "url": "https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W",
+        "played_at": "2026-11-26T09:15:25.530Z",
         "tracks": [
-          "Zero Sum"
+          "I'll Stick Around"
         ],
         "track_count": 1
       },
       {
-        "name": "Ice Cream Piano",
-        "artist": "Vampire Weekend",
-        "album": "Only God Was Above Us",
-        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
-        "url": "https://open.spotify.com/track/19aa6Goj4OAsZUX8hSt6nW",
-        "played_at": "2026-11-25T23:10:58.964Z",
+        "name": "One Week",
+        "artist": "Barenaked Ladies",
+        "album": "Stunt (20th Anniversary Edition)",
+        "image": "https://i.scdn.co/image/ab67616d00001e027d2055190ae60ffa4c74d13c",
+        "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65",
+        "played_at": "2026-11-26T08:12:03.217Z",
         "tracks": [
-          "Ice Cream Piano"
+          "One Week"
         ],
         "track_count": 1
       },
       {
-        "name": "The Space Program",
-        "artist": "A Tribe Called Quest",
-        "album": "We got it from Here... Thank You 4 Your service",
-        "image": "https://i.scdn.co/image/ab67616d00001e0244227dddfc025dbe1601d4be",
-        "url": "https://open.spotify.com/track/203xmWRHAyqwW6AkGkhhVM",
-        "played_at": "2026-11-25T22:10:04.326Z",
+        "name": "She Don't Use Jelly",
+        "artist": "The Flaming Lips",
+        "album": "Transmissions From the Satellite Heart",
+        "image": "https://i.scdn.co/image/ab67616d00001e026a80217584484a9372d95b66",
+        "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv",
+        "played_at": "2026-11-26T08:09:13.438Z",
         "tracks": [
-          "The Space Program"
+          "She Don't Use Jelly"
         ],
         "track_count": 1
       },
       {
-        "name": "Me Myself and I",
-        "artist": "De La Soul",
-        "album": "3 Feet High and Rising (35th Anniversary)",
-        "image": "https://i.scdn.co/image/ab67616d00001e028c50213f8d252e090a5a9b71",
-        "url": "https://open.spotify.com/track/5wBtQSOjwZVRRior9fpEWS",
-        "played_at": "2026-11-25T22:04:22.666Z",
+        "name": "Just",
+        "artist": "Radiohead",
+        "album": "The Bends",
+        "image": "https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12",
+        "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR",
+        "played_at": "2026-11-26T08:05:31.266Z",
         "tracks": [
-          "Me Myself and I"
+          "Just"
         ],
         "track_count": 1
       },
       {
-        "name": "Gunman",
-        "artist": "Them Crooked Vultures",
-        "album": "Them Crooked Vultures",
-        "image": "https://i.scdn.co/image/ab67616d00001e027355bb17937d57983e09f9f9",
-        "url": "https://open.spotify.com/track/1hreMeBwxRRmChwRSjP1Kk",
-        "played_at": "2026-11-25T22:00:33.349Z",
+        "name": "Let Me Go",
+        "artist": "CAKE",
+        "album": "Prolonging the Magic",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c28d7443694de36c67be905",
+        "url": "https://open.spotify.com/track/0qdJUhXtk9u7sdSwfBB5XU",
+        "played_at": "2026-11-26T08:01:36.385Z",
         "tracks": [
-          "Gunman"
+          "Let Me Go"
         ],
         "track_count": 1
       },
       {
-        "name": "DULL",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs",
-        "played_at": "2026-11-25T16:49:46.896Z",
+        "name": "Wave of Mutilation",
+        "artist": "Pixies",
+        "album": "Doolittle",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e1b208a8d3229b61263899d1",
+        "url": "https://open.spotify.com/track/51Z2IzJvLCnZaIpBV0IYRr",
+        "played_at": "2026-11-26T07:58:06.658Z",
         "tracks": [
-          "DULL"
+          "Wave of Mutilation"
         ],
         "track_count": 1
       },
       {
-        "name": "Feasting on the Flowers",
-        "artist": "Red Hot Chili Peppers",
-        "album": "The Getaway",
-        "image": "https://i.scdn.co/image/ab67616d00001e0258406b3f1ac3ceaff7a64fef",
-        "url": "https://open.spotify.com/track/0SMzXgUFqcAt0WNCsGm3tM",
-        "played_at": "2026-11-25T16:47:18.892Z",
+        "name": "Fell On Black Days",
+        "artist": "Soundgarden",
+        "album": "Superunknown (20th Anniversary)",
+        "image": "https://i.scdn.co/image/ab67616d00001e025124ed45a94033830b320500",
+        "url": "https://open.spotify.com/track/21HWc9gFZKNdkGzGqHLq3A",
+        "played_at": "2026-11-26T07:56:02.757Z",
         "tracks": [
-          "Feasting on the Flowers"
+          "Fell On Black Days"
         ],
         "track_count": 1
       },
       {
-        "name": "Classical",
-        "artist": "Vampire Weekend",
-        "album": "Only God Was Above Us",
-        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
-        "url": "https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL",
-        "played_at": "2026-11-25T16:44:03.339Z",
+        "name": "Swallowed - Remastered",
+        "artist": "Bush",
+        "album": "Razorblade Suitcase (Remastered)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02480f135db3f0c9dffa2b65c8",
+        "url": "https://open.spotify.com/track/2EYnvZoSEkwiC8ynBcjLyi",
+        "played_at": "2026-11-26T07:51:19.698Z",
         "tracks": [
-          "Classical"
+          "Swallowed - Remastered"
         ],
         "track_count": 1
       }
     ],
     "top_artists": [
       {
-        "name": "Flea",
-        "image": "https://i.scdn.co/image/ab676161000051741d3d1629faf335838faeafa3",
-        "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        "name": "Weezer",
+        "image": "https://i.scdn.co/image/ab67616100005174ed4caac362c0498e92337a5c",
+        "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
       },
       {
-        "name": "The Black Crowes",
-        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
-        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        "name": "Foo Fighters",
+        "image": "https://i.scdn.co/image/ab676161000051741db35bc9c01d2b1c151e44ce",
+        "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
       },
       {
-        "name": "Vampire Weekend",
-        "image": "https://i.scdn.co/image/ab676161000051740bb49b0b71ab3f5871860617",
-        "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        "name": "CAKE",
+        "image": "https://i.scdn.co/image/ab67616100005174b8bf71301acec36f0256c0f8",
+        "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
       },
       {
-        "name": "Turnstile",
-        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
-        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        "name": "The Strokes",
+        "image": "https://i.scdn.co/image/ab6761610000517498856eea770468af6dd999d9",
+        "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
       {
-        "name": "The Smile",
-        "image": "https://i.scdn.co/image/ab67616100005174b43db49ce029948457972352",
-        "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        "name": "Stone Temple Pilots",
+        "image": "https://i.scdn.co/image/ab676161000051744bb64f87db255d76538b905f",
+        "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
       },
       {
-        "name": "Them Crooked Vultures",
-        "image": "https://i.scdn.co/image/a1792d5eb9cee6c5faaee1b8aafa1cb7205641ca",
-        "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
+        "name": "Radiohead",
+        "image": "https://i.scdn.co/image/ab67616100005174959527d2fabc9c64287e57b9",
+        "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
       }
     ]
   },
