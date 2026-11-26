@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-11-25T20:15:54Z",
+  "updated_at": "2026-11-26T03:15:17Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Zero Sum",
+        "artist": "The Smile",
+        "album": "Cutouts",
+        "image": "https://i.scdn.co/image/ab67616d00001e026613d3127feee7ee948412f9",
+        "url": "https://open.spotify.com/track/7tJ2ZPwHRrPTy1OW7jais0",
+        "played_at": "2026-11-26T00:19:41.283Z",
+        "tracks": [
+          "Zero Sum"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Ice Cream Piano",
+        "artist": "Vampire Weekend",
+        "album": "Only God Was Above Us",
+        "image": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
+        "url": "https://open.spotify.com/track/19aa6Goj4OAsZUX8hSt6nW",
+        "played_at": "2026-11-25T23:10:58.964Z",
+        "tracks": [
+          "Ice Cream Piano"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "The Space Program",
+        "artist": "A Tribe Called Quest",
+        "album": "We got it from Here... Thank You 4 Your service",
+        "image": "https://i.scdn.co/image/ab67616d00001e0244227dddfc025dbe1601d4be",
+        "url": "https://open.spotify.com/track/203xmWRHAyqwW6AkGkhhVM",
+        "played_at": "2026-11-25T22:10:04.326Z",
+        "tracks": [
+          "The Space Program"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Me Myself and I",
+        "artist": "De La Soul",
+        "album": "3 Feet High and Rising (35th Anniversary)",
+        "image": "https://i.scdn.co/image/ab67616d00001e028c50213f8d252e090a5a9b71",
+        "url": "https://open.spotify.com/track/5wBtQSOjwZVRRior9fpEWS",
+        "played_at": "2026-11-25T22:04:22.666Z",
+        "tracks": [
+          "Me Myself and I"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "Gunman",
+        "artist": "Them Crooked Vultures",
+        "album": "Them Crooked Vultures",
+        "image": "https://i.scdn.co/image/ab67616d00001e027355bb17937d57983e09f9f9",
+        "url": "https://open.spotify.com/track/1hreMeBwxRRmChwRSjP1Kk",
+        "played_at": "2026-11-25T22:00:33.349Z",
+        "tracks": [
+          "Gunman"
+        ],
+        "track_count": 1
+      },
       {
         "name": "DULL",
         "artist": "Turnstile",
@@ -37,66 +97,6 @@
           "Classical"
         ],
         "track_count": 1
-      },
-      {
-        "name": "Goodbye Daughters of the Revolution",
-        "artist": "The Black Crowes",
-        "album": "Warpaint",
-        "image": "https://i.scdn.co/image/ab67616d00001e022eaa41aa11232f4f9117353f",
-        "url": "https://open.spotify.com/track/4oMRGrDrvpp1TpveeAl8AQ",
-        "played_at": "2026-11-25T16:39:14.196Z",
-        "tracks": [
-          "Goodbye Daughters of the Revolution"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "NEVER ENOUGH",
-        "artist": "Turnstile",
-        "album": "NEVER ENOUGH",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e6b88d3e4886ae3a17621c53",
-        "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6",
-        "played_at": "2026-11-25T16:34:25.885Z",
-        "tracks": [
-          "NEVER ENOUGH"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Blue Morpho",
-        "artist": "Ed O'Brien",
-        "album": "Blue Morpho",
-        "image": "https://i.scdn.co/image/ab67616d00001e023c408a82f600f91aec07a3c9",
-        "url": "https://open.spotify.com/track/6CrBJ6hZyIrDQo8V8VQhT1",
-        "played_at": "2026-11-25T05:11:00.976Z",
-        "tracks": [
-          "Blue Morpho"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Amami (feat. Minami Kizuki)",
-        "artist": "Yussef Dayes, Minami Kizuki",
-        "album": "Amami (feat. Minami Kizuki)",
-        "image": "https://i.scdn.co/image/ab67616d00001e02e4b42e7796f032d1e074f091",
-        "url": "https://open.spotify.com/track/4LgM9jizqppslT1cYDeUZT",
-        "played_at": "2026-11-25T04:06:47.966Z",
-        "tracks": [
-          "Amami (feat. Minami Kizuki)"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Someday",
-        "artist": "Ezra Collective",
-        "album": "Here Because of Hope",
-        "image": "https://i.scdn.co/image/ab67616d00001e026d02e8be17bfe4eb4afb2141",
-        "url": "https://open.spotify.com/track/3V9uxHtOBLQ6fc2KJLJgkB",
-        "played_at": "2026-11-25T04:01:23.490Z",
-        "tracks": [
-          "Someday"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -104,11 +104,6 @@
         "name": "Flea",
         "image": "https://i.scdn.co/image/ab676161000051741d3d1629faf335838faeafa3",
         "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
-      },
-      {
-        "name": "Turnstile",
-        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
-        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
         "name": "The Black Crowes",
@@ -121,14 +116,19 @@
         "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
       },
       {
-        "name": "Jellyfish",
-        "image": "https://i.scdn.co/image/edcbe0be3365b0ce42883058c3891b77e8aa69ea",
-        "url": "https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL"
+        "name": "Turnstile",
+        "image": "https://i.scdn.co/image/ab67616100005174a4c3fd0017b42344516dc16c",
+        "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
       },
       {
-        "name": "Red Hot Chili Peppers",
-        "image": "https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8",
-        "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        "name": "The Smile",
+        "image": "https://i.scdn.co/image/ab67616100005174b43db49ce029948457972352",
+        "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+      },
+      {
+        "name": "Them Crooked Vultures",
+        "image": "https://i.scdn.co/image/a1792d5eb9cee6c5faaee1b8aafa1cb7205641ca",
+        "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
       }
     ]
   },
