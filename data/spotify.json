@@ -1,119 +1,114 @@
 {
-  "updated_at": "2026-11-26T22:39:16Z",
+  "updated_at": "2026-11-27T04:36:59Z",
   "recent": {
     "top_tracks": [
       {
-        "name": "Aeroplane",
-        "artist": "Red Hot Chili Peppers",
-        "album": "One Hot Minute (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d00001e027f3dcf99224570b053294ccf",
-        "url": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ",
-        "played_at": "2026-11-26T22:34:24.135Z",
+        "name": "Save It For Later",
+        "artist": "Eddie Vedder",
+        "album": "Save It For Later",
+        "image": "https://i.scdn.co/image/ab67616d00001e025af7982c610a1486553a47f5",
+        "url": "https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm",
+        "played_at": "2026-11-27T02:20:08.959Z",
         "tracks": [
-          "Aeroplane"
+          "Save It For Later"
         ],
         "track_count": 1
       },
       {
-        "name": "Doesn't Remind Me",
-        "artist": "Audioslave",
-        "album": "Out of Exile",
-        "image": "https://i.scdn.co/image/ab67616d00001e0207301dd5fedf5ad64cde4882",
-        "url": "https://open.spotify.com/track/0o995gJCGebaza0LWybToU",
-        "played_at": "2026-11-26T22:29:39.048Z",
+        "name": "King Of Pain",
+        "artist": "The Police",
+        "album": "Synchronicity (Remastered 2003)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c8e97cafeb2acb85b21a777e",
+        "url": "https://open.spotify.com/track/1V15l05snHYHYVxerjMFGo",
+        "played_at": "2026-11-27T00:34:19.931Z",
         "tracks": [
-          "Doesn't Remind Me"
+          "King Of Pain"
         ],
         "track_count": 1
       },
       {
-        "name": "Blow Up The Outside World",
+        "name": "Purple Rain",
+        "artist": "Prince",
+        "album": "Purple Rain",
+        "image": "https://i.scdn.co/image/ab67616d00001e028a2ce3f148f57584269c3782",
+        "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m",
+        "played_at": "2026-11-27T00:29:20.773Z",
+        "tracks": [
+          "Purple Rain"
+        ],
+        "track_count": 1
+      },
+      {
+        "name": "My Wave",
         "artist": "Soundgarden",
-        "album": "Down On The Upside",
-        "image": "https://i.scdn.co/image/ab67616d00001e026d70b73bcb327515e9fa8fac",
-        "url": "https://open.spotify.com/track/5TLA7O0ogTqwZHbS3ERabw",
-        "played_at": "2026-11-26T22:25:24.522Z",
+        "album": "Superunknown (20th Anniversary)",
+        "image": "https://i.scdn.co/image/ab67616d00001e025124ed45a94033830b320500",
+        "url": "https://open.spotify.com/track/0rCas1F0z7t29UYlcuB81J",
+        "played_at": "2026-11-27T00:17:57.298Z",
         "tracks": [
-          "Blow Up The Outside World"
+          "My Wave"
         ],
         "track_count": 1
       },
       {
-        "name": "Something from Nothing",
-        "artist": "Foo Fighters",
-        "album": "Sonic Highways",
-        "image": "https://i.scdn.co/image/ab67616d00001e02d12b9349b2ab140c4f6364e0",
-        "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9",
-        "played_at": "2026-11-26T22:19:38.383Z",
+        "name": "Galaxie - 2002 Digital Remaster / 24 Bit Mastering",
+        "artist": "Blind Melon",
+        "album": "Best Of Blind Melon",
+        "image": "https://i.scdn.co/image/ab67616d00001e02eaac35c468ad5034241c86ad",
+        "url": "https://open.spotify.com/track/66N5bJMASR4zgcx40hEU9m",
+        "played_at": "2026-11-27T00:12:44.665Z",
         "tracks": [
-          "Something from Nothing"
+          "Galaxie - 2002 Digital Remaster / 24 Bit Mastering"
         ],
         "track_count": 1
       },
       {
-        "name": "Mind Eraser, No Chaser",
-        "artist": "Them Crooked Vultures",
-        "album": "Them Crooked Vultures",
-        "image": "https://i.scdn.co/image/ab67616d00001e027355bb17937d57983e09f9f9",
-        "url": "https://open.spotify.com/track/6t4l1cR6SZPE5DmsVVOmzv",
-        "played_at": "2026-11-26T22:14:49.879Z",
-        "tracks": [
-          "Mind Eraser, No Chaser"
-        ],
-        "track_count": 1
-      },
-      {
-        "name": "Dancing Days - 2019 Remaster",
+        "name": "Big Empty - 2019 Remaster",
         "artist": "Stone Temple Pilots",
-        "album": "Purple (Super Deluxe Edition) [2019 Remaster]",
-        "image": "https://i.scdn.co/image/ab67616d00001e025335b6a9d7ba031d1b36712c",
-        "url": "https://open.spotify.com/track/39wwDk4Q6o4EHGqle5sf7d",
-        "played_at": "2026-11-26T22:10:43.030Z",
+        "album": "Purple (2019 Remaster)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02fc90a8ed9924435d62235aa8",
+        "url": "https://open.spotify.com/track/2E6elGQS3KaKR7QdfzQXdP",
+        "played_at": "2026-11-27T00:09:52.169Z",
         "tracks": [
-          "Dancing Days - 2019 Remaster"
+          "Big Empty - 2019 Remaster"
         ],
         "track_count": 1
       },
       {
-        "name": "The Chemicals Between Us - Remastered",
-        "artist": "Bush",
-        "album": "The Science Of Things (Remastered)",
-        "image": "https://i.scdn.co/image/ab67616d00001e0223d47ee433e44406df42d7b6",
-        "url": "https://open.spotify.com/track/2zS8FkQaSNHAIpqePh95JB",
-        "played_at": "2026-11-26T22:06:48.398Z",
+        "name": "Stacked Actors",
+        "artist": "Foo Fighters",
+        "album": "There Is Nothing Left To Lose",
+        "image": "https://i.scdn.co/image/ab67616d00001e026c52084ed1f1748f213783b3",
+        "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa",
+        "played_at": "2026-11-27T00:04:57.318Z",
         "tracks": [
-          "The Chemicals Between Us - Remastered"
+          "Stacked Actors"
         ],
         "track_count": 1
       },
       {
-        "name": "You Think I Ain't Worth A Dollar, But I Feel Like A Millionaire",
+        "name": "The Sky Is Fallin'",
         "artist": "Queens of the Stone Age",
         "album": "Songs For The Deaf",
         "image": "https://i.scdn.co/image/ab67616d00001e029b62c36a1f8ac00d60f460cc",
-        "url": "https://open.spotify.com/track/68DKrU7sTyDpDA5T3dsOlk",
-        "played_at": "2026-11-26T22:03:10.921Z",
+        "url": "https://open.spotify.com/track/3hoUASQwAAUwpQGXH8VioM",
+        "played_at": "2026-11-27T00:00:40.886Z",
         "tracks": [
-          "You Think I Ain't Worth A Dollar, But I Feel Like A Millionaire"
+          "The Sky Is Fallin'"
         ],
         "track_count": 1
       }
     ],
     "top_artists": [
       {
-        "name": "Foo Fighters",
-        "image": "https://i.scdn.co/image/ab676161000051741db35bc9c01d2b1c151e44ce",
-        "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-      },
-      {
-        "name": "Soundgarden",
-        "image": "https://i.scdn.co/image/ab67616100005174afa254b2a224584485286526",
-        "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-      },
-      {
         "name": "Stone Temple Pilots",
         "image": "https://i.scdn.co/image/ab676161000051744bb64f87db255d76538b905f",
         "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+      },
+      {
+        "name": "Foo Fighters",
+        "image": "https://i.scdn.co/image/ab676161000051741db35bc9c01d2b1c151e44ce",
+        "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
       },
       {
         "name": "Queens of the Stone Age",
@@ -121,9 +116,14 @@
         "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
       },
       {
-        "name": "Them Crooked Vultures",
-        "image": "https://i.scdn.co/image/a1792d5eb9cee6c5faaee1b8aafa1cb7205641ca",
-        "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
+        "name": "Soundgarden",
+        "image": "https://i.scdn.co/image/ab67616100005174afa254b2a224584485286526",
+        "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+      },
+      {
+        "name": "Blind Melon",
+        "image": "https://i.scdn.co/image/ab67616100005174dcc3fe6af94c5c178a36d006",
+        "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
       },
       {
         "name": "Bush",
