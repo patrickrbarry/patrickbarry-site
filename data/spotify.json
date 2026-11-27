@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T04:36:59Z",
+  "updated_at": "2026-11-27T14:28:09Z",
   "recent": {
     "top_tracks": [
       {
@@ -8,7 +8,7 @@
         "album": "Save It For Later",
         "image": "https://i.scdn.co/image/ab67616d00001e025af7982c610a1486553a47f5",
         "url": "https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm",
-        "played_at": "2026-11-27T02:20:08.959Z",
+        "played_at": "2026-11-27T05:45:18.765Z",
         "tracks": [
           "Save It For Later"
         ],
@@ -126,9 +126,9 @@
         "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
       },
       {
-        "name": "Bush",
-        "image": "https://i.scdn.co/image/ab67616100005174613262f46eb899a84d0c5442",
-        "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        "name": "The Black Crowes",
+        "image": "https://i.scdn.co/image/ab676161000051747177a009d34c009b8dbf596c",
+        "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
       }
     ]
   },
