@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-27T23:01:46Z",
+  "updated_at": "2026-11-28T05:11:07Z",
   "recent": {
     "top_tracks": [
+      {
+        "name": "Kiss",
+        "artist": "Prince",
+        "album": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "image": "https://i.scdn.co/image/ab67616d00001e0223cc0f0a925845a3de4aca38",
+        "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05",
+        "played_at": "2026-11-28T04:43:12.241Z",
+        "tracks": [
+          "Kiss"
+        ],
+        "track_count": 1
+      },
       {
         "name": "Smooth (feat. Rob Thomas)",
         "artist": "Santana, Rob Thomas",
@@ -85,18 +97,6 @@
           "You Make Me Feel Like Dancing - Remastered"
         ],
         "track_count": 1
-      },
-      {
-        "name": "P.Y.T. (Pretty Young Thing)",
-        "artist": "Michael Jackson",
-        "album": "Thriller",
-        "image": "https://i.scdn.co/image/ab67616d00001e0232a7d87248d1b75463483df5",
-        "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k",
-        "played_at": "2026-11-27T19:59:21.668Z",
-        "tracks": [
-          "P.Y.T. (Pretty Young Thing)"
-        ],
-        "track_count": 1
       }
     ],
     "top_artists": [
@@ -121,14 +121,14 @@
         "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
       },
       {
+        "name": "Prince",
+        "image": "https://i.scdn.co/image/ab67616100005174adf109a73dae96653131b023",
+        "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+      },
+      {
         "name": "The Strokes",
         "image": "https://i.scdn.co/image/ab6761610000517498856eea770468af6dd999d9",
         "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-      },
-      {
-        "name": "Eddie Vedder",
-        "image": "https://i.scdn.co/image/ab6761610000517498a58862098f8be6496ba9d6",
-        "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
       }
     ]
   },
